@@ -1,0 +1,10 @@
+*.pyc
+*.user
+*.suo
+*.Debug
+*.Release
+*.tmp
+old
+release
+debug
+temp
