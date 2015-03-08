@@ -14,6 +14,7 @@
 #include <QProcess>
 #include <QClipboard>
 #include <QThread>
+#include <QBitmap>
 
 #include <Python.h>
 

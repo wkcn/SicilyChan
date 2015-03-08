@@ -29,7 +29,7 @@ def Translate(text, target_language="zh", source_language=''):
     #return GoogleTrans.Translate(text,target_language,source_language)
     
     if target_language == 'en':
-        return GoogleTrans.Translate(text,target_language,source_language)
+       return GoogleTrans.Translate(text,target_language,source_language)
         
     #Judge whether is a single word
     isSencence = False
@@ -48,7 +48,10 @@ def Translate(text, target_language="zh", source_language=''):
     if isSencence:
         return GoogleTrans.Translate(text,target_language,source_language)
     else:
-        return BingDict.BingDict(text)
+        ans = BingDict.BingDict(text)
+        if ans == "":
+            ans = GoogleTrans.Translate(text,target_language,source_language)
+        return ans
     
 #print Translate("hello","zh","en")
 #print Translate('1+2')

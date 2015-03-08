@@ -15,14 +15,14 @@ CONFIG += static
 SOURCES += main.cpp\
     Defines.cpp \
     trans.cpp \
-    mainwindow.cpp
+    Sicily.cpp
 
 HEADERS  += \
     Defines.h \
-    mainwindow.h
+    Sicily.h
 
 FORMS    += \
-    mainwindow.ui
+    Sicily.ui
 
 win32: LIBS += -L$$PWD/../../App/Python27/libs/ -lpython27
 

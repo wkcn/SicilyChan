@@ -20,30 +20,30 @@
 
 QT_BEGIN_NAMESPACE
 
-class Ui_MainWindow
+class Ui_Sicily
 {
 public:
     QWidget *centralWidget;
     QLabel *sicily;
     QLabel *eye;
 
-    void setupUi(QMainWindow *MainWindow)
+    void setupUi(QMainWindow *Sicily)
     {
-        if (MainWindow->objectName().isEmpty())
-            MainWindow->setObjectName(QStringLiteral("MainWindow"));
-        MainWindow->setEnabled(true);
-        MainWindow->resize(300, 1080);
+        if (Sicily->objectName().isEmpty())
+            Sicily->setObjectName(QStringLiteral("Sicily"));
+        Sicily->setEnabled(true);
+        Sicily->resize(300, 1080);
         QSizePolicy sizePolicy(QSizePolicy::Fixed, QSizePolicy::Fixed);
         sizePolicy.setHorizontalStretch(0);
         sizePolicy.setVerticalStretch(0);
-        sizePolicy.setHeightForWidth(MainWindow->sizePolicy().hasHeightForWidth());
-        MainWindow->setSizePolicy(sizePolicy);
-        MainWindow->setMinimumSize(QSize(300, 1080));
-        MainWindow->setMaximumSize(QSize(300, 1080));
-        MainWindow->setToolTipDuration(-1);
-        MainWindow->setAnimated(false);
-        MainWindow->setUnifiedTitleAndToolBarOnMac(false);
-        centralWidget = new QWidget(MainWindow);
+        sizePolicy.setHeightForWidth(Sicily->sizePolicy().hasHeightForWidth());
+        Sicily->setSizePolicy(sizePolicy);
+        Sicily->setMinimumSize(QSize(300, 1080));
+        Sicily->setMaximumSize(QSize(300, 1080));
+        Sicily->setToolTipDuration(-1);
+        Sicily->setAnimated(false);
+        Sicily->setUnifiedTitleAndToolBarOnMac(false);
+        centralWidget = new QWidget(Sicily);
         centralWidget->setObjectName(QStringLiteral("centralWidget"));
         sicily = new QLabel(centralWidget);
         sicily->setObjectName(QStringLiteral("sicily"));
@@ -54,22 +54,22 @@ public:
         eye = new QLabel(centralWidget);
         eye->setObjectName(QStringLiteral("eye"));
         eye->setGeometry(QRect(0, 0, 300, 450));
-        MainWindow->setCentralWidget(centralWidget);
+        Sicily->setCentralWidget(centralWidget);
 
-        retranslateUi(MainWindow);
+        retranslateUi(Sicily);
 
-        QMetaObject::connectSlotsByName(MainWindow);
+        QMetaObject::connectSlotsByName(Sicily);
     } // setupUi
 
-    void retranslateUi(QMainWindow *MainWindow)
+    void retranslateUi(QMainWindow *Sicily)
     {
-        MainWindow->setWindowTitle(QApplication::translate("MainWindow", "Sicily Chan", 0));
+        Sicily->setWindowTitle(QApplication::translate("Sicily", "Sicily Chan", 0));
     } // retranslateUi
 
 };
 
 namespace Ui {
-    class MainWindow: public Ui_MainWindow {};
+    class Sicily: public Ui_Sicily {};
 } // namespace Ui
 
 QT_END_NAMESPACE

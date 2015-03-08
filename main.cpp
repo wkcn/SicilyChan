@@ -1,10 +1,10 @@
-#include "mainwindow.h"
+#include "Sicily.h"
 
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
 
-    MainWindow w;
+    Sicily w;
     /*
     QDesktopWidget *desktopWidgt = QApplication::desktop();
     QRect deskRect = desktopWidgt->availableGeometry();

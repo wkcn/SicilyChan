@@ -1,5 +1,5 @@
-#ifndef MAINWINDOW_H
-#define MAINWINDOW_H
+﻿#ifndef SICILY_H
+#define SICILY_H
 
 #include "Defines.h"
 //#include "trans.h"
@@ -33,23 +33,23 @@ public:
 
 
 namespace Ui {
-class MainWindow;
+class Sicily;
 
 }
 
-class MainWindow : public QMainWindow
+class Sicily : public QMainWindow
 {
     Q_OBJECT
 
 public:
-    explicit MainWindow(QWidget *parent = 0);
-    ~MainWindow();
+    explicit Sicily(QWidget *parent = 0);
+    ~Sicily();
 
 private slots:
     void timerUpDate();
 
 private:
-    Ui::MainWindow *ui;
+    Ui::Sicily *ui;
     QPixmap sbody;
     QPixmap sface[3];
     QPixmap wings[2];
@@ -63,11 +63,12 @@ private:
     int lastTime;
     int playTime;
 
+    int freezeTime;
+
     int comboRightButton;
     int comboLeftButton;
     int comboMiddleButton;
 
-    int wframe;
     float wingID;
 
     QSharedMemory sharedMem;
@@ -99,6 +100,15 @@ private:
     void LoadData();
     void SwitchHint(bool top);
     void ErrorSend(string msg);
+
+    //封装一些功能
+    void ReadResource();
+    void ReadModules();
+    void InitData();
+    //Update
+    //更新动画
+    void UpdateAnimation();
+    void UpdateButton();
 private:
     PyObject *pDragModule;
     PyObject *Drag;
@@ -106,7 +116,7 @@ private:
     bool haveError;
     string errorMsg;
 private:
-    void SicilySay(string text,int time);
+    void SicilySay(string text,int time,int freeze = 0);
 };
 #endif // MAINWINDOW_H
 //#include "trans.moc"
