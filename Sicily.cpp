@@ -6,7 +6,7 @@
 #define WINDOW_FLAG_TOPHINT Qt::FramelessWindowHint|Qt::WindowStaysOnTopHint|Qt::SubWindow
 #define WINDOW_FLAG_NORMAL Qt::FramelessWindowHint|Qt::WindowStaysOnBottomHint|Qt::SubWindow
 
-Sicily::Sicily(QWidget *parent):QMainWindow(parent,WINDOW_FLAG_TOPHINT),ui(new Ui::Sicily),sharedMem("ThisisSicily"){
+Sicily::Sicily(QWidget *parent):QMainWindow(parent,WINDOW_FLAG_TOPHINT),ui(new Ui::Sicily){//,sharedMem("ThisisSicily"){
 
     this->setAttribute(Qt::WA_TranslucentBackground);
 
@@ -129,7 +129,7 @@ void Sicily::InitData(){
     sleeped = false;
     tabDesktop = false;
     tabDesktopTime = false;
-
+/*
     if(sharedMem.create(sizeof(sicilyConnect))){
         qDebug("shared memory created");
         sharedMem.lock();
@@ -142,10 +142,10 @@ void Sicily::InitData(){
         sicilyConnect = (SicilyConnect*)(sharedMem.data());
         sharedMem.unlock();
     }
-
     char text[] = " Hello Sicily >.<";
     memcpy(sicilyConnect->text,text,sizeof(text));
     sicilyConnect->boxLife = 5;
+*/
 }
 
 void Sicily::ErrorSend(string msg){
@@ -194,11 +194,18 @@ void Sicily::UpdateButton(){
         mouseCount = 0;//清除状态,一定要用的
     }
 
+
     //top or bottom
     if(mouseCount == 2 && !mouseList[0] && !mouseList[1]){
         static bool topHint = true;
         topHint = !topHint;
         SwitchHint(topHint);
+        mouseCount = 0;
+    }
+
+    //REPEAT SAY
+    if(mouseCount == 2 && mouseList[0] && mouseList[1]){
+        SicilySay("",5,3);
         mouseCount = 0;
     }
 
@@ -217,10 +224,8 @@ void Sicily::UpdateButton(){
             sprintf(temp,"还有%d分钟哦 ● ﹏ ●",es);
             SicilySay(temp,3,3);
         }
-
         sleeped = false;
         mouseCount = 0;
-        //qDebug("")
     }
 
     //触摸板三次切换延时在300以内，鼠标200
@@ -244,20 +249,22 @@ void Sicily::UpdateButton(){
             playTime += 1;//escapeTime;
 
 
-        sicilyConnect->boxLife --;
         freezeTime --;
 
-        if(sicilyConnect->boxLife<0){
-            sicilyConnect->boxLife = 0;
+        if(boxLife<=0){
+            boxLife = 0;
             update();
+        }else{
+            boxLife --;
         }
+
         static int nextSaveTime = 10 * 60;
         if(escapeTime > 15*60){
             //超过15分钟没有刷新，说明关机了！
             playTime = 0;
             nextSaveTime = 10 * 60;
             SaveData();
-            sicilyConnect->boxLife = 0;
+            boxLife = 0;
             update();
         }
 
@@ -323,20 +330,19 @@ void Sicily::timerUpDate(){
             SicilySay("不知道 ≥﹏≤",3);
         }
     }
-
-    boxLife = sicilyConnect->boxLife;
-
+/*
     if(sicilyConnect->update){
         this->update();
         sicilyConnect->update=false;
     }
+*/
     //qDebug("%d",boxLife);
 }
 
 Sicily::~Sicily()
 {
     delete ui;
-    sharedMem.detach();
+    //sharedMem.detach();
 }
 
 void Sicily::SicilySay(string text, int time, int freeze){
@@ -344,12 +350,16 @@ void Sicily::SicilySay(string text, int time, int freeze){
         return;
     freezeTime = freeze;
     static string viewtext;
+    //qDebug("%s",viewtext.c_str());
     if(text.length()>0){
         viewtext = text;
     }
-    sicilyConnect->boxLife = time;
-    strcpy(sicilyConnect->text,viewtext.c_str());
-    sicilyConnect->update = true;
+    boxLife = time;
+    sText = viewtext;
+    this->update();
+    //sicilyConnect->boxLife = time;
+    //strcpy(sicilyConnect->text,viewtext.c_str());
+    //sicilyConnect->update = true;
 }
 
 void Sicily::SaveData(){
@@ -404,9 +414,9 @@ void Sicily::mousePressEvent(QMouseEvent *event){
         mouseList[mouseCount++] = true;
         //qDebug("mo%d",mouseCount);
         mouseTime = GetClock();
-        if(comboLeftButton >= 2){
-            SicilySay("",5);
-        }
+        //if(comboLeftButton >= 2){
+        //    SicilySay("",5);
+        //}
         event->accept();
     }
     else if(event->button()==Qt::RightButton){
@@ -479,45 +489,41 @@ void Sicily::paintEvent(QPaintEvent *){
 
     painter.begin(this);
 
-    if (boxLife>0&&sicilyConnect->text[0]!='\0'){
+    if (boxLife>0&&sText.size()>0){//sicilyConnect->text[0]!='\0'){
         //QPainter painter;
 
-        const int lenPerLine = 30;//23
+        const int lenPerLine = 18;//23
 
-        char *tadr = sicilyConnect->text;//"Hello Sicily";
+        //char *tadr = sicilyConnect->text;//"Hello Sicily";
         int lines = 1;
-        float count = 0;
-        string strlist[12];
+        int count = 0;
+        string strList[12];
 
-        const int  maxLine = 10;
+        //const int  maxLine = 10;
+        int slen = sText.size();
 
-        for(char *u = tadr;*u!='\0';){
-            if(*u=='\n'){
-                if(count > 0)
-                    lines += 1;
+        //a chinese equal two english
+        for(int i=0;i<slen;){
+            if(sText[i] == '\n'){
+                if(count > 0)lines ++;
                 count = 0;
-                u++;
-                if(lines > maxLine)break;
+                i ++;
                 continue;
             }
-            strlist[lines-1] += *u;
-            if(*u<0){strlist[lines-1] += *(++u);count+=0.5;}
-            if(*u<0){strlist[lines-1] += *(++u);count+=0.5;}
-            count+=1;
+            strList[lines - 1] += sText[i++];
+            count ++;
+            bool zh = false;
+            while(sText[i] < 0){
+                zh = true;
+                strList[lines - 1] += sText[i++];
+            }
+            if(zh)count++;
             if(count >= lenPerLine){
-                lines += 1;
+                lines ++;
                 count = 0;
             }
-            if(lines > maxLine)break;
-            if(*u!='\0')u++;
         }
-
-        //预先处理一下，暂时采取这个方案评估
-        while(lines > 0 && (strlist[lines-1].length()==0 || strlist[lines-1][0] == '\n')){
-            lines --;
-        }
-
-        //int lines = int((boxTest.length()+lenPerLine-1)/lenPerLine);
+        //qDebug("----%d",lines);
          const int font_size = 28;
 
          int boxX = 28;
@@ -533,15 +539,15 @@ void Sicily::paintEvent(QPaintEvent *){
         painter.setPen(Qt::black);
         painter.drawPixmap(boxX, boxY, 219, 17, chatBoxPic[0]);
         painter.drawPixmap(boxX, 17 + font_size * lines + boxY, 219, 31, chatBoxPic[2]);
-        string boxTest;
+        //string boxTest;
         for(int i=0;i<lines;i++){
             painter.drawPixmap(boxX, 17 + font_size * i + boxY, 219, font_size, chatBoxPic[1]);
-            int tbegin = lenPerLine * i;
-            int slen = int(boxTest.length()) - tbegin;
-            if(slen > lenPerLine)slen = lenPerLine;
+            //int tbegin = lenPerLine * i;
+            //int slen = int(boxTest.length()) - tbegin;
+            //if(slen > lenPerLine)slen = lenPerLine;
             //QString qstr = "中文难道不行啊没";
             //
-            painter.drawText(15 + boxX, 12 + font_size * i + boxY, 200, font_size, Qt::AlignBottom, strlist[i].c_str());
+            painter.drawText(15 + boxX, 12 + font_size * i + boxY, 200, font_size, Qt::AlignBottom, strList[i].c_str());
         }
 
         //painter.end();

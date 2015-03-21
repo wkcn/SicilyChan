@@ -27,6 +27,8 @@ def LoadData():
 LoadData()
 def FindWord(word):
     word = word.strip(" !@#$%^&*()-_+={}[]|:;'<>?,./\"").lower()
+    #注意这个拷贝,好像不这样也可以拷贝的。
+    oriWord = word[:]
     id = ord(word[0]) - ord('a')
     r = ''
     for i in range(len(word)):
@@ -36,9 +38,10 @@ def FindWord(word):
         word = word[:-1]
 
     r = r.replace('|','\n')
-    r = word + '\n' + r
+    if oriWord != word:
+        r = word + '\n' + r
     if (r == ''):
         return ''
     return r.encode('utf-8')
 
-#print FindWord("table")
+#print FindWord("pigs")

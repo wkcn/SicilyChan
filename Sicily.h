@@ -59,6 +59,8 @@ private:
     int deskWidth,deskHeight;
 
     int boxLife;
+    string sText;
+
     int sicilyPosY;
 
     int lastTime;
@@ -72,8 +74,8 @@ private:
 
     float wingID;
 
-    QSharedMemory sharedMem;
-    SicilyConnect *sicilyConnect;
+    //QSharedMemory sharedMem;
+    //SicilyConnect *sicilyConnect;
 
 
     QPoint dragPosition;

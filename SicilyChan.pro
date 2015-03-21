@@ -32,3 +32,9 @@ win32: DEPENDPATH += $$PWD/../../App/Python27/include
 
 linux: INCLUDEPATH += -I /usr/include/python2.7/
 linux: LIBS += -L /usr/lib/python2.7/ -lpython2.7
+
+RC_FILE += ico.rc
+
+OTHER_FILES += \
+    sicily.ico \
+    ico.rc

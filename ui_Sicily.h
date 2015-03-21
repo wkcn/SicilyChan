@@ -40,6 +40,10 @@ public:
         Sicily->setSizePolicy(sizePolicy);
         Sicily->setMinimumSize(QSize(300, 450));
         Sicily->setMaximumSize(QSize(300, 450));
+        QIcon icon;
+        icon.addFile(QStringLiteral("sicily.ico"), QSize(), QIcon::Normal, QIcon::Off);
+        Sicily->setWindowIcon(icon);
+        Sicily->setWindowOpacity(1);
         Sicily->setToolTipDuration(-1);
         Sicily->setAnimated(false);
         Sicily->setUnifiedTitleAndToolBarOnMac(false);

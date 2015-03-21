@@ -15,7 +15,6 @@ int main(int argc, char *argv[])
 
     w.move(width-300,height-440-350);
     */
-    qDebug("show");
     w.show();
     int ret = a.exec();
     /*

@@ -25,13 +25,10 @@ void Trans::PyTrans(string text,bool eng){
     static char en[] = "en";
     try{
       PyObject *re = 0;
-      qDebug("at");
       if (eng)re = PyObject_CallFunction(Translate,sss,textTemp2,zh,en);//target source
       else re = PyObject_CallFunction(Translate,sss,textTemp2,en,zh);
-      qDebug("bt");
       if(re){
           strcpy(textTemp,PyString_AS_STRING(re));
-          qDebug("tex:%s",textTemp);
       }else{
           textTemp[0] = 0;
       }
@@ -49,14 +46,6 @@ void Trans::PyTrans(string text,bool eng){
         res = "";
     }
 
-    /*
-    size_t len = res.size();
-    //一些网络问题处理
-    if(len>4&&res.substr(len-4)=="elds"){
-        res = "";
-    }
-    */
-    //修改res完毕
     finished = true;
 }
 

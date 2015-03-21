@@ -34,6 +34,13 @@
   <property name="windowTitle">
    <string>Sicily Chan</string>
   </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>sicily.ico</normaloff>sicily.ico</iconset>
+  </property>
+  <property name="windowOpacity">
+   <double>1.000000000000000</double>
+  </property>
   <property name="toolTipDuration">
    <number>-1</number>
   </property>
@@ -73,8 +80,6 @@
      </rect>
     </property>
    </widget>
-
-
   </widget>
  </widget>
  <layoutdefault spacing="6" margin="11"/>
