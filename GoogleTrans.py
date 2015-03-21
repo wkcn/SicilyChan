@@ -525,4 +525,4 @@ if __name__ == '__main__':
         if len(str(error)) > 2:
             print(error)
 '''
-#print(Translate("真棒啊谷歌","en"))
+#print(Translate("真棒啊谷歌","en",'zh'))

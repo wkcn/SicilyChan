@@ -3,7 +3,9 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-
+    QFont font  = a.font();
+    font.setPointSize(12);
+    a.setFont(font);
     Sicily w;
     /*
     QDesktopWidget *desktopWidgt = QApplication::desktop();
@@ -13,6 +15,7 @@ int main(int argc, char *argv[])
 
     w.move(width-300,height-440-350);
     */
+    qDebug("show");
     w.show();
     int ret = a.exec();
     /*
@@ -24,3 +27,4 @@ int main(int argc, char *argv[])
     */
     return ret;
 }
+

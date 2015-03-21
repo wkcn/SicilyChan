@@ -32,14 +32,14 @@ public:
         if (Sicily->objectName().isEmpty())
             Sicily->setObjectName(QStringLiteral("Sicily"));
         Sicily->setEnabled(true);
-        Sicily->resize(300, 1080);
+        Sicily->resize(300, 450);
         QSizePolicy sizePolicy(QSizePolicy::Fixed, QSizePolicy::Fixed);
         sizePolicy.setHorizontalStretch(0);
         sizePolicy.setVerticalStretch(0);
         sizePolicy.setHeightForWidth(Sicily->sizePolicy().hasHeightForWidth());
         Sicily->setSizePolicy(sizePolicy);
-        Sicily->setMinimumSize(QSize(300, 1080));
-        Sicily->setMaximumSize(QSize(300, 1080));
+        Sicily->setMinimumSize(QSize(300, 450));
+        Sicily->setMaximumSize(QSize(300, 450));
         Sicily->setToolTipDuration(-1);
         Sicily->setAnimated(false);
         Sicily->setUnifiedTitleAndToolBarOnMac(false);

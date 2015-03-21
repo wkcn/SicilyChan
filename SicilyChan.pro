@@ -12,19 +12,23 @@ TARGET = SicilyChan
 TEMPLATE = app
 CONFIG += static
 
-SOURCES += main.cpp\
+SOURCES +=\
     Defines.cpp \
-    trans.cpp \
-    Sicily.cpp
+    Sicily.cpp \
+    main.cpp \
+    Trans.cpp
 
 HEADERS  += \
-    Defines.h \
-    Sicily.h
+    Sicily.h \
+    Defines.h
 
 FORMS    += \
     Sicily.ui
 
 win32: LIBS += -L$$PWD/../../App/Python27/libs/ -lpython27
 
-INCLUDEPATH += $$PWD/../../App/Python27/include
-DEPENDPATH += $$PWD/../../App/Python27/include
+win32: INCLUDEPATH += $$PWD/../../App/Python27/include
+win32: DEPENDPATH += $$PWD/../../App/Python27/include
+
+linux: INCLUDEPATH += -I /usr/include/python2.7/
+linux: LIBS += -L /usr/lib/python2.7/ -lpython2.7

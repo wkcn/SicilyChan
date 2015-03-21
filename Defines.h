@@ -18,15 +18,24 @@
 
 #include <Python.h>
 
+#include <sys/timeb.h>
+#if defined(WIN32)
+# define  TIMEB    _timeb
+# define  ftime    _ftime
+#else
+#define TIMEB timeb
+#endif
+
 #include <iostream>
 #include <cstdlib>
 #include <string>
 #include <ctime>
 #include <cmath>
 #include <fstream>
+#include <map>
 
 using namespace std;
-#pragma execution_character_set("utf-8")
+//#pragma execution_character_set("utf-8")
 
 struct SicilyConnect{
     bool update;
@@ -47,5 +56,7 @@ struct Date{
 };
 
 Date GetDate(int offsetHour = 0);
+
+int GetClock();
 
 #endif

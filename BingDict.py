@@ -23,11 +23,16 @@ def getHtml(word):
                                                     data = urllib.urlencode(postdata),
                                                     headers = headers)
         wordHtml = urllib2.urlopen(request,timeout=5)
-        return wordHtml.read().decode('utf-8')    
+	try:
+            dec = wordHtml.read().decode('utf-8')
+        except:
+            dec = ""
+        return dec
     except:
         return ""
     
 def BingDict(word):
+    return word
     try:
         soup = BeautifulSoup(getHtml(word));
         text = soup.find_all('span',{'class','def'})

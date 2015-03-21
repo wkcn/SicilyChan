@@ -1,4 +1,4 @@
-﻿#ifndef SICILY_H
+#ifndef SICILY_H
 #define SICILY_H
 
 #include "Defines.h"
@@ -17,8 +17,9 @@ private:
 
     PyObject *pTransModule;
     PyObject *Translate;
+    //之前用py出现乱码的原因，没有将字符串转str!还要encodeutf8!
 
-    void PyTrans(string text,string to_t,string from_t);
+    void PyTrans(string text,bool eng);
 protected:
     void run();
 
@@ -55,7 +56,7 @@ private:
     QPixmap wings[2];
     QPixmap chatBoxPic[3];
 
-    int width,height;
+    int deskWidth,deskHeight;
 
     int boxLife;
     int sicilyPosY;
@@ -105,6 +106,7 @@ private:
     void ReadResource();
     void ReadModules();
     void InitData();
+    void FixPos(int h);
     //Update
     //更新动画
     void UpdateAnimation();
