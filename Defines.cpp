@@ -1,4 +1,4 @@
-#include "Defines.h"
+﻿#include "Defines.h"
 
 QDir directoryOf(const QString &subdir)
 {

@@ -1,4 +1,4 @@
-#include "Sicily.h"
+﻿#include "Sicily.h"
 #include "ui_Sicily.h"
 
 
@@ -99,8 +99,6 @@ void Sicily::InitData(){
     QRect deskRect = desktopWidgt->availableGeometry();
     deskWidth = deskRect.width();
     deskHeight = deskRect.height();
-
-    zhOccupy = string("我").size();
 
     //这样分配窗口吧，先分配Sicily酱的位置 450*300
     //剩余的是chatBox大小
@@ -503,10 +501,10 @@ void Sicily::paintEvent(QPaintEvent *){
         bool nextline = true;
         vector<string> strList;
         //static string punc = " !@#$%^&*()-_+={}[]|:;'<>?,./\"";
-        int slen = sText.size();
+        size_t slen = sText.size();
 
         //a chinese equal two english
-        for(int i=0;i<slen;){
+        for(size_t i=0;i<slen;){
             if(sText[i] == '\n'){
                 nextline = true;
                 i ++;
@@ -523,7 +521,8 @@ void Sicily::paintEvent(QPaintEvent *){
             strList[lines - 1] += sText[i++];
 
             if(zh){
-                for(int q=1;q<zhOccupy;q++)
+                //UTF - 8 可变长字符
+                while((sText[i]&0xC0) == 0x80)
                     strList[lines - 1] += sText[i++];
             }
             if(GetStrWidth(strList[lines - 1]) >= widthPerLine){

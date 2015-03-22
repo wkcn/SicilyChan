@@ -1,4 +1,4 @@
-#ifndef SICILY_H
+﻿#ifndef SICILY_H
 #define SICILY_H
 
 #include "Defines.h"
@@ -60,7 +60,6 @@ private:
 
     int boxLife;
     string sText;
-    int zhOccupy;
 
     int sicilyPosY;
 
