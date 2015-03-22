@@ -31,17 +31,17 @@ def FindWord(word):
     oriWord = word[:]
     id = ord(word[0]) - ord('a')
     r = ''
-    for i in range(len(word)):
+    for i in range(len(word)/2):
         r = dictData[id].get(word,'')
         if r != '':
             break
         word = word[:-1]
 
     r = r.replace('|','\n')
-    if oriWord != word:
-        r = word + '\n' + r
     if (r == ''):
         return ''
+    if oriWord != word:
+        r = word + '\n' + r
     return r.encode('utf-8')
 
 #print FindWord("pigs")

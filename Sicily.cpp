@@ -100,6 +100,8 @@ void Sicily::InitData(){
     deskWidth = deskRect.width();
     deskHeight = deskRect.height();
 
+    zhOccupy = string("我").size();
+
     //这样分配窗口吧，先分配Sicily酱的位置 450*300
     //剩余的是chatBox大小
     this->move(deskWidth - 300,deskHeight-450);
@@ -146,6 +148,10 @@ void Sicily::InitData(){
     memcpy(sicilyConnect->text,text,sizeof(text));
     sicilyConnect->boxLife = 5;
 */
+}
+
+int Sicily::GetStrWidth(const string& str){
+    return this->fontMetrics().width(QString().fromStdString(str));
 }
 
 void Sicily::ErrorSend(string msg){
@@ -489,44 +495,45 @@ void Sicily::paintEvent(QPaintEvent *){
 
     painter.begin(this);
 
-    if (boxLife>0&&sText.size()>0){//sicilyConnect->text[0]!='\0'){
-        //QPainter painter;
+    if (boxLife > 0 && sText.size() > 0){
 
-        const int lenPerLine = 18;//23
+        const int widthPerLine = 172;
 
-        //char *tadr = sicilyConnect->text;//"Hello Sicily";
-        int lines = 1;
-        int count = 0;
-        string strList[12];
-
-        //const int  maxLine = 10;
+        int lines = 0;
+        bool nextline = true;
+        vector<string> strList;
+        //static string punc = " !@#$%^&*()-_+={}[]|:;'<>?,./\"";
         int slen = sText.size();
 
         //a chinese equal two english
         for(int i=0;i<slen;){
             if(sText[i] == '\n'){
-                if(count > 0)lines ++;
-                count = 0;
+                nextline = true;
                 i ++;
                 continue;
             }
-            strList[lines - 1] += sText[i++];
-            count ++;
-            bool zh = false;
-            while(sText[i] < 0){
-                zh = true;
-                strList[lines - 1] += sText[i++];
-            }
-            if(zh)count++;
-            if(count >= lenPerLine){
+            if(nextline){
+                nextline = false;
                 lines ++;
-                count = 0;
+                strList.push_back("");
+            }
+
+            bool zh = sText[i] < 0;
+
+            strList[lines - 1] += sText[i++];
+
+            if(zh){
+                for(int q=1;q<zhOccupy;q++)
+                    strList[lines - 1] += sText[i++];
+            }
+            if(GetStrWidth(strList[lines - 1]) >= widthPerLine){
+                nextline = true;
             }
         }
-        //qDebug("----%d",lines);
+
          const int font_size = 28;
 
-         int boxX = 28;
+         int boxX = 30;
 
          int boxH = 13 + font_size * lines - (-4)+31;//(lines - 1) * font_size + 70;//(lines - 1) * font_size;
          int boxY = 0;
@@ -534,25 +541,14 @@ void Sicily::paintEvent(QPaintEvent *){
          FixPos(450+boxH);
 
         //17,13,31
-
-        //painter.begin(this);
         painter.setPen(Qt::black);
         painter.drawPixmap(boxX, boxY, 219, 17, chatBoxPic[0]);
         painter.drawPixmap(boxX, 17 + font_size * lines + boxY, 219, 31, chatBoxPic[2]);
-        //string boxTest;
         for(int i=0;i<lines;i++){
             painter.drawPixmap(boxX, 17 + font_size * i + boxY, 219, font_size, chatBoxPic[1]);
-            //int tbegin = lenPerLine * i;
-            //int slen = int(boxTest.length()) - tbegin;
-            //if(slen > lenPerLine)slen = lenPerLine;
-            //QString qstr = "中文难道不行啊没";
-            //
-            painter.drawText(15 + boxX, 12 + font_size * i + boxY, 200, font_size, Qt::AlignBottom, strList[i].c_str());
+            painter.drawText(16 + boxX, 12 + font_size * i + boxY, 200, font_size, Qt::AlignBottom, strList[i].c_str());
         }
-
-        //painter.end();
     }else{
-        //qDebug("88888888888888888888888888888");
         FixPos(450);
     }
 

@@ -60,6 +60,7 @@ private:
 
     int boxLife;
     string sText;
+    int zhOccupy;
 
     int sicilyPosY;
 
@@ -109,6 +110,7 @@ private:
     void ReadModules();
     void InitData();
     void FixPos(int h);
+    int GetStrWidth(const string& str);
     //Update
     //更新动画
     void UpdateAnimation();

@@ -27,8 +27,10 @@ void Trans::PyTrans(string text,bool eng){
       PyObject *re = 0;
       if (eng)re = PyObject_CallFunction(Translate,sss,textTemp2,zh,en);//target source
       else re = PyObject_CallFunction(Translate,sss,textTemp2,en,zh);
+      qDebug("tr:%s %d",textTemp2,eng);
       if(re){
           strcpy(textTemp,PyString_AS_STRING(re));
+          qDebug("ok%s",textTemp);
       }else{
           textTemp[0] = 0;
       }
