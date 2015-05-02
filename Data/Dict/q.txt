@@ -1,0 +1,296 @@
+qatar~n:卡塔尔
+qi~n:戚,祁,气
+qi county~n:杞县
+qian~n:钱
+qian river~n:黔江
+qiang~n:羌,强
+qianjin~v:前进
+qianlong~n:乾隆
+qiantang~n:钱塘
+qianxi county~n:迁西
+qianxuesen~n:钱学森
+qiao~n:乔
+qichun county~n:蕲春
+qijiang county~n:綦江
+qiju~n:祁剧
+qilian~n:祁连
+qin~n:秦
+qin shi huang~n:秦始皇
+qinchuan river~n:清川江
+qingchuan~n:清川
+qingdao~n:青岛
+qingdao city~n:青岛
+qinghai lake~n:青海湖
+qinghua~n:清华
+qinghua university~n:清华大学,清华
+qingming~n:清明
+qingyuan~n:庆元
+qinhuang island~n:秦皇岛
+qinlin mountain~n:秦岭
+qinling mountains~n:秦岭
+qiong~n:琼
+qionglai mountain~n:邛崃
+qiqihar~n:齐齐哈尔
+qiu~n:邱
+qizhou county~n:蕲州
+qm~n:舵手
+qoran~n:可兰经
+qu~n:曲
+qu county~n:衢县
+qu river~n:曲江
+qua~c:作为|n:作为|p:作为
+quack~v:吹牛,聊天,卖,呷呷,大言不惭|d:呱呱,嘎,嘎嘎|n:庸医,骗子
+quack doctor~n:庸医
+quack medicine~n:狗皮膏药
+quackery~n:大话
+quack-quack~n:嘎嘎
+quacksalver~n:庸医
+quadrangle~n:四边形,四合院
+quadrant~n:象限
+quadrant elevation~n:仰角
+quadrate~n:长方形,方形,正方形|v:适合,一致
+quadratic equation~n:二次方程
+quadrature~n:矩
+quadrilateral~n:四边形,四边
+quadroon~n:黑人,混血儿
+quadruped~n:走兽
+quaere~n:询问,疑问|v:查询,调查
+quaff~v:痛饮
+quag~n:泥潭,困境,泥沼,沼泽地
+quagmire~n:泥潭,泥沼,泥坑,沼泽
+quail~v:畏缩,胆怯,沮丧,指挥|n:鹌鹑
+quaint~a:古怪,古色古香|r:各
+quake~v:震动,发抖,颤动,颤抖,震,摇动,摇晃,抖|n:摇动,战栗
+quake with consternation~n:战战兢兢
+quakeproof~v:防震
+quakerbird~n:信天翁
+quale~n:性质
+qualification~n:资格,条件,批准,限制,斟酌,称作,执照,授权,形容,评定,限定,称呼
+qualifications~n:资格
+qualified~v:合格
+qualified personnel~n:人才
+qualify~v:修饰,限制,斟酌,准予,缓和,限定
+qualifying event~n:及格赛
+qualifying round~n:及格赛
+qualifying trial~n:及格赛
+qualitative~a:定性|v:定性
+qualities~n:气质
+quality~n:质量,品质,性质,优质,素质,质,能力,特质,品德,才能,身份,地位,音色,质地,品种,成色,相,属性,音值,音品,优点,品,素养,品位,优劣,品第,技能,鲜明,性
+quality factor~n:质因数
+quality of product~n:货品
+quality of reproduction~n:保真度
+quality of work~n:粗细
+quality products~n:正品
+qualm~n:不安,恶心,顾忌,疑虑,责备,疑惧|v:顾忌
+quan~n:全
+quandary~n:窘境,左右为难,困惑,窘
+quanta~n:份额,定量,量
+quantic~n:形式
+quantification~n:量化,定量
+quantifier~n:数量词,量词
+quantify~v:定量
+quantitative determination~n:定量
+quantity~n:量,数量,大量,值,大批,许多,数字,音量,大宗,额,分量,定量,参量,定额,期限
+quantity of heat~n:热量
+quantity of motion~n:动量
+quantity of precipitation~n:降水量
+quantity of production~n:生产量
+quantivalence~n:化合价
+quantization~n:量化
+quantize~v:量化
+quantizer~n:编码器
+quantometer~n:电量计
+quantum~n:量子,量,定量,额,份,数量,定额,份额
+quantum photon~n:光子
+quantum theory~n:量子论
+quanzhou~n:泉州
+quarantine~n:隔离,检疫,封锁|v:检疫,隔离,封锁
+quarantine inspection~n:检疫
+quarrel~v:争吵|n:口舌,碴儿
+quarrel between brothers~n:兄弟阋墙
+quarrel from jealousy~n:争风吃醋
+quarry~n:采石场,猎物|v:采,挖掘
+quarry rubbish~n:石碴
+quarrying~v:采石
+quarrying machine~n:凿岩机
+quart~n:夸脱
+quart pot~n:器皿
+quarter~n:季度,地方,方向|v:宿营,扎营,屯扎,扎,屯
+quarterfinal~n:复赛
+quarterly~n:季刊
+quarterly report~n:季报
+quarterly reports~n:季报
+quartermaster~n:军需,舵手
+quarters~n:营盘,住处
+quartile~n:弦
+quarts~n:金矿
+quartz~n:石英,晶,水晶
+quartz crystal~n:水晶
+quartz glass~n:石英玻璃
+quasar~n:类星体
+quash~v:撤销,平息,捣碎,废除,取消,压制,镇压
+quashee~n:黑人
+quasi~a:几乎,有点,即,宛如,就是说
+quasi-stellar object~n:类星体
+quaternary~n:四
+quaver~v:颤抖,颤动,震动|n:颤音
+quaver note~v:八分音符
+quay~n:码头,船埠,埠头
+quean~n:妓女,少女
+queen~n:女王,王后,皇后,后,女皇,尤物,情人,女神,上品
+queen bee~n:雌蜂
+queen bolt~n:拉杆
+queen consort~n:皇后,王妃
+queen wasp~n:雌蜂
+queer~a:奇怪,古怪,怪,奇特,不对,奇,怪里怪气,莫名其妙,奇异,不是味儿,刁钻古怪,蹊跷,阴阳怪气,左
+queer money~n:伪币
+queer word~n:奇谈怪论
+queerish~a:怪象
+queerness~n:奇妙
+quell~v:镇压,平息,压,弹压,减轻,平定,消除,弭|n:屠杀
+quell rebellion~v:戡乱
+quench~v:熄灭,淬火,解,抑制,遏制,结束,压制
+quench one's thirst~v:止渴,解渴
+quench thirst~v:解渴
+quencher~n:灭火器,饮料,冷却器
+quenching~v:蘸火,淬火|n:淬火
+quenching compound~n:冷却剂
+quenching unit~n:灭火器
+quenelle~n:肉丸子
+querulous~a:满腹牢骚|v:满腹牢骚
+query~v:质询,征询,查询|n:质问,怀疑
+quest~n:寻找,搜索,追求,找,探求|v:寻找,追求,追逐,探索
+question~n:问题,问|v:发问,探究
+question closely~v:逼问,责
+question for study~n:课题
+question paper~n:问卷
+questionable~a:可疑
+questionable point~n:疑点
+questionaire~n:调查表
+questioner~n:审问者
+questionnaire~n:问卷,调查表
+questions~v:问答
+quet~n:海鸥
+queue~n:队列|v:站队
+queue length~n:队长
+queue to~n:等候
+quibble~v:狡辩,推诿,推托|n:支吾,狡辩,遁词
+quibbling~v:诡辩|n:诡辩
+quick~a:快|n:核心,要害,本质,活物,生物|d:快
+quick as lightning~n:风驰电掣
+quick attack~n:快攻
+quick fix~n:权宜之计
+quick fry~n:爆炒
+quick march~n:齐步走
+quick meal~n:快餐
+quick result~n:速效
+quick results~n:速效
+quick rhyme~n:快书
+quick sand~n:流沙
+quick short steps~n:碎步子
+quick soil~n:浮土
+quick temper~n:火气
+quick-cutting steel~n:高速钢
+quicken~v:加快,加速,快速,鼓舞,苏醒,刺激
+quickening~v:胎动
+quick-freeze~v:速冻
+quicklime~n:生石灰
+quickly~d:快,赶快,快速,快快,忽忽,霍然|v:赶
+quickly become partners~v:一拍即合
+quickly write~v:疾书
+quickness~n:迅速,神速
+quicksand~n:流沙
+quick-sand~n:流沙
+quickset~n:插条
+quicksilver~n:水银
+quicksliver~n:水银
+quick-speed steel~n:高速钢
+quickstep~n:快步
+quid pro quo~n:报复,赔偿,报酬
+quiddity~n:狡辩,本质,实质,诡辩,怪癖
+quiescence~n:寂静,休眠,沉默,沉寂,静止
+quiescency~n:静止,沉默,寂静,休眠
+quiescent condition~n:静态
+quiet~a:安静,静|n:太平,和平,休养,清净,平稳,沉着,肃静,安定,静养|v:安慰
+quiet conscience~n:问心无愧
+quiet down~v:平息
+quietly~d:悄悄,默默,悄然,悄,闷头儿,悄声
+quietly elegant~a:淡雅
+quietly pacify~v:阴骘
+quietness~n:静悄悄
+quietude~n:沉着,寂静,平静,宁静
+quietus~n:解除,死,休眠,灭亡,制止,偿清
+quiff~n:姑娘
+quill~n:写字,导火线,浮漂|v:刺穿
+quilt~n:被子,被,棉被|v:缝
+quilt cover~v:被套
+quilt sack~v:被套
+quilted~a:棉
+quilted door curtain~n:暖帘
+quilted jacket~n:棉袄
+quinin~n:奎宁
+quinindium~n:奎尼丁
+quinine~n:奎宁,金鸡纳霜
+quinoline~n:喹啉
+quintal~n:公担
+quintessence~n:精髓,精华,结晶,精英,本体,本质,菁华,典范,实质,实体
+quip~n:妙语|v:嘲弄
+quirk~n:怪癖,奇想,口实|v:弯曲
+quisle~v:卖国
+quisler~n:卖国贼
+quisling~n:卖国贼
+quislingism~n:通敌,卖国
+quislingite~n:卖国贼
+quit~v:离开,辞职,停止,放弃,少,告别,还清,偿还,酬答,免除,偿清,退,退出,作罢,认输,解除,尽|n:离开,辞职,退出
+quit a party~v:退党
+quit cover~v:被罩
+quit office~v:掼纱帽,辞职
+quit scores~v:报仇雪恨
+quit so~v:确实
+quite~d:很,完全,相当,十分,挺,颇,极,真正,够,差不多,事实上,的确,较,满,怪,颇为,彻底,好生,蛮,较比,比较
+quite a few~a:许多
+quite a little~a:许多
+quite a lot~n:好些
+quite a nuisance~n:不胜其烦
+quite a while~n:半天
+quite bare~a:空无所有
+quite certain~a:十拿九稳
+quite different~a:判若鸿沟
+quite impressive~a:不善
+quite likely~a:光景
+quite pleased~a:甜津津,甜丝丝,甜滋滋
+quite right~n:就是
+quite satisfactory~a:够味
+quite superb~a:够味儿
+quite tasty~a:够味儿
+quite the contrary~n:适得其反
+quite the opposite~n:适得其反
+quite too~d:非常
+quittance~n:解除,报答,免除,收据
+quitter~n:懦夫
+quiver~v:颤动,抖动,发抖,颤抖|n:抖动,震动
+quiverful~n:装满,大量,许多
+quiz~n:测验|v:盘问,嘲弄,考试,提问,挖苦
+quiz master~n:主持人
+quiz paper~v:考卷
+quizzical~a:古怪
+quodlibet~n:幻想曲
+quoin~n:角落,榫子,楔子
+quoit~n:铁环|v:掷
+quorum~n:法定人数
+quota~n:定额,配额,限额,指标,数额,份
+quotas~v:摊派
+quotation~n:引文,引用,引语,语录,行情,估价单,行市|v:引证
+quotation marks~n:引号
+quote~v:引用,引证|n:估价表
+quote adage~v:引经据典
+quote from~v:引用
+quote widely~v:旁征博引
+quoted passage~v:引文
+quoted price~v:报价
+quoth~v:说
+quotient~n:商,商数,份额,系数
+quotiety~n:率,系数
+quoting~v:引用
+quyuan~n:屈原
+qvfu city~n:曲阜

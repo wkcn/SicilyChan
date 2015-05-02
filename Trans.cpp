@@ -1,23 +1,142 @@
-#include "Sicily.h"
+﻿#include "Trans.h"
+
+TrieNode::TrieNode(){
+    value = 0;
+    for(auto &c:children) c = 0;
+}
+
+TrieNode::~TrieNode(){
+    if(!value)delete value;
+    for(auto &c:children) if(c)delete c;
+}
+
+void TrieNode::Set(const string &name){
+    size_t len = name.length();
+    value = new char[len + 1];
+    strcpy(value,name.c_str());
+}
+
+TrieTree::TrieTree(){
+    root = new TrieNode;
+}
+
+TrieTree::~TrieTree(){
+    delete root;
+}
+
+void TrieTree::insert(string word, string content){
+    TrieNode *node = root;
+    int id;
+    for(auto c:word){
+        if(c >= 'a' && c <= 'z')id = c - 'a';
+        else if(c >= 'A' && c <= 'Z')id = c - 'A';
+        else continue;
+        if(!node -> children[id])node -> children[id] = new TrieNode;
+        node = node -> children[id];
+    }
+    node->Set(content);
+}
+
+string TrieTree::find(string word){
+    TrieNode *node = root;
+    int id;
+    bool ok = false;
+    for(auto c:word){
+        if(c >= 'a' && c <= 'z')id = c - 'a';
+        else if(c >= 'A' && c <= 'Z')id = c - 'A';
+        else continue;
+
+        if(node->children[id] == 0)return "";
+
+        node = node -> children[id];
+        ok = true;
+    }
+    if (!ok || node->value == 0)return "";
+    return node -> value;
+}
 
 Trans::Trans(){
+    string buf;
+    for(int i=0;i<26;i++){
+        string name = "Data\\Dict\\";
+        name += char(i+'a');
+        name += ".txt";
+        ifstream fin(GetDataDir(name));
+        //qDebug("%c===",name.c_str());
+        getline(fin,buf,'\n');
+        while(!fin.eof()){
+            //qDebug("--%s",buf.c_str());
+            int q;
+            string word;
+            for(q=0;q<buf.size();q++){
+                if(buf[q]=='~')break;
+                word += buf[q];
+            }
+            //string content = buf.substr(q+1);
+            string content;
+            for(int u=q+1;u<buf.size();u++){
+                if(buf[u]=='|')content += '\n';
+                else content += buf[u];
+            }
+            //qDebug("%s -- %s",word.c_str(),content.c_str());
+            trieTree.insert(word,content);
+            getline(fin,buf,'\n');
+        }
+        fin.close();
+    }
+    /*
+    pycan = false;
+
     Py_Initialize();
+
+    if(!Py_IsInitialized()){
+        return;
+    }
+
     PyRun_SimpleString("import sys");
     PyRun_SimpleString("reload(sys)");
     PyRun_SimpleString("sys.path.append('./')");
+    string setPath = "sys.path.append('";
+    setPath += GetDataDir("Data");
+    setPath += "')";
+    qDebug("!!!%s",setPath.c_str());
+    PyRun_SimpleString(setPath.c_str());
     PyRun_SimpleString("sys.setdefaultencoding('utf-8')");
     pTransModule = PyImport_ImportModule("trans");//这里是要调用的Python文件名
+    if(!pTransModule){
+        return;
+    }
     Translate = PyObject_GetAttrString(pTransModule, "Translate");
+
+    if(!Translate || !PyCallable_Check(Translate))return;
+    */
     finished = false;
     ing = false;
+    //pycan = true;
 }
 Trans::~Trans(){
 
 }
 
-void Trans::PyTrans(string text,bool eng){
+void Trans::PyTrans(string text){
+    /*
     finished = false;
     ing = true;
+    char textC[256],resC[256] = {'\0'};
+    strcpy(textC,text.c_str());
+    static char s[] = "s";
+    //qDebug("---%s",textC);
+    try{
+        PyObject *re = PyObject_CallFunction(Translate,s,textC);
+        if(re)strcpy(resC,PyString_AS_STRING(re));
+    }catch(...){
+        resC[0] = '\0';
+    }
+    res = resC;
+
+
+    ////
+
     char textTemp[512],textTemp2[512];
     strcpy(textTemp2,text.c_str());
     static char sss[] = "sss";
@@ -47,13 +166,15 @@ void Trans::PyTrans(string text,bool eng){
     if(count == res.size()){
         res = "";
     }
-
+    */
     finished = true;
+
 }
 
 
 void Trans::Set(const string& text){
     if (!ing){
+        finished = false;
         cstr = text;
         start();
     }
@@ -67,8 +188,26 @@ string Trans::GerOrigin(){
     return ori;
 }
 void Trans::run(){
+    const int maxLen = 128;
+    bool first = true;
+    string temp;
+    int count = 0;
+    for(auto c:cstr){
+        if(first && (c == ' ' || c == '\n' || c == '\r' || c == '\t'))continue;
+        temp += c;
+        count ++;
+        if(count > maxLen)break;
+        first = false;
+    }
+    if(temp != ori){
+        ing = true;
+        ori = temp;
+        res = trieTree.find(temp);
+        finished = true;
+        //PyTrans(temp);
+    }
+    /*
     const int maxLen = 256;
-
     static char oldstr[maxLen + 32];
     size_t len = cstr.length();
     bool lastBlank = false;
@@ -134,9 +273,16 @@ void Trans::run(){
         if(cnCount > count - cnCount * 2){
             eng = false;
         }
-        ori = oldstr;
-        ing = true;
-        PyTrans(ori,eng);
+        if(cstr[0] == '!'){
+            ori = cstr.substr(1);
+            ing = true;
+            PyTrans(cstr,true);
+        }else{
+            ori = oldstr;
+            ing = true;
+            PyTrans(ori,eng);
+        }
     }
+    */
 }
 

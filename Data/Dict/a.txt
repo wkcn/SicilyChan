@@ -1,0 +1,5819 @@
+﻿a~a:一|d:一道
+a adjoin~n:毗连
+a bad accident~n:横事
+a bad crop~n:欠产
+a bad lot~n:狐群狗党
+a bad plan~n:下策
+a bad reputation~n:恶名
+a bad year~n:凶年
+a ball~n:圆球
+a band of~n:帮
+a bare outline~n:空架子
+a barrage of~n:一连串
+a base person~n:小人
+a beach swimmer~n:弄潮儿
+a beaming countenance~n:眉开眼笑
+a beau~n:翩翩少年
+a beautiful gem~n:瑾
+a beautiful night~n:月白风清
+a beauty~n:红颜
+a beloved daughter~n:掌上明珠
+a benign countenance~n:和颜悦色
+a benign face~n:慈眉善目
+a benignant look~n:慈眉善目
+a bicycle lamp~n:车灯
+a big amount~n:巨额
+a big dispute~n:轩然大波
+a big eater~n:大肚子
+a big fortune~n:洋财
+a big talk~n:夸夸其谈
+a big tripod~n:鼐
+a billion~n:秭
+a bird trap~n:莩
+a bird's sternum~n:龙骨
+a bit~a:差,点滴,了,稍稍,些小,一点,一丁点儿,稍许,点,一点儿,一星儿,丝毫,些微
+a bit chilly~a:冷丝丝
+a bit cool~n:凉丝丝
+a bit of~n:略微,一点儿,一星半点,少许,一点
+a bit off~n:不是味儿
+a bitter enemy~n:夙世冤家,冤家对头
+a black sheep~n:害群之马
+a blind alley~n:死胡同
+a blind letter~n:死信
+a blind person~n:瞍,瞎子
+a blind shell~n:瞎炮
+a block~n:一块
+a block of~n:一块
+a blood feud~n:血海深仇,血仇
+a blooming girl~n:豆蔻年华
+a bony appearance~n:瘦骨嶙峋
+a bookbinding method~n:旋风装
+a bookish approach~n:书生气
+a boor~n:莽汉
+a boorish fellow~n:莽汉
+a boorish person~n:莽汉
+a born commander~n:帅才
+a bottomless chasm~n:万丈深渊
+a bottomless pit~n:无底洞
+a bout~n:一条
+a bowing acquaintance~n:点头之交
+a boxing champion~n:拳王
+a branch college~n:分院
+a branch school~n:分校
+a brief survey~n:一瞥
+a bright mind~n:慧心
+a brilliant student~n:高才生
+a brisk trade~n:购销两旺
+a broad road~n:阳关大道
+a broadcast exhibition~n:展播
+a broken-down nag~n:骀
+a broken-down tall~n:烂摊子
+a brute~n:衣冠禽兽
+a budding beauty~n:豆蔻年华
+a bunch of~n:班
+a burst of~n:阵
+a burst seam~n:破绽
+a business associate~n:伙计
+a call~n:拜访
+a callow~n:黄口孺子
+a car dealer's~n:车行
+a card of~n:板
+a careless person~n:马大哈
+a carton~n:一条
+a castrated bull~n:犍
+a catch question~n:偏题
+a century~n:百年
+a certain person~n:某人
+a chair cushion~n:椅垫子
+a chance acquaintance~n:萍水相逢
+a changeable situation~n:风云变幻
+a chaotic state~n:一团糟
+a chartered accountant~n:会计师
+a chatterbox~n:碎嘴子,摇唇鼓舌
+a cheap article~n:便宜货
+a check~n:汇单
+a cheval~n:跨
+a children's toy~n:尜
+a cipher~n:无名小卒
+a civilian worker~n:民工
+a class adviser~n:班主任
+a class of~n:班
+a clean cut~n:一刀切
+a clearance sale~n:甩卖
+a close shave~n:幸免于难,天幸
+a cloud of~n:大量
+a clown~n:跳梁小丑
+a cock-and-bull story~n:无稽之谈,不经之谈
+a cold reception~n:冷板凳
+a cold welcome~n:冷遇
+a coldhearted person~n:冷血动物
+a common meal~n:家常便饭
+a common person~n:碌碌庸才
+a common-law marriage~n:同居
+a compelling obligation~n:义不容辞
+a complete bankruptcy~n:民穷财尽
+a complete change~n:面目全非
+a complicated affair~n:盘根错节
+a complimentary ticket~n:赠券
+a concealed analogy~n:暗喻
+a confession~n:口供
+a confidential paper~n:密件
+a connected sequence~n:一条龙
+a conquered nation~n:亡国
+a contemptible rebel~n:跳梁小丑
+a contemptible wretch~n:小丑
+a continuous flow~n:川流不息
+a coordinated process~n:一条龙
+a corner~n:一角
+a cotton wadding~n:棉絮
+a cotton-padded covering~n:棉套
+a course~n:番
+a course of~n:一系列
+a coward~n:软骨头
+a cowboy~n:牛郎
+a cozy nest~n:安乐窝
+a crisis~n:轩然大波
+a critical situation~n:危局
+a crop of~n:许多,一派
+a crossfire~n:内外夹攻
+a crucial moment~n:火候
+a crushing blow~n:雷霆万钧
+a crushing defeat~n:一败如水
+a cunning person~n:滑头滑脑
+a curious coincidence~n:神差鬼使
+a curious tale~n:海外奇谈
+a cute abdomen~n:急腹症
+a cute disease~n:急症
+a dab hand~n:巧手
+a dance squad~n:佾
+a dandy~n:翩翩少年
+a dangerous road~n:畏途
+a dangerous section~n:险工
+a dangerous situation~n:险地
+a daring robbery~n:明火执仗
+a dark horse~n:异军突起
+a dark house~n:黑马
+a dash of~n:少许
+a day~n:一天
+a dead person~n:异物
+a deaf person~n:聋子
+a deafening noise~n:震耳欲聋
+a deep slumber~n:昏睡
+a deep sorrow~n:切肤之痛
+a deep-seated hatred~n:深仇大恨
+a delicate touch~n:神来之笔,生花妙笔
+a dense crowd~n:稠人广众
+a deposition~n:口供
+a depositor~n:户头
+a depressed place~n:坞
+a desert region~n:不毛之地
+a desperate situation~n:危局
+a desperate way~n:血路
+a detailed analysis~n:条分缕析
+a devastating punch~n:雷霆万钧
+a different name~n:异名
+a digest~n:提纲挈领
+a disastrous flood~n:泛滥成灾
+a dish~n:卖
+a disorderly crowd~n:乌合之众
+a distressed expression~n:愁眉苦脸
+a divided skirt~n:裙裤
+a divine plan~n:神机妙算
+a donkey~n:狐假虎威
+a doomed petition~n:与虎谋皮
+a double wall~n:夹层墙
+a double-edged remark~n:一语双关
+a double-edged sword~n:宝剑
+a downright lie~n:弥天大谎
+a dozen~a:一打,十几个,十来个
+a draft~n:汇单
+a dramatic piece~n:出
+a draw~n:和棋
+a dressed-up beast~n:衣冠禽兽
+a drum-shaped rattle~n:拨浪鼓,波浪鼓
+a drunkard's nose~n:酒糟鼻
+a dumb person~n:哑巴,哑子
+a factory weekday~n:厂礼拜
+a fait accompli~n:既成事实
+a false peace~n:粉饰太平
+a false tale~n:无稽之谈
+a famous artist~n:名手
+a famous player~n:名手
+a fantastic garb~n:奇装异服
+a fantastic tale~n:海外奇谈
+a far-flung network~n:天罗地网
+a farm village~n:农庄
+a fastidious person~n:刺儿头
+a fatal disaster~n:杀身之祸
+a fatal position~n:死地
+a favourable position~n:近水楼台
+a favourable turn~n:转机
+a feeble constitution~n:先天不足
+a fellow student~n:学长
+a female companion~n:女伴
+a female deity~n:圣母
+a fertile land~n:沃野
+a fertile region~n:鱼米之乡
+a few~a:些,两,某些,一点,零星,数,少量,些个,一星半点,些许
+a few more~n:一些
+a field ditch~n:畎
+a fierce battle~n:枪林弹雨
+a fierce competition~n:龙争虎斗
+a fig for~n:无用
+a fine distinction~n:细别
+a firm hold~n:立足之地
+a fishy story~n:无稽之谈
+a fit~n:一气
+a fit of~n:一时
+a fix idea~n:一定之规
+a fixed gaze~n:目不转睛
+a fixed number~n:额数
+a fixed pattern~n:一定之规
+a flash~n:一瞬
+a flash of~n:一道
+a folk dance~n:跑旱船
+a fond dream~n:南柯一梦,一枕黄梁
+a fool~n:愚人
+a fool of~n:愚弄
+a fool's paradise~n:痴人说梦
+a fool's talk~n:痴人说梦
+a football~n:鞠
+a fop~n:翩翩少年
+a forbidding place~n:龙潭虎穴
+a forced smile~n:似笑非笑
+a foreign country~n:异邦
+a forked road~n:岔
+a form word~n:发语词
+a fortified building~n:坞
+a fortiori~n:更加,何况
+a fraction~n:厘
+a fractional amount~n:畸,奇,奇零
+a fragrant plant~n:芭
+a frail scholar~n:文弱书生
+a free wind~n:顺风
+a freebooting hero~n:草莽英雄
+a fried dish~n:炒菜
+a fruitless attempt~n:劳而无功,海底捞月
+a full house~n:客满
+a full month~n:期
+a full year~n:期
+a full-length drama~n:多幕剧
+a full-length shot~n:长镜头
+a fund of~n:大量
+a gang of~n:帮
+a gang of scoundrel~n:狐群狗党
+a garrulous person~n:碎嘴子
+a general designation~n:统称
+a general order~n:通令
+a general survey~n:通论
+a general term~n:通称
+a generalization of~n:集大成
+a gentleman's agreement~n:君子协定
+a ghastly sight~n:触目惊心
+a gifted pen~n:生花之笔
+a gilded signboard~n:金字招牌
+a gleam of~n:一线
+a glimmer of~n:一线
+a globe~n:圆球
+a glutton~n:酒囊饭袋
+a golden harvest~n:五谷丰登
+a golden opportunity~n:千载一时
+a golden saying~n:金玉良言
+a good bit~n:长期,许久
+a good deal~n:大量,诸多,好多
+a good few~n:不少
+a good hand~n:一把手,硬手
+a good horse~n:骜
+a good journey~n:一路平安
+a good many~n:好多,许多
+a good opportunity~n:春暖花开
+a good while~n:长久,许久
+a good wife~n:贤内助
+a good-for-nothing~n:朽木
+a good-for-nothing adviser~n:狗头军师
+a grade~n:甲级
+a grain bin~n:囤
+a gramophone~n:留声机
+a grassy hill~n:岵
+a great accomplishment~n:补天浴日
+a great country~n:泱泱大国
+a great deal~n:夥
+a great disturbance~n:轩然大波
+a great fall~n:一落千丈
+a great fish~n:鲧
+a great insult~n:奇耻大辱
+a great many~n:好多,浩,许多,指不胜屈
+a great personage~n:伟人
+a great quantity~n:大量
+a great rascal~n:老奸巨猾
+a great sin~n:滔天罪行
+a green horn~n:初出茅庐
+a gross~n:罗
+a gross lie~n:弥天大谎
+a group army~n:集团军
+a group of~n:帮
+a gun-shape thing~n:枪
+a hairbreadth escape~n:九死一生
+a hand~n:一把手
+a handful of~n:一小撮,一把,把,少数
+a handle~n:刀把子
+a handout~n:嗟来之食
+a handsome son-in-law~n:乘龙快婿
+a handwritten copy~n:抄本
+a hanging object~n:坠
+a happy combination~n:珠联璧合
+a happy event~n:快事
+a happy gathering~n:欢聚一堂
+a happy-go-lucky policy~n:随遇而安
+a hard nut~n:难题
+a harelipped person~n:豁嘴
+a harmful person~n:蠹虫
+a hated thing~n:劳什子
+a hazardous spot~n:龙潭虎穴
+a head of~n:一头
+a head-on confrontation~n:迎头痛击
+a heady tempest~n:狂风暴雨
+a healthy person~n:好人
+a heart-shaped pendant~n:鸡心
+a heavy downpour~n:倾盆大雨
+a heavy rain~n:大雨
+a helping hand~n:一臂之力
+a high building~n:楼台
+a hippy~n:玩世不恭
+a hoeing implement~n:耠子
+a homeless cur~n:丧家之犬
+a honeycomb-like thing~n:蜂窝
+a hook-like sword~n:钩
+a hopeless case~n:朽木,死棋
+a horizontal tablet~n:额
+a hot-headed person~n:炮筒子
+a house-like structure~n:房
+a housing estate~n:小区
+a huge crowd~n:人海
+a huge rock~n:磐石
+a huge sum~n:巨额
+a humble room~n:陋室
+a hundred million~n:亿
+a hundred years~n:百年
+a hundred-flavor-harden~n:百花园
+a jade tablet~n:璋
+a jade-like stone~n:璎,璁,珂
+a janitor's room~n:号房
+a jealous look~n:侧目而视
+a jerk~n:一动
+a jolt~n:一动
+a joyful countenance~n:喜逐颜开
+a junior officer~n:尉
+a just judge~n:青天
+a knife wound~n:刀伤
+a laborer~n:民夫
+a lack of~n:缺乏
+a lady writer~n:闺秀
+a lame person~n:瘸子
+a lane's name~n:尜
+a lantern fair~n:灯市
+a large amount~n:大宗
+a large bell~n:镛
+a large mulberry~n:扶桑
+a large number~n:大量
+a large quantity~n:大宗
+a large rope~n:索
+a large swan~n:鸿鹄
+a later story~n:后话
+a latrine rumour~n:无稽之谈
+a layman~n:老外
+a leading authority~n:泰斗
+a lean person~n:瘦子
+a left-handed compliment~n:言不由衷
+a legendary dragon~n:螭
+a letter home~n:家书
+a leviathan~n:庞然大物
+a life-and-death struggle~n:殊死战,殊死搏斗
+a lifeless condition~n:一潭死水
+a life-saving straw~n:救命稻草
+a lifetime~n:一辈子,一生
+a light boat~n:艇
+a limited number~n:有数
+a limited view~n:一孔之见
+a line~n:一行
+a liquid~n:水
+a literary eulogy~n:赞
+a literary family~n:书香门第
+a literary spokesman~n:笔杆子
+a literary woman~n:闺秀
+a little~a:一些,一点儿,点,些,有点,稍稍,稍,少许,略微,些小,聊,稍为,有限,些个,些微,零星,一星半点,一星儿
+a little amount~n:少量
+a little better~n:好些
+a little bit~n:一点,稍为
+a little girl~n:毛丫头
+a little of~n:一些,一点
+a little over~a:出头|n:冒尖儿
+a little rascal~n:跳梁小丑
+a little rest~n:小憩
+a little room~n:斗室
+a little salt~n:盐花
+a little while~d:片刻,顷,一忽儿,少,歇
+a lively atmosphere~n:欣欣向荣
+a lively description~n:绘声绘色
+a livestock keeper~n:倌
+a livid face~n:面如土色
+a living corpse~n:槁木死灰
+a living hell~n:人间地狱
+a living person~n:活人
+a local bully~n:地头蛇
+a local villain~n:地头蛇
+a lone soul~n:形单影只
+a lonely horseman~n:匹马单枪
+a long distance~n:千里
+a long drum~n:长鼓
+a long firm~n:皮包公司
+a long journey~n:远门
+a long spear~n:槊,铩
+a long time~n:良久,半天,多时,许久
+a long trek~n:长途跋涉
+a long way~n:远路
+a long while~n:长久
+a long-distance call~n:长话
+a long-drawn-out period~n:累月经年
+a long-pending case~n:积案
+a long-range program~n:百年大计
+a long-spending case~n:积案
+a loquacious woman~n:长舌妇
+a lost situation~n:残局
+a lot of~n:好多,诸多,大量,众
+a love affair~n:风流韵事
+a love nest~n:安乐窝
+a love song~n:恋歌
+a lovers rendezvous~n:幽期
+a lovers' rendezvous~n:幽会
+a lowly person~n:隶
+a lucky day~n:黄道吉日
+a lucky man~n:福人
+a lump of~n:一块
+a lunar year~n:小年
+a maimed person~n:残废
+a male servant~n:价
+a man's body~n:皮囊
+a man's father-in-law~n:老丈人
+a many-sided person~n:多面手
+a margin election~n:差额选举
+a marriage contract~n:婚书
+a massive rock~n:磐石
+a master artisan~n:能工巧匠
+a matchless beauty~n:天姿国色
+a match-making~n:提亲
+a maternity hospital~n:产院
+a matter of~n:关于
+a meager present~n:薄礼
+a mean course~n:中庸之道
+a meandering footpath~n:羊肠小道
+a mediocre man~n:碌碌庸才
+a melee~n:混战
+a member~n:一把手
+a mercenary friend~n:酒肉朋友
+a mere nobody~n:无名小卒
+a mere skeleton~n:空架子,骨瘦如柴
+a middle course~n:中庸之道
+a mighty army~n:百万雄师
+a mighty ocean~n:汪洋大海
+a mighty uproar~n:轩然大波
+a military man~n:武夫
+a military rank~n:尉
+a million millions~n:兆
+a millionaire~n:巨富
+a ministry councilor~n:员外
+a minor success~n:一得之功
+a minute~n:片刻
+a mirage~n:空中楼阁
+a mischief-maker~n:摇唇鼓舌
+a miss~n:摆脱
+a mixed accent~n:南腔北调
+a modicum~n:些许
+a moment~n:片刻,片时,一会儿,一刻,会,少
+a moment ago~p:刚刚,将才,刚才
+a moment later~p:少刻,少时
+a momentary slip~n:一念之差
+a money order~n:汇单
+a money-losing proposition~n:赔钱货
+a monolithic bloc~n:铁板一块
+a monolithic block~n:铁板一块
+a monstrous lie~n:弥天大谎
+a more-candidates-than-position election~n:差额选举
+a mortal sin~n:罪大恶极
+a most~n:非常
+a motley crew~n:乌合之众
+a motley crowd~n:良莠不齐,乌合之众
+a mountain chair~n:山轿
+a mournful song~n:哀歌
+a move~n:一动
+a multitude of~n:大批
+a narrow escape~n:九死一生
+a narrow squeak~n:间不容发
+a narrow view~n:一孔之见
+a narrow vision~n:目光短浅
+a national beauty~n:国色
+a national martyr~n:国殇
+a near escape~n:九死一生
+a near thing~n:险胜
+a new aspect~n:面目一新
+a new start~n:柳暗花明
+a new talent~n:新苗
+a new wave~n:新潮
+a nobody~n:小人物
+a nuisance~n:要命
+a number~n:大批
+a number of~n:若干
+a once-met acquaintance~n:一面之交
+a one~n:呱呱叫
+a one-sided statement~n:一面之词
+a painful topic~n:难言之隐
+a paper of~n:板
+a part~n:一部分
+a particle~n:丝毫
+a particle of~n:少量,一点儿
+a particular year~n:年份,年间
+a party~n:一方
+a passing scene~n:过眼烟云
+a patrol~n:游动哨
+a peaceful time~n:河清海晏
+a peerless beauty~n:绝代佳人
+a pendent~n:坠
+a penniless vagrant~n:穷光蛋
+a pep team~n:拉拉队
+a perfect score~n:满分
+a perfidious person~n:中山狼
+a perilous position~n:险地
+a period of~n:阵子
+a person's age~n:年齿,年事
+a person's back~n:项背
+a person's handwriting~n:笔迹
+a person's silhouette~n:身影
+a person's status~n:名分
+a person's taste~n:口味
+a person's wardrobe~n:行头
+a persuasive talker~n:说客
+a pestilential atmosphere~n:乌烟瘴气
+a petty burglar~n:跳梁小丑
+a pheasant's cry~n:咯
+a picture copybook~n:画谱
+a piebald~n:骓
+a piece~n:一块
+a pipe dream~n:白日作梦,痴心妄想,一场春梦
+a pitiful creature~n:可怜虫
+a place~n:一角
+a plaintive whine~n:哀鸣
+a plant~n:内应
+a playboy~n:公子哥儿
+a plot of~n:一块
+a poet~n:骚人墨客
+a pole c~n:立竿见影
+a poor present~n:区区
+a popular song~n:下里巴人
+a portion~n:一部分
+a portion of~n:一部分
+a pouring rain~n:倾盆大雨
+a power of~n:许多,大量
+a powerful army~n:雄兵
+a precious deal~n:极其
+a precipitate drop~n:一落千丈
+a premature death~n:死于非命
+a presentation copy~n:赠本
+a pressing need~n:燃眉之急
+a priceless treasure~n:无价之宝
+a priori~a:先天
+a private conversation~n:悄悄话
+a professional college~n:职大
+a profound theory~n:玄机
+a prolix style~n:连篇累牍
+a promising youth~n:后起之秀,新苗
+a prosperous scene~n:莺歌燕舞
+a protracted war~n:持久战
+a proud son-in-law~n:乘龙快婿
+a providential escape~n:天幸
+a public enemy~n:害群之马
+a public notice~n:告白
+a public occasion~n:大庭广众
+a put-up job~n:骗局
+a quantity of~n:许多
+a quarter~a:刻
+a quarterly~n:季刊
+a quick glance~n:一瞥
+a quotable quote~n:妙句
+a railway policeman~n:乘警
+a rare beauty~n:天姿国色
+a rare opportunity~n:千载一时
+a raw hand~n:老外
+a ready tongue~n:脱口而出
+a ready-made panacea~n:灵丹妙药
+a red color~n:川红
+a red-letter day~n:黄道吉日
+a red-spotted lizard~n:蚧
+a refined scholar~n:雅士
+a regrettable thing~n:恨事
+a remarried woman~n:后婚儿,二婚头
+a replacement~n:配件
+a résumé~n:提纲挈领
+a rice-destroying insect~n:蜮
+a rocky heart~n:铁石心肠
+a romantic affair~n:风流韵事
+a romantic scholar~n:风流人物
+a rotten legacy~n:烂摊子
+a rough diamond~n:浑金璞玉
+a round~n:一发
+a row~n:一行,一条
+a row number~n:排号
+a row of~n:一行
+a rustic opinion~n:刍议
+a ruthless ruler~n:屠夫
+a sacrificial wine~n:鬯
+a saddle cloth~n:鞯
+a sand bar~n:汀
+a savage horse~n:烈马
+a scanty few~n:寥寥无几
+a scar-like mark~n:疤
+a scholar~n:士人,有识之士
+a scholar-gentry family~n:书香门第
+a scholarly family~n:书香门第
+a sea of~n:大量
+a sealed book~n:天书
+a seaman~n:弄潮儿
+a seat number~n:座号
+a second time~p:再次,再度
+a second wife~n:后妻
+a secret order~n:密令
+a secure job~n:铁饭碗
+a sensible argument~n:通论
+a sentence~n:一句话
+a set of~n:樘
+a set rule~n:一定之规
+a set-up~n:班子
+a seventy-thirty ratio~n:三七开
+a severe pain~n:剧痛
+a severe warning~n:当头棒喝
+a sexual intercourse~n:春风一度
+a shabby gift~n:区区
+a shambles~n:烂摊子
+a shameless person~n:无耻之徒
+a sharp knife~n:白刃
+a sharp warning~n:当头棒喝
+a sheer hoax~n:欺人之谈
+a sheer rock~n:悬崖峭壁
+a shell game~n:骗局
+a shoal of~n:大量,许多
+a shocking action~n:惊人之举
+a short contract~n:买空卖空
+a short cut~n:近路,捷径
+a short jacket~n:襦
+a short journey~n:朝发夕至
+a short moment~n:弹指,半晌
+a short note~n:片纸只字
+a short person~n:矮个子
+a short while~n:片刻,一会,片时,一刻
+a shortcut~n:终南捷径
+a short-short story~n:小小说
+a shred~n:丝毫
+a side issue~n:无关大局
+a sidelong glance~n:侧目而视
+a silly appearance~n:憨态
+a silly notion~n:痴心妄想
+a silver tongue~n:能言善辩,能说会道
+a simpleton~n:愚人
+a sincere pledge~n:信誓旦旦
+a single file~n:一行
+a single penny~n:分文
+a single person~n:一身
+a single skill~n:一技之长
+a single spark~n:星星之火
+a single word~n:只字
+a sitting duck~n:瓮中之鳖
+a six-finger hand~n:六指儿
+a skilled workman~n:巧匠
+a skillful craftsman~n:能工巧匠
+a slide tackle~n:铲球
+a slip of~n:一条
+a small amount~n:零星
+a small box~n:匣
+a small country~n:小国
+a small fellow~n:小个儿,小个子
+a small gate~n:闺
+a small hole~n:鼻儿,猫耳洞
+a small machine~n:机子
+a small number~n:少数
+a small pawnshop~n:押当
+a small potato~n:小人物
+a small room~n:斗室
+a small table~n:几
+a smart of~n:大批
+a sneak attack~n:暗箭
+a soldier~n:卒子
+a sore subject~n:难言之隐
+a sorrowful look~n:形容憔悴
+a sound statement~n:不易之论
+a space~n:一角
+a spanish castle~n:空中楼阁
+a spatter of~n:阵
+a speck~n:一斑
+a spell~n:阵,一气
+a spineless person~n:软骨头
+a spirit tablet~n:神主
+a spot~n:一斑
+a spot of~n:一点儿
+a spring dream~n:一场春梦
+a standing dish~n:老生常谈
+a standout~n:后起之秀
+a starry night~n:星夜
+a stately appearance~n:雄风
+a steed~n:骜
+a steel bulwark~n:钢铁长城
+a stingy person~n:铁公鸡
+a stinking grass~n:莸
+a stone tablet~n:碑
+a store of~n:丰富,充裕
+a storied building~n:楼
+a straight play~n:话剧
+a strange land~n:异地
+a stranger~n:异客
+a stream of~n:一道
+a string of~n:一系列,一连串
+a strip of~n:一条
+a stripe~n:一斑
+a strong spirit~n:二锅头
+a strong wind~n:雄风
+a stronghold~n:铜墙铁壁,铁壁铜墙
+a strong-scented herb~n:芸草
+a stupendous sum~n:巨款
+a stupid move~n:下策,死棋
+a stupid person~n:二百五
+a subtle difference~n:细别
+a suckling babe~n:黄口孺子
+a sudden illness~n:暴病
+a sudden inspiration~n:心血来潮
+a sudden rainstorm~n:急风暴雨
+a sufficiency of~n:足够,充足
+a suit~n:一身
+a suitable occasion~n:节骨眼
+a surefire plan~n:万全之计
+a sweetheart~n:心肝宝贝
+a taboo~n:禁
+a talented person~n:人材,人才
+a tall building~n:厦
+a tall man~n:高人
+a tall person~n:高个子,高个儿,高个
+a tall story~n:海外奇谈
+a tattered reputation~n:声名狼藉
+a teacher~n:任教
+a temple fair~n:会
+a temporary expedient~n:权宜之计
+a ten-cent piece~n:毛
+a tender remonstrance~n:苦口婆心
+a tender spot~n:痛处
+a testimony~n:口供
+a thank-you note~n:谢帖
+a thick soup~n:羹
+a thick-skinned person~n:老脸
+a thick-tongued person~n:大舌头
+a thin person~n:瘦子
+a thin tube~n:探子
+a third party~n:第三者
+a thirty-seventy ratio~n:三七开
+a thoroughbred horse~n:骥
+a thorough-bred horse~n:千里马
+a thoroughfare~n:阳关大道
+a thousand charms~n:千娇百媚
+a thousand li~n:千里
+a thousand years~n:千秋,千岁
+a thread~n:一线
+a threadlike thing~n:丝
+a thrilling sight~n:热闹
+a tigress~n:雌老虎
+a ting part~n:一斑
+a tiny bit~a:丝,一丝一毫,一星儿
+a tiny space~n:一席之地
+a tiny stream~n:涓
+a titan~n:庞然大物
+a total failure~n:梦幻泡影
+a total stranger~n:素昧平生
+a touch of~n:一点儿,少许
+a townsman~n:同乡
+a trace~n:一丝一毫
+a train of~n:一系列
+a translation~n:译著
+a transsexual person~n:阴阳人
+a traveler's tale~n:海外奇谈
+a treasured sword~n:宝剑
+a tree name~n:椐
+a tremendous change~n:翻天覆地
+a tremendous difference~n:千差万别
+a trenchant edge~n:利刃
+a tricky question~n:偏题
+a trifle~n:稍,略微
+a trivial matter~n:鸡毛蒜皮
+a true remark~n:至理名言
+a trying moment~n:鬼门关
+a turn~n:番
+a unified entity~n:浑然一体
+a universal genius~n:通才
+a unyielding person~n:硬骨头
+a useless effort~n:海底捞月
+a vain title~n:金字招牌
+a vainglorious title~n:金字招牌
+a variety of~n:各式各样,形形色色
+a veiled abuse~n:指桑骂槐
+a versatile person~n:多面手
+a vertically-hung scroll~n:条幅
+a vicious circle~n:恶性循环
+a violent death~n:横死
+a waiting trap~n:天罗地网
+a waste of~n:浪费
+a weak person~n:尿泡
+a weak-kneed person~n:软骨头
+a weak-kneel person~n:软骨头
+a weak-minded person~n:阿斗
+a weapon~n:刘
+a wee bit~n:一丁点儿
+a well rope~n:绠
+a well-bred person~n:骥
+a well-connected network~n:关系网
+a well-founded view~n:持之有故
+a well-organized institute~n:壁垒森严
+a well-regulated mind~n:胸有成竹
+a well-rounded argument~n:通论
+a whale of~n:了不起
+a white paper~n:蠲
+a whole day~n:一天
+a wicked monster~n:狼子野心
+a widow~n:嫠
+a wild scribble~n:狂草
+a wild war~n:混战
+a windfall~n:横财,洋财
+a winding path~n:曲径
+a windy downpour~n:狂风暴雨
+a wine goblet~n:樽
+a winged steed~n:千里马,千里驹
+a woebegone expression~n:愁眉苦脸
+a woman's dress~n:连衣裙
+a wonderful view~n:光怪陆离
+a word~n:一句话
+a workers' university~n:职大
+a world of~n:无数,许多
+a worthless creature~n:贱骨头
+a worthless fellow~n:狗彘不如
+a worthless thing~n:敝屣
+a worthy death~n:死得其所
+a worthy person~n:贤
+a wosbegone look~n:哭丧着脸
+a written admonition~n:诰
+a yen for~n:希望
+a yes-man~n:好好先生
+a young couple~n:小两口
+a young spark~n:翩翩少年
+a young woman~n:娘
+a zigzag path~n:羊肠小道
+aaron~n:亚伦
+aaron's beard~n:虎耳草,黄栌
+aasvogel~n:秃鹰
+aba~n:毛织物,长袍
+abaca~n:马尼拉麻,蕉麻
+abaci~n:算盘
+abacus~n:算盘,顶板
+abad~n:城市
+abaddon~n:地狱
+abaft~p:后,之后,在_之后,在_后
+abalone~n:鲍鱼,鲍,鳆
+abandon~v:下马|n:狂热
+abandon a baby~v:弃婴
+abandon midway~v:半途而废
+abandon oneself~v:自暴自弃
+abandon oneself to~v:耽
+abandon to despair~v:自暴自弃
+abandoned~a:无赖,野
+abandoned grave~n:荒冢
+abandoned idea~n:罢论,罢
+abandoned land~n:熟荒,熟荒地
+abandoned site~n:废墟
+abandoned well~v:废井
+abandonment~n:放弃,断念,放肆,投保
+abase~v:贬,降低
+abasement~n:屈辱,失意,败落
+abash~v:羞怯|a:羞怯
+abashed~a:惭愧,羞愧
+abate~v:减弱,减小,缓和,压低,杀,取消,减,煞,除掉,免税,作废,削弱,制止
+abatement~n:减少,减轻,废料,折扣,减除,失效,中断,减退
+abatement from penalty~n:减刑
+abatement of tax~n:减税
+abatis~n:鹿角,障碍物,鹿砦
+abattis~n:障碍物
+abb~n:纬纱
+abbazzo~n:初稿
+abbe~n:神父
+abbey~n:修道院,修道士
+abbot~n:方丈,住持
+abbreviate~v:缩写,节略,删节|a:简略
+abbreviated drawing~n:简图
+abbreviation~n:简称,省略,缩略语|v:省略
+abc~n:初步,入门,字母表|v:入门
+abdicate~v:放弃,让,退,让位,逊,弃,辞,废
+abdication~n:放弃,辞职,让位,弃权
+abdomen~n:腹腔,肚子
+abdomina~n:腹部|a:腹腔
+abdominal distension~n:胼,腹胀
+abdominal dropsy~n:腹水
+abdominal fin~n:腹鳍
+abdominal muscle~n:腹肌
+abduct~v:绑架,拐走,拐,拐带,胁持
+abduction~n:劫持
+abductor~n:拐子,诱拐者
+abeam~d:横向
+abecedarian~n:初学者
+abele~n:银白杨
+aberdevine~n:金翅雀
+aberrance~n:越轨
+aberrant~a:怪人
+aberration~n:错乱,偏差,反常,失常,过失,变型,越轨
+abestrine~n:石棉
+abet~v:教唆,帮助,撮弄,鼓动,唆,主使
+abet an ill-doer~v:助桀为虐
+abet one's enemy~v:为虎作伥
+abetment~n:教唆,煽动
+abetter~n:教唆者
+abettor~n:教唆者
+abevacuation~v:转移
+abeyance~n:停止|v:搁置
+abhor~v:疾,嫌弃
+abhorrence~n:厌恶,憎恶,痛恨,嫌恶
+abidance~n:继续,遵守
+abide~v:等待,忍受,继续,保持,守,坚持,容忍,居住,依从
+abide by~v:循,守
+abide one's destiny~v:听天由命
+abigail~n:使女
+abilities~n:锋芒
+ability~n:能,才力,力,力量,技能,技法,两下子,材,干才,功夫,伎
+ability to foresee~n:先见之明
+ability to speak~n:口齿
+ability to walk~n:腿脚
+ability to write~n:笔下
+abito~n:服装
+abject~a:猥劣,卑怯|n:小人
+abject poverty~n:赤贫
+abjection~v:脱落,放射,脱出|n:卑劣
+abjectly obedient citizens~n:顺民
+ablactation~v:断奶
+ablation~n:磨削,脱落,消融
+ablation cone~n:冰锥
+ablaze~d:燃烧,闪耀,着火,激昂|a:熊熊,炽盛
+able~a:会,能干,干,成,贤|v:能
+able man~n:一把手,能人
+able person~n:能人,干才
+able to predict~a:先见之明
+able woman~n:女强人
+able-bodied man~n:壮丁
+able-bodied person~n:劳动力,劳力
+ablebond~n:环氧树脂
+ablings~d:也许,大概
+ablins~d:也许,大概
+abloom~a:盛开,开花
+abluent~n:洗涤剂
+ablush~d:脸红
+ablution~n:清洗,洗净
+abnegate~v:克制
+abnegation~n:克制
+abnormal~a:异常,反常,变态,乖谬,潦倒,不对|n:畸形
+abnormal fetus~n:怪胎
+abnormal shape~n:异型
+abnormal state~n:病态
+abnormalism~a:反常
+abnormality~n:反常,变态,不规则|a:反常
+abnormally~d:超常
+abnormity~n:异常,反常,不规则,畸形
+abo~n:土著
+aboard~p:上,上面,在_上面,在_上
+abode~n:住处,住所,寓所,宅邸
+aboil~d:沸腾,滚
+abolish~v:消灭,废,废弃,结束,破除
+abolishment~n:废除,取消
+abolition~n:废除,废弃,废止
+a-bomb~n:原子弹
+abominable~a:可恶,可恨,恶劣,秽
+abominable snowman~n:雪人
+abominablebly~d:可鄙,可恶,讨厌,丑
+abominate~v:憎恨,嫌恶,厌恶,痛恨,憎恶
+abomination~n:憎恶,憎恨,可恶
+abonement~n:用户
+aboriginal~n:土著居民
+aboriginally~d:本来,原来
+aboriginals~n:土著
+aborigine~n:土著居民
+aborigines~n:土产,土人,土著
+abort~v:打胎,抑止,堕胎,失败,截止,退化
+aborticide~n:堕胎
+abortion~n:堕胎,人工流产,失败,小月,打胎,畸形|v:小产,流产
+abortive~a:未遂
+abouchement~v:注入
+abound~v:盛产,充满,富于,富有
+abound in~v:富于,盛产
+abound with~v:充满
+about~d:约,左右,差不多,可|p:前后,手头|a:流行,左右,周遭|n:光景,内外
+about equal~p:不相上下,相去无几
+about midnight~n:三更半夜
+about the same~p:差不多,不相上下
+about to~n:行将,欲,待
+about to materialize~v:有眉目
+above~p:超过,上面,以上,上,之上|n:上,上头|d:上级,上流,上述,上文,以上|a:前述|f:开外
+above all~p:最
+above and beyond~p:不止,超过
+above ground~p:在世
+above reproach~p:无可非议
+above sea-level~p:海拔
+above the average~p:高
+above the quota~p:超额
+above the rest~p:特别,格外
+aboveboard~d:公开,光明磊落|n:正大|a:明
+abovedeck~d:光明正大
+above-mentioned~a:上述
+abra~n:岩洞
+abracadabra~n:咒语,胡言乱语,诅咒
+abradant~n:腐蚀剂
+abrade~v:擦伤,磨损,磨耗,磨蚀,研磨,磨擦
+abrade wear~v:磨损
+abraham's bosom~n:天堂
+abrase~v:擦掉
+abrasion~n:磨蚀|v:擦伤
+abrasion resistant~a:耐磨
+abrasion wheel~n:砂轮
+abrasive~n:金刚砂
+abrasive cloth~n:砂布
+abrasive fabric~n:砂布
+abrasive finishing~n:磨光
+abrasive wear~n:磨蚀
+abrasive wheel~n:砂轮
+abrasiveness~n:磨耗
+abreact~v:发泄
+abreaction~n:发泄
+abreast~d:并排,并列
+abri~n:防空洞,岩洞,洞穴
+abridge~v:节本,摘要,削,节略,夺,缩写,省略|n:节
+abridged drawing~n:略图
+abridged edition~n:简编,简本
+abridgement~n:节本,削减,摘要,概略,缩减
+abroach~a:传播
+abroad~d:海外,到处,流行|a:外|n:国外
+abrogate~v:废,废止,结束
+abrogation~n:废除|v:终止
+abrosia~v:禁食
+abrupt~a:突然,突兀,陡峭,陡,冒失|v:突兀
+abrupt change~n:突变
+abrupt slope~n:陡坡
+abruption~n:断裂,分离,分裂
+abruptly~d:突然,猛,忽地,没头没脑,乍,勃然,骤
+abscess~n:脓肿
+abscise~n:脱落|v:割断
+abscissa~n:横轴
+abscissa axis~n:横轴
+abscission~n:脱落|v:脱落
+abscission of fruits~n:落果
+abscond~v:隐匿,卷逃,逃匿,潜伏,失踪,私逃,逃逸
+abscond to~v:逃往
+abscond with everything~v:席卷一空
+abscond with valuables~v:卷逃
+abscondence~n:逃走,失踪,逃亡
+absconding~v:潜伏
+absence~n:缺席,无,缺乏,缺少,缺,缺勤,心不在焉
+absence from duty~n:缺勤
+absent~v:缺席|a:无
+absent from~a:缺席
+absent oneself~v:抽身
+absent without leave~a:开小差
+absenteeism~n:旷工,缺勤,旷课
+absently~d:茫然
+absentminded~d:恍忽|a:昏头昏脑
+absent-minded~a:心不在焉,神不守舍
+absolute~a:绝对
+absolute altitude~n:绝对高度
+absolute being~n:神
+absolute control on~n:大权独揽
+absolute majority~n:绝大多数
+absolute monarchy~n:专制
+absolute sincerity~n:赤忱,赤诚,丹忱
+absolute value~n:绝对值
+absolute zero~n:绝对零度
+absolutely~d:绝对,绝,断然,百分之百|a:完全,百分之百|i:当然|v:断
+absolutely bored~v:万般无奈
+absolutely deny~v:矢口否认
+absolutely empty~a:空空如也
+absolutely fair~a:天公地道
+absolutely irreconcilable~a:不共戴天
+absolutely lifelike~a:维妙维肖
+absolutely necessary~a:必不可少
+absolutely not~d:绝不,决不
+absolutely preposterous~a:大谬不然,荒谬绝伦
+absolutely safe~a:万无一失
+absolutely still~a:纹丝不动
+absolutely vicious~a:万恶
+absolutely without merit~p:一无是处
+absolutely wrong~a:大错特错
+absoluteness~n:绝对,专制,完全
+absolution~n:宽恕,解除,免除
+absolutization~n:绝对性
+absolve~v:免除,宽恕,超生,解脱,出脱,解除
+absorb~v:并吞,承担,理解,忍受,吞没,占用,裹,合并,吸吮,吃,吮吸,同化,吞,吞食
+absorb heat~v:吸热
+absorb water~v:吃水
+absorbancy~n:吸收率
+absorbed~a:专心致志,专心一志
+absorbedly~d:一心
+absorbent~n:淋巴管
+absorbent cotton~n:药棉
+absorber~n:减震器
+absorbing rod~n:控制棒
+absorption~n:热中,合并,专心,专心一意,全神贯注,饮食
+absorption brake~n:制动器
+absorption of heat~n:吸热
+absorption of vibration~n:减震
+absorption spectrum~n:吸收光谱
+absquatulate~v:逃走,逃跑
+abstain~v:弃权,避免,忌食,戒除,断,放弃,避开,戒
+abstain from~v:忌食,避开,禁忌,断,戒,放弃,戒除
+abstain from speaking~v:默不作声
+abstainence~n:节制,禁欲
+abstemiously~d:适度
+abstemiousness~n:节制
+abstention~n:回避,克制
+absterge~v:洗净
+abstergent~n:泻药,洗涤剂
+abstersion~n:洗净,净化,洗涤
+abstinence~n:禁欲,节欲|v:节制
+abstinency~n:节制
+abstract~v:提炼|n:撮要|a:抽象,理论
+abstract labor~n:抽象劳动
+abstract thinking~n:抽象思维
+abstracted~a:茫然
+abstractedly~d:茫然
+abstractedness~n:出神,发呆
+abstraction~n:抽象,出神,发呆,提取
+abstractness~n:抽象性
+abstrict~v:脱落
+abstriction~n:分离,脱落
+abstruse~a:深奥,深邃,玄,微,奥,寥
+abstruse writing~n:天书
+absurd~a:荒唐,荒谬,可笑,荒诞,无稽,怪诞|v:岂有此理
+absurd argument~n:奇谈怪论
+absurd statement~n:不经之谈
+absurd theory~n:谬论
+absurdities~n:奇谈怪论
+absurdity~n:谬论,荒谬,奇谈怪论,无稽
+absurdness~n:讹谬
+abundance~n:大量,充足,充裕,富裕,盈余|a:充足
+abundant~a:丰富,充分,充裕,充沛,充足,裕,博,赡,富饶,沛,盎然,丰,阜,富足,殷,富|v:横溢,饶,腆,盛
+abundant harvest~n:丰收
+abundant in~a:富于
+abundantly~d:多
+abuse~v:虐待,欺骗|n:陋习
+abuse each other~v:对骂
+abuse wildly~v:漫骂
+abuses~n:流弊
+abusive words~n:恶语
+abusively~d:妄,滥
+abusiveness~n:虐待,滥用
+abut~v:毗连,接近,对接,毗邻,贴近
+abutment~n:接合,支座,接界,桥基,支柱,邻接
+abutment piece~n:桥台
+abuttal~n:紧接,邻接,接界
+abuttals~n:地界
+abutting joint~n:对接
+abuzz~a:热闹,活跃
+aby~v:偿,赎
+abye~v:赎,偿
+abysmal~a:深不可测|v:深不可测
+abyss~n:深渊,地狱|a:深渊
+abyss of suffering~n:火坑
+abyssinia~n:阿比西尼亚
+abyssinian~a:阿比西尼亚
+ac~n:交流电
+ac adaptor~n:整流器
+ac current~n:交流电
+acacia~n:刺槐
+academe~n:学术界,研究院
+academia~n:学术界
+academic~n:学人,大学生|a:学术
+academic association~n:学会
+academic attainments~n:学力
+academic chair~n:讲座
+academic journal~n:学报
+academic title~n:学衔,职称
+academic year~n:学年
+academical~a:学院
+academician~n:院士
+academy~n:学院,学会,研究院
+acaleph~n:水母
+acalephe~n:水母
+acantha~n:脊椎
+acanthaceouse indigo~n:箴
+acatastasia~a:反常
+accede~v:加入,同意,继承,答应,参加,允诺,依从
+accede to~v:加入,同意
+accelerant~n:触媒,催化剂
+accelerate~v:加速,加快,促进,催促
+accelerate the ripening~v:催熟
+accelerate the speed~v:快马加鞭
+accelerated speed~n:加速度
+accelerated velocity~n:加速度
+accelerating~v:加速
+accelerating germination~n:催芽
+accelerating machine~n:加速器
+accelerating unit~n:加速器
+acceleration~n:早熟,变速|v:加速
+acceleration of maturation~n:催熟
+accelerative~a:加速
+accelerator~n:加速器,油门
+accelerometer~n:速度计
+accent~n:腔调,音调|v:强调,重读
+accentuate~v:强调,重读
+accentuation~n:加重,强调,抑扬
+accept~v:承认,承担,相信,当,听,采纳,信,答应,受理,领受,留,纳,收纳,容纳,接办,理解,顺应,收容
+accept a challenge~v:应战
+accept as unavoidable~v:认
+accept bribes~v:受贿,贪赃
+accept defeat~v:屈服
+accept for carriage~v:承运
+accept the call~v:应召
+accept the challenge~v:应战
+acceptability~n:合意,适意,接受
+acceptable in society~a:无伤大雅
+acceptance~n:承兑,承诺|v:接受
+acceptance of persons~n:偏爱
+acceptation~n:意义,承认
+accepted~a:公认
+accepted theory~n:成说
+acceptor~n:接收器
+access~n:存取,访问,门,入口,通路|v:接近
+access board~n:便桥
+access door~n:便门
+access right~v:使用权
+access trunk~n:舱门
+accessary~n:帮凶,同谋|v:同谋
+accessibility~n:可亲
+accession~n:继承,同意,增加,接近,参加
+accessories~n:附属品
+accessory~n:从犯|a:从
+accessory criminal~n:从犯
+accessory nerve~n:副神经
+accessory offender~n:从犯
+accessory punishment~n:从刑
+accidence~n:初步,岔曲儿
+accident~n:意外,偶然,不幸,灾难,差池,长短,高低,岔,闪失,灾害|a:不测,意外|v:突变|c:故
+accidental~v:无意,飞|a:附属
+accidental injury~n:误伤
+accidentally~d:偶然,意外,附带|a:偶然
+accidentally injure~v:误伤
+acclaim~v:喝彩,夸赞,有口皆碑,称誉,叹,称赞|n:喝采
+acclamation~n:称赞,叫好,欢呼
+acclimate~v:适应
+acclimation~n:驯化|v:驯化
+acclimatization~n:驯化
+acclivity~n:斜坡
+accmmplishment~n:发迹
+accolade~n:表扬,迎接,嘉奖,接吻
+accommdate~v:供应
+accommodate~v:贷,住,迁就,通融,收容,招待,装载,调解,排解,顺应,迎合,供给,便利,留宿
+accommodate oneself to~v:迁就,牵就,就
+accommodating~a:圆通
+accommodation~n:和解,设备,接待,调解,适应,调节,迁就,便利,通融,随波逐流,供给,船位,将就,顺应,排解,贷款,调停|v:调节
+accommodation bill~n:空头支票
+accommodation for guests~n:馆
+accommodation kite~n:空头支票
+accommodation ladder~n:舷梯
+accommodation train~n:慢车
+accomodate~v:留宿
+accomodated student~n:住读生,住校生
+accompanied by~a:偕同
+accompaniment~n:随着,附属物
+accompanist~n:琴师
+accompany~v:送,随行,附有,作伴,做伴,伴唱,伴同,衬
+accompany a guest~v:陪客
+accompany each other~v:交加
+accompany in singing~v:唱和
+accompany with dancing~v:伴舞
+accompanying sound~n:伴音
+accomplice~n:共犯
+accomplish~v:达到,就,成,作为,实行,贯彻,做成,办到
+accomplish something~v:成事
+accomplished fact~n:既成事实
+accomplishment~n:才能,技能,修养,教养,实行,履行|v:执行
+accord~n:一致|v:符合,给予,调解|a:和谐
+accord lenient treatment~n:宽待
+accord permission~n:获准
+accord with~n:契合,符
+accordance~n:据,协调,给予,风琴,依照
+accordant~a:谐和
+according~v:照,按,据,依
+according as~c:按照,根据
+according to~p:按照,比照,以,根据,据,照着,遵照,依据,照,本着,如,按,基于,依照,本,依
+according to facts~p:据实
+according to law~p:依法
+according to legend~p:相传
+according to order~p:挨次
+according to priority~p:依次
+according to reason~p:按理
+according to seniority~p:按资排辈
+accordingly~d:于是,因此,随着,所以,据此
+accordion~n:手风琴
+accost~v:搭讪,搭话,招呼,勾引
+accouche~a:助产
+accouchement~n:分娩,生产|v:分娩
+accoucheuse~n:助产士
+account~n:账目,账户,叙述,考虑|v:叙述
+account book~n:簿籍,帐
+account for~n:交代,得分,打死,打落,解释,说明,占,证明
+account name~n:户名
+account purchase~n:赊购
+account sales~n:赊销
+account settled~n:清算,决算
+account settlement~n:结算
+account valuation~n:估价
+accountability~n:责任制
+accountancy~n:会计
+accountant~n:帐房,账房,出纳
+accountant office~n:会计室
+accountant's office~n:帐房
+accounting~n:记账,账
+accounting machine~n:计算机
+accouterment~n:饰物,装备
+accoutrement~n:装备,衣服
+accra~n:阿克拉
+accredit~v:委任,派驻,听信,认可,授权,委派,相信
+accrete~v:共生,生长,增大
+accretion~n:增大,增生,生长,粘连|v:增生,生长
+accrual~n:增加,增殖|v:获利,增殖
+accrue~v:发生,增长
+acculturate~v:社会化
+accumualte~v:累加
+accumulate~v:积蓄,存储,存,攒,汪,委,累,蕴,贮,滚存,储蓄,敛,储存
+accumulate manure~v:积肥
+accumulate points~v:积分
+accumulate virtue~v:积德
+accumulation~n:堆积,积聚,滚存,累加,蓄电池|v:蓄积,堆积,聚集,积聚
+accumulation of heat~n:蓄热
+accumulation of snow~n:积雪
+accumulative total~n:累计
+accumulator~n:存储器,缓冲器
+accumulator cell~n:蓄电池
+accuracy~n:精度,正确,音准,准头
+accurate~a:精确,准确,准,精密,灵验,凿,不爽
+accurate count~n:精打细算
+accurately~d:如实
+accurateness~n:精确度
+accusation~n:罪状,责备,辞讼,告发,谴责,非难
+accuse~v:指责,指控,控,谴责,攻击,非难,攻,诉,告,弹劾,检举,起诉
+accuse amid fears~v:泣诉
+accuse definitely~v:一口咬定
+accuse while weeping~v:泣诉
+accuser~n:原告
+ace~n:能手,么,尖子,好手,毫厘,专家
+acedia~n:懒惰,麻痹
+acequia~n:水渠,水沟
+acerbate~v:激怒
+acerbic~a:涩,酸性|n:酸性
+acerbity~n:苦涩,酸味
+acescency~v:发酸
+acescent~v:发酸
+acetabulum~n:吸盘
+acetaldehyde~n:乙醛
+acetaminophen~n:扑热息痛
+acetate fiber~n:醋酸纤维
+acetic~a:醋
+acetic acid~n:乙酸
+acetic aldehyde~n:乙醛
+acetin~n:醋精
+aceton acid~n:乙酸
+acetone~n:丙酮
+acetonum~n:丙酮
+acetophenetidin~n:乙酰
+acetous~a:酸
+acetum~n:醋
+acetyl~n:乙酰
+acetylcholine~n:乙醛
+acetylene~n:乙炔,电石气
+acetylene lamp~n:矿灯
+acetylene welding~n:气焊
+acetylsalicylic acid~n:阿司匹林
+achates~n:玛瑙
+ache~v:疼痛,疼,渴望|a:疼痛,痛|n:痛
+ache slightly~v:发酸
+achelous~n:河神
+achene~n:瘦果
+achenium~n:瘦果
+acheomycin~n:四环素
+acheron~n:黄泉,地狱,阴间
+achieve~v:成就,获,获取,致,奏,造,收到
+achieve instant fame~v:一举成名
+achieve nothing~v:一事无成
+achieve one's ambition~v:得志
+achieve prosperity~v:致富
+achieve with honor~v:荣立
+achievement~n:达到,功绩,业绩,成,完成,武功,绩,名堂,造诣,战绩,勋,成果,功
+achievements~n:效益,造就,成就
+achievements in war~n:汗马功劳
+achievemnt~n:绩
+aching~a:痛,酸痛,酸溜溜
+achromatic colour~n:无色
+achromaticity~n:无色
+achromatopsia~n:色盲
+acicula~n:针,刺,鬃毛
+acicular~a:针状
+aciculiailvae~n:针叶林
+acid~a:酸,酸性|n:迷幻药
+acid looks~n:苦脸
+acid radical~n:酸根
+acid rain~n:酸雨
+acid rock~n:酸性岩
+acid salt~n:酸式盐
+acid treating~n:酸处理
+acid value~n:酸值
+acidate~v:酸化
+acidation~n:酸处理
+acidic property~n:酸性
+acidification~n:发酸|v:酸化
+acidify~v:酸化
+acidifying~v:酸化
+acidism~n:酸中毒
+acidismus~n:酸中毒
+acidity~n:酸度,酸性,酸味
+acidize~v:酸处理,酸化
+acidness~n:酸性
+acidosis~n:酸中毒
+acidproof~a:耐酸
+acid-proof~a:耐酸
+acid-resistant~a:耐酸
+acid-resisting~a:耐酸
+acid-stage~a:酸性
+acid-treated~a:酸处理
+acidulate~v:酸化
+acidum~n:酸
+ack-ack~n:高射炮
+ackemma~n:上午
+acker~n:涟漪
+acknowledge~v:感谢,供认,确认,认,拜,公证
+acknowledge defeat~v:服输
+acknowledge one's guilt~v:认罪
+acknowledge one's indebtedness~v:申谢
+acknowledge sincerely~v:心服
+acknowledge the applause~v:谢幕
+acknowledgement~n:谢意,感谢,收条,供认
+a-class goods~n:正品
+acme~n:极盛,尖端,成熟期,极点,极度
+acne~n:痤疮,粉刺
+acne rosacea~n:酒糟鼻,酒渣鼻
+acnode~n:顶点,极点
+acolasia~v:放纵
+acolyte~n:沙弥,助手,侍者,卫星
+aconite~n:乌头
+acor~a:辛辣
+acorn~n:橡实
+acoustic~n:音质
+acoustic board~n:隔音板
+acoustic energy~n:声能
+acoustic frequency~n:声频
+acoustic image~n:镜象
+acoustic noise~n:噪声
+acoustic pick-up~n:电唱头
+acoustic speed~n:声速
+acoustic standard~n:音准
+acoustic velocity~n:声速
+acoustician~n:声学家
+acousticon~n:助听器
+acoustics~n:音响效果,声学,音响
+acqierement~n:才艺
+acquaint~v:认识,了解
+acquaint oneself with~v:了解
+acquaint with~v:认识
+acquaintance~n:交,了解,心得,雅,知识|v:了解|c:故
+acquaintanceship~n:认识,相识
+acquainted~v:相识
+acquiesce~v:默认,默许
+acquiesce in~v:默认,默许
+acquiescence~n:默许,默认
+acquire~v:养成,得,获取,添置,招致,养,捕获
+acquire wealth~v:致富
+acquired~a:后天
+acquired character~n:获得性
+acquirement~n:取得,技艺,获得
+acquiring~v:瞄准
+acquisition~v:搜索,探测,获得|n:探测
+acquistion~n:获得|v:获得
+acquit~v:履行,开释,付清,还清,出脱
+acquittal~n:履行,清偿,开释
+acquittance~n:付清,还清,解除
+acre~n:土地,大量,耕地,田地
+acreage~n:面积
+acrid~a:辛辣,刻毒
+acridid~n:蝗虫
+acridity~n:腐蚀性,刻毒,苦,狠毒|a:辛辣
+acrimonious~a:尖刻,尖酸,酸溜溜
+acrimony~n:毒辣,苦味,激烈
+acroaesthesia~v:过敏
+acrobatic band~n:杂技团
+acrobatic fighting~n:功夫
+acrobatics~n:百戏
+acrobatism~n:杂技
+acrocephaly~n:尖头
+acroleic~a:丙烯
+acroleic acid~n:丙烯酸
+acronize~n:金霉素
+across~d:交叉,越过,过,阔,穿过,对过,宽,斜对面|p:过,穿过,横,越过,经过|f:过
+across chest~p:胸围
+across corner~p:对角
+across corners~p:对角
+across from~p:对面,在_对面
+across the way~p:对面,对过
+across vast oceans~p:远涉重洋
+acrosthesia~v:过敏
+acrylic~n:晴纶
+acryloid~n:丙烯酸
+act~v:做,行事,为,扮演,表演,作,充当,演戏|n:决议
+act absurdly~v:胡作非为
+act against~v:违反
+act against reason~n:横行霸道
+act arbitrarily~v:独断独行,一意孤行,专横跋扈
+act arrogantly~v:蛮不讲理
+act as~v:做,扮,作,充当,扮演,充,为
+act as agent~n:代理
+act as deputy~n:署理,署
+act as doorkeeper~n:看门
+act as go-between~n:撮合,搭线,捏合,拉纤,牵线,牵线搭桥
+act as liaison~n:穿针引线
+act as matchmaker~n:作伐,搭线,说媒
+act as match-maker~n:说亲
+act as operator~n:主刀
+act as procurator~n:代理
+act as referee~n:裁判
+act blindly~v:盲动
+act by piecemeal~v:零打碎敲
+act contrary to~v:违犯,背
+act dictatorially~v:独断独行
+act drop~n:幕布
+act dumb~v:打马虎眼
+act dutifully~v:安分守己
+act for~v:摄,代理
+act from inside~n:卧底
+act funnily~v:出洋相
+act heedlessly~v:直情径行
+act immediately~v:闻风而动
+act impetuously~v:感情用事
+act in charge~n:尸
+act in collaboration~n:串通一气
+act in collusion~n:串供
+act in contravention~n:反其道而行之
+act in cooperation~n:前呼后应,呼应
+act in corporation~n:前呼后应
+act in responses~n:相应
+act indecently~v:耍流氓
+act indecently towards~v:猥亵
+act independently~v:别树一帜,独立自主
+act like overlords~n:飞扬跋扈
+act obsequiously~v:奴颜婢膝
+act of god~n:不可抗力
+act of grace~n:大赦令
+act of violence~n:凶,暴行
+act on~v:遵奉,践,遵行,作用
+act on impulse~n:意气用事
+act one mad~v:疯疯癫癫
+act ostentatiously~v:招摇
+act out~v:演出
+act outrageously~v:肆无忌惮
+act perfidiously~v:背信弃义
+act precipitately~v:操之过急
+act pretentiously~v:作态
+act rashly~v:盲干,轻举妄动
+act recklessly~v:乱来,蛮干,肆行
+act retroactively~v:追
+act secretively~v:鬼鬼祟祟
+act senselessly~v:瞎闹
+act servilely~v:卑躬屈节
+act stupidly~v:糊里糊涂
+act the yes-man~v:阿谀奉承
+act truculently~v:横行霸道
+act under orders~n:奉命唯谨
+act up~v:失灵,耍脾气
+act up to~v:履行,遵守,准
+act upon~v:照办
+act vigorously~v:奋
+act violently~v:横行霸道
+act wantonly~v:黩
+act willfully~v:各行其是,为所欲为,自行其是,一意孤行
+act with confusion~n:手忙脚乱
+act with prudence~n:三思而行
+act with self-assurance~n:师心自用
+act wrongly~v:徇情
+actfivty~n:举动
+acting~n:演出,演戏|a:代理,演出|v:代
+acting collusion with~n:朋比为奸
+acting force~n:作用力
+acting skill~n:演技
+acting surface~n:工作面
+actinia~n:海葵
+actinic~a:光化
+actinism~n:光化作用
+actinium~n:锕
+actinochemistry~n:光化学
+actinograph~n:辐射仪
+actinolite~n:阳起石
+actinology~n:光化学
+actinomyces~n:放线菌
+actinomycin d~n:更生霉素
+actinozoan~n:珊瑚虫
+action~n:措施,举动,活动,诉讼,作为,情节,战事,效应,姿势,机能,态度,手段,表演,赌博,业|v:动,战斗
+action body~n:机身
+action slow~n:慢动作
+action stations~n:各就各位
+activate~v:搞活,创设,起动,开动,触发,激化,建成,成立
+activate carbon~v:活性碳
+activate collateral flow~v:活络
+activated~a:活性
+activated carbon~n:活性碳
+activating~v:激发
+activation~a:激动|n:活化
+activator~n:催化剂
+active~a:活跃,积极,活性,活,现行,活泼|v:激活|n:积极分子
+active capital~n:流动资金
+active carbon~n:活性碳
+active criminal~n:现行犯
+active element~n:积极分子
+active face~n:掌子面
+actively participating~n:实职
+activeness~n:活跃
+activism~n:能动性
+activist~n:积极分子,活动家
+activity~n:活性,活跃,功能,活动性,活力,机构,动静,机能,主动性,功率,举动
+activity zeal~n:积极性
+activize~v:激起
+actor~n:演员,艺人,原告
+actor's headgear~n:头套
+actor's lines~n:台词,戏词,戏文
+actor's part~n:戏词
+actress~n:坤角儿
+actress in opera~n:女优
+actual~a:现实,活生生
+actual budget~n:决算
+actual number~n:实数
+actual price~n:实价
+actual range~n:射程
+actualise~v:实现
+actualism~n:现实主义
+actuality~n:现实,现存,现实性,现状
+actualization~n:实现
+actualize~v:实现,实行
+actually~d:其实,竟然,竟,真,究竟,现在,硬是,竟会,果,如今
+actuary~n:记录员
+actuate~v:驱动,激励,开动,推动,鼓动,启动
+actuated valve~n:控制阀
+actuating~v:启动
+actuation~n:动作,驱使,激励,开动,刺激
+actuator~n:调节器
+acuity~n:剧烈,尖锐,敏锐
+aculeus~n:刺
+acumen~n:慧眼
+acumination~n:尖头,尖锐
+acupoint~n:穴位,孔穴,穴道
+acupuncture~n:针,针灸,针刺|v:针刺
+acupuncture anesthesia~n:针刺麻醉
+acupuncture point~n:腧穴,穴
+acupuncture treatment~n:扎针
+acute~a:急性,敏锐,尖锐,灵敏,激烈,剧,尖
+acute abdominal disease~n:急腹症
+acute communicable diseases~n:温
+acute disease~n:急症
+acute gastroenteritis~n:霍乱
+acute hearing~n:聪
+acute infantile convulsions~n:急惊风
+acute pain~n:剧痛
+acute throat trouble~n:喉风
+acuteness~n:敏锐,锐利,剧烈
+acyl~n:酰
+ad~n:到,根据,达
+ad column~n:广告栏
+ad hoc~a:为此,特设|n:特设
+ad infinitum~a:无限
+ad lib~n:随意
+ad referendum contract~n:草约
+adage~n:古话,格言,老话,俗话,谚
+adam~n:亚当
+adamancy~n:坚强
+adamant~v:宁折不弯,牢不可破|n:金刚石|a:坚强不屈
+adamantine spar~n:刚玉
+adamas~n:金刚石
+adam's apple~n:柚,结喉
+adapt~v:适应,修改,改
+adapt to~v:随,适应
+adaptability~n:适应性
+adaptability in tactics~n:权变
+adaptable to~a:适应
+adaptable to circumstances~a:能屈能伸
+adaptation~n:改编,改写本,顺应,同化
+adaptation to circumstances~n:权变
+adapter~n:适配器,连接器,拾音器
+adapter connector~n:接头
+adapter coupling~n:转接
+adapteror~n:接头
+adaption~n:适应
+adaptor~n:插座
+adcolumn~n:广告栏
+ad-craft~n:广告业
+add~v:增加,加入,对,补充,加上,相加,合计,加添,追加,附,加料,累积,续,补发,添设,追补,搭,拢,统计,获得
+add luster to~v:生色,锦上添花,增光
+add lustrous to~v:增色
+add more furniture~n:添设
+add pressure to~v:加压
+add supplement~n:补
+add to~v:相加,追补,追加,增加,傅
+add together~v:相加
+add up~v:拢,统计
+add up to~v:合,总计,合计
+added~a:额外
+added value~n:增值
+addend~n:被加数
+addendum~n:附表
+adder~n:加法器
+addict~v:耽于
+addiction~n:上瘾,热中,毒瘾
+add-in~n:附件
+adding~v:计算
+adding device~n:加法器
+adding the trimmings~n:添油加醋
+addis ababa~n:亚的斯亚贝巴
+addition~n:加,相加,添加,追加,头衔,称号|v:添加
+additional~v:补充,附加|a:额外
+additional allocation~n:增拨
+additional note~n:附笔
+additionally~d:又,加之
+additive~v:附加|n:添加物
+additive agent~n:添加剂
+addle pate~v:糊涂虫
+addlebrained~a:昏头昏脑
+addlehead~n:糊涂虫,愚笨
+address~v:讲话|n:献殷勤,致辞
+address inquiries to~n:质询
+address list~n:通讯录
+address somebody respectfully~v:尊称
+addressee~n:收件人
+addresser~n:发言人
+addressing~v:访问
+adduce~v:提出,举出,引证,提供,引用
+adduct~v:聚集,汇集
+adduction~n:引用,引证
+ade~n:果汁
+adeciduous plant~n:常绿植物
+ademonia~a:紧张,苦闷
+aden~n:亚丁
+adept~n:熟手,内行,名手|a:拿手
+adequacy~n:恰当,合适,适当
+adequate~a:充足,够,恰当
+adhere~v:坚持,粘住,粘,粘连,粘着,粘附,遵循,附着,依附,粘合,追随,附
+adhere to~v:附,丽,粘,附着,依附,遵循
+adherence~n:坚持,粘附,固执,粘着|v:附着
+adherent~n:追随者,党羽,门徒,门下
+adherents~n:徒子徒孙,党羽
+adhering~v:附着
+adhesion~n:粘着,粘附,粘连,同意,追随,附着,加入,胶着,信奉|v:粘着,附着,粘合
+adhesion force~n:附着力
+adhesive~a:粘|n:粘合剂
+adhesive plaster~n:膏药,橡皮膏,膏子
+adhesive substance~n:附着物
+adhesive tape~n:胶带
+adhesive-bonded panel~n:胶合板
+adhesiveness~n:粘性
+adhibit~v:用,贴,服
+adiabat~v:绝热
+adiaphorous~a:中立,不偏不倚
+adieu~n:辞别,再见|i:再会,一路平安
+adios~i:再见
+adipocere~n:尸蜡
+adiposis~n:肥胖症
+adiposity~a:肥胖|n:肥胖
+adit~n:坑道
+adjacency~n:邻接,接近,毗邻
+adjacent~a:邻|v:相邻
+adjacent angle~n:邻角
+adjacent angles~n:邻角
+adjacent to~a:接近,邻近
+adject~a:卑下
+adjective~n:形容词
+adjoin~v:接壤,毗邻,依附,附上,邻,毗,相邻,粘连,加上
+adjoining~a:隔壁,相邻,邻
+adjoining farmland neighbor~n:地邻
+adjoining neighbor~n:紧邻
+adjoint~v:伴随
+adjourn~v:休庭,散会,闭会,停止,休
+adjourn a meeting~v:闭会
+adjournment~n:延期,散会,闭会
+adjudge~v:判定,裁定,认为,断定
+adjudgement~n:判定,宣告,判决,定罪
+adjudgment~n:宣判
+adjudicate~v:评判,裁定,裁断
+adjudicate verdict~v:裁决
+adjudication~v:裁决,裁定|n:判决
+adjunct~n:附加语,助手,附属物,修饰语,副手
+adjunction~n:附加,添加|v:添加
+adjuration~n:恳请
+adjure~v:恳求,恳请
+adjust~v:适应,整,对,整理,评定,排解,调解,调,核算,校准,整肃,符合,整顿,矫正,顺应,调停
+adjust accounts~v:核算
+adjust price~v:调价
+adjust the price~v:调价
+adjust to~v:符合,适应
+adjust wages~v:调资
+adjustable~a:伸缩|v:伸缩
+adjustable valve~n:调节阀
+adjuster~n:调节器
+adjusting~v:调整,校准
+adjustment~v:调解,调节,调整,校正|n:清算,校正
+adjutant~n:副官
+adjuvant~n:助理员,助手
+admeasure~v:分配
+admeasurement~n:测量,分配,尺度,大小|v:测定,测量
+adminiculum~n:支座
+administer~v:实施,有助于,职,艾,支配,辅助,辖,处理,代办,供给,下药,知,统制,厘,听,治,承办,管,施行
+administer justice~v:惩处
+administer to~v:有助于
+administrate~v:管理,支配
+administrate for the owner~v:代管
+administration~n:管理,经营,市政,政,掌管,施政,施行,局|v:管理
+administration area~n:行政区
+administration office~n:行政公署
+administration party~n:执政党
+administration village~n:行政村
+administrative area~n:行政区
+administrative march~n:旅次
+administrative office~n:管理处,行署
+administrative policy~n:政策
+administrative power~n:管理权
+administrative system~n:保
+administrator~n:管理员,理事
+admirable~a:可贵
+admirably wonderful~a:石破天惊
+admiral~n:将军,上将
+admiralty~n:制海权
+admiralty cloth~n:海军呢
+admiralty mile~n:海里
+admiration~n:羡慕,赞叹,佩服,美谈
+admire~v:称赞,赞赏,崇拜,敬仰,夸奖,佩,叹赏,慕,赏,仰,褒奖,嘉,惊异,倾心,想望,景,思慕|a:艳
+admire deeply~v:叹服
+admire in vain~v:临渊羡鱼
+admire passionately~v:渴慕
+admire with surprise~v:惊羡
+admired by everybody~v:有目共赏
+admirer~n:情人
+admissibility~n:准许
+admission~n:承认,入场费,接纳,坦白,招认,首肯
+admission card~n:借书证
+admission intake~n:进口
+admission ticket~n:门票,入场券
+admit~v:承认,进入,录取,容许,认,接待,通向,吸收,收容,发展,接收|n:认罪
+admit into~v:进入
+admit no delay~v:刻不容缓
+admit of~v:容许
+admit one's guilt~v:服罪,伏罪,认罪
+admit somebody's superiority~v:心服口服
+admit to~v:承认,录取
+admittance~n:导纳,通道
+admittedly~d:固然,固|c:固然
+admitting that~n:即使,虽说
+admix~v:掺和
+admixer~n:混合器
+admixture~n:混合物,合剂,搀合
+admonish~v:劝告,规劝,训诫,诫,警告,忠告,规谏,规,戒,告戒
+admonish repeatedly~v:谆谆告诫
+admonition~n:训诫,忠告,警告
+adnexal~a:附件
+ado~n:纷扰,骚扰,费力
+adobe~n:砖坯,土坯,坯
+adolesce~v:成长
+adolescence~n:青春期,青春
+adolescent~n:青少年,少年,少女
+adolf hitler~n:希特勒
+adominal distension~n:腹胀
+adonis~n:美男子
+adonize~v:打扮
+adopt~v:通过,认,沿用,领,接纳,取,借用,过继,选定,采,抱养,承袭,立
+adopt a baby~v:抱
+adopt full measures~v:釜底抽薪
+adopted~v:寄
+adopted child~n:养子,义子
+adopted daughter~n:养女
+adopted father~n:养父
+adopted idea~n:义子
+adopted mother~n:养母
+adopted son~n:螟蛉,继嗣
+adoption~n:采纳,过继,接受,指定,继嗣,借用
+adoptive~a:养,义|v:养
+adoptive father~n:养父,义父
+adoptive mother~n:养母
+adorableably~d:敬重,可爱
+adorably~d:崇拜
+adoration~n:敬慕,爱慕,礼拜,敬爱,崇敬
+adore~v:崇敬,慕
+adorn~v:点缀,饰,打扮,佩戴,装,妆饰,装点
+adornment~n:装饰,妆饰
+ad-rate~n:广告费
+adrenal~n:肾上腺
+adrenal body~n:肾上腺
+adrenal gland~n:肾上腺
+adrenal glands~n:肾上腺
+adrenalin~n:肾上腺素
+adrenaline~n:肾上腺素,肾上腺
+adret~n:山阳
+adreto~n:山阳
+adriatic~n:亚得里亚海
+adriatic sea~n:亚得里亚海
+adrift~d:飘零,漂浮|v:飘零
+adrm~n:机场
+adry~a:干,渴
+adscription~n:隶属
+adsorb~v:吸附
+adsorbent~n:吸附剂
+adsorbing material~n:吸附剂
+adsorption~n:吸附|v:吸附
+adsum~v:到
+adtretto~n:山阳
+adulate~v:奉承
+adult~n:人,大|v:成年
+adulterate~v:掺,兑,以假乱真,掺杂
+adulteration~n:搀杂,掺假,伪造,掺杂,冒牌货
+adulterer~n:奸夫,姘夫
+adulteress~n:奸妇
+adulterine~a:私生子
+adulterous~a:私通
+adultery~n:私通,奸情|v:通奸
+adulthood~n:成年,成年期
+adultness~n:成熟
+adumbrate~v:遮蔽,勾画,轻描淡写,暗示,预示
+adumbrating~v:轻描淡写
+adumbration~n:勾画,轮廓,草图,阴影,轻描淡写,预示
+adustion~n:可燃性
+advance~v:进步|n:晋升,向上,预付,增进,腾贵|d:事先,预先|c:进步|a:将
+advance booking~v:预售
+advance bravely~v:奋进
+advance copy~n:样本
+advance courageously~v:一往无前
+advance despite difficulties~n:知难而进
+advance expenditure~n:垫支
+advance forward~v:奋飞
+advance freely~v:畅行无阻
+advance guard~n:前锋
+advance in cash~n:垫款
+advance irresistibly~v:势不可挡
+advance notice~n:安民告示,预告
+advance on~v:进逼,进击
+advance party~n:先遣队
+advance payment~n:预付款,定金,垫付
+advance print~n:试样
+advance rapidly~v:突飞猛进
+advance rashly~v:冒进
+advance report~n:预报
+advance sheet~n:样张
+advance sheets~n:样张,样本
+advance steadily~v:稳步前进
+advance together~v:齐头并进
+advance too quickly~v:操之过急
+advance unchecked~v:长驱直入
+advanced~a:高深,发达
+advanced copy~n:样本
+advanced country~n:发达国家
+advanced in years~n:高龄
+advanced position~n:上游
+advanced rank~n:高级
+advancement~n:促进,进步,发达,预付,进展,升级
+advancing~v:超前
+advancing in line~n:并驾齐驱
+advantage~n:有利,利,长处,上风,优胜|v:有助于,有利于
+advantage over~n:优于
+advantageous~a:有利|v:占便宜
+advantageous conditions~n:温床
+advantageous position~n:权
+advantageousness~n:优势
+advection~n:对流
+advent~n:到来,来临|v:到来
+adventitious root~n:不定根
+adventure~n:奇遇,投机|v:冒险,碰运气
+adventure film~n:惊险片
+adventurer~n:冒险家
+adventurism~n:冒险主义
+adventurous henchman~n:急先锋
+adverb~n:副词
+adverbial~a:副词
+adverbial modifier~n:状语
+adversary~n:对头
+adverse~a:相反
+adverse balance~n:逆差
+adverse current~n:逆流
+adverse effect~n:反作用
+adverse fate~n:厄运
+adverse trade balance~n:入超
+adversely~d:不利,逆,不幸
+adverseness~n:反对,不幸,逆
+adversity~n:逆境,不幸,患难,厄运,难,灾,苦难,厄
+advert~v:注意,留意,提到
+advertence~n:留意
+advertency~n:留意
+advertise~v:通告,通知,征聘,鼓吹,标榜
+advertise for~v:征聘
+advertise oneself~v:吹嘘,自我标榜
+advertisement~n:告示,公告
+advertising~n:广告业
+advertising expense~n:广告费
+advice~n:意见,指教,通知,报告
+advice subject~n:谋臣
+advices~n:报道
+advisability~n:得当,适当,明智
+advisable~a:可取
+advisably~d:得当,适当
+advise~v:忠告,商量,劝说,嘱,告诫,劝导,开导,规劝,训诫,规,开解,通告
+advisement~n:考虑,忠告,劝告,意见
+adviser~n:参谋,导师,参事
+advisory~a:顾问团|n:报告
+advitant~n:维生素
+advocacy~n:鼓吹,主张,辩护
+advocate~v:拥护|n:主
+advocator~n:鼓吹者
+adynamia~n:衰竭,虚弱,衰弱,无力
+adytum~n:密室
+adz~n:锛子
+adze~n:锛,锛子
+aegean~n:爱琴海,爱琴
+aegean sea~n:爱琴海
+aegis~n:赞助,主办,庇护,掩护
+a-energy~n:原子能
+aeolotropism~n:各向异性
+aeolotropy~n:各向异性
+aeolus~n:风神
+aerate~v:充气,吹风,通气
+aeration~n:通气,充气,吹风,换气|v:换气
+aerial~a:空中,空气
+aerial acid~n:碳酸
+aerial battle~n:空战
+aerial castle~n:空中楼阁
+aerial combat~n:空战
+aerial current~n:气流
+aerial delivery~n:空投
+aerial engagement~n:空战
+aerial ladder~n:云梯,天梯
+aerial navigator~n:飞行员
+aerialist~n:马戏团
+aeriality~a:空虚
+aerie~n:巢,孩子
+aerification~n:气化,充气
+aerify~v:气化,充气
+aero~a:飞机,飞行,飞船
+aeroacoustics~n:声学
+aerobat~n:航空器,飞行器
+aerobic fermentation~n:发酵
+aerobic gas~n:好气
+aerobics~n:健美操
+aeroboat~n:水上飞机
+aerobond~n:环氧树脂
+aerobus~n:班机
+aerocraft~n:飞机,航空器
+aerodone~n:滑翔机
+aerodrome~n:机场,飞机场
+aerodynamic force~n:气动力
+aerofluxus~v:泄气
+aerofoil~n:机翼,翼型
+aerogams~n:显花植物
+aerogram~n:无线电报
+aerogramme~n:无线电报
+aerogun~n:高射炮,航炮
+aerohydroplane~n:水上飞机
+aerolite~n:陨石
+aerolith~n:陨石
+aeronautics~n:航空学
+aerophone~n:扩音器,助听器,管乐器
+aeroplane~n:机
+aeroplane shed~n:飞机库
+aeroport~n:机场,飞机场
+aeroshed~n:飞机库
+aerosiderite~n:陨铁
+aerospace~n:航天,航空
+aerosphere~n:大气
+aerostat~n:航空器
+aerostats~n:气囊
+aerotrack~n:飞机场
+aerotransport~n:运输机
+aerovane~n:风车
+aerugo~n:铜绿
+aestates~n:晒斑
+aesthema~n:感觉
+aesthesia~n:感觉,知觉
+aesthesis~n:感觉
+aesthetic~a:美学
+aesthetic standards~n:审美观
+aestheticism~n:美感
+aesthetics~n:美学
+aestivate~n:夏眠|v:夏眠
+aestivation~n:夏眠
+aether~n:太空,苍天
+aetiology~n:病因
+aetite~n:褐铁矿
+af~n:视频
+afar~d:远,遥远
+affability~n:和蔼,温柔
+affable~a:和蔼可亲,和蔼
+affair~n:事,事件,事态,事儿,东西,艳遇,务,物品
+affair of honor~n:决斗
+affairs~n:事务,是|v:是
+affairs of state~n:国事
+affect~v:作用,关系,好,作,牵动,冒充,作态|n:感情,情感
+affect a show~v:装模作样
+affectation~n:矫揉造作,装模作样,假装,做作
+affected~v:做作,酸文假醋|a:矫揉造作
+affected airs~n:装模作样
+affected smile~n:诡笑
+affectedly moral~a:道学
+affectedly sweet~a:娇滴滴,嗲
+affection~n:爱,爱情,爱慕,情感,喜爱,慈爱,好感,作用,情思,性情,爱心|v:爱慕
+affection by cold~n:伤寒
+affectionate~a:爱,多情,亲热,恩爱,绸缪,蜜里调油,温存|v:钟情
+affectionately~d:亲爱的,脉脉
+affectionately soft eyes~n:脉脉含情
+affective tone~n:情调
+afferent~a:向心
+afferent nerve~n:传入神经
+affiance~n:信托,婚约,信用,誓约|v:订婚
+affianced to somebody~a:许
+affiche~n:招贴
+affidavit~n:结
+affiliate~v:加入,参加,联合|n:分会,会员
+affiliate country~n:附庸国,附属国
+affiliated~v:附属
+affiliated to ministry~a:部属
+affiliation~n:入会,加入,溯源
+affine cudweed~n:清明菜
+affinity~n:近似,吸引力,类似
+affirm~v:肯定,断言,确认,证明,维持,证实,认定,批准
+affirmance~v:断言
+affirmation~n:肯定,断言,证实,批准,确认
+affirmative~n:肯定|a:肯定
+affirmative votes~n:赞成票
+affirmatively~d:断然
+affix~v:盖,附上,粘贴|n:附件
+affix one's seal~v:盖章
+affix one's signature~v:具名,签字
+affixture~n:贴
+afflatus~v:吸气|n:灵感
+afflict~v:苦恼
+affliction~n:不幸,折磨,忧伤,困苦,哀伤|v:折磨
+affluence~n:丰富,富足,汇集,流入,富饶
+affluent~a:富足
+afflux~n:充血,汇集
+afford~v:提供,生产,供给,给与,产
+affording general satisfaction~n:大快人心
+afforest~v:绿化,造林,植树
+afforestation~n:造林,绿化
+affranchise~v:释放
+affray~n:斗殴,打架,纷争|v:吓唬
+affreight~v:包租
+affricate~n:塞擦音
+affright~v:吓,惊吓|n:惊吓,恐怖
+affront~v:冲犯,侮辱
+afghanistan~n:阿富汗
+aficionado~n:迷
+afield~d:远离,迷路,离乡背井
+afire~d:燃烧
+aflame~d:发亮
+afloat~d:流通,传播,流行,散播
+aflutter~d:鼓动,飘扬,激动|a:飘扬
+afoot~d:徒步,步行
+afore~d:早先,以前
+aforementioned~a:上述,该,前述
+aforesaid~a:该,上述|n:上面
+aforethought~a:预谋
+aforetime~d:从前,事先,早先
+afraid~a:恐怕,害怕,担心,畏惧,畏葸,怔,担忧,寒,寒心,凛
+afraid of nothing~a:肆无忌惮
+afreet~n:恶魔
+afresh~d:另外
+africa~n:非洲,非
+african elephant~n:象
+african swine fever~n:猪瘟
+aft end~n:尾端
+aft shaft~n:后轴
+after~p:经过,经,后,以后,追求,像,接,因为,寻找,低于,相继,模仿|d:随后,后来|n:后|c:之后|a:后
+after a fashion~p:勉强,稍许
+after a little~p:过一会儿
+after a sort~p:有些
+after a while~p:不久,少许,有顷,过一会儿
+after all~p:究,总,归根到底,究竟,终久,终,总归,端的
+after anger~p:余怒
+after childbirth~p:产后
+after class~p:课余
+after death~p:九泉之下
+after delivery~p:产后
+after dinking~p:酒后
+after fall~p:秋后
+after glow~p:余辉
+after heat~p:余热
+after midnight~p:后半夜
+after one's death~p:身后
+after one's fancy~c:爱好
+after one's heart~p:称心如意
+after school~p:课余
+after somebody's heart~p:正中下怀
+after summer~p:秋老虎
+after that~p:此后,然后,而后,后来,其后
+after the festivities~p:过节
+after the meal~p:饭后
+after this~p:此后
+afterbirth~n:胞衣,衣,胞,胎衣,衣胞
+afterbody~n:尾部
+afterbrain~n:后脑
+afterdeath~n:来世
+aftereffect~n:后效,后劲,副作用
+afterglow~n:晚霞,余辉
+aftergrowth~v:再生
+afterheat~n:余热,秋老虎
+after-hours~a:业余
+afterimage~n:遗像,余味,余音
+afterlife~n:晚年,后半辈子,后世,来世
+after-life~n:来世
+afterlight~n:晚霞
+aftermath~n:结果,余波,后果
+afternoon~n:午后,过晌
+afternoon nap~n:晌觉,午觉
+afterproduct~n:副产品
+afterschool~n:校外
+aftershock~n:余震
+aftersound~n:回音
+aftertaste~n:余味,回味,余韵
+aftertime~n:今后
+afterward~d:后来,以后
+afterwards~d:然后,已,继而|n:后,以后,之后|p:继
+afterwind~n:余风
+afterwinds~n:余波
+aga~n:统帅
+again~d:又,再次,重,再度,但,而且,另外,此外,复,加之
+against~p:对,反对,靠,违反,以防,违背,倚,逆,碰,犯,防,对照,相反,触,敌对,御,靠近|v:抢
+against expectation~p:出乎意料
+against heavy odds~p:敌众我寡
+against imperialism~p:反帝
+against one's conscience~p:昧心
+against one's will~p:迫不得已,违心,无可奈何
+against revisionism~p:反修
+against the current~p:逆水
+against the stream~p:逆流
+against the wind~p:打头风,迎风,逆风
+agama~n:蜥蜴
+agamogenesis~n:出芽生殖
+agape~d:目瞪口呆
+agar~n:琼脂,石花胶,洋菜,石花菜,洋粉
+agar-agar~n:石花胶,琼脂
+agaric~n:伞菌,蘑菇,木耳
+agaric acid~n:松蕈
+agate~n:玛瑙,石子
+agave~n:龙舌草
+agaze~d:凝视,注视
+age~n:年,时期,老年,年事,晚年|v:上年纪,苍老
+age limit~n:年限
+aged~a:年迈,年老,苍老,老迈
+aged maid servant~n:仆妇
+aged person~n:耆老
+aged wine~n:酋
+agedness~n:老年,高龄
+ageing~v:老化|n:老化
+ageless~a:长生不老
+agency~n:机构,代办处,作用,力量,媒介,机关,行为,局,代办,厅,经办,动力,办事处
+agenda~n:议程,议事日程
+agent~n:间谍,特务,代理,密探,介质,原因,内奸,中间商,药剂,坐探,施事,行商,总管
+agent of fusion~n:熔剂
+agentia~n:试剂,药剂
+age-old~a:悠久
+ageratum~n:藿香
+ages ago~n:久远
+agglomerate~v:结块,烧结
+agglomeration~n:凝聚,结块
+agglutinate~v:凝集,凝聚,接合,烧结,胶合
+agglutination~n:愈合,粘结,胶合|v:粘着
+aggrandize~v:扩大,加大,夸大,提高,扩张,夸张
+aggrandize oneself~v:妄自尊大
+aggrandizement~n:增大
+aggravate~v:惹恼,加剧
+aggravate the situation~v:以火救火
+aggravation~n:加重,激怒,惹恼,恶化|v:加重
+aggregate~n:骨料,集合,聚集,总量,总汇,合计|v:总计|a:总
+aggregate score~v:总分
+aggregate tonnage~n:总吨位
+aggregation~n:聚集,聚合|v:聚合,聚集
+aggress~v:挑衅,入犯,攻击
+aggressed troops~n:外寇
+aggression~n:侵犯,攻击
+aggression against china~n:侵华
+aggressive~a:侵略,咄咄逼人,嚣张
+aggressive arrogance~n:凶焰
+aggressor~n:侵略者,侵略国
+aggrieve~v:侵害
+aggrieved~a:悲伤
+agha~n:大人,统帅
+agile~a:灵活,灵敏,利落,利索,麻利,矫捷,活便,灵便
+agility~n:敏捷,机敏
+agin~p:反对
+aging~n:时效
+agio~n:兑换,扣头,折扣|v:贴水
+agiotage~n:兑换
+agitate~v:激动,摇动,搅拌,煽惑,腾,思考,搅乱|a:激动
+agitated~n:回肠|a:惶|v:心神不定
+agitated in mind~a:回肠荡气,荡气回肠
+agitatedly~d:动摇
+agitation~n:激动,骚动,煽动,搅动,兴奋,焦虑,议论,搅拌,心神不定|v:抖动,搅拌|a:激动
+agitator~n:鼓吹者
+agloat~d:踌躇满志|a:踌躇满志
+aglow~a:发亮|d:兴奋
+agmen~v:聚集
+agnail~n:甲沟炎,鸡眼,指甲,发炎
+agnate~n:同族
+agnomen~n:绰号
+agnosticism~n:不可知论
+ago~d:前,以前|a:前,之前|n:之前
+agog~d:渴望
+agon~n:锦标赛
+agone~a:过去,以前|d:以前
+agonist~n:兴奋剂
+agonize~v:苦闷,挣扎
+agonized~a:苦涩
+agonizing~a:惨痛,揪心
+agony~n:挣扎,罪,烦闷|a:痛苦
+agrafe~n:钩子
+agraffe~n:钩子,搭钩
+agrarian reform~n:土改,土地改革
+agravic~v:失重
+agree~v:同意,一致,对,承认,答应,赞成,接受,赞同,相符,适合,约定,不符,合适,符合,说定,不合,附,契,投合,议定,入,承应,订,契合,订约,肯,投,应许
+agree in opinion~v:情投意合
+agree on~v:说定,订,协议,订约
+agree to~v:答应,附,同意,接受
+agree to marry~v:订婚
+agree with~v:不符,赞同,入,投,同意,不合,相符
+agreeable~a:适意,投机,中意,投缘,适口,投契,润泽
+agreeable aftertaste~n:余味
+agreeable to~a:遵照,中
+agreeableness~n:愉快,一致,适合,适意
+agreeably~d:欣然,依照,应,一致,一样,依
+agreeably to~p:依照
+agreed~a:一致|v:议定
+agreeement~n:协议
+agreement~n:同意,合同,合约,默契,投合,呼应,约|v:同意
+agricultural association~n:农业社
+agricultural chemical~n:农药
+agricultural chemicals~n:农药
+agricultural college~n:农学院
+agricultural country~n:农业国
+agricultural credit~n:农贷
+agricultural facilities~n:农械
+agricultural implements~n:农机具
+agricultural laborer~n:农业工人
+agricultural loan~n:农贷
+agricultural loans~n:农贷
+agricultural tax~n:农业税
+agriculture~n:农艺,本业
+agriculture science~n:农学
+agrimony~n:仙鹤草
+agrimycin~n:链霉素
+agrology~n:土壤学
+agromomy~n:农学
+agronomics~n:农学
+agronomist~n:农学家,农艺师
+agronomy~n:农艺,农学,农艺学
+aground~v:触礁,搁浅|d:触礁
+agrypnia~v:失眠
+ague~n:打冷颤,发冷
+agustite~n:磷灰石
+ah~i:唉,呀,哎,呵,阿,哦|f:呀,哟
+aha~i:嘿嘿
+ahead~d:提前,领先,赢得,在先|n:头里|a:先头
+ahead of~p:前面,在_前面,在_之面,之前
+aheap~d:重叠,堆积
+ahoy~i:喂
+ahriman~n:鬼
+ahung~n:阿訇
+ahura mazda~n:创世主
+ahypnia~v:失眠
+ahypnosis~v:失眠
+ai~n:艾
+aid~v:协助,接济,支援,相助,援,相帮,援外|n:助手|a:周全
+aid digestion~n:助消化
+aid financially~v:资助
+aid station~n:急救站
+aide~n:助手,助理,幕宾
+aide-de-camp~n:副官,幕僚
+aids~n:艾滋病,爱滋病
+aiguille~n:尖峰
+aihui county~n:瑷珲
+ail~v:生病
+aileron~n:副翼
+ailment~n:疾病,病痛
+aim~v:取,照准,指望|n:靶子,志向
+aim at~v:对准,取
+aim too high~n:好高鹜远
+aiming~n:照准|v:对准
+aimless shooting~n:无的放矢
+aimless talk~n:信口开河
+aimlessly~a:等闲|d:瞎
+air~n:空中,飞机,气,神气,天空,空,风度,微风,态度,传播|v:晾晒,宣扬,发挥
+air accident~n:空难
+air action~n:空战
+air admission~n:吸气
+air arm~n:航空兵
+air attack~n:空袭
+air bed~n:气垫
+air billow~n:气浪
+air bladder~n:气泡
+air blast~n:鼓风
+air blower~n:吹风机
+air box~n:风箱
+air brake~n:空气,风闸,气闸
+air brick~n:空心砖
+air burner~n:喷灯
+air bus~n:客机
+air castle~n:妄想,空中楼阁
+air cell~n:气囊
+air charging~v:充气
+air chest~n:风箱
+air chief marshal~n:上将
+air chipper~n:风铲
+air compression~n:压缩空气
+air compressor~n:风泵
+air conditioner~n:空调器
+air conditioning~n:冷气|v:冷气
+air control~n:制空权
+air corn~n:空心
+air craft~n:飞机,飞行器,航空器
+air currents~n:气流
+air curtain~n:风障
+air defense~n:防空
+air defense area~n:空防区
+air defense soldier~n:防空兵
+air door~n:气门
+air drain~n:气眼,气门
+air drying~v:风干
+air entraining cement~v:加气水泥
+air evacuation valve~n:排气阀
+air feed~n:供气
+air float~n:气囊
+air force~n:空军
+air gage~n:气压计
+air gauge~n:气压计
+air gun~n:鸟枪
+air hammer~n:风锤
+air head~n:笨蛋
+air hole~n:气孔,气门
+air hostess~n:空中小姐
+air inflating~v:打气
+air inflation~n:充气
+air injection~n:喷气,压气
+air inlet~n:进气道
+air intake~n:进气口
+air leak~n:漏风,漏气
+air leakage~n:漏风,漏气
+air line~n:航路
+air liner~n:客机,班机
+air link~n:航线
+air lock~n:气闸
+air marauder~n:飞贼
+air marshal~n:中将
+air mattress~n:气垫
+air of tension~n:紧迫感
+air one's discontent~v:鸣冤叫屈
+air one's grievance~v:诉苦
+air opinion~n:吹嘘
+air out~n:出气|v:出气
+air pillow~n:气垫
+air pipe~n:通风管
+air port~n:风口
+air power~n:制空权
+air pressure~n:风压
+air pump~n:抽气机,风泵
+air quantity~n:风量
+air raid~n:空袭
+air rifle~n:气枪
+air route~n:航线
+air service~n:空军
+air space~n:空域,领空
+air supply~n:供气
+air supremacy~n:制空权
+air survey~n:航测
+air temperature~n:气温
+air thread~n:游丝
+air to air~a:空对空
+air transport~n:空运
+air tube~n:气管
+air tunnel~n:风洞
+air vehicle~n:飞行器
+air vent~n:风口
+air vice marshal~n:少将
+air way~n:频道
+air whistle~n:风笛
+air wire~n:天线
+airballoon~n:气球
+air-blast gin~n:鼓风机
+air-blower~n:鼓风机
+airboat~n:水上飞机
+airborne~a:空降,机载
+airborne army~n:空降兵
+air-borne dust~n:飘尘
+airborne landing~n:空降
+airbrake~n:气闸
+airbrush~n:喷枪
+airbus~n:空中客车
+air-condition~v:空调
+air-conditionex~a:空调
+aircraft~n:机,飞艇,航空器
+aircraft commander~n:机长
+aircraft laning~n:机降
+aircraft type~n:机种
+aircrew~n:机组
+air-cure~v:晾
+air-cushion vehicle~n:气垫
+airdrome~n:机场,飞机场
+airdrop~v:空投,伞降|n:空投
+air-drop~n:空投|v:空投
+air-dry~v:风干
+airfield~n:飞机场
+airflow~n:气流
+air-flue~n:烟道
+airfoil~n:机翼
+airfoil profile~n:翼型
+airfoil section~n:翼型
+airfoil shape~n:翼型
+airframe~n:机体,机架,构架,机身
+airfreight~v:空运
+airfreighter~n:运输机
+airgun~n:气枪
+airiness~n:快活,空虚,轻快
+airing~n:表态,广播,晒|v:晾干
+airing of views~n:鸣放
+airland~v:机降
+airletter~n:航空信
+airlift~v:空运
+airline~n:直路,近路,航线
+air-line~n:航线
+airline crash~n:坠机
+airline stewardess~n:空姐
+airliner~n:客机,班机
+air-mail~n:航空信
+airman~n:飞行员,航空兵
+air-man~n:飞行员
+airmen~n:飞行员
+airplane~n:飞机,机,铁鸟
+airplane pilot~n:飞行员
+airplane ticket~n:飞机票
+airport~n:空港,航空港
+airport lounge~n:候机室
+airs~n:气,架子
+airs of extravagance~n:阔气
+airscrew~n:螺旋桨
+airship~n:飞艇,飞船,气艇
+airsick~a:晕机
+airsickness~n:晕机
+airspace~n:领空
+airspring~n:气垫
+airstream~n:气流
+airtight~a:闷
+air-to-air combat~n:空战
+air-to-air warfare~n:空战
+airwave~n:无线电波,电视
+airway~n:航线
+aisle~n:过道,走道
+aisleway~n:走道
+aithullium~n:常绿植物
+akene~n:瘦果
+akimbo~a:叉腰
+akin~a:类似,同族,近似
+akta~n:巢菜
+akvavit~n:烧酒
+ala~n:翅,翼
+alabastrum~n:花蕾
+alack~i:乌呼,呜呼|n:呜呼哀哉
+alacrity~n:乐意,踊跃
+alameda~n:林荫道
+alamo~n:杨树
+alarm~n:警报器,警铃,惊慌,恐慌,报警器|v:惊,吓,警告,警戒,震惊
+alarm call~n:叫醒
+alarm whistle~n:警笛
+alarmed~a:惊慌,惊惶,惶惶
+alarming~a:惊人
+alarmingly dangerous~a:惊险
+alarmism~n:危言耸听
+alarm-word~n:暗号,口令
+alas~i:哎呀,呜呼哀哉,乌呼,呜呼
+alaska~n:阿拉斯加
+alb~n:僧袍
+albania~n:阿尔巴尼亚
+albanian~a:阿尔巴尼亚
+albatross~n:信天翁,障碍物
+albedo~n:反射率
+albeit~c:尽管,纵令
+albinism~n:白化病
+albino~n:天老儿
+album~n:相册,影集,文集
+album of paintings~n:册页
+albumen~n:蛋清,卵白
+albumin~n:生化
+albuminoid~n:蛋白质
+albuminuria~n:蛋白尿
+alburnum~n:边材
+alcaide~n:督军,看守
+alcalde~n:市长
+alcazar~n:宫殿
+alchemist~n:方士
+alchemy~n:炼丹术,魔力
+alcohol~n:酒精,醇,乙醇
+alcoholic~a:酒精
+alcoholic drink~n:酒
+alcoholic drinks~n:酒
+alcoholism~n:酗酒
+alcoholysis~v:酵解
+alcove~n:壁橱,凉亭
+aldehyde~n:醛,乙醛
+alder~n:桤
+alehouse~n:酒馆
+alembic~n:蒸馏器,蒸馏罐
+alert~a:机警,警惕|n:警戒|v:警悟,眼明手快
+alertness~n:戒心|v:警觉
+alexander~n:亚历山大
+alexandria~n:亚历山大
+alexipharmic~n:解毒剂
+alfalfa~n:苜蓿,紫花苜蓿
+alga~n:藻类
+algaal~a:藻
+algae~n:海藻
+algae bloom~n:水花
+algebra~n:代数,代数学
+algebraic equation~n:代数方程
+algebraic expression~n:代数式
+algebraic root~n:代数根
+algebraic sum~n:代数和
+algeria~n:阿尔及利亚
+algia~n:阿尔及尔
+algid malaria~n:寒疟
+algidity~n:寒气,寒冷
+algiers~n:阿尔及尔
+algomenorrhea~n:痛经
+algondon~n:棉花
+algorism~n:傀儡,算法,算术
+algorithm~n:算法
+alguazil~n:警察
+alias~v:混淆,折叠|n:假名|d:别名
+alibi~n:托辞,辩解
+alidade~n:照准
+alien~n:外国人,外人,外来人,外族|v:离间|a:不合
+alien earth~n:客土
+alien enemy~n:外敌
+alien races~n:异族
+alien resident~n:侨民
+alienate~v:疏远,离间,挑拨,调
+alienation~n:转让|v:异化
+alienism~n:外侨
+alight~v:下车|a:照亮
+alight on~v:碰见
+alighting carriage~n:起落架
+alighting gear~n:起落架
+align~v:排列,匹配,对齐,校准,参加,联合
+aligning~v:对准,矫正
+alignment~n:调整,结盟,阵线|v:对准,调整
+alike~a:相似,一样|d:相似,相等,一律
+alike in~a:般
+aliment~n:抚养,养料|v:抚养
+alimentary~a:食物
+alimentary canal~n:消化道,消化管
+alimentary tract~n:消化道
+alimentation~n:营养
+alimentology~n:营养学
+alimony~n:抚养费
+aline~v:校准,对齐
+aliphatic acid~n:脂肪酸
+alive~a:活,活活,活泼,有声有色,盎然
+alive with~a:充满
+alizarin red~n:茜
+alkali~n:硷
+alkali land~n:碱地
+alkali resisting~n:耐碱
+alkalify~v:碱化
+alkaline~a:碱|n:碱性
+alkaline-earth metal~n:碱土金属
+alkalinity~n:碱度,碱性
+alkalis~n:碱金属
+alkalization~n:碱化
+alkalize~v:碱化
+alkaloid~n:生物碱
+alkane~n:烷烃,烷
+alkene~n:烯烃,烯
+alkone~n:酮
+alkoran~n:可兰经
+alky~n:酒精
+alkyl~n:烷基
+alkyne~n:炔
+all~d:完全|n:万物,周|a:总,凡是,整|r:一切,所有|v:是,举
+all ages~n:万代
+all alone~a:独自,孤零零,孑,索,一身,一手
+all along~p:向,一贯,从来,迄,一向,沿着,素来,顺着
+all amount~n:总共
+all are welcome~v:来者不拒
+all around~p:遍,四面八方,四野,四近,四旁
+all at once~n:忽然,立时,突然,骤然,陡然,一下
+all at sea~p:瞠目结舌
+all baloney~n:胡说八道
+all beasts~n:百兽
+all broken up~n:支离破碎
+all but~d:几乎,差点
+all by oneself~p:一手,索,单枪匹马
+all canceled~n:一笔勾销
+all complete~a:齐备
+all corners of the country~n:江湖
+all day~n:一天到晚,镇日,终日,整天价,一天
+all day long~d:一天到晚,成天,整日,镇日,成日
+all excellent~a:全优
+all families~n:家家户户
+all fours~n:四肢
+all in~p:总计
+all in all~d:总而言之,归根结蒂,总之,综上所述
+all in bewilderment~p:慌慌张张
+all in confusion~p:颠三倒四,杂乱无章
+all in one~p:合而为一
+all in peace~p:太平无事
+all in readiness~p:齐全,全乎
+all include~v:概莫能外
+all is lost~v:鸡飞蛋打,呜呼哀哉
+all is quiet~v:万籁俱寂
+all kinds of~n:百,各种,五花八门
+all living creatures~n:芸芸众生
+all living things~n:芸芸众生
+all long~n:历来
+all mankind~n:全人类
+all mortal beings~n:芸芸众生
+all my eye~n:胡说八道
+all night~d:彻夜,通夜,终夜,通宵达旦
+all night long~d:终夜
+all number~n:总数
+all occupied~n:客满
+all of~n:全体,实足
+all of you~n:诸位
+all one knows~v:尽力
+all one's life~n:终身,毕生,平生,终生,终天,辈子,生平,永生,一辈子,一生
+all one's might~n:死劲儿
+all one's strength~n:死力,死劲儿
+all out~p:鼓足干劲,竭尽全力,好好儿
+all over~p:到处,全身,四处,遍,遍及,完全,周,完了,浑,历,完结
+all over again~p:重新
+all people~n:众人
+all people concerned~n:一体
+all present~n:齐
+all previous~a:历,历届,历次
+all quantity~n:总量
+all quarters~n:四面八方
+all quiet~n:万籁无声
+all ready~n:齐
+all right~a:好,中,着,成,行
+all round~n:四面,处处,围,各处
+all sides~n:四方
+all smiles~n:和颜悦色
+all sorts~n:百般
+all sorts of~n:各种各样
+all spheres~r:各界
+all square~n:工力悉敌
+all the details~n:原委,委曲
+all the journey~n:一路
+all the life~n:一辈子
+all the more~a:益,越加,格外,益发,更加
+all the same~n:照样,反正,还是
+all the time~n:成天
+all the vogue~n:时兴
+all the way~n:远远,一直
+all the while~n:一直,始终,自始至终
+all things considered~n:简言之,总算
+all through~p:一直,始终,遍及,贯穿,历
+all to nothing~p:百分之百
+all to pieces~p:完全,充分
+all together~d:统括,一起
+all told~n:合共,拢共,合计,总共,一总,拢总
+all too clear~a:昭然若揭
+all up~p:终了,结束
+all up with~p:终了,结束
+all used up~n:罄尽
+all wet~a:大错特错
+all with young~p:满怀
+all year long~d:整年累月
+allah~n:真主,安拉,主
+allant~n:腊肠
+all-around~a:通盘
+allay~v:减轻,消,解,压,止
+allay inflammation~v:消炎
+allay ones hunger~v:充饥
+allay one's hunger~v:充饥,疗饥
+all-conquering~a:攻无不克
+allegation~n:声称,辩解,主张,陈述
+allege~v:声称,申述,陈述,申说
+allegedly~d:据称,据说
+allegiance~n:效忠,归顺,忠心
+allegorical~a:讽喻
+allegory~n:象征,讽喻
+allegretto~n:快板
+allegro~n:快板儿
+all-embracing~a:包罗万象
+allergen~n:过敏原,变应原
+allergic~a:过敏
+allergic reaction~n:变态反应
+allergro~n:快板
+allergy~n:反感,憎恶
+alleviate~v:减除
+alleviation~n:缓和
+alley~n:小街,里巷,巷道
+alley cat~n:野猫
+alleyway~n:胡同,小巷,弄堂,通道
+allfather~n:上帝,神
+alliance~n:结盟,近似,共同点,同盟条约|v:联合
+alliance leader~n:盟主
+allied armies~n:盟军
+allied brother~n:盟兄弟
+allies~n:同盟国,盟军,协约国
+alligator~n:鳄鱼,鳄
+alligator tortoise~n:甲鱼,团鱼
+all-inclusive~a:包罗万象
+alliteration~n:双声
+allocate~v:分配,拨,指定,部署,调拨,拨付,分派,配备,划拨,调,支配,配置
+allocate funds~v:拨款
+allocate performances~v:调演
+allocation~n:配置,部署|v:分配
+allocation of funds~n:拨款
+allograph~n:代书
+allonym~n:假名,别名
+allot~v:调拨,分,划拨,调,发给
+allotherm~n:变温动物
+allotm~v:配给
+allotment~n:股份,配置,天命,分派,份额,命运
+allotment standard~n:定额
+allotype~n:异型
+allover~a:印花布
+allow~v:让,给,容许,体谅,由,准,容,任凭,许,供给,听,允,兴,原谅,沉溺,批准,应允,应许
+allow for unpredictable~v:留有余地
+allow of~v:容许
+allowable~a:允许
+allowable error~n:公差
+allowance~n:补贴,补助,补助金,间隙,贴,斟酌,空隙,默许,承认,定量|v:补助,许可
+allowedly~d:当然,肯定
+allowing unrestrained freedom~n:自由放任
+alloy~n:合金,成色|v:搀,减损
+all-purpose adhesive~n:万能胶
+allround~a:多方面
+all-round~a:全能
+all-round competition~n:全能运动
+all-round contract~n:大包干
+all-round victory~n:满堂红
+all-rounder~n:多面手,全才
+allude~v:暗示,提到
+allure~v:诱惑,吸引|n:诱惑力
+allurement~n:引诱,诱惑力,诱惑
+alluring~v:引人入胜
+alluring woman~n:妖精
+allusion~n:典故,暗示,提及,典
+alluvial fan~n:冲积扇
+alluvial flat~n:河漫滩
+alluvial plain~n:冲积平原
+alluvion~n:洪水,泛滥
+all-weather~a:全天候
+ally~n:盟国|v:结合
+ally the communists~v:联共
+alm~n:施舍,捐赠
+alma mater~n:校歌
+almanac~n:历,皇历
+alme~n:歌女
+almightiness~n:全能
+almighty~v:无所不能|d:非常|a:全能
+almirah~n:衣橱
+almond~n:扁桃腺
+almond cream~n:杏仁茶
+almond tree~n:扁桃
+almost~d:差不多,近乎,差点儿,差点,大部分,快要,几,将近|v:垂|a:差不多
+almost certain~a:呼之欲出
+almost every day~n:三天两头
+almost everyday~a:三天两头
+almost extinct~a:不绝如缕
+almost real~a:逼真
+alms~n:施舍,救济品,救济费
+alms bowl~n:钵
+alms giver~n:施主
+alms giving~n:布施
+almsdeed~n:慈善
+almsgiver~n:慈善家,施主
+almsgiving~n:施舍,赈济
+almshouse~n:救济院
+almuerzo~n:正餐
+alnaschar's dream~n:南柯一梦
+alnico~n:铝合金
+alnovol~n:酚醛树脂
+aloes wood~n:沉香
+aloeswood~n:沉香
+aloft~p:高处,在_高处
+aloft work~p:高空作业
+alone~d:单独|a:唯独,孤单|v:唯有,单枪匹马,惟有
+along~d:一道,向前,过去,一并,沿,一块儿|p:沿着,沿,顺着,缘|a:齐|c:边
+along life~p:万寿无疆
+along the coast~p:沿海
+along the river~p:沿江
+along the street~p:沿街
+along together~n:一并
+along while~n:半天
+along with~p:随同_一起,随,随着,偕同,连同_一起,同_一起,一起
+along-shore~d:沿岸,沿海|n:码头
+alongside~p:靠着,傍着|d:一道
+aloof~a:超然,清高,孤高,落落寡合|d:隔开,避开|v:远离
+aloofness~n:冷淡,超然
+alopecia~n:脱发,斑秃|v:脱毛
+alopecia areata~n:鬼剃头
+aloud~d:大声,响亮
+alow~d:在下
+alp~n:高峰
+alpenglow~n:晚霞
+alpha~n:主星,最初
+alpha decay~n:衰变
+alpha particle~n:甲种粒子
+alpha ray~n:甲种射线
+alphabet~n:初步
+alphabetic string~n:字符串
+alphabetic writing~n:拼音文字
+alpine~a:高山
+alpine chough~n:山鸦
+alpine yarrow~n:蓍,蚰蜒草
+alpinism~n:登山
+alps~n:阿尔卑斯
+already~d:已,就,早已,都,既,业
+alright~d:也罢,也好
+alsace~n:阿尔萨斯
+also~d:而且,同样|a:一|c:并且
+also see~v:参照
+altair~n:牵牛,牛郎星,牵牛星
+altar~n:坛,祭台
+altazimuth~n:经纬仪
+alter~v:修改,改动,动,改换,更改,更换,变革,窜,校改,改建,移,移易
+alter ego~n:知己
+alterability~n:可变性
+alteration~v:变更,更改,变动|n:蚀变,变更
+altercate~v:吵嘴,口角,争辩,争论
+altercation~n:争吵,口角,吵嘴
+alternate~v:交错,替补|n:代理人|a:副
+alternate current~n:交流电
+alternate direction~v:换向
+alternate exterior angle~v:外错角
+alternate exterior angles~v:外错角
+alternate husbandry~n:换茬
+alternate member~n:候补委员
+alternately~d:交替,交互,花花搭搭|a:更番|v:更番
+alternating~v:交流
+alternating current~n:交流电
+alternating quantity~n:变量
+alternation~n:更迭,变换,交替|v:更迭,变换
+alternative~n:交替|v:选择
+alternative cultivation~n:套耕
+alternative name~n:号
+alternator~n:发电机,振荡器
+although~c:尽管,虽,虽说,纵然,虽则
+altimeter~n:高度计
+altitude~n:高,海拔,高等,高程|a:高
+altitude gauge~n:高度表,高度计
+altitude indicator~n:高度表
+altitude meter~n:高度计,高度表
+altitude stress~n:高山反应
+alto~n:中提琴,女低音,中音
+alto voice~n:中音
+altoclouds~n:高云
+altogether~d:全部,全然,总之,一起,共,全,拢共,干脆,压根儿,一股脑儿,凡,拢总,总而言之|v:共计
+alum~n:明矾,校友
+alumen~n:明矾
+alumina~n:铝土
+alumine~n:矾土
+aluminium hydroxide~n:氢氧化铝
+aluminum~n:铝,钢精
+aluminum alloy~n:铝合金
+aluminum boil~n:铝箔
+aluminum foil~n:铝箔
+aluminum manufacturer~n:铝厂
+aluminum steel~n:铝线
+aluminum wire~n:铝线
+alumna~n:矾土
+alumni meeting~n:校友会
+alums~n:明矾
+alumstone~n:明矾石
+alunite~n:明矾石,涅
+alure~n:通道
+alveolus~n:肺泡,蜂窝,齿槽
+alveolus pulmonis~n:肺泡
+always~d:总,老,经常,始终,随时,向,历来,时刻,时时,每每|a:百|n:平生
+always exist~v:常有
+always remain fresh~v:永葆青春
+always remember~v:铭记,铭心
+always round~v:长圆
+always together~a:形影不离
+alyssum~n:是
+amah~n:老妈子,保姆,女仆
+amalgam~n:混合物
+amalgamate~v:混合
+amalgamation~n:混
+amalgamator~n:混合物
+amanuensis~n:秘书
+amargosa~n:苦味
+amargoso~n:苦味
+amarylism~n:黄热病
+amass~v:积聚,集中,积,聚集,集合,收集
+amass a fortune~v:堆金积玉
+amass fortunes~v:招财进宝
+amassette~n:刮刀
+amassment~n:收集,积聚,积累
+amateur~n:爱好者|a:业余
+amateur performance~n:玩儿票,票
+amateur performer~n:票友
+amatory poems~n:情诗
+amaze~v:震惊
+amazed~a:惊讶|v:惊异
+amazement~n:诧异
+amazing~a:惊人,了不起
+amazingly~d:非常
+amazingly quick~a:神速
+amazon~n:蜂鸟
+ambassador~n:代表,使节,专使
+ambassadorship~n:大使
+ambassy~n:使馆
+amber~n:琥珀
+amber acid~n:琥珀酸
+ambergris~n:龙涎香
+ambiance~n:环境,气氛
+ambience~n:环境
+ambient~a:环境
+ambiguity~n:含糊,二重性,含胡
+ambiguous~a:含糊,含混不清,含含糊糊,模棱,笼统,依违两可|n:灰色|v:含糊其词
+ambiguousness~n:含糊
+ambit~n:界限,周围,范围
+ambition~n:雄心,奢望,志,精力,心气,心胸
+ambitious~a:远大
+ambitious but incompetent~a:志大才疏
+ambitious schemer~n:野心家
+ambitus~n:周边
+ambivalent~n:阴阳人|a:阴阳人
+amble~n:漫步|v:缓步
+amblosis~v:流产
+amblyopia~n:弱视
+ambo~n:两侧
+ambos~n:砧骨
+ambramycin~n:四环素
+ambry~n:壁橱
+ambsace~n:厄运
+ambulance~n:救护车
+ambulate~v:走动,步行
+ambulation~n:移动
+ambulatory~n:走廊,回廊
+ambulatory chattels~n:动产
+ambulet~n:救护车
+ambuscade~n:伏兵,伏击战,伏击|v:打埋伏
+ambush~v:埋设,打埋伏|n:埋伏
+ambush enemy reinforcements~n:打援
+ameer~n:司令官,贵族
+ameliorate~v:改进
+amelioration~n:改善
+amen~v:核准,完成|n:认可|i:阿门
+amenable to~a:服从
+amend~v:修改,改善,更正,改良,改动,改过,订正,改变,改进
+amend a judgment~v:改判
+amend one's conduct~v:弃邪归正
+amende~n:道歉
+amendment~n:修正,修改,改正,改进|v:修正,校正
+amends~n:补偿,赔偿,恢复,道歉,复原
+amenity~n:舒适,温厚,规例,举止,快感,乐事,优雅,礼仪,适意
+amenorrhea~n:闭经
+amenorrhoea~n:闭经
+ament~n:呆子
+amerce~v:惩罚,罚款
+amercement~n:罚金
+america~n:美国,美洲,美
+american football~n:橄榄球
+american ginseng~n:西洋参
+american indian~n:印第安人
+american system~n:美制
+americium~n:镅
+amethyst~n:紫水晶,紫色,紫石英
+amiability~n:和蔼,亲切,和气,温和
+amiable~a:和蔼可亲,和蔼,随和,可亲,蔼,慈祥,和顺,平易,易,和气,和悦,慈和
+amiamt~n:石棉
+amianthine~n:石棉
+amianthinite~n:石棉
+amianthus~n:石棉
+amiantus~n:石棉
+amicability~n:和睦,温和,亲善,友善,友好
+amicable~a:友好,友善
+amid~p:中,在_中,之中,在_之中
+amidship~d:当中
+amidships~d:当中
+amidst~p:在_之中,在_中,中,之中
+amigo~n:朋友
+aminarsone~n:卡巴胂
+aminate~n:氨化
+amine~n:胺
+amino~a:氨基
+amiss~d:错|a:不是味儿
+amitabha~n:阿弥陀佛
+amity~n:和睦,友好,和好|a:和睦
+amman~n:安曼
+ammeter~n:电流表,安培计
+ammine~n:氨
+ammo~n:军火,弹药
+ammonia~n:氨水
+ammoniate~v:氨化
+ammoniation~n:氨化
+ammonification~n:氨化
+ammonite~n:菊石
+ammonium~n:铵
+ammonium chloride~n:氯化铵
+ammonium hydroxide~n:氢氧化铵
+ammonium nitrate~n:硝酸铵
+ammonium salt~n:铵盐
+ammonium sulphate~n:肥田粉,硫酸铵
+ammunition~n:子弹,火
+amnesia~n:健忘
+amnesiac~a:善忘
+amnesty~v:赦免,大赦|n:特赦
+amnion~n:羊膜
+amniote~n:脊椎动物
+amoeba~n:变形虫,阿米巴
+amoebic dysentery~n:阿米巴痢疾
+amok~n:杀人狂|a:杀人狂
+amomum villosum lour~n:阳春砂
+among~p:中,中间,之中,间,在_中间|n:之间,其间|r:其中
+among other things~p:其中
+among others~p:其中
+among the missing~p:下落不明
+among the people~p:民间,草泽,草野
+among them~p:其间
+amongst~p:在_之中,之中,中间,在_中间
+amontillado~n:白葡萄酒,雪利酒
+amorist~n:情人
+amorous~a:脉脉含情,艳,爱情,风流
+amorous poem~n:艳诗
+amorously~d:脉,脉脉
+amorousness~n:好色
+amorphism~n:乱七八糟,虚无主义,杂乱无章
+amorphous body~n:非晶体
+amortisseur~n:减震器,缓冲器
+amortize~v:缓冲
+amount~n:多少|v:总计,共计,成为
+amount of debt~n:债额
+amount of electricity~n:电量
+amount of energy~n:能量
+amount of heat~n:热量
+amount of precipitation~n:降水量
+amount of water~n:水量
+amount of wind~n:风量
+amount to~n:等于,折,折合,达
+amour~n:恋爱
+amour-propre~n:自负
+amoy~n:厦门
+ampere~n:安
+ampere meter~n:安培计,安培表,电流表
+amperemeter~n:电流计
+amphibian~n:两栖动物
+amphibian animal~n:两栖动物
+amphibious~a:两栖
+amphibious crab~n:蟛蜞
+amphibious operation~n:登陆战
+amphibious tank~n:水陆坦克
+amphibole~n:角闪石,闪石
+amphictyon~n:代表
+amphicytula~n:受精卵
+amphigory~n:打油诗
+amphioxus~n:文昌鱼,蜗牛
+amphiprotic~a:两性
+amphitryon~n:主人
+amphoteric~a:两性
+ample~a:充足,足,丰富,充分,充裕,褒,宽裕,优,庞大,余裕|v:充,绰,足够|n:余裕
+ampleness~n:广大,丰富,充足
+ampliation~n:增大,扩张,扩大
+amplification~n:放大,扩充|v:放大
+amplifier~n:扩音器,放大镜
+amplify~v:夸大,增强,发挥,展开,衍,扩张
+amplitude~n:振幅,幅度,调幅,广度,广阔,丰富
+amplitude modulation~n:调幅
+ampulla~n:玻璃瓶
+amputate~v:切除,切断,截
+amputation~n:截肢
+amsterdam~n:阿姆斯特丹
+amuck~d:狂怒,杀气腾腾,狂暴|v:杀气腾腾|n:杀人狂
+amulet~n:符咒,护符
+amuse~v:逗乐,逗笑,娱乐,逗,逗趣,逗闷子,逗笑儿,娱
+amuse oneself~v:玩耍,玩,自娱,游乐
+amusement~n:乐趣,娱
+amusement park~n:乐园,游乐园
+amusing~a:逗人|v:逗笑儿
+amygdala~n:扁桃腺,扁桃,扁桃体,杏仁
+amygdalae~n:扁桃体
+amylase~n:淀粉酶
+amylon~n:淀粉
+amylopsin~n:生化,胰淀粉酶
+amylose~n:多糖
+amylum~n:淀粉
+amyxis~v:划破
+an~a:一
+an able person~n:硬手
+an absolute blockhead~n:一窍不通
+an accident~n:无妄之灾
+an accomplished fact~n:既成事实
+an accomplished performer~n:演奏家
+an act~n:折
+an actor~n:戏子
+an acute pain~n:切肤之痛
+an added ingredient~n:引子
+an administrative division~n:区
+an adolescent girl~n:豆蔻年华
+an advance part~n:前站
+an affectionate couple~n:鸳鸯
+an affectionate person~n:情种
+an agonize look~n:愁眉苦脸
+an agonized look~n:愁眉苦脸
+an alarmist talk~n:危言耸听
+an all-round person~n:通才
+an all-rounder~n:多面手
+an ambitious person~n:枭雄
+an amount of~n:适量,相当
+an amphora-like jar~n:缶
+an anchor point~n:立足点,立足之地
+an ancient mask~n:斯
+an ancient measure~n:觳
+an ancient plough~n:耒
+an ancient pot~n:鍪
+an ancient weapon~n:金瓜,镡
+an animal's mouth~n:吻
+an announcement~n:安民告示
+an anonymous~n:无名氏
+an anticipatory remark~n:张本
+an arena contest~n:擂台赛
+an arrogant boast~n:人莫予毒
+an article~n:一条
+an artistic refinement~n:生花妙笔
+an audition~n:面试
+an auspicious day~n:黄道吉日
+an auspicious start~n:开门红
+an author's remuneration~n:稿费
+an autograph letter~n:亲笔信
+an awe-inspiring reputation~n:威名
+an awful mess~n:烂摊子
+an earth dyke~n:埂
+an earthen jar~n:缶
+an easy-going atmosphere~n:一团和气
+an eccentric person~n:怪物
+an effective writer~n:笔杆子
+an egg-shaped thing~n:蛋
+an elegant style~n:花团锦簇
+an eloquent person~n:能言善辩
+an emperor's reign~n:朝
+an empty dream~n:南柯一梦
+an empty promise~n:空头支票
+an encyclopedic mind~n:满腹经纶
+an endless debate~n:争论不休
+an endless enjoyment~n:其乐无穷,其味无穷
+an erudite person~n:饱学之士
+an escape-proof net~n:天罗地网
+an established fact~n:既成事实
+an established maxim~n:格言
+an even highway~n:阳关大道
+an eventful year~n:多事之秋
+an example~n:一例
+an excellent combination~n:珠联璧合
+an excellent work~n:佳品
+an exclusive~n:绝活
+an exorbitant profit~n:暴利
+an exotic land~n:别有天地
+an experienced hand~n:过来人
+an experienced person~n:过来人
+an explosive point~n:一触即发
+an extraordinary talent~n:奇才
+an eye inflammation~n:火眼
+an eyesore~n:看不顺眼
+an idiot's daydream~n:痴人说梦,白日作梦
+an idiot's gibberish~n:痴人说梦
+an idle dream~n:痴心妄想
+an ignorant person~n:吴下阿蒙
+an illiterate person~n:文盲
+an immense forest~n:林海
+an imperial carriage~n:銮
+an imperial office~n:监
+an impetuous person~n:急性子
+an important city~n:重镇
+an important criminal~n:重犯
+an improper thought~n:非分之想
+an improvised makeshift~n:权宜之计
+an incarnate fiend~n:混世魔王
+an incidental acquaintance~n:点头之交
+an incomparable beauty~n:绝代佳人
+an indifferent post~n:冷板凳
+an inescapable duty~n:责无旁贷
+an inexperienced hand~n:生手
+an inexperienced youth~n:白面书生
+an inferior horse~n:骀
+an inspection visit~n:视察
+an inspired passage~n:神来之笔
+an instance~n:一例
+an instant~n:一刻,片刻,一瞬
+an integral whole~n:浑然一体
+an interesting episode~n:趣事
+an intimate friendship~n:莫逆之交
+an introduction~n:通论
+an inveterate disease~n:宿疾
+an invincible army~n:天兵
+an invincible position~n:不败之地
+an iota~n:丝毫
+an iron constitution~n:铜筋铁骨
+an ironclad case~n:铁案如山
+an irresistible force~n:雷霆万钧,破竹之势
+an irresistible trend~n:大势所趋
+an isolated island~n:孤岛
+an item~n:则
+an occupational college~n:职大
+an odd one~n:单个儿
+an off season~n:淡季
+an offensive move~n:先手
+an official's salary~n:俸禄
+an oil lamp~n:青灯
+an old complaint~n:病根
+an old custom~n:遗俗
+an old friend~n:老交情
+an old traveler~n:老江湖
+an old trick~n:老把戏,故智
+an old woman~n:老身
+an open granary~n:庾
+an open sore~n:疮口
+an opium addict~n:隐君子
+an opportune moment~n:时机
+an oral quiz~n:面试
+an outlying place~n:埏
+an outmoded method~n:老一套
+an out-of-the-way place~n:鄙,乡曲,僻壤
+an outspoken person~n:小钢炮
+an out-spoken person~n:炮筒子
+an outstanding student~n:高才生
+an outstanding talent~n:鹤立鸡群
+an outward sign~n:迹
+an ultra-conservative~n:老古董
+an unassailable stronghold~n:壁垒森严
+an undeserved catastrophe~n:无妄之灾
+an unearned income~n:不劳而获
+an uneasy heart~n:耿耿于怀
+an unexpected gladness~n:喜从天降
+an unexpected winner~n:冷门
+an unfeeling person~n:冷血动物
+an unimportant person~n:小人物
+an unknown quantity~n:未知量
+an unoccupied person~n:闲人
+an unoccupied post~n:闲职
+an unpardonable crime~n:罪不容诛
+an unsought confession~n:不打自招
+an untoward accident~n:横事
+an unusual phenomenon~n:奇事
+an unwise decision~n:下策
+an up-and-coming youngster~n:后起之秀
+an upcoming man~n:后起之秀
+an upright magistrate~n:青天
+ana~n:语录,回忆录|d:各
+anabasis~n:进军,远征
+anabiosis~n:复苏,回生|v:复苏
+anabole~v:反胃
+anabranch~n:支流
+anabrosis~n:溃疡
+anadem~n:花冠
+anaemia~n:贫血,血亏
+anaesthesia~n:麻木,麻|a:麻木|v:麻醉
+anaesthetic~n:麻药,麻醉品
+anaesthetization~n:麻醉,麻木|v:麻醉
+anagenesis~n:再生
+anagraph~n:药方
+anal fissure~n:肛裂
+anal fistula~n:肛瘘
+anal opening~n:肛门
+anal orifice~n:肛门
+analecta~n:选集
+analects~n:语录
+analepsia~v:苏醒,复原|n:兴奋
+analepsis~v:复原,苏醒|n:兴奋
+analeptic~n:兴奋剂
+analeptic style~n:编年体
+analgesia~n:镇痛
+analgesic~n:止痛药
+analog~a:模拟|v:模拟
+analogism~n:推论,类推
+analogize~v:譬喻,类推,推论
+analogous~a:类似,同类
+analogue~a:相似
+analogy~n:相似,比喻,比方,类比,模拟,类推,比拟|v:模拟,类推
+analoids~n:试剂
+analosis~v:萎缩
+analphabetic~n:文盲
+analyse~v:分解,剖,解析,剖析,剖解
+analyses~v:分析|n:分析
+analysis~v:分析,检验,解析,化验|n:演绎法,梗概,要略
+analysissitus~n:拓扑学
+analyst~n:化验员
+analytic ability~n:心劲
+analytic geometry~n:解析几何
+analytical~a:分析
+analytical chemistry~n:分析化学
+analytical geometry~n:解析几何
+analyze~v:分析,分解,破解,剖解,剖析
+analyze in detail~v:缕析
+analyze mentally~v:思辨
+analyzer~n:分析器
+analyzing~v:解析
+anamnesis~n:回忆,病历,回想|v:回想
+anamorphic~a:渐变
+anamorphism~n:渐变
+anamorphosis~n:畸形,渐变
+ananas~n:菠萝
+anaphase~n:后期
+anaphylactic~a:过敏性
+anaphylaxis~n:过敏性
+anapnea~v:呼吸
+anapnoea~v:呼吸
+anarchic~a:无政府
+anarchism~n:无政府主义,无政府
+anarchy~n:无政府,混乱
+anarthria~n:口吃
+anastole~v:退缩
+anastomose~v:吻合,接合,连结
+anastomosis~v:联结,连接,交织|n:交接
+anathema~n:诅咒,咒
+anatomia~n:解剖学
+anatomise~v:解剖
+anatomize~v:分析,解析
+anatomy~n:分解,组织,分析|v:解剖
+ancestor~n:祖先,祖宗,祖上,先,老祖宗,祖辈,祖,先祖,宗,祖本|d:先
+ancestors~n:先世,上辈,上代,先辈,祖辈,上辈子,前人,祖先
+ancestral~a:祖先
+ancestral estate~n:祖产
+ancestral hall~n:宗祠,祠堂,祧
+ancestral home~n:祖籍
+ancestral house~n:宗祧
+ancestral temple~n:家祠,宗祠,宗
+ancestry~n:世系,世家,血统,祖辈,系谱,祖宗,谱系,家世
+anchor~n:支架,铁锚,衔铁,湾,桩|v:固定,锚泊,停
+anchor ground~n:锚地
+anchor line~n:缆绳
+anchorage~n:停泊,抛锚,锚泊
+anchoret~n:隐士
+anchor-ground~n:锚地
+anchoring~v:锚泊
+anchovy~n:海蜒
+anchylose~v:僵硬
+ancient~a:古代,古老,古|n:古代,神|c:故
+ancient age~n:古代
+ancient book~n:故书
+ancient books~n:古籍,竹帛
+ancient chinese prose~n:古文
+ancient city~n:古城
+ancient cooking vessel~n:鼎
+ancient customs~n:古风
+ancient drum~n:羯鼓
+ancient emperor~n:颛顼
+ancient flag~n:会
+ancient fort~n:古堡
+ancient india~n:西天
+ancient learning~n:国故
+ancient monument~n:古迹
+ancient music~n:韶
+ancient musician~n:瞽
+ancient painted pottery~n:彩陶
+ancient painting~n:古画
+ancient prescriptions~n:古方
+ancient relic~n:古迹
+ancient relics~n:断简残编
+ancient saying~n:古谚
+ancient speech sounds~n:古音
+ancient state~n:古国
+ancient times~n:古时,远古,古时候
+ancient wall~n:古城
+ancient wine vessel~n:卮
+ancient woman's headdress~n:巾帼
+ancient works~n:典籍
+ancient writing~n:古文字
+anciently~d:从前,古时候
+anciently time~n:古时
+ancientness~n:古代,旧
+ancientry~n:古风,古旧,古
+ancillary~n:零件,配件,助手,随从|a:副
+ancon~n:河湾
+ancudite~n:高岭石
+ancylostome~n:钩虫
+ancylostomiasis~n:钩虫病
+and~c:和,而,以,并,及,却,同,然后,因此,接着,兼,载
+and all~n:等等
+and erhuang~n:皮黄
+and even~d:乃至
+and no mistake~n:的确
+and no wonder~v:不足为奇
+and other things~n:等等
+and others~n:什么的
+and otherwise~a:等等
+and print~v:冲凉
+and process~v:吹打
+and so~c:故,所以
+and so forth~d:等等,等,诸如此类,不一而足,什么的
+and so on~d:的,等等,等,什么的,云云,以此类推,不一而足
+and such~n:诸如此类
+and that~n:等等,而且
+and that's that~v:如此而已
+and the like~n:的,以此类推,云云,什么的
+and then~n:然后,聿,进而
+and though~c:虽然
+and what not~n:什么的,等等,诸如此类
+and yet~n:可是
+andersen~n:安徒生
+andorra~n:安道尔
+andre~n:安德烈
+androecium~n:雄蕊
+androgyne~n:雌雄同体
+androgyny~n:雌雄同体
+android~n:机器人
+anear~d:接近
+anecdote~n:趣闻,奇闻,秘史
+anecdotes~n:掌故
+anemia~n:贫血,血亏
+anemograph~n:风速计
+anemometer~n:风速计,风速表
+anemone~n:海葵
+anemophilous flower~n:风媒花
+anencephalohemia~n:脑贫血
+anent~p:关于,论及
+anergy~n:无力
+anesthesia~n:麻醉
+anesthetic~n:麻醉剂,麻药
+anesthetist~n:麻醉师
+anesthetization~n:麻醉
+anesthetize~v:麻醉
+anestor~n:原型
+anew~d:从头,再,从新,另
+anfractuosity~n:弯曲,错综
+angel~n:天使,安琪儿,守护神,神仙
+angel shark~n:扁鲨
+angelfish~n:扁鲨
+angelica~n:白芷,当归
+angell~n:守护神
+angelus~n:祈祷
+angenesis~v:更新
+anger~n:愤怒,怒火,火,火气,忿怒|v:发炎,恼火,触怒|a:愤怒
+angina~v:绞痛|n:心绞痛
+angina pectoris~n:狭心症
+angioma~n:血管瘤
+angiosperm~n:被子植物
+angle~n:观点,方面,钓钩,见地,角落,棱,歪曲,诡计,偏见|v:图谋,贪图
+angle bar~n:角钢
+angle board~n:角尺
+angle brackets~n:尖括号
+angle for praise~n:沽名钓誉
+angle iron~n:角钢,三角铁
+angle of altitude~n:仰角
+angle of declination~n:磁偏角
+angle of depression~n:俯角
+angle of gradient~n:仰角
+angle of osculation~n:弦切角
+angle of position~n:方位角
+angle of reflection~n:反射角
+angle of roll~n:倾斜角
+angle of skew~n:交角
+angle of tilt~n:倾斜角,倾角
+angle plate~n:角铁
+angle tee~n:分支
+angling~n:钓鱼
+angola~n:安哥拉
+angor~v:绞痛|n:剧痛
+angrily~d:怒冲冲,忿怒,怒
+angrily rebuke~v:怒斥,怒骂,怒叱
+angry~a:生气,气愤,恼怒,愤,忿,怒,气呼呼,怒冲冲,气冲冲,恼
+angry stare~n:睚眦
+angry tide~n:怒涛,怒潮
+angry word~n:气话
+angry words~n:气话
+angst~n:苦恼,担心
+angstrom~n:埃
+anguish~n:苦恼,苦闷|v:苦恼|a:痛
+anguished~a:苦涩
+anguished cries~n:痛哭
+angular acceleration~n:角加速度
+angular speed~n:角速度
+angular surface~n:斜面
+angularity~n:生硬,棱角
+anhistozoa~n:原生动物
+anhui~n:安徽
+anhui opera~n:徽剧
+anhwei~n:安徽
+anhydride~n:酐
+anil~n:靛蓝
+aniline~n:阿尼林
+aniline dye~n:染料
+anility~n:衰老
+anima~n:灵气,灵魂,精华
+animadvert~v:责备,非难,谴责,苛责
+animal~n:动物,牲口,牲畜,兽
+animal by-products~n:畜产品
+animal doctor~n:兽医
+animal farm~n:囿
+animal fiber~n:动物纤维
+animal house~n:畜舍
+animal husbandry~n:牧畜
+animal kingdom~n:动物界
+animal life~n:动物
+animal manure~n:畜肥,厩肥
+animal nature~n:兽性
+animal oil~n:动物油
+animal passion~n:兽欲,肉欲
+animal penis~n:鞭
+animal products~n:畜产品
+animal sacrifice~n:牲
+animal spirits~n:元气
+animal starch~n:糖元
+animal tamer~n:驯兽师
+animal trace~n:亢
+animalcule~n:微生物
+animal-drawn vehicle~n:兽力车
+animalism~n:兽欲,兽性
+animality~n:兽性,动物界
+animals~n:兽类
+animal's paw~n:蹠
+animate~v:活跃,激励,激发,绘制
+animate nature~v:生物界
+animated~a:热闹
+animated cartoon~n:动画
+animated doll film~n:木偶片
+animated drawing~n:动画
+animatedly~d:兴致勃勃
+animation~n:动画,生动,活跃,动画片,生机,活泼
+animosity~n:敌意,怨恨,敌视
+animus~n:仇视,意图,恶意,宗旨
+anion~n:负离子
+anischuria~v:遗尿
+anise~n:大料
+anisotropism~n:各向异性
+anisotropy~a:各向异性
+ankara~n:安卡拉
+ankle~v:走路,走|n:腿腕子
+ankle bone~n:踝骨
+ankle boots~n:短统靴
+anklebone~n:踝骨
+anklet~n:腿带,短袜
+ankylose~v:僵直
+ankylosis~n:胶着
+ankylostome~n:钩虫
+ann~n:安
+annal~n:纪要
+annalistic style~n:编年体
+annals~n:年报,志,春秋,汗青,年表,年刊
+annals of war~n:战史
+annam~n:安南
+annamese~a:安南
+annatto~n:红木
+anneal~v:退火,烧
+annealing~v:退火
+annelid~n:环节动物
+annelidan~n:环节动物
+annex~v:兼并,获得,合并,追加,攻占,附带,侵吞,并,偷,盖|n:附录,兼,附属品
+annex by force~n:吞并
+annexation~n:归并,吞并,并吞,附加
+annexed table~n:附表
+annexed territory~n:属地
+annie oakley~n:优待券
+annihilate~v:灭绝,吃,废止,歼击,聚歼,剿,废除
+annihilate en masse~v:聚歼
+annihilate enemy troops~v:歼敌
+annihilation~n:消灭,歼灭
+annihilator~n:减震器
+anniversary~n:周年,期
+annotate~v:注解,注释,注
+annotate with comments~v:批注
+annotation~n:批注,笺,注文,附注,注解
+annotations~n:附注
+announce~v:宣告,报,通知,预告,发布,告,报知,声明,显示,宣,声称|n:布
+announce a death~v:报丧
+announce a victory~v:报捷,告捷
+announce in advance~v:预告
+announce somebody's death~v:报丧,讣告
+announce the results~v:揭晓
+announcement~n:声明,公告,布告,宣告,榜,预告,声|v:告
+announcer~n:广播员,解说员
+annoy~v:搅,烦恼,讨嫌,惹恼,磨|a:来劲
+annoyance~n:厌烦,麻烦,打搅|v:烦扰
+annoyed~a:急,恼
+annoying~a:可气,难人,讨嫌,烦心
+annual~n:年,年鉴,年报,全年|a:年,年度,全年
+annual convention~n:年会
+annual expenditure~n:岁出
+annual income~n:岁入
+annual maintenance~n:岁修
+annual meeting~n:年会
+annual output value~n:年产值
+annual plant~n:一年生植物
+annual rate~n:年利率,年率
+annual repairs~n:岁修
+annual symposium~n:年会
+annually~d:一年一度,年年
+annuals~n:年刊
+annuity~n:年金,养老金
+annul~v:销,毁弃,废止,撤销
+annul a punishment~v:减免
+annular~a:环形
+annular cartilage~n:环状软骨
+annular saw~n:钢丝锯
+annular tubes~n:套管
+annularity~n:环状,环形
+annulata~n:环节动物
+annulation~n:环
+annule~n:环带
+annulet~n:小节
+annuli~n:环节
+annulment~n:废止|v:终止
+annulus~n:环,环带,环节
+annum interest~n:年息
+annunciate~v:告示,通告
+annunciation~n:公布
+annunciator~n:信号机
+anocheilon~n:上唇
+anochilos~n:上唇
+anode~n:阳极,正极
+anodize~v:电镀
+anodyne~n:止痛药|a:镇痛
+anoia~n:白痴
+anoint~v:基督
+anomalism~n:异常
+anomalous~a:异常,变态
+anomaly~n:反常|a:反常
+anomie~n:混乱
+anon~d:立即,不久,即刻
+anonym~n:假名,无名氏
+anonymity~n:匿名,无名
+anonymous~a:匿名|v:匿名
+anonymous person~n:无名氏
+anopheles~n:疟蚊
+anorak~n:皮猴,棉猴儿
+anorexia~n:厌食,食欲不振|v:食欲不振
+anorexic~a:厌食
+anorthose~n:斜长石
+another~r:另|a:别的|d:另外
+another day~n:赶明儿,他日,异日
+another name~n:别称
+another person~n:他人
+another place~n:外边,别处
+another province~n:外省
+another room~n:坊子
+another time~n:再
+anoxia~n:缺氧
+anqin~n:安庆
+ansai~n:安塞
+ansatz~v:假设
+anschluss~n:联合,吞并,结合
+anshan~n:鞍山
+ansu~n:山楂
+answer~v:接茬儿,对答,答对,答题,抵偿,回话,酬对|n:答辩
+answer a letter~v:回信
+answer back~v:对答
+answer for~n:担保
+answer glibly~v:对答如流
+answer sheet~n:答卷
+answer somebody's question~v:答对
+answer the purpose~v:合适
+answer to~n:符合,回答,适合
+answer to calls~n:应征
+answer to requests~n:应征
+answer up to~v:回答,应答
+answer with letters~n:笔答
+answering~v:回答
+ant~n:蚂蚁,蚍蜉,蚁
+ant cow~n:蚜虫
+antagonise~v:对抗
+antagonism~a:相反|v:对抗|n:敌对
+antagonist~n:对手,敌手
+antagonistic~a:敌对
+antagonistic psychology~n:逆反心理
+antagonize~v:反对,反抗,中和,抵销
+antarctic~n:南极
+antarctic circle~n:南极圈
+antarctica~n:南极洲
+ante~n:赌注|v:出
+anteater~n:食蚁兽
+antebrachium~n:前臂
+antecedence~n:先行
+antecedency~n:先行
+antecedent~n:经历,在先,前项,先例,祖先,履历
+antecedent money~n:押金
+antecedents~n:来路,来历
+antecessor~n:先行者,先驱者
+antechamber~n:接待室,前厅
+antecourt~n:前庭
+antediluvian~n:老朽
+antelope~n:羚
+antelope horn~n:羚羊角
+antelope's horn~n:羚
+antenatal~n:产前
+antenatal training~n:胎教
+antenna~n:天线,触角
+antenna wire~n:天线
+antennae~n:天线
+antependium~n:桌布,帷幔
+anterior~a:先前
+anterior limb~n:前肢
+anterior to~p:前,之前,在_前,在_之前
+anteriority~n:原先,先前
+anteroom~n:休息室,接待室,前厅,候诊室
+antetype~n:原型
+anthem~n:赞歌,校歌,国歌
+anthemia~n:花丛
+anther~n:花药,花粉囊
+anthesis~n:开花
+anthocaulus~n:花茎
+anthocyanin~n:花青素
+anthodium~n:头状花序
+anthology~n:诗集,文选|v:选
+anthracene~n:蒽
+anthraciferous coal~n:无烟煤
+anthracite~n:红煤
+anthracite coal~n:无烟煤
+anthrax~n:炭疽
+anthropoid~n:类人猿,人猿
+anthropoid ape~n:人猿
+anthropology~n:人类学
+anthropomorphize~v:人格化
+anti~a:反,反对|n:反对派|p:反对
+anti neutron~p:反中子
+antiaircraft~n:高射炮|a:防空
+antiaircraft artillery~n:高射炮
+antiaircraft defense~n:防空
+antiaircraft gun~n:高炮
+anti-airplane gun~n:高射炮
+antibiosis~n:抗菌
+antibiotic~a:抗菌素,抗菌
+antibiotics~n:抗菌素,抗生素
+antibody~n:抗体
+anti-britain contingent~n:平英团
+anticancer~a:抗癌
+anticatalysis~v:抑制
+anticathode~n:阳极
+antichemical~n:防化学|a:防化
+anticipate~v:预见,预言,料,预想,料及,指望,意料,预付,预支,促进,意,逆
+anticipate one's income~v:寅吃卯粮
+anticipation~n:预料,期待,预期,预测,抢先,预感,预支,预处理,预言|d:预先
+anticlimax~n:虎头蛇尾
+anticoagulate~v:抗
+anticorrosion~n:防腐
+anticorrosive~a:防蚀剂|v:防腐
+anticyclone~n:反气旋
+anti-depressant~n:兴奋剂
+antidote~n:解毒剂
+antielectron~n:正电子,阳电子
+antifluctuator~n:缓冲器
+antiforeign~a:排外
+antifreeze~n:防冻液
+antifreezing~v:防冻
+antifriction alloy~n:减摩合金
+antigen~n:抗原
+antigodlin~v:交叉
+antigoglin~v:交叉
+antigue~n:古董
+antihelion~n:抗原
+anti-jamming~n:抗干扰
+anti-japanese~n:抗日
+anti-japanese college~n:抗大
+anti-japanese war~n:抗日战争,抗战
+antiknock~n:减震
+antilogy~n:自相矛盾|v:自相矛盾
+antimask~n:滑稽戏
+antimatter~n:反物质
+antimonite~n:辉锑矿
+antimony~n:锑
+antimony bloom~n:锑华
+antimoth~v:防蛀
+antineutron~n:反中子
+antinomy~n:矛盾,对立,自相矛盾
+antinomyces~n:放线菌
+antiparticle~n:反粒子
+anti-party~a:反党
+antipathy~n:反感,憎恶,厌恶
+antipersonnel force~n:杀伤力
+antiphlogistic~n:消炎剂
+antiphony~n:轮唱
+antiphrasis~n:反语
+antipornography campaign~n:扫黄
+antiproton~n:反质子
+antipyretic~n:凉药,退热药
+antiquated~a:过时
+antique~n:古物|a:古色古香
+antique brass~n:古铜色
+antiquities~n:古风,古物
+antiquity~n:古老,古迹,古物,古旧,古
+antiriot~v:防暴
+antirust~v:防锈
+antirust paint~n:防锈漆
+antisepsis~n:灭菌,防腐,消毒
+antiseptic~n:消毒剂|v:防腐
+antisqueak~n:减声器
+antistatic~a:抗静电
+anti-static electricity~n:抗静电
+antisternum~n:脊椎
+antisubmarine~a:反潜
+antisubmarine plane~n:反潜机
+antisubstance~n:抗体
+antitank gun~n:反坦克炮
+antitheism~n:无神论
+antithesis~n:对仗
+antithetical couple~n:对子
+antithetical couplet~n:对联,联,对,对子
+antithetical parallelism~n:对偶
+antitoxic~a:防毒
+antitoxic serum~n:抗毒血清
+antitoxin~n:抗毒素,防毒
+antitoxine~n:抗毒素
+antitrope~n:抗体
+antium~n:门廊
+antler~n:鹿角
+anton~n:安东
+antonym~n:反义词
+antrum~n:房
+antwerp~n:安特卫普
+anus~n:肛门,肛瘘
+anvil~n:砧子,基石
+anvil bone~n:听骨
+anxiety~n:担心,心病,挂虑,渴望,悬念,愁苦,忧,苦闷,忧心,虞|a:焦虑,焦急|v:患
+anxiety for~n:渴望
+anxious~a:急于,忧虑,焦急,急,切|v:心焦,忧虑
+anxious about~a:焦虑,担忧
+anxious for~a:渴望
+anxious to return~a:归心似箭
+anxiously~d:眼巴巴
+anxiously expect something~v:企
+any~d:一些,丝毫,略微,稍微,少许,随便|a:任何,一点,一些,凡是|r:哪|v:是
+any amount~n:大量,许多
+any brass-wind instrument~n:号
+any crystalline substance~n:晶
+any ear-like thing~n:耳
+any ivory chip~n:牙牌
+any kind of~n:哪样
+any milk-like liquid~n:乳
+any more~n:再
+any number~n:许多,大量
+any paste-like matter~n:泥
+any time~n:哪会儿,随时
+any valuable collection~n:宝库
+anyang~n:安阳
+anybody~n:张三李四
+anyhow~d:反正,总之,总,左右,横竖,随便
+anymore~d:不再
+anyone~r:谁,你,任何人
+anything~r:什么,什麽|n:一针一线
+anything but~p:绝不
+anything but reassuring~a:不妙
+anything of~p:离开,略微,一点儿
+anytime~d:一定,总是|n:旦夕
+anyway~d:不管怎样,随便,左右,左不过,死活,总
+anyways~d:不管怎样
+anywhere~d:随地,随处|r:哪儿
+anywise~d:决,总
+aorta~n:主动脉,大动脉
+aorta arch~n:主动脉弓
+apache~n:流氓
+apanage~n:附属物,属性
+apart~d:拆开,离,撇开,散开,分别,各别,除去|v:相距
+apart from~p:除外,以外,远离,除_以外
+apartheid~n:隔离
+apartment~n:公寓,房间,住房,套间
+apastia~v:绝食
+apathetic~a:淡漠,麻木,漠不关心,暮气沉沉
+apathetically~d:漠然
+apathy~n:冷漠,冷淡,漠不关心,淡漠,暮气
+apatite~n:磷灰石
+ape~n:猿猴|v:仿效
+ape-man~n:猿人
+apercu~n:摘要,洞察,梗概,一瞥
+aperture~n:洞,孔隙,窗口,隙,眼,口径
+aperture gap~n:孔隙
+aperture of bridge~n:桥孔,桥洞
+apery~n:摹仿
+apex~n:顶峰,舌尖,心尖,绝顶,峰值
+apex angle~n:顶角
+apex of arch~n:拱顶
+aphasia~n:失语症
+aphid~n:蚜虫,蚜,腻虫
+aphis~n:蚜虫,蚜
+aphonia~n:失音
+aphonic~a:失音,失声
+aphorism~n:谚语,警语
+aphrodisia~n:性欲|v:交媾
+aphrodisiac~n:春药
+aphrodisiomania~n:色情狂
+aphtha~n:口疮,口蹄疫
+apiary~n:蜂房,养蜂场
+apical~a:舌尖音
+apical angle~n:顶角
+apical plate~n:顶板
+apiece~d:各人
+aplenty~d:丰富,极|n:大量,丰富|a:丰富
+aplomb~n:自信,冷静,自恃,垂直
+apnea~v:窒息|n:窒息
+apnoea~n:窒息
+apocalypse~n:启示
+apocynum lancifolium~n:罗布麻
+apoenzyme~n:酶蛋白
+apoferment~n:酶蛋白
+apogee~n:极点
+apolegamy~v:选配
+apolexis~a:衰老
+apollo~n:美男子
+apologetic~a:辩护,不过意
+apologetically~d:辩解,道歉
+apologeticically~d:认错
+apologia~n:道歉
+apologist~n:辩护士,卫道士
+apologize~v:道歉,认错,请罪,负荆请罪,辩解,赔礼,赔话
+apologue~n:寓言
+apology~n:歉意,辩解,赔不是
+apophthegm~n:格言
+apoplexia~v:中风
+apoplexy~v:中风|n:卒中
+aposepsis~a:腐败
+apostasy~n:变节
+apostatize~v:变节,脱党
+apostil~n:注
+apostille~n:注
+apostle~n:鼓吹者
+apothecary~n:药剂师,药铺,药房
+apothegm~n:格言
+apotheosis~n:崇拜,神化
+apotheosize~v:颂扬,崇拜,尊崇
+appall~v:吓坏
+appalling~a:骇人听闻
+apparatus~n:器具,器材,仪表,机关,注释,仪,组织
+apparel~n:衣服,装饰,穿着|v:装饰
+apparel fabric~n:衣料
+apparent~a:明显,显而易见|v:显见|d:显然
+apparently~d:显然,看起来
+apparition~n:出现,鬼怪,幻象,幻影,妖怪
+appeal~n:上诉,恳求|v:控诉,要求
+appeal for~n:将,要求
+appeal pathetically~v:恳求
+appeal to~n:吸引,爱好
+appeal to arms~n:诉诸武力,兵戎相见,动武
+appeal to reason~n:讲理
+appear~v:出现,看来,好像,出,露出,仿佛,发表,起,显出,似,浮现,亮,现,透|n:形
+appear for duty~v:到差
+appear impressive~v:头头是道
+appear in court~v:出庭
+appear in public~v:抛头露面
+appear indistinctly~v:隐现
+appear merry~v:喜形于色
+appear on the stage~v:出台
+appear personally~v:出台,出面
+appear publicly~v:出台
+appear repeatedly~v:层见叠出
+appear to be~v:见,似乎
+appearance~n:外表,外观,仪表,露面,表面,现象,模样,象,仪容,出庭,面貌,相,神态,门面,容,幽灵,姿,状|v:形容
+appearance without reality~n:有名无实
+appease~v:满足,缓和,劝慰,抚慰,解,充
+appeasement~n:绥靖,抚慰,满足,迁就,姑息,缓和
+appeasement doctrine~n:绥靖主义
+appellation~n:称谓,称呼,名
+appellative~n:通称,称号,名称
+appellee~n:被告
+appellor~n:原告
+append~v:附上,加上,增补,加,添加
+appendage~n:附庸,尾巴
+appendages~n:附件
+appendant~a:附属
+appended~v:附加
+appendices~n:附录
+appendicitis~n:阑尾炎
+appendix~n:附庸,附言
+apperceive~v:阐明,观察,领悟
+apperception~n:领悟,触类旁通
+appertain~v:属于
+appertain to~v:属于
+appetence~n:欲望,习性
+appetency~n:欲望
+appetite~n:食欲,胃口,欲望,嗜好,爱好,饭量,食量
+appetizing~a:香喷喷,香|v:对胃口
+applaud~v:喝彩,欢呼,赞美,夸奖,拍掌
+applause~n:鼓掌,喝采,称赞,夸奖|v:叫好
+apple~n:苹果
+apple green~n:苹果绿
+apple knocker~n:庄稼汉,生手,农夫
+apple of sodom~n:虚有其表
+apple sauce~n:胡说,苹果酱
+apple tree~n:苹果树
+apple-head~n:笨蛋
+apple-pie order~n:井然有序
+applesauce~n:苹果酱
+appliance~n:设备,工具,仪器,适用|v:应用
+applicability~n:适用性,适当
+applicable~a:适用
+applicablebly~d:适当
+applicant~n:申请人,申请者,投保人
+application~n:申请书,运用,适用,用功,勤勉,请求,报名,用场|v:接近,应用
+application form~n:志愿书
+application of leaves~n:叶面施肥
+application valve~n:控制阀
+applied~v:外加
+applied sciences~n:应用科学
+applique~n:贴花
+apply~v:适用,用,涂,上,施,着,请求,提出,致力,下,努力,外敷,抹,施行,呈请,措,寻求,傅,报名,声请,适合
+apply arbitrarily~v:硬套
+apply beforehand~v:预行
+apply cosmetics~v:涂脂抹粉,化妆,搽脂抹粉
+apply facial makeup~v:涂脂抹粉
+apply for~v:提出,声请,寻求
+apply for reimbursement~v:报销
+apply force~v:作用力
+apply hot compress~v:热敷
+apply indiscriminately~v:搬
+apply manure~v:粪
+apply mechanically~v:生搬硬套,硬套
+apply proper remedy~v:对症下药
+apply the brake~v:制动
+apply to~v:适用
+apply work~v:做功
+apply_~v:合用
+appoint~v:任命,任,派,规定,指派,命令,内定,引用,立,叙用,供给,差使|n:命
+appoint a time~v:约期
+appointed man~v:专人
+appointed time~v:点
+appointment~n:任命,预约,任职,约定,职位,约,任用,委派,命令,天意|v:指定
+apportion~v:分摊,配
+apportionment~n:分摊,分配
+appose~v:并列
+appositeness~n:适合|v:适合
+apposition~v:外加,接合|n:并列
+appositive~n:同位语
+appraisal~n:评价,估计,评论|v:检验
+appraisal price~n:估价
+appraise~v:估|n:叙
+appraised price~n:估价
+appraisement~n:鉴定,评定
+appraiser~n:幕宾
+appraising meeting~n:鉴定会
+appreciate~v:感谢,赞赏,增值,感激,懂得,体会,体味,鉴别,升值,玩,赏,感,赏鉴,鉴貌辨色,腾贵
+appreciate somebody's thought~v:心领神会
+appreciate the kindness~v:领情
+appreciation~n:感谢,了解,感激,知道,鉴赏,鉴别,上涨,腾贵
+apprehend~v:害怕,缉获,缉拿,疑惧,拘押,捉拿
+apprehension~n:恐惧,忧虑,顾虑,担忧,见解,领悟,理解
+apprehensions~n:疑惧|v:疑惧
+apprehensive~a:惶惑
+apprentice~n:艺徒,徒,见习生,初学者,生手,高徒
+appress~v:紧贴
+apprise~v:通知,通报,告知
+apprize~v:通报
+approach~n:途径|v:看待,探讨
+approach about~n:商谈
+approach bridge~n:引桥
+approach road~n:引路
+approach the bank~v:拢岸
+approach to~n:接近
+approach trench~n:交通壕
+approaching~n:未来|a:近|v:垂
+approaching death~n:垂危
+approaching one's end~n:临终
+approaching one's grave~n:日薄西山
+approbate~v:批准,认可
+approbation~n:赞许,称赞,批准,嘉奖
+appropriate~a:适当,合适|v:偷走
+appropriate amount~n:适量
+appropriate for needs~v:对路
+appropriate funds~n:拨款
+appropriate lost property~v:拾遗
+appropriate measure~n:适度
+appropriate public property~n:化公为私
+appropriate to~v:适合
+appropriate to oneself~v:占为己有,据为己有
+appropriate wording~n:一字褒贬
+appropriately~d:恰
+appropriateness~n:高低,适当,占有
+appropriation~n:经费,盗用,挪用,据为己有|v:拨款
+approval~n:同意,认可|v:核准
+approve~v:赞成,通过,同意,赞同,证实,认可,准,肯定,审批,证明
+approve of~v:认可
+approved for distribution~a:照发
+approximate~v:接近|a:概|d:大概
+approximate amount~n:概算
+approximate number~v:约数
+approximate to~v:接近,约计
+approximate value~n:近似值
+approximately~d:约,大体,约莫,近乎,许,约略,大略,概|a:近
+approximation~n:概算,逼近|v:近似,接近
+appurtenance~n:附属物,设备,装置
+appurtenant~a:附属物
+apr~n:4月,四月
+apres~p:以后,在_以后,在_之后,之后
+apricot~n:杏树,杏,杏子
+apricot pink~n:杏花
+apricot tree~n:杏树
+april~n:四月,4月
+april fool~n:愚人节
+april fool day~n:愚人节
+apriorism~n:先验论
+apriority~a:先天性
+apron~n:停机坪,挡板,窗台
+apron wheel~n:履带
+apropos~a:中肯|p:关于
+apropos of~p:关于
+apt~a:容易,贴切,恰如其分,得当
+apt at~a:善于
+apt to~a:善于,易于
+aptha~n:口疮
+aptitude~n:天资,聪颖,颖悟,资质,材
+aptitude for writing~n:文才,文采
+aptly~d:巧
+aptness~n:才能,性情
+apus~n:水鳖子
+aqua~n:溶液
+aqua fortis~n:硝酸
+aqua vitae~n:烧酒
+aquage~n:水路
+aquagun~n:水枪
+aquanaut~n:潜水员
+aquaplane~v:滑水|n:水上飞机
+aquaria~n:水族馆
+aquarium~n:水族馆
+aquatic~a:水上,水生|n:水上
+aquatic bird~n:水鸟,水禽
+aquatic foods~n:鲜
+aquatic plant~n:水草
+aquatic plants~n:藻
+aquatic weed~n:水草
+aquation~v:水合,水化
+aquavit~n:烧酒,白兰地
+aqueduct~n:渠道,导管,水管
+aqueous ammonia~n:氨水
+aqueous tint~n:水色,水彩
+aqueous vapour~n:水汽
+aquiclude~n:隔水层
+aquila~n:天鹰座
+aquolysis~v:水解
+arab~n:阿拉伯人,阿拉伯
+arabesquitic~n:花纹
+arabia camel~n:单峰驼
+arabian~n:阿拉伯人,阿拉伯
+arabian bird~n:凤凰
+arabian jasmine~n:茉莉
+arabian night~n:天方夜谭
+arabian nights~n:天方夜谭
+arabic~n:阿拉伯语,阿拉伯
+arabic figure~n:阿拉伯数字
+arabic language~n:阿拉伯文
+arable~n:耕地
+arable land~n:可耕地
+arachnid~n:蜘蛛
+aral sea~n:咸海
+araldite~n:环氧树脂
+araneid~n:蜘蛛
+arbiter~n:调停人
+arbitrage~n:股票,裁判,套汇|v:套汇,套购
+arbitrage of exchange~n:套汇
+arbitrament~n:裁决
+arbitrarily~d:横加
+arbitrarily knock together~v:生凑
+arbitrariness~n:武断,独断,专横,任性,霸道
+arbitrary~a:专横,蛮横,生硬,随便,乱,专断|v:随心所欲,独断
+arbitrate~v:调解,调处,排解
+arbitration~n:仲裁|v:鉴定,仲裁
+arbitration award~n:裁决
+arbor~n:凉亭,轴,树木,亭,乔木,木本植物
+arborescence~n:树状
+arboret~n:灌木
+arboretum~n:植物园
+arboriculture~n:林学,造林
+arborization~n:树枝状
+arborize~v:分叉
+arborvitae~n:侧柏
+arbour~n:花园,亭
+arbuscle~n:灌木
+arbuthnot~n:医生
+arc~n:电弧,弧线
+arc camp~n:弧光灯
+arc ring~n:绝缘子
+arc welding~v:电弧焊接
+arcanum~n:秘密,秘方
+arch~n:弓,拱形,拱顶,牌坊,猫,脚心|a:总的
+arch bridge~n:拱桥
+arch dam~v:拱坝
+arch enemy~n:死敌
+arch eyebrows~v:柳眉
+arch form~v:弓形
+arch one's back~v:猫腰
+arch ring~v:拱圈
+archaean group~n:太古界
+archaeological sites~n:遗址
+archaeology~n:古物,考古
+archaeopteryx~n:始祖鸟
+archaeus~n:活力
+archaic~a:古,古物|n:古代
+archaic words~n:之乎者也,诂
+archaism~n:古风,之乎者也,古字
+archaize~v:仿古
+archanthropine~n:猿人
+archbishop~n:大主教
+arch-careerist~n:奸雄
+archduchess~n:公主
+archduchy~n:大公国
+arched~v:罗锅,弓形,拱形,穹形|n:弓形,拱门,罗锅|a:拱形
+archenemy~n:大敌,撒旦
+archeology~n:考古学,古物
+archer~n:射手,鞋匠
+archery~n:射箭
+archery grounds~n:靶场
+archetype~n:原型,典型
+archfiend~n:撒旦,魔王
+archibald~n:高射炮
+arching~v:弓状
+archipelago~n:群岛,列岛
+architect~n:建筑师,设计师
+architectonecs~n:建筑学
+architectonicals~n:建筑学
+architectonics~n:建筑学
+architect's scale~n:比例尺
+architecture~n:建筑,建筑学,建筑物,结构,构造,架构
+architrave~n:线脚
+archive~n:档案,卷宗|v:存档
+archive administration~n:档案馆
+archives~n:案卷,档案馆,档案
+archness~n:狡猾
+archos~n:肛门
+archpriest~n:主祭
+archway~n:拱道,拱门
+arciform~a:弓状
+arcolite~n:酚醛树脂
+arc-shaped~n:弧形
+arctic~n:北极,北极圈|a:严寒
+arctic circle~n:北极圈
+arctic fox~n:白狐,北极狐
+arctic ocean~n:北冰洋
+arctic region~n:北极圈
+arcuate~a:弓状
+arcuation~n:拱形
+ardency~n:热情,热烈,热心
+ardent~a:热情,热心,热烈,殷切,热切,殷,热
+ardent loyalty~n:忠心赤胆
+ardent spirit~n:烈酒
+ardently~d:殷殷
+ardently love~v:热爱
+ardently wish~v:热望
+ardently with~p:热望
+ardor~n:热情,热心,热忱
+ardourous~a:热忱
+arduous~a:艰巨,艰苦,吃重,艰难|v:是
+arduousness~n:艰苦,奋斗,艰难
+are~n:公亩
+are well-spaced~n:错落有致
+area~n:地区,区域,面积,区,领域,地方,范围,带,场地,地面,空地,区间,境,一带,境界,境域,壤,地积,舆
+area command~n:军区
+area of fire~n:射界
+area of shooting~n:射界
+areca~n:槟榔
+areca catechu~n:槟榔
+areca palm~n:槟榔
+arefaction~a:干燥
+arena~n:场所,舞台,竞技场|v:擂
+arene~n:芳烃
+areoboat~n:飞船
+areography~n:地理学
+areometer~n:比重计
+argali~n:盘羊
+argent~n:货币
+argentina~n:阿根廷
+argentine~a:阿根廷|n:银
+argentite~n:辉银矿
+argil~n:矾土,陶土
+argilla~n:陶土
+argle-bargle~n:争论,讨价还价
+argon~n:氩
+argot~n:隐语,暗语,黑话,行话
+arguably~d:可能
+argue~v:争论,认为,争辩,辩论,主张,说服,表明,辩,讨论,争,驳,证明,论,议论,计较,论战,争长论短,打嘴仗,论辩,强辩,巧辩,讼,顶撞,立论,说嘴,声辩,较量,说理,汹,劝说,论争,争竞,争议,问难
+argue about~v:讨论,议论
+argue against oneself~v:自相矛盾
+argue by reasoning~v:据理力争
+argue endlessly~v:哓哓不休,争论不休
+argue for~v:争论
+argue heatedly~v:舌战
+argue irrationally~v:强词夺理
+argue one's case~v:申辩
+argue over~v:争论
+argue pointlessly~v:磨牙
+argue senselessly~v:嚼舌
+argue strongly~v:力争
+argue with~v:顶撞
+arguement~n:理由
+argument~n:论点,争论,论据,辩论,论证,理由,道理,立论,说法,自变量,诡辩,论调,情节,摘要|v:争论,论证
+argumentation~n:立论,推论,义理,辩论,论说,议论文,争论,论说文,论证|v:论证
+argumentative~a:振振有词
+argumentative essay~n:论说文
+argumentative writing~n:议论文
+argumentatively~d:振振有词
+argy-bargy~n:抬杠,讨价还价,议论
+arhat~n:罗汉
+aria~n:咏叹调,唱段,唱腔
+arid~a:干旱,干燥,旱|n:干旱
+arid land~n:不毛之地
+aridity~n:干燥,荒芜,乏味,枯燥,贫瘠|a:荒芜
+ariel~n:羚羊
+aright~d:不错|v:纠正
+arioso~n:咏叹调
+arisaema consanguineum~n:天南星
+arisaema tuber~n:天南星
+arise~v:产生,出现,发生,起来,起,起身,升起,出,起床,上升,兴起
+arise case~v:发案
+arise from~v:由于
+arise spontaneously~v:油然而生
+arista~n:芒
+aristocracy~n:贵族
+aristocrat~n:贵族
+arithmetic~n:算术,运算,算法,计算,算学
+arithmetic figure~n:算术
+arithmetic formula~n:算式
+arithmetic operator~n:算子
+arithmetic progression~n:等差级数,等差数列
+arithmetic section~n:运算器
+arithmetical progression~n:等差级数
+arithmetical question~n:算题
+aritstocrat~n:世家
+ark~n:方舟,柜
+arm~n:手臂,胳膊,臂,武器,胳臂|v:发给,供给
+arm badge~n:臂章
+arm of force~n:力臂
+arm of wheel~n:轮辐
+arm pull~n:划水
+arm saw~n:手锯
+arm spread~n:庹
+arm strength~n:臂力
+arm wrestling~n:臂力
+armada~n:舰队,船队,大队,机群
+armadillo~n:犰狳
+armament~n:军备,装备,武装力量,武装,军械,兵器,火炮,军队
+armaments expansion~n:扩军
+armature~n:电枢,衔铁,钢筋,甲胄,针刺,转子,骨架
+armature buffer~n:推杆
+armature bushing~n:推杆
+armature iron~n:衔铁
+armature lifter~n:推杆
+armature plug~n:推杆
+armature pusher~n:推杆
+armband~n:臂章,袖章,袖标
+armchair~n:扶手椅,交椅
+armchair strategy~n:纸上谈兵
+armed escort~n:镖客,保镖
+armed forces~n:军队,武装,部队,军
+armed police~n:武警
+armed police force~n:警力
+armed rebellion~n:叛乱
+armed strength~n:武力
+armenia~n:亚美尼亚
+armful~n:抱
+armiger~n:乡绅
+armillary sphere~n:浑仪
+arming~v:徽章
+armistice~n:停战,休战|v:停战,休战
+armlet~n:臂章
+armman~n:武人
+armoire~n:衣柜
+armor~n:盔甲,甲胄,甲,装甲,铁甲
+armor piercer~n:穿甲弹
+armored~a:装甲
+armored automobile~n:装甲车
+armored car~n:装甲车
+armored engagement~n:炮战
+armored force~n:装甲兵
+armored glass~n:钢化玻璃
+armored rope~n:钢丝绳
+armored ship~n:装甲艇
+armorer~n:盔甲
+armory~n:军械,兵工厂,军械库,武库
+armour~n:甲,装甲|a:坚
+armoured~a:装甲
+armourer~n:盔甲
+armouring~n:武装
+armoury~n:装甲,兵工厂,军械库,军械,盔甲
+armpit~n:腋窝,胳肢窝,夹肢窝,腋,胳
+armpit odor~n:狐臭
+armrest~n:扶手,靠手
+arm-rest~n:扶手
+arms~n:枪炮,铁,兵,兵器,兵戎,干戈,武器,武装,刀兵,兵戈,军备,枪杆子
+arms cut~n:裁军
+arms expansion~n:扩军
+arms of services~n:兵种
+arms plant~n:兵工厂
+army~n:军队,部队,陆军,军,大军,队伍,集团军,师,兵团,军旅,戎,伍,子弟兵,团体,野战军|a:伍
+army act~n:军法
+army building~n:建军
+army camp~n:军营
+army commander~n:军长
+army cook~n:火头军
+army crops commander~n:军长
+army day~n:八一
+army deserter~n:逃兵
+army group~n:集团军
+army headquarters~n:军部
+army life~n:戎马生涯
+army mail~n:军邮
+army man~n:军人,兵
+army overcoat~n:军大衣
+army post~n:军邮
+army provisions~n:军粮,粮秣
+army ruffian~n:兵痞
+army supply~n:军需
+army surgeon~n:军医
+army tent~n:帷幄
+army uniform~n:军衣,军装
+armyman~n:军人,武人
+aro line~n:弧线
+arofene~n:甲醛
+aroma~n:香味,芳香,香气,风味,韵味,风格
+aromatic~n:芳香,芳香剂|a:芳香,香
+aromatic hydrocarbon~n:芳烃
+aromatic water~n:香水
+around~d:周围,到处|p:差不多,左右,在_周围,在_附近|n:周围,光景,内外,周遭|v:围,围绕|a:周遭
+around lungs~p:肺部
+around the city~p:环城
+arousal~n:觉醒,激励,唤起|v:觉醒
+arouse~v:引起,激起,唤起,激发,唤醒,发动,激,徼,鼓动,睡醒,启发,动,鼓励,提起,动员,调动
+arouse admiration~v:肃然起敬
+arouse one's feelings~v:打动
+arouse scorn~v:令人齿冷
+arouse somebody's feeling~v:激动人心
+aroused~a:激昂
+arrack~n:白干儿
+arrah~n:惊愕
+arraign~v:传讯,控告,提审,审问,弹劾,责难
+arrange~v:安排,排列,准备,整理,商定,约定,改编,布置,排,设法,编排,列,铺排,筹备,料理,分类,接洽,筹办,安置,部署,署,掇弄,庀,顺,约,支配,置,摆布,措置,调弄,配器,摒挡,布,顿,整顿,措,打叠,调停,骘,安顿,擘画|n:布
+arrange an interview~v:约见
+arrange be extravagant~n:铺排
+arrange flowers~v:插花
+arrange for~v:安排,计划,安顿,安置
+arrange in order~v:序,排比
+arrange to transport~v:调运
+arrange with~v:接洽,洽
+arrange with somebody~v:商洽
+arranged in rows~v:鳞次栉比
+arrangement~n:安排,排列,装置,布置,商定,分类,次序,调解,调整,格局,料理,改作,事物,整顿,和解,整理,改编,预备,约定,筹备|v:调整,布置
+arrangement in parallel~n:并列
+arrangement of ideas~n:层次
+arrangements~n:事宜
+arrant~a:彻头彻尾,臭名昭著|v:臭名昭著
+arras~n:挂毯
+array~n:阵列,排列,衣服,队列|v:打扮,布置,排列,装饰,召集
+array pitch~n:行距
+arrayal~n:排列,军容
+arrear~n:耽搁,延误,落后,欠款,尾数
+arrearage~n:落后,延误,欠款,拖延,迟滞
+arrears~n:尾数,积欠,欠款,欠债
+arrest~v:逮捕|n:抑制
+arrest bleeding~n:止血
+arrest one's attention~v:耸人听闻
+arrest warrant~n:逮捕令
+arrester~n:避雷器,制动器
+arrester catch~n:制动器
+arrester gear~n:制动器
+arresting~v:制动
+arrestment~n:制动,逮捕,拘捕,扣留,阻止,扣押
+arret~n:扣押,命令,裁判
+arride~v:满足
+arris~n:楞,棱
+arrival~n:到达,到来,抵达,出现,登场
+arrival of goods~n:到货
+arrival station~n:终点站
+arrive~v:到,到达,来,来到,抵达,到来,赶到,被,达到,得出,出,发生,达,降临,成功,抵,达成,临,来临,戾,莅,造,莅临,幸,詹
+arrive at~v:达成,到达,造,得出,抵,赶到
+arrive by oneself~v:亲临
+arrive here~v:至此
+arrive in~v:到达,达到
+arrive late~v:迟到
+arrive unexpectedly~v:突如其来
+arrive without pomp~v:轻车简从
+arriviste~n:野心家
+arrogance~n:傲慢,自大,自高自大,骄气,气焰
+arrogancy~n:自大
+arrogant~a:傲慢,自高自大,自大,骄傲,倨,自满,颐指气使,傲,狂,嚣张,高慢,骄慢,自傲|v:颐指气使,自高自大
+arrogate~v:独揽,霸占
+arrogation~n:霸占
+arrondi~n:专区
+arrondissement~n:区
+arrow~n:箭,箭头,矢,令箭,标杆
+arrow bamboo~n:箭竹
+arrow point~n:箭头
+arrow tip~n:箭头
+arrowhead~n:箭头,镞,匕,慈姑,镝,茨菰
+arrowroot~n:葛,竹芋
+arrows~n:箭
+arroyo~n:小溪
+arse~n:屁股
+arsenal~n:武库,军火库,军械库,兵工厂
+arsenal works~n:兵工厂
+arsenic~n:砷,砒霜,信石,信
+arsenopyrite~n:毒砂,砷黄铁矿
+arsine~n:胂
+arson~n:纵火,放火
+arsonist~n:纵火犯
+arsphenamine~n:六零六
+art~n:艺术,技巧,技术,美术,文科,技艺,装模作样,诡计,插图,奸计,技能,学问,术,策略,功夫,解数
+art circles~n:艺林,画坛,艺术界,艺坛
+art designer~n:美工
+art exhibition~n:美展
+art gallery~n:画廊
+art museum~n:美术馆
+art object~n:美术品
+art of composition~n:作法
+art of fencing~n:剑术
+art of healing~n:医术
+art of make-up~n:美容术
+art of printing~n:印刷术
+art of singing~n:唱工
+art of war~n:韬,钤
+art of writing~n:辞章,词章
+art paper~n:铜版纸
+art troupe~n:文工团,艺术团
+art work~n:美术品
+art world~n:美术界
+artel~n:合作社
+artemisia~n:艾
+artemisia apiacea~n:青蒿
+artemisia capillaris~n:茵陈蒿
+arteria coronaria~n:冠状动脉
+arterial~n:动脉
+arterial blood~n:动脉血
+arteries~n:动脉
+arteriosclerosis~n:动脉硬化
+artery~n:动脉,干线,大动脉,中枢,要道,干路,干道
+artful~a:刁钻,刁滑,滑头滑脑,巧,刁
+artful scheme~n:巧干
+artfulness~n:巧妙,狡猾
+arthentic~a:忠实
+arthritis~n:关节炎
+arthrolithiasis~n:痛风
+arthrophlogosis~n:关节炎
+arthropod~n:节肢动物
+arthropoda~n:节肢动物
+arthrosis~n:关节
+artichoke~n:宝塔菜,百合
+article~n:文章,物品,论文,条款,冠词,制品,商品,条,条文,件,文翰,笔札,项目,关节,家伙,节|v:列举,约定,控告
+article by article~a:逐条
+article of creed~n:信条
+article of faith~n:信条
+article of trade~n:商品
+articles~n:用品,笔墨
+articles being processed~d:在制品
+articles for use~n:用品
+articles of association~n:章程
+articles of consumption~n:消费品
+articulate~v:接合,咬,挂钩,形成,表现|a:伶牙俐齿
+articulation~n:发音,关节,表达,连接,咬合|v:接合,连接
+articulus~n:关节
+artifice~n:诡计,技巧,手段,手腕,花头,做作,巧计,机谋,技能,谋略,策略
+artificer~n:工匠,技工,设计者,发明家,发明者,巧匠,技师,能工巧匠
+artificial~a:人工,人为,假,矫揉造作,做作,人造,义,造作|v:做作
+artificial board~n:人造板
+artificial eye~n:假眼
+artificial fibre~n:人造纤维
+artificial hand~n:假手
+artificial ice~n:人造冰
+artificial immunity~n:人工免疫
+artificial intelligence~n:人工智能
+artificial limb~n:假肢
+artificial magnet~n:人造磁铁
+artificial person~n:法人
+artificial petroleum~n:人造石油
+artificial planet~n:人造行星
+artificial pneumoperithorax~n:人工气胸
+artificial pneumoperitoneum~n:人工气腹
+artificial precipitation~n:人工降雨
+artificial satellite~n:卫星
+artificial tooth~n:假牙,义齿
+artificial wool~n:人造毛
+artificiality~n:人造,人为,人工
+artificialness~n:人工,矫揉造作,人为
+artillerist~n:炮手,炮兵
+artillery~n:炮兵,大炮,火炮,炮车
+artillery engagement~n:炮战
+artillery fire~n:炮击
+artillery man~n:炮手
+artillery prime mover~n:炮车
+artillery range~n:射程
+artillery shell~n:炮弹
+artilleryman~n:炮手,炮兵
+artillerymen~n:炮兵
+artiodactyl~n:偶蹄目,偶蹄
+artiodactyla~n:偶蹄目
+artisan~n:工匠,技工,手艺人,艺人,匠人,匠,能工巧匠
+artist~n:艺术家,画家,美术家,艺人,能手
+artiste~n:能手,艺人
+artistic~a:艺术,美观
+artistic conception~n:意匠,气韵
+artistry~n:技艺,艺术性,艺术
+artizan~n:工匠
+artless~a:天真|v:胸无城府
+artlessness~n:拙劣,质朴
+artrium~n:心房
+artus~n:关节
+artwork~n:美术品,图形|v:描绘
+arytenoid cartilage~n:勺状软骨
+as~p:作为,象,当|c:以便|d:一边|f:似的
+as a child~p:一小儿
+as a consequence~p:结果,因此
+as a consequence of~p:由于
+as a minimum~p:至少
+as a result~p:这一下,结果,于是乎,从而
+as a result of~p:由于
+as a rule~p:照说,平常,一般
+as a whole~p:总的说来
+as above~p:如上所述
+as against~p:与_比较,比较,对照
+as always~d:一如既往
+as an encouragement~p:以资鼓励
+as before~n:一如既往,仍然,如故,照样,仍旧,照旧
+as below~p:如下
+as compared to~p:比较,与_比较
+as compared with~p:比较,与_比较
+as distinct from~p:与_不同,不同
+as distinguished by~p:不同,与_不同
+as distinguished from~p:不同,与_不同
+as early as~a:早,就
+as ever~d:一如既往,仍旧,照常
+as expected~d:果真,莫不,果然
+as far as~p:关于,至于
+as for~p:至于,对于
+as from~p:从_起,起,开始,从_开始
+as good as~a:不啻,不亚于,不下于
+as if~c:似的,好象,似乎,仿佛,似,宛如,如,犹如,恍若,恍,若,宛,犹,宛然
+as it happens~c:巧,正好,正巧
+as it is~c:其实,实际上
+as it may~c:无论如何
+as it was~c:其实
+as long as~c:但凡
+as many as~n:就,不下于
+as matter stands~p:照实
+as much as~c:就,多少,足,足足,等于
+as of~p:起,从_起,截至,从_开始,在_时,开始,时
+as of old~p:照旧
+as often as~n:每当
+as one pleases~c:自便,随意,听便
+as one wishes~p:从心所欲,如意,随便,顺遂
+as opposed to~p:相对,与_相对
+as per~p:按照,根据
+as per usual~d:照常
+as prices~p:划一不二
+as promised before~d:有约在先
+as regards~p:至于,关于,讲
+as remarked above~d:如上所述
+as respects~p:关于
+as result of~p:由于,因为
+as so much~p:同样
+as soon~d:宁愿
+as soon as~c:一,就,刚,即,一__就__
+as stated above~d:如上所述
+as the name implies~d:顾名思义
+as though~c:仿佛,好像
+as to~p:关于,讲,至于,对于
+as touching~p:关于
+as usual~p:如故,照旧,仍然
+as was expected~d:不出所料,果,果不其然,意料之中
+as well~d:也,同样,还,外带
+as well as~p:也,以及,既,以,载
+asarcia~a:消瘦
+asarum~n:细辛
+asbest~n:石棉
+asbestos~n:石棉
+asbestos shingle~n:石棉瓦
+asbestus~n:石棉
+ascariasis~n:蛔虫病
+ascarid~n:蛔虫,蛔
+ascend~v:上升,升,登,上坡,上去,升高,攀登,登高,高耸,腾
+ascend the throne~v:登极,立
+ascendance~n:优势
+ascendancy~n:优势,权势,主权
+ascendant~n:优势,福星高照,祖先
+ascendency~n:优势
+ascending colon~n:升结肠
+ascending power~n:升幂
+ascending powers~n:升幂
+ascension~n:上升,升起,升腾,升高|v:升起
+ascent~n:上坡路,攀登,上升,升起,登高,阶梯,上坡,升高,坡度|v:升起,生长
+ascent the stairs~n:拾级而上
+ascertain~v:查明,弄清,确定,探明,探悉,稽考,查究,判明,落实,推求,捉摸
+ascertainment~n:确定,查明,断定,探知|v:断定
+ascetic~a:禁欲
+ascetic monk~n:苦行僧
+ascetic practices~n:苦行
+asceticism~n:禁欲主义,苦行
+ascidian~n:海鞘
+ascites~n:腹水,水臌
+ascitic fluid~n:腹水
+ascription~n:归于,推诿
+ascrobic~n:维他命
+ascus~n:子囊
+asepsis~n:防腐
+aseptic~a:防腐剂
+asexual~a:无性
+asexual hybridization~n:无性杂交
+asexuality~n:无性
+asexualization~v:阉割
+asgard~n:天堂,仙境
+ash~n:灰烬,灰,骨灰,废墟,灰尘,苍白,白蜡树,碳酸钠,灰色,余烬,烬
+ash can~n:深水炸弹
+ash fire~n:余烬
+ash tray~n:烟灰缸
+ashamed~a:羞愧,惭愧,羞耻,不好意思,害臊,难为情,羞惭,愧,愧怍,觍,没脸,愧疚,怍|n:羞耻
+ashamed of~a:不好意思
+ashbin~n:垃圾箱
+ash-bin~n:垃圾桶
+ashcan~n:垃圾箱
+ashen~a:灰白,铁青,土色
+ashes~n:遗骨,遗体,骨灰,余烬,灰烬,烬
+ashman~n:清道夫
+ashore~d:上岸,岸上,登陆,陆上|v:登陆,上岸
+ashplant~n:手杖
+ashtray~n:烟灰缸,烟缸
+ashy~n:灰色
+asia~n:亚洲,亚
+asia minor~n:小亚细亚
+asian~n:亚细亚
+asian games~n:亚运会
+asian sports village~n:亚运村
+asiatic plantain~n:车前
+aside~d:一边|n:旁白|p:一边
+aside from~p:以外,除_以外
+aside operas~n:背躬
+asiderite~n:陨石
+asininity~n:愚蠢,愚钝,蠢事
+ask~v:问,要,要求,请,叫,请求,问道,找,邀请,将,求,征求,买,询问,需要,发问,约,索,教,申请,讨,祈求,约请,公布,质问,询,探问,索要,转托,问询,问讯,征,告,叩,动问
+ask a price~v:要价,讨价
+ask a question~v:提问,发问
+ask a riddle~v:破谜儿
+ask about~v:打探,讯问,问
+ask advice~v:领教
+ask advice of~v:征询
+ask after~v:询问,探问
+ask earnestly~v:祷,渴求
+ask everything~v:问长问短
+ask for~v:要,讨,买,告,请求,申请,责,索要,征求,找,征
+ask for advice~v:请教
+ask for embarrassment~v:自讨没趣
+ask for forgiveness~v:讨饶
+ask for help~v:搬兵,求救,伸手,借光,乞援,求援
+ask for it~v:自找
+ask for leave~v:告退
+ask for pardon~v:求饶
+ask for perfection~v:求全
+ask for pity~v:乞哀告怜
+ask for rebuff~v:自讨没趣
+ask for reinforcement~v:请援
+ask for surrender~v:请降
+ask for trouble~v:惹火烧身,自讨苦吃
+ask in reply~v:反问
+ask instructions from~v:请示
+ask oneself~v:自问,反躬自问
+ask the way~v:问路
+ask to se~v:求见
+ask to see~v:求见
+ask too much~v:苛求
+askance~d:斜,横,斜视
+askant~d:斜视
+asker~n:乞丐
+askew~a:歪|d:歪,斜|v:歪斜
+asking~v:请求,问
+aslant~d:斜|v:歪斜,侧|a:歪斜
+asleep~d:麻木,睡熟,长眠
+aslope~d:倾斜,斜
+asmodeus~n:魔王
+asparagus~n:芦笋,文竹,石刁柏,天门冬,龙须菜
+asparagus lettuce~n:莴苣,莴笋
+aspect~n:方面,外貌,面貌,面目,形势,样子,貌,特征,方位,面,方向,头,侧面,体,容貌,上面,光景,局势,姿,点,见地,局面,态,神色,首
+aspect astrology~n:星象
+aspect the sentries~n:查哨
+aspen~n:白杨,白杨树,杨树
+asperity~n:粗糙,刺耳,粗暴
+asperse~v:诽谤,诬蔑,中伤
+aspersion~n:中伤,诬蔑
+asphalt~n:沥青,柏油,土沥青
+asphalt felt~n:油毛毡
+asphalt road~n:柏油路
+asphalt rood~n:柏油路
+asphaltum~n:沥青
+asphatum~n:柏油
+asphodel~n:水仙
+asphyxia~v:昏厥,窒息|n:窒息
+asphyxiate~v:窒息
+asphyxiation~v:窒息|n:窒息
+aspic~n:肉冻
+aspidistra~n:蜘蛛抱蛋
+aspirant~n:考生,野心家
+aspirate~n:送气音,音|v:吸入,吸气
+aspirated~v:送气
+aspirating~v:除尘
+aspiration~n:愿望,渴望,抱负,热望,心愿,志气,吸入,志趣,志愿,心气,呼吸,送气音,吸取,心胸,意愿,志,志向|v:吸取,呼吸
+aspirations~n:渴望,心声
+aspirator~n:吸尘器
+aspire~v:渴望,追求,热望,升,有志于
+aspire after~v:问候,希冀,询问
+aspire at~v:渴望,立志
+aspire earnestly~v:望眼欲穿
+aspire to~v:渴望,立志
+aspirin~n:阿司匹林
+asquint~d:斜眼,侧目
+ass~n:驴,驴子,傻瓜,傻子,蠢人,笨蛋,屁股,蠢驴
+ass wagon~n:小车
+assagai~n:标枪
+assai~d:非常
+assail~v:袭击,攻击,攻打,抨击,指责
+assail with obscenities~v:调戏
+assailant~n:凶手
+assart~v:开荒,开垦|n:开垦
+assassin~n:刺客,凶手
+assassinate~v:暗杀,刺杀,破坏,行刺,中伤,刺,暗害
+assassination~n:暗杀,暗害
+assassinator~n:刺客,凶手
+assault~v:殴打,进攻,威胁,突击,攻打,攻,攻击,冲锋,非议,冲击|n:攻击
+assay~n:测定|v:化验,企图,试验
+assemblage~n:会众,汇,会合,集会|v:汇
+assemblage of colours~n:五彩缤纷
+assemble~v:聚集,装配,集合,汇编,安装,聚,组装,会集,会,收集,汇集,会合,会聚,集聚,攒,凑合,萃,调集,荟萃,集,装,总,取齐,齐集
+assemble language~v:汇编语言
+assembler~n:汇编程序,汇编,装配工
+assembler language~n:汇编语言
+assembler program~n:汇编程序
+assembler routine~n:汇编程序
+assembling~v:装配,组装
+assembling unit~n:机组
+assembly~n:装配,部件,议会,集会,装置,组合,会众,集合,议院,汇编
+assembly hall~n:礼堂,大礼堂,会馆,会场,会堂
+assembly language~n:汇编语言
+assembly line~n:装配线,流水线
+assembly line method~n:流水作业
+assembly room~n:会场
+assembly routine~n:汇编程序
+assemblyman~n:装配工,议员
+assent~v:同意,应允,赞成|n:赞成
+assent cordially to~v:心服口服
+assent to~v:同意,赞成
+assentation~n:同意,听从,赞成,附和
+assert~v:断言,声称,维护,宣称,主张,坚持,声明,居
+assert categorically~v:断言
+assert eloquently~v:振振有词
+assert emphatically~v:一口咬定
+assertion~n:断言,主张,坚持,声明,维护,断定,声称|v:断定,断言
+assertive~a:武断
+assess~v:评价,估价,评估,评定,征收,估量,叙,估,核计|n:叙
+assess merit~v:叙功
+assess merits~v:叙功
+assessment~n:估价,评定,评价,税额
+assessor~n:陪审,助理
+asset~n:资产,财产
+assets~n:公物,财产,资财,资产
+asseverate~v:宣称,断言
+asseveration~n:断言,誓言|v:断言
+asshole~n:肛门
+assibilant~n:擦音
+assiduity~n:兢兢业业,殷勤,勤勉,关心,刻苦
+assiduous~a:刻苦,勤勉|v:孜孜不倦
+assiduously~d:孜孜不倦,如饥似渴
+assiduously study~v:攻读
+assified~v:僵死
+assify~v:愚弄
+assign~v:分配,指定,派,布置,指派,定,拨,划,转让,交,差遣,分,调遣,划拨,调派,差使,差,选定
+assign a topic~v:出题,命题
+assignation~n:约定,指定,转让,选定,约会,分配,幽会
+assignee~n:代理人
+assigning~v:指定
+assignment~n:任务,作业,分配,指定,赋值,工作,转让,分派,任命,差事,测定,委派,指出|v:分配,赋值,分派,测定
+assimilate~v:吸收,同化,消化,吸取,摄取,摄
+assimilate with~v:相似,同化
+assimilation~n:同化,吸收|v:同化
+assist~v:帮助,协助,参加,帮,出席,辅助,援助,扶助,辅,襄助,左,助,帮同,协办|n:援助,加速器,相,协助
+assist an evildoer~v:为虎傅翼
+assist in~v:帮助
+assist in crime~n:帮凶
+assist in managing~n:帮办
+assist the evildoer~v:为虎作伥
+assistance~n:帮助,援助,协助,出席,辅
+assistant~n:助手,店员,助理,伙计,助理员,助教,帮手,辅导员,襄助,副,下手,副手,羽翼|a:下作
+assistant director~n:专员
+assistant engineer~n:助工
+assistant expert~n:技士
+assistant manager~n:协理,协理员,助理
+assistant minister~n:侍郎
+assistant officer~n:丞
+assistant researcher~n:助研
+assisted by~a:借助于
+assister~n:拂
+assisting~v:助攻
+assistor~n:助推器
+assize~n:条例,法令,条令
+associate~n:同人|v:联合,连带,过从
+associate with~v:搿,相交,交,游,交往,交接,轧
+associates~n:侪辈
+association~n:联想,联系,协会,会,交往,组合,学会,群落,社会,社团,交际,结合,联合,联盟,瓜葛,配对|v:交往,结合
+association football~n:足球
+association of idea~n:联想
+association of science~n:科协
+association trail~n:连接
+associator~n:伙伴,连接器
+assoil~v:赎,补偿,释放,赦免
+assort~v:调和,配套,相交,相配,交际,配备,相称
+assorted~a:各色,杂七杂八|n:什锦
+assorted cold dishes~n:拼盘
+assorted preserved fruits~n:杂拌,杂拌儿
+assortment~n:品种,分类,搭配,种类|v:分类
+assuage~v:减轻,平息,缓和,满足,平,解,充
+assuagement~n:缓和
+assumably~d:多半,恐,大概
+assume~v:假定,假设,设想,承担,担任,作,采取,取,即,假装,担当,采用,呈,想像,接受,上任,臆断,执掌,摆
+assume a post~v:到任,走马上任,任
+assume a posture~v:作势
+assume airs~v:拿乔
+assume an appearance~v:装腔作势
+assume another's name~v:冒名
+assume bureaucratic airs~v:打官腔
+assume command~v:挂帅
+assume great airs~v:作威作福,自高自大,摆架子
+assume hegemony~v:称王称霸
+assume leadership~v:挂帅
+assume office~v:接任,视事,上任,到任,就职
+assume one's post~v:就任
+assume personal command~v:坐镇
+assume power~v:上台
+assume presentable looks~v:表面文章
+assume solemn airs~v:道貌岸然
+assume such authority~v:当仁不让
+assume the post~v:到任
+assume the risk~v:担风险
+assumed name~n:化名,假名,号
+assumedly~d:也许,大概,多半
+assuming~a:非分
+assuming that~c:假定
+assumpsit~n:允诺
+assumption~n:假设,假定,设想,臆说,假装,想当然,小前提
+assurance~n:保证,自信,担保,把握,断言,定心丸,自大,确信,保险|v:担保
+assure~v:保证,担保,包,包管,管,管保
+assured~n:被保险人
+assured of~a:确信
+assured source~n:着落
+assuredly~d:固,的确,管教
+assuredness~n:确信,确实
+assurer~n:保人,保证人
+assurgent~a:升起|v:升起
+assuringly~d:一定
+assyria~n:亚述
+assyrian~a:亚述
+astatine~n:砹
+aster~n:天体,紫菀,星体
+asterisk~n:星号
+astern~d:往后
+astern running~v:倒车
+asternway~v:倒车
+asteroid~n:小行星,海星
+asthenia~n:无力,衰弱,虚弱|a:衰弱,虚弱
+asthma~n:哮喘,气喘,喘|v:喘
+astigmatism~n:散光,偏差
+astir~d:行动,起床,活动|a:哄动
+astonish~v:吃惊,惊讶,震惊|a:吃惊
+astonished~a:骇怪,怪讶,骇异|v:惊异
+astonishing~a:惊人,奇
+astonishment~n:惊讶,惊奇
+astound~v:震惊,大吃一惊
+astounded~v:惊讶,惊异|a:愕然,惊讶
+astounding~v:骇人听闻|a:骇人听闻
+astounding happenings~n:咄咄怪事
+astraddle~d:跨|p:跨着
+astragal~n:圆圈
+astragalus~n:黄芪
+astrakhan~n:羔羊皮
+astral body~n:魂魄,魂灵
+astray~d:迷路,堕落
+astrict~v:限制,约束,束缚
+astriction~n:收缩,束缚,限制,便秘|v:便秘
+astride~d:跨|p:跨着
+astringe~v:束缚,收敛,压缩,收缩
+astringency~n:严峻,严格
+astringent~a:涩,收敛|n:涩味
+astrodome~n:天体
+astrogate~v:驾驶
+astrogator~n:宇航员
+astrolabe~v:试|n:试
+astrologer~n:阴阳生
+astrology~n:占星术,星相,星象
+astronaut~n:宇航员,太空人
+astronavigation~n:宇航
+astronomical~n:天文|a:天文数字
+astronomically~d:天文学
+astronomy~n:天文学,天文
+astrospace~n:宇宙空间
+astrosphere~n:地核
+astrut~d:大摇大摆,趾高气扬
+astute~a:精明,聪慧,智
+astuteness~n:谋略
+asunder~d:分离,碎,隔离,断,开,散
+asylum~n:收容所,避难所|v:庇护
+asymptote~n:渐近线
+asynchronism~n:异步
+asynchronization~n:异步
+asynchronous~a:异步
+at~p:在,就,对,到,向,于,望,照,从事,诸,在_方面|r:诸|d:一般|n:举措
+at a bargain~p:廉价
+at a blow~p:一举,一下子
+at a brush~p:一举
+at a dash~p:一鼓作气
+at a disadvantage~p:吃亏
+at a guess~p:估计,猜测
+at a heart~p:一气呵成
+at a loss~p:困惑,迷惘,亏本,茫然,茫无头绪
+at a push~p:急迫
+at a sitting~p:一口气,一下子
+at a snail-pace~p:蜗行牛步
+at a standstill~p:静止
+at a stretch~p:一气
+at a stroke~p:一举
+at a time~p:同时
+at a word~p:马上
+at all~p:完全,毫,简直,根本
+at all events~p:总之
+at all places~p:到处
+at all rates~p:无论如何
+at all seasons~p:四季
+at all times~p:总是,平生,从来,无时无刻,经常
+at an end~p:结束,到头,完毕
+at anchor~p:抛锚
+at any moment~p:无时无刻
+at any price~p:无论如何
+at any rate~p:好歹,总而言之
+at any time~p:多会儿,不时
+at best~d:大不了|p:顶多
+at bottom~p:说到底,骨子里,实际上
+at close hand~p:接近
+at cost~p:原价
+at dagger drawn~p:剑拔弩张
+at daybreak~p:破晓
+at death's door~p:气息奄奄,鱼游釜中,危在旦夕
+at discretion~p:任意,随意
+at diver times~p:有时
+at dusk~p:傍晚,薄暮,傍黑儿
+at ease~p:踏实,安逸,自然,舒坦,塌实,自在,便,无拘无束
+at enmity with~p:不和
+at every moment~p:时时刻刻
+at every move~p:动不动
+at every turn~p:动,动辄,经常,到处,动不动,一动
+at exorbitant prices~p:抬价
+at fault~p:困惑,不知所措
+at first~p:起头,本来,最初
+at first hand~p:直接
+at first of~p:最先
+at first sight~p:初见
+at fixed periods~p:定期
+at full lick~p:急忙
+at full speed~p:开足马力,全速,飞速
+at full stretch~p:尽力,尽力而为
+at full tilt~p:全速
+at great length~p:洋洋洒洒
+at hand~p:手边,凑手,手头,手下,手底下
+at haphazard~p:偶然
+at heart~p:心上,心中
+at heel~p:接踵
+at high price~p:抬价
+at high speed~p:快马加鞭,急速
+at high tide~p:高潮
+at home~p:对内,熟悉
+at home in~p:熟悉,精通
+at infinity~p:无尽,无限
+at intervals~p:不时,有时
+at its height~p:无以复加
+at large~a:详尽
+at last~p:高低,总算,最后,卒,结果,算是
+at least~d:至少,总
+at leisure~p:清风明月,有空,清闲
+at length~p:最后
+at liberty~p:自由自在
+at long intervals~p:偶尔,间或
+at long last~p:算,总算
+at long sight~p:长期
+at low tide~p:低潮
+at maturity~p:到期
+at most~p:大不了,顶多|d:大不了
+at night~p:夜间,夜里
+at night fall~p:入夜
+at nightfall~p:傍晚,入夜,薄暮
+at noon~p:傍晌
+at odd moments~p:偶尔
+at odd times~p:偶尔
+at odds with~p:反对
+at once~p:登时,偻,赶快,连忙,一骨碌,跟着,迅即,当时,当下,即,立地,就,当儿
+at one~p:一心,一致
+at one blow~p:一举
+at one fling~p:一举,一鼓作气,一气呵成,一口气
+at one go~p:一口气
+at one push~p:一气
+at one stroke~p:一蹴而就,一气
+at one time~p:一度
+at one word~p:立刻
+at one's convenience~p:乘便,自便,顺势,趁便,任凭,恁
+at one's discretion~p:任凭
+at one's ease~p:自由自在
+at one's leisure~p:有空
+at one's side~p:身边
+at ordinary times~p:平时,平日
+at parting~p:临别
+at pause~p:停顿,中止
+at peace~p:相安无事
+at present~p:时下,当今,现在,兹,此时,当下,即,眼前,如今,这会儿,此刻,现下
+at public expense~p:公费
+at random~d:信,夹七夹八,横七竖八
+at regular intervals~p:定期
+at regular time~p:定时
+at rest~p:休息,安然,静止,安息|d:静止
+at retail~p:零售
+at right now~p:现在
+at root~p:根本上
+at sea~d:海上,茫然,不知所措,茫
+at second hand~p:间接
+at short intervals~p:常常
+at short sight~p:短期
+at somebody's convenience~p:就便
+at somebody's invitation~p:应邀
+at stake~p:危如累卵
+at state expense~p:公费
+at that~p:而且
+at that time~p:咱,那时,彼时,当初
+at the apex~p:如日中天
+at the back~p:后面,背后
+at the back of~p:在_后面
+at the beginning~p:首先,开首
+at the cost of~p:代价,以_代价
+at the end~p:到头,日暮途穷,终于
+at the expense of~p:代价,以_代价
+at the farthest~p:至多
+at the fewest~p:至少
+at the hands of~p:在_手下,手下
+at the head~p:前面
+at the instance of~p:提议,经_提议
+at the moment~p:目前,眼底下,时下,刻下,眼前,这会儿
+at the most~p:至多
+at the outset~p:当初,起初
+at the outside~p:至多
+at the peak~p:隆
+at the peril of~p:危险,冒着_危险
+at the point of~p:接近,靠近
+at the rear~p:殿
+at the risk of~p:危险,冒着_危险
+at the root~p:根本上
+at the same time~d:一边
+at the side~p:边上
+at the start~p:开始
+at the time~p:旋
+at the utmost~p:至多
+at the worst~p:大不了
+at this moment~p:这咱,此时
+at this time~p:兹
+at times~p:时时,有时候
+at top speed~p:快马加鞭
+at unity~p:和睦,一致
+at variance with~p:不和,与_不和
+at war with~p:作战,和_作战,与_作战
+at whiles~p:有时,偶尔
+at will~p:随便,信,随意
+at wit's end~p:心劳日拙
+atabal~n:铜鼓,手鼓
+atabrine~n:阿的平
+ataman~n:长官,首领
+ataractic~n:镇静剂
+atavism~n:返祖现象
+ataxia~n:混乱
+atebrin~n:阿的平
+atelier~n:工作室,工场,画室
+atheism~n:无神论
+atheling~n:公子,贵族,皇子
+athens~n:雅典
+atheroma~n:粉瘤
+athirst~a:渴望
+athlete~n:运动员
+athlete foot~n:香港脚
+athlete's foot~n:足癣,脚癣
+athletic field~n:运动场
+athletics~n:体育运动,竞技,运动,田径运动
+at-home~n:招待会
+athwart~p:横过,相反,横穿,横跨,逆,事与愿违|d:不便,斜,相反
+atishoo~i:阿嚏
+atlanta~n:亚特兰大
+atlantic~n:大西洋
+atlas~n:地图集,图集,图籍,图谱,图册
+atman~n:灵魂,自我
+atmos~n:大气压
+atmosphere~n:气氛,大气,空气,大气层,环境,大气压,风,氛围,排气,雾,风格,基调,雰,气象,风气,云层,氛
+atmospheric electricity~n:天电
+atmospheric pressure~n:气压
+atmospheric temperature~n:气温
+atmospherics~n:天电
+atom~n:原子,微粒,微量
+atom clock~n:原子钟
+atom-bomb~n:原子弹
+atomic~a:原子
+atomic battery~n:核电池
+atomic blast~n:核爆炸,核试验
+atomic bomb~n:原子弹
+atomic energy~n:核能
+atomic fission~n:裂变
+atomic formula~n:结构式
+atomic fusion~n:聚变
+atomic pile~n:核反应堆
+atomic reactor~n:核反应堆
+atomic weapon~n:原子武器
+atomicity~n:原子价
+atomiser~n:喷雾器
+atomism~n:原子说
+atomization~n:雾化,喷雾
+atomize~v:雾化,喷雾
+atomized~v:雾化
+atomizer~n:喷雾器,雾化器
+atomizing~v:喷雾
+atomry~n:原子武器
+atomy~n:原子,矮子,骸骨,尘埃,微粒
+atone~v:赎罪,补偿,偿,偿还,抵,调解,赎回,将功赎罪,赎
+atone by life~v:抵命
+atone for~v:赎,赎回
+atonement~n:补偿,赎罪
+atonicity~n:弛缓
+atony~n:弛缓
+atop~p:顶上,在_顶上
+atresia~n:退化,萎缩
+atria~n:心房
+atrip~a:扬帆
+atrium~n:心房,门廊,鼓室
+atrocious~a:穷凶极恶,狠毒|v:穷凶极恶
+atrocities~n:滔天大罪
+atrocity~n:暴行,残忍,残暴,暴虐,滔天大罪,凶恶
+atrophy~n:衰退,虚脱,退化,退缩,萎缩|v:虚脱,衰退,萎缩
+atropin~n:阿托品
+atropina~n:阿托品
+atropine~n:阿托品
+attach~v:相连,附着,附属,附上,附加,附,附带,扣留,加上,归于,相伴,指派,逮捕,缚,配属,拘留
+attach importance~v:贵
+attach importance to~v:重
+attach oneself to~v:寄,依附,比
+attach to~v:丽,归于,附
+attached~v:附属,附加
+attached drawing~n:附图
+attached elementary school~n:附小
+attached list~v:附表
+attached map~n:附图
+attached primary school~n:附小
+attachment~n:设备,依恋,附件,爱慕,连结,附着,感情,连接,扣押,配件,逮捕,附着物,依附,附属物,备件|v:连接,附着,连结
+attachment clip~n:夹子
+attachment plug~n:插头
+attack~v:攻击,进攻|n:主动
+attack bitterly~v:痛责
+attack brutally~v:大打出手
+attack by insinuation~n:含沙射影
+attack by storm~n:猛攻
+attack by surprise~n:掩
+attack covergingly~v:夹击
+attack enemy reinforcements~n:打援
+attack mainly~v:主攻
+attack of cold~n:伤寒
+attack plane~n:强击机
+attack violently~v:猛攻
+attain~v:达到,获得,到达,达,造,遂
+attain one's end~v:径情直遂
+attain perfection~v:炉火纯青
+attain proficiency in~v:精通
+attain to~v:达到,获得
+attainder~n:耻辱
+attainment~n:达到,成就,造诣,获得,才能,素养,学识,建树,到达
+attainments~n:战绩,造诣,造就
+attaint~n:污辱,耻辱|v:污辱
+attainture~n:凌辱
+attar~n:香精
+attemper~v:冲淡,调和,缓和,调节,调匀
+attempt~n:企图,尝试|v:窥伺,诱惑
+attempt nothing~v:无为
+attempt suicide~n:寻死
+attempt to~n:以求
+attempted offense~n:未遂犯
+attend~v:参加,出席,注意,照顾,照料,办,侍候,办理,料理,侍奉,看病,上班,服侍,陪,倾听,照拂,看管,随从,顾,留意,期待,上课,照看,赴,看护,随行,张罗,贯,凝神,伴随,伏侍,奉
+attend a banquet~v:坐席
+attend a conference~v:开会
+attend a funeral~v:送殡,送丧,送葬,执绋
+attend a lecture~v:听讲
+attend a meeting~v:开会,到会
+attend on~v:看护,照料
+attend school~v:念,读,念书,读书,求学,上学
+attend the meeting~v:到会
+attend to~v:办,看管,办理,干,张罗,照拂,奉,料理,司,照看,照料,顾
+attend to guests~v:周旋
+attend upon~v:侍奉,侍候,伏侍
+attendance~n:出席,照料,参加者,到场,看护,勤,出勤率
+attendance clock~n:考勤钟
+attendance registration book~n:考勤簿
+attendant~n:服务员,随从,听差,从,随员,跟班,侍者,厅子,值班员
+attendant in wedding~n:傧相
+attendant on train~n:乘务员
+attendants~n:左右,侍从,随从
+attended by crowd~v:簇拥
+attendee~n:参加者
+attending staff~n:主治医师
+attention~n:注意,注意力,关心,专心,殷勤,留心,姑息,礼貌,关照,注目|v:姑息
+attention-catching block~n:醒木
+attentive~a:专心,仔细,细心|n:周
+attentive to~a:关注
+attentively~d:用心,凝神
+attentiveness~n:注意,专心
+attenuant~n:稀释剂
+attenuate~v:衰减,减弱
+attenuation~n:衰减,减弱,减小,减少|v:衰减,减小,稀释
+attest~v:证明,证实,表明
+attestation~n:宣誓,证明,证言,证实,证明书,证据|v:认证
+attester~n:证人
+attic~n:阁楼,顶楼,楼阁
+attic salt~n:机智
+attic wit~n:机智,俏皮话
+attica~n:雅典
+attire~v:装扮,打扮|n:衣装
+attire in~v:打扮
+attitude~n:态度,看法,姿态,姿势,风,身段
+attitudinize~v:装腔作势,装模作样,作势
+attorney~n:律师,代理人,代言人
+attorney at law~n:讼师
+attorneyship~n:代理
+attract~v:吸引,引起,吸,招引,引诱,惹,引人注意,诱惑,诱人,招,抓,引
+attract attention~v:醒目,打眼,招眼
+attract somebody's attention~v:引人注目
+attracting~a:逗人
+attracting attention~n:触目
+attraction~n:吸引力,吸引,引力,魅力,引|v:引诱
+attractive~a:诱人,招眼|v:引人入胜
+attractive force~n:吸引力,引力
+attractive woman~n:美色
+attractively bright-colored~a:鲜艳夺目
+attribut~n:属性
+attribute~n:属性,特征|v:归于
+attribute to~v:归,归于
+attribution~n:属性,归属
+attributive~n:修饰语,定语
+attrit~v:降低,消耗
+attrite~v:削弱,磨耗
+attrition~n:磨损,摩擦,消耗,磨灭
+attrition wear~n:磨损
+attune~v:调
+atwitter~a:兴奋
+au antigen~n:澳抗
+auantigen~n:澳抗
+aubergine~n:茄,紫红色,茄子
+auburn~n:茶褐色,赭色,红褐色
+auckland~n:奥克兰
+auction~n:拍卖|v:拍卖
+auction bridge~n:拍卖
+auction off~v:拍卖
+auctioneer~v:拍卖|n:拍卖商
+audacious~a:大胆,胆大
+audacity~a:大胆,鲁莽,无礼,无耻|n:胆识,厚脸皮
+audible frequency~n:声频
+audible spectrum~n:声谱
+audience~n:观众,听众,读者,接见,倾听,听取
+audience chamber~n:会客室
+audience hall~n:大殿
+audience involvement~n:悬念
+audience room~n:会客室
+audio~n:音响,伴音
+audio amplifier~n:扩音器
+audio cassette~n:录音带
+audio masking~n:掩蔽
+audio material~n:有声读物
+audio power amplifier~n:扩音机
+audiobook~n:有声读物
+audiphone~n:助听器
+audit~v:旁听,审计,查,查账,稽核,检查,清算|n:查账,决算
+audition~n:听|v:试唱
+auditor~n:审计员,旁听生
+auditoria~n:会堂,观众席,大会堂
+auditorium~n:礼堂,大礼堂,观众席,讲堂,教室,大会堂
+auditory~n:礼堂,听众,讲堂|a:听觉
+auditory nerve~n:听神经
+auditory ossicle~n:听骨
+auditory perspective~n:立体声
+auditory sense~n:听觉
+aug~n:八月,8月
+augend~n:被加数
+auger~v:钻|n:钻
+augite~n:辉石
+augment~v:增加,扩大,加强,增大,加,扩编,增补,扩张,增长,扩充|n:增大,增加
+augmentation~n:增加,增大,扩大
+augmenter incremental quantity~n:增量
+augur~v:预示,预言,预卜,预料,占卜
+augury~n:预兆,占卜,兆,谶,前兆,征兆
+august~n:八月,8月|a:可敬
+augustinian~n:信奉
+augustness~n:庄严,威严
+auncel~n:天平
+aunt~n:姑妈,姨妈,姑姑,姑母,姨母,伯母,阿姨,姑,婶婶,婶娘,婶母,大婶,舅母,姨,大妈,婶婆,婶子,姨儿,大姑儿,大姑娘,舅妈,大姨,妗,大姑,大婶儿,妗子,婶,叔母,大娘
+auntie~n:阿姨,姨妈,婶
+aunt-in-law~n:叔婆
+aunty~n:姨,姨妈,阿姨,婶,老大娘
+aura~n:气氛,先兆,气味,预感,氛围
+aural~a:伴音
+aural comprehension~n:听力
+aural masking~n:掩蔽
+aural-type receiver~n:收音机
+aureate~n:金色
+aurelia~n:蛹
+aureola~n:光环,晕
+aureole~n:光环,日晕,晕,电晕,华盖
+aureomycin~n:金霉素
+auricle~n:心房,耳郭,外耳,耳廓,心耳
+auricula~n:心耳,心房
+auricular appendage~n:心耳
+auricular point~n:耳穴
+aurigo~n:黄疸
+auripigmentum~n:雌黄
+auris internal~n:内耳
+auroemycin~n:金霉素
+aurora~n:极光,曙光
+aurorae~n:曙光
+auroral~a:黎明
+aurum~n:黄金
+auscultate~v:听诊
+auscultatetation~n:听诊
+auscultatetator~n:听诊器
+auscultation~n:听诊|v:听诊
+auspicate~v:创始,开张,预言
+auspice~n:占卜,前兆,主办,吉庆,预兆,赞助,吉祥,吉兆
+auspices~n:主办,赞助|v:主办,赞助
+auspicious~a:吉祥,吉利,瑞,繁荣昌盛,吉,嘉,祥,吉祥如意,吉庆
+auspicious day~n:吉日
+auspicious sign~n:祥瑞
+auspiciously~d:幸而
+auspiciousness~n:吉祥,吉兆,禧
+austen~n:奥斯汀
+austenitic manganese steel~n:高锰钢
+austere~a:严峻,凛,懔
+austerity~n:紧缩,严格,朴素,严峻,严肃,冰霜,简朴
+austin~n:奥斯汀
+australia~n:澳洲
+austria~n:奥地利
+austrian~a:奥地利
+autarchy~n:独裁,专制,闭关自守|v:闭关自守
+autarkic~a:自给自足
+autarky~n:自给自足|v:闭关自守
+authentic~a:真实,真的,确,确凿,凿,真确
+authentic work~n:真迹,真书
+authentically~d:确
+authenticate~v:证实,鉴定,认证
+authenticating object~n:信物
+authentication~n:确定,证明,鉴定,认证,确证|v:认证
+authenticity~n:真实性,可靠,确实,真伪,真实
+author~v:写,制作|n:笔者
+author a book~v:著书
+authoress~n:女作家
+authorisation~n:授权
+authorise~v:授权,批准
+authoritarianism~n:命令主义
+authoritative figures~n:官方
+authoritativeness~n:权威
+authorities~n:官方,当局
+authority~n:当局,权威,权力,权,职权,权威性,根据,权限,大权,大家,威信,泰斗,说服力,柄,通,威权|r:大家
+authority of office~n:职权
+authorization~n:授权,认可,委任,核准
+authorize~v:授权,批准,委托,认可,委任,允许,审定,授命
+authorized strength~n:编制
+author's preface~n:自序
+author's responsibility~n:文责
+author's work~n:著述
+authorship~n:来源
+autistic thinking~n:幻想
+auto~n:汽车
+auto racing~v:赛车
+autobiographic note~n:自序
+autobiography~n:自传
+autoboat~n:汽艇
+autobus~n:巴士,公共汽车
+autocade~n:车队
+autochthon~n:土著
+autochthonous~a:土生土长
+autoclave~n:高压锅
+autocontrol~a:自控
+autocracy~n:专制
+autocrat~n:独夫,独裁者
+autocratic~n:专制|a:专制
+autocratic rule~n:独裁
+autocycle~n:摩托车
+autogiro~n:直升飞机
+autograph~n:亲笔,题名|v:签|a:署名
+autograph album~n:纪念册
+autograph book~n:纪念册
+autography~n:亲笔
+autogyro~n:直升飞机
+autoignition~v:自燃
+automanipulation~n:手淫
+automate~v:自动化
+automatic~n:无意识|a:自动
+automatic regulation~n:自控
+automatic rifle~n:自动步枪
+automatic speaking~n:自言自语
+automatic umbrella~n:自动伞
+automatically~d:自然而然,无意识
+automaticity~n:自动
+automation~n:自动化,自动|v:自动化
+automatism~n:自动,自动化
+automatization~n:自动化
+automatize~v:自动化
+automobile~n:汽车,卧车
+automobile body~n:车体
+automobile race~n:赛车
+automotive vehicle~n:机动车
+autonomic nerves~n:交感神经
+autonomous~a:自主
+autonomous county~n:自治县
+autonomous prefecture~n:州,自治州
+autonomous rule~n:自治
+autonomously~d:自主
+autonomy~n:自主权,自治,自治权,自主性,自律|v:自治,自律
+autonym~n:本名
+autoplast~n:叶绿体
+autopsy~n:检查|v:验尸
+autorotation~n:自转|v:自转
+autoroute~n:高速公路
+autotrack~n:卡车
+autotype~n:复制品
+autotypy~v:复制
+autumn~n:秋天,秋季,秋,晚年,成熟期,暮年,秋令
+autumn clothing~n:秋装
+autumn crop~n:大庄稼
+autumn crops~n:大秋作物
+autumn floods~n:秋汛
+autumn grain~n:秋粮
+autumn grain crops~n:秋粮
+autumn harvest~n:大秋,秋收
+autumn maple leaves~n:霜叶
+autumn outing~n:秋游
+autumn scene~n:秋景
+autumn scenery~n:秋色
+autumn sowing~n:秋播
+autumn waters-limpid eyes~n:秋水
+autumnal equinox~n:秋分
+autumnal scenery~n:秋景
+autumnal tints~n:红叶,霜叶
+autumnal winds~n:秋风
+auxe~v:发育
+auxesis~n:生长
+auxiliary~a:辅助,副,附属|n:援军,机帆船,能愿动词|v:附属,辅助
+auxiliary angle~n:补角
+auxiliary boost~n:助推器
+auxiliary booster~n:助推器
+auxiliary bridge~n:便桥
+auxiliary coin~n:辅助货币
+auxiliary shaft~n:副井
+auxiliary tank~n:副油箱
+avail~n:效用,收益,效力,利益|v:有利于,有助于
+avail of~v:利用
+avail oneself of~v:乘,假,趁
+availability~n:可用性,效力,利用率,有效
+available~a:现有
+availableness~n:有效,利用,效用
+avails~n:收益
+avalanche~n:雪崩|v:雪崩
+avalokitesvara~n:观音,观世音
+avant~a:先锋
+avant-courier~n:先锋,先驱,前锋
+avant-garde~n:先锋,先驱
+avarice~n:贪婪,贪心|a:贪心
+avaricious~a:贪婪,饕|v:贪
+avatar~n:化身,体现
+avaunt~i:滚
+ave~n:欢迎
+aven~n:竖井
+avenge~v:报仇,报复,复仇,雪恨
+avenge an insult~v:雪耻
+avenue~n:途径,林荫道,马路,道路,大街,手段,大道,通道,通路,过道,走道
+aver~v:断言,证明,声称
+average~a:平均|n:海损|v:平均
+average an insult~v:雪耻
+average year~n:平年,常年
+averment~n:断言
+avernus~n:地狱
+averse~a:讨厌
+averseness~n:讨厌,嫌恶
+aversion~n:厌恶,反感,嫌恶,排斥|v:转移
+avert~v:避免,避开,防止,免,免于,消弭,转移
+avert by prayers~v:禳
+avert from~v:避开
+avian~a:鸟
+avian pneumoencephalitis~n:鸡瘟
+avian pseudoplague~n:鸡瘟
+aviate~v:飞行,航空,驾驶
+aviation~n:航空,飞机,飞行|a:航空
+aviator~n:飞行员
+avidity~n:饥渴,热望,强度,贪欲,贪婪
+avifauna~n:鸟类
+avigation~n:航空
+avigator~n:领航员
+aviso~n:通报
+avocado~n:鳄梨
+avocation~n:兼差,娱乐,副业,本职,消遣
+avoid~v:避免,避开,防止,回避,躲,避,躲避,逃避,免,规避,躲开,免除,辟,禁忌,逐出,避让,忌,废止,免于,免遭,撤销|n:禁忌
+avoid a creditor~v:躲债
+avoid being seen~v:躲躲闪闪
+avoid certain food~v:忌口,忌嘴
+avoid evil spirits~v:避邪
+avoid mentioning~v:隐讳
+avoid mentioning something~v:讳言
+avoid summer heat~v:避暑
+avoidance~n:逃避,无效,空缺,回避,躲避,废止
+avoirdupois~n:肥胖,重量,体重
+avouch~v:保证,担保,声音,断言,主张
+avouchment~n:声言,保证,断言
+avow~v:声明,承认,申明,声言,供认
+avowal~n:承认,供认,声明,宣布
+avulsion~n:撕裂|v:撕裂
+aw~i:呀,厌恶,讨厌
+await~v:等待,等,有待,期待,待,等候,候,迎候,伺
+await an opportunity~v:伺机
+await arrival~v:迎候
+await cross-examination~v:候审
+await one's doom~v:坐以待毙
+await orders~v:待命
+await respectfully~v:鹄候
+awake~v:醒来,醒,叫醒,觉醒,唤醒,激起,觉,启发,奋起,提醒|a:惺惺
+awake from sin~v:悔悟
+awake to~v:意识
+awaken~v:惊醒,唤醒,觉醒,叫醒,启,启迪,悟
+awakening~n:觉醒,醒,激励,启发
+awakening from hibernation~n:惊蛰
+award~n:奖|v:颁发,奖励
+award a decoration~v:授勋
+award of bid~n:决算
+aware~a:发觉,觉得,晓得
+awareness~n:觉悟,知道
+away~d:离开,走开,远,跑,继续,远离,立刻,完,到底,退场|v:跑
+away from~p:相距,远离,离开
+away-going crop~n:庄稼
+awe~n:敬畏,畏惧|v:敬畏,震慑,畏惧|a:威严
+aweather~d:迎风
+awe-inspiring~a:威风凛凛
+awe-inspiring righteousness~n:大义凛然
+awesomely~d:赫然|a:赫然
+awful~d:极其|a:了不得
+awful air~n:威风凛凛
+awful death~a:死于非命
+awful mess~n:烂摊子
+awfully~d:非常,很,慌,不亦乐乎,不行,要命,坏
+awfulness~n:庄严,丑态,不快,威严
+awhile~d:暂时,片刻
+awkward~a:尴尬,笨手笨脚,笨,笨拙,别扭,别别扭扭,窘,拙笨,蠢笨,不得劲,粗笨,力巴,拙,讪,拘束,困窘,拙劣
+awkward age~n:青春期
+awkward behaviour~n:洋相
+awkward in speech~a:笨口拙舌
+awkward silence~n:冷场
+awkward situation~n:窘况
+awkwardness~n:笨拙
+awl~n:锥子,锥
+awl-shaped things~n:锥
+awn~n:芒
+awn of wheat~n:麦芒
+awning~n:船篷,篷,风帆,棚
+awry~d:歪,曲,斜,错误,扭
+ax~n:斧子|v:削减
+axe~n:斧头,斧子,斧,乐器,斤
+axial cam~n:凸轮轴
+axial cord~n:轴线
+axial root~n:直根
+axial trace~n:轴线
+axil~n:腋
+axilla~n:腋,腋窝,胳肢窝
+axiom~n:公理,原理,原则,格言,通则,至理名言,不刊之论
+axis~n:轴,轴线,轴心,光轴,枢纽
+axis of abscissa~n:横轴
+axis of bank~n:纵轴
+axis of symmetry~n:对称轴
+axis shaft line~n:轴线
+axle~n:车轴,轴,轮轴,转轴,轴线
+axle bearing~n:轴承
+axle bush~n:轴瓦
+axle centre~n:轴心
+axle shaft~n:车轴
+axletree~n:车轴,轮轴
+axletree terminal~n:轵
+axman~n:樵夫
+axolotl~n:蝾螈
+axunge~n:脂肪
+ay~i:行,是|n:赞成票|d:永久
+aye~n:赞成票
+aypnia~v:失眠
+azabache~n:褐煤
+azalea~n:杜鹃花,杜鹃,映山红
+azerbaijan~n:阿塞拜疆
+azimuth~n:方位角,方位,航线,航向
+azole~n:唑
+azotate~n:硝酸盐
+azote~n:氮
+azoth~n:水银
+azotobacter~n:固氮菌
+azotobactor~n:固氮菌
+azov~n:亚速海
+azrael~n:死神
+azure~a:蔚蓝|n:苍穹,天蓝色,苍天
+azure blue~n:湛蓝
+azure stone~n:天青石
+azure water~n:沧浪
+azurite~n:石青
+azzletooth~n:臼齿

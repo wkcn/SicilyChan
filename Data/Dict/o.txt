@@ -1,0 +1,2348 @@
+o~a:可以,好,行,零,圆|i:啊
+o'~p:在_上
+o.r.~n:手术室
+oaf~n:白痴,呆子
+oak~n:橡树,柞树,橡,柞
+oak tree~n:柞树
+oar~n:桨,船
+oarage~n:划艇,划桨
+oarium~n:卵巢
+oasis~n:绿洲
+oast~n:干燥室,烘炉
+oasthouse~n:烘炉
+oat~n:燕麦,牧笛
+oat meal~n:燕麦片
+oath~n:宣誓,誓言,誓词,诅咒,誓,誓约
+oath solemnly pledged~n:信誓旦旦
+oatmeal~n:麦片,燕麦,燕麦片
+oats~n:燕麦
+ob~n:鄂毕河
+ob 前缀~n:对面,反对
+obduracy~n:顽固,执拗,倔强,冷酷
+obeah~n:神物
+obedience~n:服从,遵守|v:服从
+obedience to~n:禀承,秉承
+obedient~a:服贴,忠顺,乖,贴|v:听话|n:帖
+obedient to~a:服从
+obeisance~n:服从,敬意,尊敬,敬礼
+obeseness~n:肥大,肥胖症,肥胖
+obesitas~a:肥胖
+obesity~n:肥胖|a:肥胖
+obey~v:服从,遵守,听话,听,听从,照,从,遵从,遵照,遵办,随顺,服,顺,遵|p:由
+obey discipline~v:循规蹈矩
+obey somebody implicitly~v:百依百顺
+obey truly~v:确守
+obfuscation~n:昏迷
+obit~n:祭奠,葬礼
+obituary~n:讣,讣告,讣闻
+object~n:物体|v:抗议,讨厌
+object case~n:宾格
+object for appreciation~n:玩
+object glass~n:物镜
+object lens~n:接物镜
+object lesson~n:鉴戒
+object of reference~n:参照物
+object of ridicule~n:笑谈
+object to~v:非,不以为然
+objectify~v:体现
+objection~n:反对,意见,异议,缺点,妨碍,障碍,异同,缺陷,嫌恶,二话
+objective~n:目标,目的,物镜,任务,客,宾格,旨趣,出发点,接物镜
+objective lens~n:物镜,接物镜
+objectiveness~n:客观,客观性
+objectivism~n:客观性,客观主义
+objectivity~n:客观,客观性
+objurgate~v:骂,谴责,斥责
+oblast~n:地方,地区
+oblate~n:扁圆
+oblateness~n:扁率
+oblation~n:捐献,祭品,供献,供奉
+obligate~v:强迫,强制
+obligation~n:义务,责任,债务,职责,恩惠,契约,证券,负担,合约,本分
+obligations~n:义务
+obligatory course~n:必修课
+obligatory right~n:债权
+oblige~v:效劳,给,借,迫使,责成
+oblige to~v:强迫
+obligee~n:债权人,债主
+obliging~a:婉顺,随和
+obligor~n:债务人,负债人
+oblique~a:斜|v:倾斜,歪|d:颇
+oblique plane~n:斜面
+oblique sunlight~n:斜晖
+oblique tones~n:仄,仄声,侧
+obliquely~d:颇
+obliquely opposite~p:斜对面
+obliqueness~n:倾斜
+obliquity~n:倾斜,歪斜,斜度,转弯抹角,斜,斜面
+obliterate~v:抹杀,磨灭,涂改,清除,一笔抹煞,抹煞,涂抹,删去,除去,磨
+obliteration~n:消灭,灭迹,淹没,清除,删除
+oblivion~n:忘却,淹没,大赦|v:忘却
+oblivious~a:忘却,忘记
+oblivious of oneself~a:忘我
+oblong~n:长方形,椭圆形
+oblong shape~n:长方形
+oblonga~n:木瓜
+obloquy~n:耻辱,斥责
+obnubilation~v:蒙蔽
+oboe~n:双簧管
+obovoid~a:倒卵形
+obscene~a:下流,淫秽,猥亵,淫猥|n:黄色
+obscene book~n:淫书
+obscene language~n:猥词,粗话
+obscene picture~n:淫画
+obscene songs~n:靡靡之音
+obscene word~n:脏字
+obscenity~n:脏话,猥亵
+obscurant~n:蒙昧主义
+obscurantism~n:蒙昧主义,愚民政策
+obscurantism policy~n:愚民政策
+obscurantist policy~n:愚民政策
+obscuration~n:遮蔽,食,昏暗,阴暗|a:朦胧
+obscure~a:晦涩,暗,隐晦,朦胧|v:混淆,遮蔽,含糊其词,掩蔽,隐藏|n:黑夜,灰色
+obscure corner~n:暗处
+obscure glass~n:毛玻璃
+obscure place~n:暗处
+obscured~v:相形见绌
+obscured glass~n:毛玻璃
+obscured sky cover~n:朦胧
+obscurely~d:暗暗,暗
+obscurity~n:含糊,阴暗,暗,不明
+obsecrate~v:恳请
+obsecration~n:恳求,恳请
+obsequies~n:丧礼,葬礼
+obsequious~a:低三下四
+obsequious smile~n:媚笑
+obsequiousness~n:媚骨,拍马,奴才相
+observance~n:仪式,遵守,教规,习惯,纪念,戒律,观察,庆祝,典礼,恭顺,惯例
+observant~a:注意,留心
+observation~n:观察,观测,注意,观察力,监视,意见,侦察,谈话,观望,发言,经验|v:观测,观察
+observation plane~n:侦察机
+observation post~n:观察哨
+observation station~n:观象台,观察站,气象台,观察所
+observatory~n:天文台,气象台,观象台,望楼
+observe~v:观察,说,看到,注意,遵守,观测,看,评论,监视,恪守,知道,察看,讲,举行,观,评述,守,奉行,纪念,丕,庆祝,觇,察,陈述
+observe calmly~v:静观
+observe classical lines~v:古色古香
+observe due decorum~n:循规蹈矩
+observe mourning~v:守孝
+observe office routine~v:按部就班
+observe silence~v:静默
+observer~n:观察家,观察员,旁观者,观测员,目击者,见证人
+obsessed~v:痴迷
+obsession~n:困扰,着魔,执意
+obsessionalism~n:痴迷
+obsolescence~n:过时,陈旧,废弃,淘汰
+obsolescent~a:过时
+obsolescentlescence~n:萎缩,废弃
+obsolete~a:过时,陈旧|v:老掉牙
+obsolete practice~n:老皇历
+obsolete word~n:废话
+obsoletism~n:陈腐,废弃
+obstacle~n:障碍,障碍物,阻碍,妨碍,妨害,干扰|v:干扰
+obstetrical woman~n:产婆
+obstetrics~n:产科
+obstinacy~n:固执,顽固,顽强,牛脾气,顽梗,牛劲
+obstinate~a:固执,倔强,顽固,拗,犟,硬,顽,梗,泥,执拗,刁蛮,顽梗
+obstinate illness~n:痼疾
+obstinately cling to~v:死守
+obstinateness~n:坚持,固执,顽强,顽固,执拗
+obstruct~v:堵塞,挡住,妨碍,阻挡,挡,阻挠,干扰,梗,作梗,阻,隔断,遮,阻难,梗阻,拦,拦挡,拦阻,壅,障碍,阻滞,格,梗塞,障,碍,闭,妨,障蔽,遮蔽,阻拦,阻塞|n:障碍
+obstruct traffic~v:挡路
+obstructed~a:不通
+obstruction~n:梗阻,障碍物,障碍,阻碍,遮断,堵塞|v:梗阻,阻塞
+obstructive~n:障碍,障碍物|a:障碍物
+obtain~v:得到,获得,取得,得,求得,得出,获,获取,流行,达到,赢得,牟取,收到,通行,谋取,博得
+obtain by drawing~v:抽
+obtain employment~v:就业,从业,就事
+obtain evidence~v:取证
+obtain foreign exchange~v:创汇
+obtain in~v:获取
+obtain shelter~v:栖身
+obtainable everywhere~n:俯拾皆是
+obtainment~n:达成,获得
+obtest~v:恳求
+obtestation~n:恳请
+obtrude~v:强迫,闯入,挤出,强加于人,伸出,打扰,强行
+obtrusion~n:强加,强求,闯入,莽撞,多嘴
+obtund~v:缓和,抑制
+obtundent~a:止痛药
+obturate~v:强加于人,闭塞,密闭,封闭
+obturateration~n:封闭
+obturation~n:口盖,闭塞
+obturator~n:口盖
+obtuse~a:迟钝,迟,鲁钝
+obtuse angle~n:锐角
+obtuse-angled~n:钝角
+obtuseness~n:愚钝,钝角
+obverse~a:正|n:表面
+obverse figure~n:正面人物
+obversion~n:折算
+obvert~v:置换
+obviate~v:防止,预防,除去,排除,避免
+obviation~n:除去
+obvious~a:明显,显然,显而易见,明摆着,较,明白,分明,明朗|v:显见|d:显然
+obviously~d:显而易见,明明,由此可见,显见,可见
+obviously clear~a:显豁
+obviously insincere talk~n:违心之论
+occasion~n:场合,机会,时刻,场面,事|v:引起
+occasion for celebration~n:庆,喜
+occasional~a:偶尔,偶然
+occasional success~n:一得之功
+occasionality~n:偶然性
+occasionally~d:偶尔,偶,偶然,间或,不时,偶或
+occassion~n:时机
+occassionally~d:时而,间或
+occident~n:西方,西洋
+occidental~n:西方人,西|a:西
+occidental dress~n:洋服
+occidentalism~n:西式
+occidentalize~v:欧化,西化
+occipital~n:枕骨
+occipital bone~n:枕骨
+occiput~n:后头
+occlude~v:堵塞,遮蔽,关闭,咬合,闭塞,封锁
+occlusion~n:闭塞,闭合,堵塞|v:闭合,堵塞
+occult~v:掩,隐藏
+occultation~n:不见,掩蔽,荫蔽,消失
+occultism~n:占星术
+occupancy~n:居住,占用,占有,占领,据有|v:占用
+occupation~n:职业,占领,工作,消遣,居住,行业,事情,业|v:占用
+occupation area~n:占领区
+occupation army~n:占领军
+occupation force~n:驻军
+occupational disease~n:职业病
+occupied~v:有事
+occupy~v:占据,占领,占,占有,占用,担任,据有,挤占,据,居,侵占
+occupy by force~v:霸占
+occupy first place~v:甲
+occupy one's mind~v:萦怀
+occupy oneself with~v:从事
+occur~v:发生,出现,存在,出,出来,想起,萌,浮现
+occur internal contradictions~v:后院起火
+occur without interruption~v:层出不穷
+occurrence~n:发生,事件,有,出现,事故,遭遇|v:发生
+occurrence of oil~n:生油
+occurring~v:事件,事故,事变
+ocean~n:海洋,大洋,洋,大海,远洋,许许多多,无量,瀛,无限
+ocean basin~n:海盆
+ocean carriage~n:海运
+ocean going vessel~n:海轮
+ocean liner~n:轮船,邮船
+ocean ridge~n:海岭
+ocean shipping~n:海运
+ocean sunfish~n:翻车鱼
+oceangoing~a:远洋
+oceangoing ship~n:舶
+ocean-going vessel~n:外轮
+oceangoing voyage~n:远航
+oceania~n:澳洲,大洋洲
+oceanic~a:远洋
+oceanic bonito~n:鲣
+oceanography~n:海洋学
+oceanology~n:海洋学
+oceans~n:许多,广阔,大洋
+ocellus~n:单眼
+ocelot~n:豹猫
+ocher~n:赭石
+ocheus~n:阴囊
+ochre~n:赭色,金钱,黄褐色,赭石
+oct~n:10月,十月
+octagonal~n:八角|a:八角
+octagonal drum~n:八角鼓
+octave~n:八度
+octet~n:八角
+october~n:十月,10月
+october revolution~n:十月革命
+octopus~n:章鱼,蛸,八带鱼
+octuple~n:八路
+ocular~n:目镜,眼镜,接目镜,眼睛|a:直观
+ocular eye~n:目镜
+ocular glass~n:目镜
+ocular piece~n:目镜
+ocular prosthesis~n:假眼
+oculi~n:复眼
+oculomotor~a:动眼神经
+oculomotor nerve~n:动眼神经
+oculus~n:复眼
+odaxesmus~a:咬舌
+odd~a:古怪,奇怪,多,单,怪|n:有零,一零儿,零头,邪门儿|d:有零|v:有余
+odd change~n:零头
+odd job~n:零活,杂务
+odd jobs~n:零活儿,杂务,杂活儿
+odd lot~n:零数
+odd lots~n:畸,奇
+odd money~n:零钱
+odd number~n:单数
+odd pieces~n:零碎
+odd scraps~n:鳞爪
+oddball~n:古里古怪|a:古里古怪
+odd-come-short~n:零头
+odd-come-shortly~d:近日
+oddity~n:古怪,怪物,怪事,怪人,奇特,怪癖
+odd-job man~n:零工,勤务员,勤杂工,勤务兵
+oddly~d:失常
+oddment~n:残余,零碎,残品,零头
+oddness~n:奇怪,邪门儿,失常
+odds~n:遭遇,差额,恩惠,不等,不等式,差距,可能性,不和,差异,希望
+ode~n:颂诗,颂,颂歌
+odeon~n:戏院
+odessa~n:敖德萨
+odeum~n:剧场,戏院
+odious~a:恶劣
+odiousness~n:讨厌
+odium~n:公愤,反感,厌恶,耻辱,憎恨
+odobenus rosmarus~n:海马
+odograph~n:里程表,计步器
+odometer~n:里程表,行程表,计程表,计步器
+odontalgia~n:牙痛
+odor~n:气味,香味,臭味,味道,痕迹,气,臭,味,迹象
+odoriferous~a:香
+odour~n:味道,香气,香味,气,味,香,香水,声望,迹象,名誉,香料,臭气|a:臭
+oecium~n:雄蕊
+oecology~n:生态学
+oedema~n:浮肿|v:浮肿
+o'er~p:之上,在_之上
+oesophagus~n:食道,食管
+oestrine~n:雌激素
+oestrogen~n:雌激素
+oestrum~n:发情期,动情,狂热,发情
+oestrus~n:发情,动情,狂热
+of~p:的,从,于,之,向,对于,关于
+of a kind~p:徒有虚名
+of a pair~p:俪
+of a sudden~p:突如其来
+of all ages~p:古往今来
+of all kinds~p:各色
+of an emperor~p:御
+of antique flavour~p:古色古香
+of awe-inspiring appearance~p:威风凛凛
+of boudoir~p:香艳
+of common practice~p:司空见惯
+of course~p:自是,自,本来,理当,固然,敢情
+of delicate beauty~p:俊秀
+of different colours~p:驳
+of dignified bearing~p:英姿焕发
+of doubtful aspect~p:形迹可疑
+of dreadful appearance~p:猥琐
+of easy virtue~p:水性杨花
+of equal rank~p:平行
+of equal status~p:门当户对
+of equal value~p:等价
+of every description~p:各式各样,形形色色,各色
+of everyday use~p:日用
+of foreign tribes~p:番
+of four dimensions~p:四维
+of fujian province~p:建
+of gigantic stature~p:顶天立地
+of great capacity~p:海
+of great celebrity~p:鼎鼎大名
+of great majority~p:脍炙人口
+of great momentum~p:大气磅礴
+of hand~p:立即
+of harm to~p:加害
+of historic significance~p:历史性
+of hoary age~p:白发苍苍
+of impatient disposition~p:狷急,急性子
+of indomitable spirit~p:顶天立地
+of jigsaw pattern~p:犬牙交错
+of lasting influence~p:山高水长
+of late~d:最近,日来
+of lineal descent~p:嫡
+of little account~p:无关大局
+of long standing~p:老
+of low class~p:小家子气
+of low quality~p:劣,劣质
+of low station~p:寒微
+of martial bearing~p:飒爽
+of mixed content~p:错杂
+of mutual benefit~p:互利
+of narrow vision~p:目光如豆
+of no avail~p:白白,徒劳无益,无补,无效
+of no bounds~p:永无止境
+of no consequence~p:不足道,漠不相关
+of no reputation~p:默默无闻
+of no use~p:不济,不济事,无用
+of no wail~p:无补
+of noble bearing~p:冠冕堂皇
+of odd shape~p:奇形怪状
+of one colour~p:一色
+of one cut~p:铁板一块
+of one mind~p:一条心,一心
+of oneself~p:自行,自然而然
+of poor quality~p:粗劣,坌
+of primitive simplicity~p:古朴
+of profound significance~p:意味深长
+of regular features~p:平头正脸
+of short duration~p:短暂
+of soldierly bearing~p:英武
+of stalwart build~p:魁
+of suspicious appearance~p:形迹可疑
+of that kind~p:那样
+of the deceased~p:灵
+of the order of~p:大约
+of the“eight banners”~p:旗
+of this year~p:今
+of undue size~p:大而无当
+of universal praise~p:脍炙人口
+of unparalleled size~p:硕大无朋
+of use~p:中用,管事
+of utmost importance~p:至关紧要
+of vital importance~p:生死攸关,生死存亡,性命交关
+of world renown~p:举世闻名
+of wretched appearance~p:委琐,猥琐
+off~p:从,离开,离,由,脱离,从_离开,从_脱离|d:离开,脱掉,隔开|v:跑,离开|a:落
+off base~p:大错特错,冷不防
+off colour~p:色差,下流
+off duty~p:下班
+off duty day~p:休假日
+off gas~p:废气
+off grade~p:等外品
+off hand~p:立即
+off job~p:零活儿
+off one's balance~p:冷不防
+off shade~p:色差
+off sorts~p:等外品
+off the cuff~p:即席
+off the peg~p:现成
+off the point~p:不着边际
+off the rails~p:紊乱
+off the reel~p:滔滔不绝
+off the track~p:离题,出轨,误入歧途
+off the trail~p:迷失
+off with you~n:滚蛋
+off year~n:小年,凶年
+offal~n:下水,次品,垃圾,废料,废物,糠
+offence~n:罪行,冒犯,罪,犯罪,侮辱,罪过,绊脚石,无礼,罪愆|v:犯规
+offend~v:得罪,冒犯,触犯,触怒,惹,激怒,伤害,冲撞,犯规,开罪,来劲,冲犯,犯,伤风败俗,违犯,惹火,侮辱,犯罪,干,逆耳,干犯|a:来劲
+offend in word~v:出言不逊
+offend public decency~v:伤风败俗
+offend somebody openly~v:撕破脸
+offend the ear~v:逆耳
+offend the eye~v:碍眼
+offender~n:罪犯,犯人,罪人
+offense~n:冒犯,触怒,罪行,罪过,过失
+offensive~a:进攻,唐突,难听|n:攻势,进攻|v:进攻,唐突
+offensive smell~n:恶臭,腥味
+offensively conspicuous~a:扎眼
+offer~v:提供,提出|n:报价
+offer a bribe~v:行贿
+offer a loan~v:借款
+offer a price~v:出价
+offer a reward~v:悬赏
+offer advice~v:出点子,相劝,出谋划策
+offer an apology~v:赔礼,谢罪
+offer an explanation~v:辩白,分辩
+offer birthday congratulations~v:祝寿
+offer birthday felicitations~v:拜寿
+offer bribes~v:纳贿
+offer for sale~n:出卖,倒,出售
+offer one's condolences~v:吊唁
+offer one's services~v:自荐,效劳
+offer oneself~v:自告奋勇
+offer politely~v:敬
+offer prayer~v:祷告
+offer sacrifices to~v:供养,祭祀
+offer stubborn resistance~v:负隅顽抗
+offer the seat~v:让座
+offer timely assistance~v:雪里送炭
+offer to undertake~v:自告奋勇
+offer weighty advice~v:语重心长
+offering~n:礼物,提供,捐款,提议,贡献,供品,股票,课程,祭品
+offering price~n:售价
+offerings~v:供|n:供品
+offertory~n:捐款
+off-grade~a:等外
+offhand~d:随便,立即,当下,不假思索,即席,唐突
+office~n:办公室,公司,办事处,职务,职员,事务所,诊所,机关,公职,职,任,职责,室,任务,厅子,诊室,祷告,科,司,厅,仪式,祭礼,圣餐,署,号,厕所,处,斡旋,部,店,厨房,局|v:警告
+office attendant~n:听差
+office bearer~n:公务员,职员,官员
+office building~n:办公楼
+office clerk~n:办事员,职员
+office copy~n:存根,留底
+office desk~n:办公桌
+office equipment~n:总机
+office file~n:卷宗
+office system~n:吏治
+office work~n:公务,事务,办事员
+office worker~n:职员
+officeholder~n:官,职员
+officer~n:军官,官员,警官,官,职员,长官,船长,武官,法警|v:指挥,管理,统率
+officer avenges oneself~v:官报私仇
+officers and men~n:将士
+official~n:官员|a:正式
+official argon~n:官腔
+official assistant~n:辅
+official ban~n:禁令
+official black-marketing~n:官倒
+official business~n:官差,公,官事
+official career~n:宦途
+official communication~n:照会,咨
+official correspondence~n:案牍
+official dispatch~n:文书
+official document~n:状,公牍,公函,文翰
+official documents~n:案牍
+official duties~n:公务
+official family~n:内阁
+official historian~n:史官
+official holiday~n:例假,公假
+official in charge~n:保
+official jargon~n:官腔
+official letter~n:公函
+official mansion~n:官邸
+official newspaper~n:机关报,官报
+official portrait~n:标准像
+official position~n:官职
+official post~n:差事,职分,任
+official profiteer~n:官倒
+official racketeer~n:官倒
+official rate~n:官价
+official residence~n:府,官邸
+official seal~n:关防,大印,钤
+official speculation~n:官倒
+official superiors~n:上峰
+official title~n:官衔
+officialdom~n:宦海,官场
+officialese~n:官样文章
+officialism~n:官场,官僚主义,文牍主义
+officially~d:正式
+officially announce~v:告
+officially banned book~v:禁书
+officials~n:有司
+official's son~n:衙内
+officiant~n:主祭
+officiate~v:主持,执行,做
+officina~n:药房
+officinal~a:药用|n:成药
+officious~a:好事
+offing~n:海面,海上,近海
+off-key~a:左嗓子
+offload~v:卸,解除,抒发,卸货,处理,发泄
+off-load unloading~v:卸载
+offprint~n:单行本|v:抽印
+offscouring~n:废物
+offscourings~n:渣滓,残渣,垃圾,废料,污物
+off-season~n:淡季
+offset~v:补偿,抵消,弥补,相抵,抵销|n:弥补,侧枝,抵销,补偿,分支,偏差,支脉
+offset branch~v:偏移
+offset debt~v:抵债
+offset lithograph~v:胶印
+offset lithography~v:胶印
+offset paper~v:胶版纸
+offshoot~n:分枝,分支,支流,侧枝,支派,支脉,支,衍生物
+offshore~a:近海,沿岸
+offside~n:右侧,越位|v:越位
+offspring~n:后代,子女,产物,子孙,后,后嗣,幼苗,仔,根苗,后裔,昆,下辈,胄,胤,子代,结果,儿女,苗裔
+off-stage~a:后台,幕后
+offtake~n:排出,分支|v:分叉
+off-take pipe~v:排水管
+offwards~v:离去
+oft~d:再三
+often~d:常,常常,往往,经常,时常,长,每,不时,每每,频繁,屡次,勤,雅,时时|r:每
+oftentimes~d:常常,屡次
+ogle~n:秋波
+oh~i:啊,哦,呀,哎呀,唉,啊呀,嗳,哟,呵,哦呀,喔,吁,嗐,嚄|f:呕,哟,呀|a:恶
+oh group~n:羟基
+ohm~n:欧姆
+ohmmeter~n:欧姆计
+oho~i:哎呀,啊,哎哟,哟嗬
+oil~n:石油,油,油脂,油类|v:行贿,加油,收买
+oil battle~n:油瓶
+oil bunker~n:油库
+oil cake~n:油枯
+oil carrier~n:油船
+oil cloth~n:漆布
+oil color~n:油漆,油画
+oil colour~n:油画
+oil consumption~n:耗油量,油耗
+oil consumption rate~n:耗油率
+oil contamination~n:油污
+oil delivery pipe~n:输油管
+oil deposit~n:油田
+oil derrick~n:井架
+oil dirt~n:油渍
+oil engine~n:柴油机,油机
+oil extraction~n:采油
+oil field~n:油田,油矿
+oil horizon~n:油层
+oil hydraulic press~v:油压机
+oil lamp~n:灯盏
+oil layer~n:油层
+oil material~n:油料
+oil mill~n:榨油机,油坊
+oil of peanut~n:花生油
+oil of turpentine~n:松节油
+oil paint~n:油漆
+oil palm~n:油棕,油椰子
+oil paper~n:油纸
+oil plant~n:油料作物
+oil press~n:榨油机
+oil price~n:油价
+oil recovery~n:采油
+oil refinery~n:炼油厂
+oil refining~n:炼油
+oil reservoir~n:油层
+oil residue~n:油坊,油渣
+oil sale~n:油页岩
+oil scavenger~n:回油器
+oil shale~n:油母页岩,油页岩
+oil stain~n:油渍
+oil stains~n:油迹
+oil tank~n:储油罐,油罐
+oil tanker~n:油轮,油船
+oil-bearing crop~n:油料作物
+oil-bearing crops~n:油料作物
+oil-bearing structure~n:储油构造
+oilcan~n:无赖,加油器,油罐
+oilcloth~n:漆布,油布
+oil-cloth~n:油布
+oiled paper~n:油纸
+oiler~n:加油器,油轮,油船
+oilfield~n:油田
+oiliness~n:奉承,油性,油腻
+oiling~v:加油
+oilpaper~n:油纸
+oilskin~n:油布
+oil-skin~n:油布,防水布
+oilstone~n:油石
+oil-tea camellia~n:油茶面儿
+oily~a:油腻,油腻腻,腻,油,油头滑脑|v:腻
+oily food~n:油腻
+ointment~n:药膏,软膏,油膏,膏剂,膏
+ok~n:许可|a:妙,不错|v:承认
+okay~n:认可,赞同
+okinawa~n:冲绳
+old~a:旧,老,大,年老,亲爱的,年迈,苍老,陈年,上年纪,老迈,老气|n:老大|c:故|v:迈
+old absent-minded person~n:老糊涂
+old acquaintance~n:老相识,旧故,旧交
+old acquainted~n:旧交
+old affection~n:旧情
+old age~n:年老,暮年,白头,古老,老境,老年期,耋,老龄
+old age pension~n:养老金
+old ancestress~n:老祖宗
+old bird~n:老手
+old body~n:老身
+old book~n:旧书
+old boy~a:毕业生
+old brother~n:老大哥
+old chap~n:老头儿,老兄
+old chinese phonology~n:古音
+old course~n:故道
+old crafty person~n:老奸巨猾
+old custom~n:旧俗
+old days~n:旧日
+old diehard~n:老顽固,遗老
+old disease~n:老病
+old district~n:老区
+old enemy~n:宿敌,夙敌,夙仇
+old enough~n:老大不小
+old event~n:旧闻
+old fashion~n:老套,老套子,老派,老一套
+old fashioned article~n:老古董
+old fellow~n:老家伙
+old fisherman~n:渔翁
+old fogey~n:骨董,老顽固
+old folks~n:老辈
+old folks home~n:养老院
+old folks' home~n:敬老院
+old friend~n:故交,故人,旧,老旧,老友,旧交,旧友,故友,老相识,故
+old friendship~n:老面子,旧,老交情
+old grudge~n:夙怨,仇恨
+old habit~n:故态,旧习
+old hand~n:老手,熟手,惯犯,精通,里手
+old history~n:老皇历,老黄历
+old illness~n:旧病
+old interest reawakened~n:见猎心喜
+old lady~n:母亲,老妈子,妻子
+old lesson~n:旧教
+old liberated area~n:老区
+old maid~n:老处女,老姑娘
+old maiden~n:怨女
+old man~n:老头,老先生,老者,父亲,长官,老夫,叟,翁,老前辈,船长
+old mannish~n:老气
+old mans beard~v:松萝
+old name~n:原名
+old neighbor~n:老街坊
+old neighbors~n:老街旧邻
+old news~n:旧闻
+old nick~n:魔鬼,魔王,撒旦,恶魔
+old parents~n:老亲
+old partner~n:老搭档
+old people~n:耆老,老,老年人
+old practice~n:故事
+old regulation~n:老框框
+old relative~n:老亲
+old relatives~n:老亲
+old resentment~n:夙嫌
+old rice~n:陈米
+old rule~n:旧例
+old sample~n:老例
+old saw~n:老话,谚语
+old saying~n:古谚
+old scholar~n:老生
+old school~n:守旧派
+old scores~n:恩怨
+old site~n:故址,旧址
+old soldier~n:老兵
+old soup~n:老汤
+old spinster~n:老姑娘
+old stager~n:识途老马,过来人
+old stuff~n:老套
+old style~n:旧历,旧式
+old style calendar~n:旧历
+old tale~n:旧事
+old taoist~n:老道
+old timer~n:老手
+old top~n:老搭档
+old trick~n:惯技
+old trouble~n:宿疾
+old type~n:老式
+old way~n:老办法
+old ways~n:老套
+old weakness~n:老毛病
+old wives' summer~n:秋老虎
+old woman~n:姥,婆娘,媪,老太婆,老妪,妪
+old-age pension~n:退休金
+oldbie~n:老手
+old-brother~n:老弟
+olden~a:古时
+older~a:长
+oldest~a:长
+old-fashioned article~n:老古董
+old-fashioned loud speaker~n:顺风耳
+old-patient~n:老病号
+oldster~n:老人
+oldtimer~n:老手
+old-timer~n:老手,老朋友,老前辈
+old-type opera school~n:科班
+oleamen~n:油膏
+oleander~n:夹竹桃
+olefiant gas~n:乙烯
+olefin~n:烯烃,石蜡
+olefine~n:烯烃
+olenander~n:夹竹桃
+oleo oil~n:油
+oleum~n:油
+olfaction~n:嗅觉
+olfactory~a:鼻
+olfactory nerve~n:嗅神经
+olfactory sensation~n:嗅觉
+oligarch~n:寡头
+oligarchic~a:寡头政治
+oligarchy~n:寡头政治
+olio~n:杂凑,杂烩
+olive~n:橄榄树,橄榄,油橄榄,齐墩果,洋橄榄
+olive branch~n:橄榄枝
+olive drab~n:草绿色
+olive oil~n:橄榄油
+olive tree~n:橄榄树
+olivine~n:橄榄石
+ology~n:科学,学问
+olunchun~n:鄂伦春
+olympiad~n:奥运会
+olympic~n:奥林匹克
+olympic games~n:奥运会
+olympics~n:奥林匹克
+olympus~n:天
+oman~n:阿曼
+omasum~n:重瓣胃
+ombrometer~n:雨量器,雨量计
+omdeh~n:村长
+omega~n:结局,终止
+omen~n:预兆,兆头|v:预告
+omentum~n:网膜
+ominous~a:不祥,险恶,凶
+omission~n:疏忽,遗漏,省略,罅漏,删节,失职
+omit~v:略去,遗漏,省略,省去,删去,忽略,略,省,疏忽,落,遗,怠慢|n:删略|d:略
+omittance~n:遗漏
+omnibus~n:统括,公共汽车
+omnibus bar~n:母线
+omnibus rod~n:母线
+omnipotence~n:全能,万能
+omnipotent~a:万能|n:神|v:神通广大
+omnipresence~n:普遍,无所不在
+omnipresent~a:无所不在|v:无所不在
+omniscience~n:上帝,无所不知
+omniscient~n:神|a:无所不知|v:无所不知
+omnium~n:总额
+omnium-gatherum~n:杂凑
+omnivore~n:杂食
+omnivorous~a:杂食
+omoplate~n:肩胛骨
+omphalos~n:中枢
+omvestogatpru reflex~n:探究反射
+on~p:在,就,到,用,于,上,靠,关于,下去,按,对于|d:向上,向着|a:熟悉,开|v:下去,接通
+on a jag~p:酩酊大醉
+on a magnificent~p:波澜壮阔
+on a sudden~p:勃然,忽然,突然
+on account~c:赊帐
+on account of~p:由于,因为,为了,基于
+on active duty~p:现役
+on active service~p:现役
+on all hands~p:到处
+on an average~p:平均,说来
+on any account~p:绝,高低
+on bad terms~p:不和
+on behalf of~p:代表,替
+on board~p:在船上
+on both sides~p:耳
+on commission~p:寄售
+on compulsion~p:被迫,不得不
+on consignment~p:寄售
+on deck~p:舱面
+on departure~p:临行
+on duty~v:执勤|p:值勤
+on earth~p:究竟,天底下,世间
+on end~p:接连
+on even terms~p:不相上下
+on every occasion~p:每逢
+on every side~p:周围,四面八方
+on everybody's lips~p:脍炙人口
+on fire~p:着火,失火
+on foot~p:步行,徒步,徒
+on friendly terms~p:友善,融洽
+on good terms~p:友善,无冤无仇,和,平安无事
+on grounds of~p:为由,以_为由
+on guard~p:值班
+on hand~p:手边,现
+on hire~p:出租
+on holiday~p:度假
+on inquiry~p:调查
+on intimate terms~p:亲密无间
+on investigation~p:调查
+on invitation~p:应邀
+on land~p:旱
+on lascivious air~p:妖里妖气
+on leave~p:请假
+on loan~a:借贷
+on many occasions~p:多次
+on no account~p:决不
+on no condition~p:决不
+on no consideration~p:决不
+on no terms~p:决不
+on offer~p:出售
+on one~p:身上,身边
+on one hand~d:一来
+on one occasion~p:曾经,一度
+on one's body~p:身上
+on one's deathbed~p:临终,临死,奄奄一息
+on one's desk~p:案头
+on one's head~p:易如反掌
+on one's lips~p:口头
+on one's own~p:独力,单独,独立
+on one's person~p:随身
+on one's side~p:侧身
+on one's toes~p:忙碌
+on order of~p:按照
+on pain of~p:代价,以_为代价
+on par with~p:相等,与_相等
+on passage~p:途中
+on probation~p:试用
+on purpose~p:成心,特意,存心
+on schedule~p:按期,准时,按计划,按时,正点
+on shift duty~v:轮班
+on show~p:上演
+on small scale~p:小打小闹
+on stream~p:开工
+on strike~p:罢工
+on tap~p:零售
+on tenterhooks~p:惶惶,提心吊胆
+on test~p:合格
+on that account~p:因此
+on that day~p:当日,当天
+on that score~p:因此
+on the alert~p:步步为营
+on the average~p:平均
+on the basis of~p:在_基础上
+on the body~p:身上
+on the branch~p:枝头
+on the contrary~p:顾,相反,倒,倒是,反而,反过来说,适得其反,倒反,反是,反,故|d:顾|c:相对而言
+on the crook~p:奸诈
+on the decline~p:强弩之末
+on the edge of~d:濒于
+on the floor~p:脱轨
+on the ground~p:地下,地上
+on the grounds~p:据此
+on the grounds of~p:为由,以_为由
+on the halves~p:平分
+on the hour~p:正点
+on the instant~p:立即,马上
+on the line~p:模棱两可
+on the loose~p:寻欢作乐
+on the mind~p:牵挂
+on the move~p:流动
+on the nose~p:正好
+on the occasion~p:届时
+on the occasion of~p:时,在_时
+on the offensive~p:先手
+on the one hand~d:一方面,一则
+on the order of~p:大约,一样,同_一样
+on the other hand~d:另一方面
+on the part of~p:就_而言,一边,而言,在_一边
+on the pavement~p:踯躅街头
+on the payroll~p:受雇
+on the point of~p:在_之时,之时
+on the quiet~p:悄,暗地,暗地里
+on the reverse~p:相反
+on the roadside~p:沿路
+on the run~p:在逃
+on the rush~p:急急忙忙
+on the scene~p:当场
+on the sea~p:海上
+on the side of~p:在_一边,一边
+on the sideline~p:一旁
+on the sly~p:背地,暗中,潜,偷偷,偷偷摸摸,暗地
+on the spot~p:好看,在场|d:当场
+on the spree~p:大吃大喝
+on the street~p:街上
+on the strength of~p:凭借,依赖
+on the stretch~p:紧张
+on the supposition~p:假定
+on the surface~p:浮
+on the tiles~p:寻欢作乐
+on the top of~p:之上,在_之上
+on the tramp~p:走江湖,流浪
+on the warpath~p:大发雷霆
+on the way~p:半道儿,半路,顺路,沿路,途中,顺脚|d:路上
+on the whole~p:简言之,总算,大体上,大抵,总而言之,大体,大致,大致说来,基本|d:大体上
+on the wing~p:忙于
+on these grounds~p:据此
+on this account~p:以此
+on this day~p:当日
+on this side~p:并肩
+on this wise~p:如此
+on thorn~p:如坐针毡
+on time~p:正点,按期
+on tiptoe~p:跷,渴望
+on top of~p:上面,紧接着,在_之上,之上,除外,另外
+on trial~p:试用
+on trust~p:赊账
+onager~n:野驴
+onboard~a:机载
+once~d:一|c:一经|v:尝
+once a year~n:一年一度
+once again~d:再次,再度,从头
+once cultivated land~d:熟荒地
+once familiar place~n:旧地
+once more~n:再度,重,重新,再,重整旗鼓
+once too often~d:再三
+once upon a time~d:从前
+oncoming~n:来临,接近
+oncoming force~n:来势
+on-dit~n:传说,谣传
+ondulation~n:波动
+one~r:人,之一,你|n:单,单位|a:壹|d:一道
+one after another~n:纷纷,挨,逐个,连,先后,逐一,相率,挨个儿,挨次
+one another~n:相,互相
+one aspect~n:一面
+one breath~n:一口气
+one by one~n:各个,逐,逐渐,挨,挨个,历|d:挨次
+one cylinder~n:单缸
+one day~n:有朝一日,他日
+one generation~n:一代
+one half~a:一半
+one hundred million~n:亿,垓
+one hundred sheets~n:刀
+one line~n:单线
+one machine~n:单机
+one may ask~v:请问
+one of~n:之一
+one path~n:单程
+one person alone~n:单人独马
+one respect~n:一端
+one section~n:一面
+one side~n:一面,单面,一方,一边
+one step~n:一步舞
+one ten thousandth~n:万一
+one tenth~n:成
+one time~n:一下
+one way~a:单程
+one way ticket~n:单程票
+one who lisps~n:大舌头
+one-act~a:独幕
+one-act show~n:独幕剧
+one-acter~n:独幕剧
+one-man show~n:独角戏
+one-member sentence~n:独词句
+oneness~n:一致,同一,统一,独特,一体,单一,完整
+one-paneled door~n:户
+one-piece dress~n:连衣裙
+onerous~a:艰巨,繁重
+one's allotted span~n:天年
+one's bloody mouth~n:血盆大口
+one's boss~n:顶头上司
+one's children~n:息
+one's conscience~n:本心
+one's country~n:祖国
+one's courtesy name~n:父
+one's dearest child~n:命根子
+one's deceased father~n:考
+one's deep feeling~n:深情厚谊
+one's destined love~v:冤家
+one's drinking capacity~v:酒量
+one's duty~n:本分,本职
+one's early years~n:早年,早岁
+one's elder~v:老前辈
+one's elders~n:老辈,上辈
+one's exclusive domain~n:禁脔
+one's eyebrows dancing~d:眉飞色舞
+one's family~n:家眷,老小
+one's family members~n:亲人
+one's father's brother~n:大
+one's father's sister~n:姑,姑母
+one's favorite game~n:拿手戏
+one's feelings~n:胸臆
+one's fingers itch~n:手痒
+one's forte~n:所长
+one's head spins~n:蒙头转向
+one's health~n:身子骨儿
+one's heart out~n:死去活来
+one's heart's content~n:尽如人意
+one's hearts desire~n:心愿
+one's heart's desire~n:下怀
+one's husband's father~n:公公
+one's husband's mother~n:姑
+one's immediate superior~n:顶头上司
+one's intimate friend~n:莫逆之交
+one's job~n:本职,分内
+one's juniors~n:晚辈
+one's kin~n:六亲
+one's later years~n:晚年
+one's life experience~n:身世
+one's liking~n:爱好
+one's liking taste~n:称心如意
+one's line~n:本行
+one's lot~n:境遇,景遇,际,身世
+one's masterpiece~n:拿手戏
+one's mother's sister~n:姨
+one's native place~n:桑梓
+one's near neighbors~n:四邻
+one's neighbors~n:左邻右舍
+one's old school~n:母校
+one's original wish~n:初愿
+one's own~n:亲生,自,本,独自,己
+one's own clique~n:嫡系
+one's own country~n:本国
+one's own handwriting~n:亲笔
+one's own judgment~n:主见,主心骨
+one's own man~n:私人
+one's own mother~n:生母
+one's own post~n:本位
+one's own profession~n:本行
+one's own side~n:己方
+one's own way~n:一定之规
+one's own wife~n:荆
+one's parents~n:高堂
+one's part~n:本分
+one's proper business~n:正事
+one's real feeling~n:真情实感
+one's relatives~n:亲眷
+one's remaining years~v:余生,余年
+one's respected teacher~n:恩师
+one's role~n:本分
+one's romantic history~n:艳遇
+one's second parent~n:再生父母
+one's secrets~n:隐私
+one's senior~v:老前辈
+one's social connections~n:社会关系
+one's son's wife~n:子妇
+one's specialty~n:撒手锏,拿手戏
+one's spirits soaring~d:兴致勃勃
+one's strong point~n:所长
+one's studies~n:学业
+one's trade~n:本行
+one's true self~v:真面目
+one's urgent needs~n:燃眉之急
+one's very life~n:命根子
+one's vital spirit~n:浩然之气
+one's way home~n:归途
+one's whole life~n:平生,永生
+one's wife's sister~n:姨
+one's words~n:唇吻,言辞
+oneself~r:其,自我,身,自个儿,亲手,自身,亲自,自己,己,自各儿,本人,本身,自,自家|d:亲手,亲自|n:身
+one-sided~a:单方面,单方
+one-sided statement~n:一面之词
+one-sided story~n:一面之词
+one-sided view~n:一孔之见
+one-sided wish~n:一厢情愿
+one-sidedness~n:片面性
+one-step~n:一步舞
+one-storey house~n:平房
+onetime~a:旧
+one-way~a:单程
+one-way road~n:单行线,单行道
+one-way street~n:单行道
+one-way valve~n:止回阀
+onfall~n:袭击,攻击
+onflow~n:湍流,奔流,洪流
+ongoing~a:处置,事务,行为,工作,发展,行动
+onion~n:洋葱,葱头,葱,脑袋,芤,头,脸
+onlay~n:盖板
+online~a:联机
+onlooker~n:旁观者,目击者,观潮派
+onlooking~a:旁观
+only~d:只,才|a:徒,唯独,惟有,第,耳|c:但是,但|v:惟有,唯有|n:耳
+only a few~n:有数
+only care for~v:只顾
+only child~n:独生子女
+only daughter~n:独生女
+only half alive~a:死去活来
+only just~v:刚
+only natural~n:当然
+only necessarily~d:只消
+only one~n:一
+only slightly literate~a:略识之无
+only son~n:独生子,独生子女,独子
+only that~n:要不是,只是
+only then~n:乃
+only too~d:非常
+only you~n:非君莫属
+onomastion~n:术语
+onomatopoeia~n:象声词,拟声,拟声词
+onomatopoeic~a:拟声
+onomatopoetic~a:拟声
+onrush~n:奔流,突击,冲锋,猛冲,冲击|v:猛冲
+onset~n:开始,发作,袭击,攻击,突击,动手
+on-set~a:开始
+onslaught~n:猛攻,突击|v:猛进,猛攻
+on-the-spot~a:即席
+on-the-spot meeting~n:现场会
+on-the-spot report~n:纪实
+onto~p:到,上,按,在_上
+ontogeny~n:胎生学
+ontology~n:本体论
+onus~n:责任,重担,负担
+onward~d:向前,前进|a:向前
+onward transmission~n:转交
+onwards~d:向前,前进
+onychomycosis~n:灰指甲,甲癣
+onym~n:术语
+oodles~n:许多,大量
+oof~n:财富,金钱,力量,精力
+oolong~n:乌龙茶
+oolong tea~n:乌龙茶
+oom~n:伯父
+oomph~n:性感,精力
+oophoron~n:卵巢,子房
+oosperm~n:受精卵
+oospore~n:卵孢子,受精卵
+ootid~n:卵细胞
+ooze~n:软泥,分泌物|v:沁,溜走,分泌
+opacitas~a:浑浊
+opacity~n:愚钝
+opal~n:蛋白石|a:乳白
+opaque~n:晦暗
+opec~n:欧佩克
+open~v:打开,开,开始,向,开放,张开,开辟|a:明目张胆,阳|n:户外,公开
+open a book~v:开卷
+open a business~v:开张
+open a mine~v:开矿
+open a road~v:开路
+open a show~v:开场
+open a way~v:开路
+open air~n:户外
+open an account~v:开户
+open ball~n:开球
+open book~n:展卷
+open car~n:敞车
+open channel~n:明沟
+open circuit~n:断路
+open code~n:明码
+open competition~n:公开赛
+open country~n:平野,野地,野
+open countryside~n:四野
+open court session~n:开庭
+open cut~n:露天矿
+open ditch~n:明沟
+open drain~n:明沟
+open economic zone~n:开发区
+open end~n:开端
+open eyes~n:睁眼
+open fire~n:活火
+open for business~n:开张
+open grave~n:墓穴
+open ground~n:空地
+open heart~n:坦诚
+open hostilities~n:开仗
+open into~v:通往
+open letter~n:公开信
+open loop~n:开路
+open market~n:开市
+open mind~n:谦虚
+open mouth~n:张口
+open new vistas~n:别开生面
+open on~v:通往
+open one's eyes~v:开眼
+open ones mouth~v:张口,张嘴
+open one's mouth~v:张嘴,启齿,开腔,开口
+open one's purse~v:解囊
+open oneself~v:开诚布公
+open out~v:开发,张开,直言,开,揭示
+open pit bench~n:台阶
+open plunder~n:哄抢
+open politics~n:透明度
+open port~n:不冻港
+open quotation~n:开盘
+open road~n:阳关大道,阳关道
+open sea~n:公海
+open sesame~n:护照
+open slit~n:开
+open slot~n:开槽
+open space~n:空地,隙地
+open spaces~n:空旷
+open sphere~n:开球
+open string~v:开行|n:开行
+open tender~v:开标
+open terrace~n:露台
+open test pit~n:探井
+open the market~v:开市
+open the throttle~v:开快车,开足马力
+open to all~n:来者不拒
+open to booking~n:预售
+open to traffic~n:开放
+open tournament~n:公开赛
+open trench~n:明沟
+open university~n:电大
+open up~v:展开,顿开茅塞,拓,斥,开,展,打通,开设,辟,打天下,发,开拓
+open up amine~v:开矿
+open up to~v:打开,开发
+open up wasteland~v:开垦
+open wagon~n:敞车
+open weapon~n:明器
+open wide~v:敞露,敞开|n:敞开,瞪
+open wire~n:裸线,明线
+open words~n:明言
+open wound~n:皮开肉绽
+open-air drying~n:风干
+opencast~a:露天矿
+opencast pit~n:露天矿
+opener~n:开瓶器,起子,泻药,开具
+openhanded~a:手松
+openhearted~a:光明,爽,襟怀坦白,宽大为怀
+openheartedness~n:肝胆
+openheartedness sincerity~n:肝胆
+opening~n:孔,开始,开,开放,空缺,口,通道,洞,空隙,开端,空地,口子,缝,开头,通路,战幕,空子,着手,豁口,开盘,缺,豁子|v:断开,开拓
+opening aperture~n:开口
+opening bars~n:过门儿
+opening bid~n:开价
+opening ceremony~n:开幕式
+opening in wall~n:窗洞
+opening of tender~n:开标
+opening price~n:开价
+opening quotation~n:开盘
+opening remarks~n:开场白
+opening sitting~n:开幕式
+opening speech~n:开幕词
+openly~d:公然,明目张胆,正面,直率,当众,坦白
+openly break relations~v:抓破脸
+openly condemn~v:申讨
+openly defiant~a:明目张胆
+open-minded~a:旷达,明达,开诚布公
+openness~n:宽阔,明目张胆,松脆,开放,宽大,公开,坦白
+open-out prolongation~n:开拓
+open-pit mine~n:露天矿
+open-seat pants~n:开裆裤
+open-shelf~a:开架
+opera~n:歌剧,歌剧院,剧,砌
+opera cape~n:披肩
+opera ticket~n:戏票
+operand~n:操作数
+operate~v:操作,工作,操纵,运转,经营,动手术,开,管理,开刀,决定,开动,实行,动作,引起,操,导致,开工,生效,营,完成,聚赌|n:营
+operate on~v:开刀
+operate on somebody~v:动手术
+operating~v:工作,运算
+operating board~n:工作台
+operating expense~n:事业费
+operating factor~n:利用率
+operating floor~n:工作台
+operating forceps~n:手术钳
+operating handle~n:操纵杆
+operating lever~n:操纵杆
+operating platform~n:工作台
+operating rod~n:操纵杆
+operating room~n:手术室
+operating slide~n:滑板
+operating system~n:操作系统
+operating table~n:手术台
+operating theatre~n:手术室
+operation~n:操作,手术,运算,工作,行动,运行,作业,活动,运转,经营,作用,实施,动作,作战,业务,交易,运用,开动,施行,效力,效果|v:操作,运行
+operational console~n:控制台
+operational research~n:运筹学
+operational site~n:工作站
+operations analysis~n:运筹学
+operations research~n:运筹学
+operative~n:职工,工人,刑警
+operator~n:操作员,话务员,接线员,算子,操作符,运算符,报务员,资方,司机,驾驶员,操纵员,骗子,经纪人,量词
+operator cabin~n:驾驶室
+operator's compartment~n:驾驶室
+operculum~n:厣,盖
+operetta~n:小戏,轻歌剧
+operon~n:遗传
+ophidian~n:蛇
+ophiolite~n:蛇纹石
+ophite~n:辉绿岩
+ophthalmia~n:红眼,红眼病,结膜炎
+ophthalmology~n:眼科学,眼科
+opiate~n:麻醉剂
+opine~v:认为
+opinion~n:意见,看法,舆论,见解,主张,想法,评价,见,意思,判断,鉴定,议,观念,讲法,判定,浅见,论,主|v:见
+opinion book~n:意见簿
+opinionated~v:固执己见,自用,刚愎自用,自以为是|a:自用
+opinions~n:口碑
+opisthencephalon~n:小脑
+opium~n:鸦片,烟,大烟,阿片,麻醉剂,土,罂粟
+opium addict~n:烟鬼
+opium war~n:鸦片战争
+opium-smoking~v:吞云吐雾
+oppidan~n:城里人,市民
+opponency~n:对抗,反对
+opponent~n:对手,敌手,对头,冤家
+opportune~a:恰好,凑巧,巧,适
+opportunely~d:适时,恰好
+opportunism~n:机会主义
+opportunity~n:机会,会,时机,机遇,机,遇,方便,隙|v:遇
+oppose~v:抗争,持,反,妨碍,抗议|a:敌对
+oppose an action~v:抗诉
+oppose everything foreign~v:排外
+oppose imperialism~v:反帝
+oppose local despots~v:反霸
+oppose to~v:反抗,反对
+oppose tyranny~v:抗暴
+oppose violence~v:抗暴
+opposed~a:相反
+opposed to~a:比较
+opposing~v:对|a:对
+opposite~a:左|n:对立面|p:对面,在_对面|v:相反
+opposite flow~p:逆流
+opposite joint~p:对接
+opposite sex~p:异性
+opposite shore~p:对岸
+opposite sides~p:对立面
+opposite to~p:对面,在_对面
+opposition~n:反对,反对党,抵抗,对立,敌对,面对,相对,对偶,对抗,对照,冲,妨害,在野党
+opposition party~n:反对党
+oppress~v:压迫,压制,欺侮,虐待,压倒
+oppress cruelly~v:迫害
+oppress the weak~v:以强凌弱
+oppressed~v:堵
+oppression~n:压迫,虐待,苦闷,压制,镇压,沉闷,苦恼,抑制,忧郁
+oppressive~a:压抑,酷,残,沉闷
+oppressive government~n:苛政
+oppressive heat~n:闷热
+oppressive taxation~n:重税
+oppressiveness~n:压抑
+oppressor~n:暴君
+opprobrious~a:辱骂
+opprobrium~n:耻辱,责骂,轻蔑
+oppugn~v:攻击,抗辩,抗击,质问,反对
+opsigenes~n:智牙
+opsonize~v:调理
+opt~v:选择,抉择
+opt for~v:抉择,选择
+optesthesia~n:视觉
+optic~n:镜片
+optic axis~n:光轴
+optic fiber~n:光导纤维
+optic nerve~n:视神经
+optical activity~n:旋光性
+optical axis~n:光轴
+optical band~n:光带
+optical cable~n:光缆
+optical energy~n:光能
+optical fiber~n:光纤
+optical fiber cable~n:光缆
+optical fiber communication~n:光纤通信
+optical fibre~n:光导纤维
+optical grating~n:光栅
+optical lens~n:透镜
+optical parallax~n:视差
+optical photon~n:光量子
+optical prism~n:棱镜
+optical radiation~n:光辐射
+optical spectroscopy~n:光谱学
+optical spectrum~n:光谱
+optical wave~n:光波
+optically denser medium~n:光密媒质
+optically thinner medium~n:光疏媒质
+opticist~n:光学家
+optics~n:光学
+optimism~n:乐观
+optimistic~a:乐观,达观,开朗
+optimization~n:优化,优选法
+optimize~v:优化
+optimum~a:最佳
+optimum seeking method~n:优选法
+option~n:选择,取舍
+optional~a:自选
+optionally~d:自由,随意
+optoelectronic cell~n:光电池
+optometry~n:验光
+opulence~n:丰富,丰饶,富裕
+opus~n:著作,电影,广播剧,作品
+opuscule~n:小品,小曲
+or~c:或,或者,还是,或是,某,要么,也好,不然,否则,要不,就是,要不然,大概,抑或,即或|d:也罢,再不|n:黑色
+or else~a:不然,要不然|c:要不
+or even~v:乃至,以至
+or not~d:与否
+or so~c:约摸,约莫,把,大约,那么,上下|p:上下
+or the branches~n:枝头
+or the like~n:诸如此类,等等
+or thereabouts~d:上下,左右
+oracle~n:先知,哲人,神殿,预言
+oracle-bone scripture~n:甲骨文
+oracular words~n:金口玉言
+oral~n:口头|a:口头
+oral account~n:口述
+oral cavity~n:口腔
+oral confession~n:口供
+oral examination~n:口试
+oral instruction~n:口授
+oral interpretation~n:口译
+oral literature~n:口头文学
+oral medicine~n:内服药
+oral message~n:口信
+oral quiz~n:口试
+oral speech sounds~n:口音
+oral stunts~n:口技
+oral test~n:口试
+oral testimony~n:证言
+orang~n:猩猩
+orange~n:橙子,桔子,柑桔,橙色,橙,橘柑,福橘,桔,甜橙,香橙
+orange colour~n:橙
+orange juice~n:橘汁,橙汁
+orange osmanths~n:丹桂
+orange red~n:缇,橙红色
+orange tree~n:桔树
+orangeade~n:橙汁
+orangoutang~n:猩猩
+orang-outang~n:猩猩
+orangutan~n:猩,猩猩
+orangutang~n:猩猩
+orate~v:演讲
+oration~n:演说,演讲,引语
+orator~n:辩护人,原告
+oratorio~n:清唱剧
+oratory~n:演讲,修辞,雄辩
+orb~n:天体,球体,眼球,地球|v:卷,包围,围
+orbit~n:轨道|v:环行
+orbital electron~n:核外电子
+orchard~n:果园,果木园,棒球场
+orchard worker~n:果农
+orchardist~n:果农
+orchestra~n:管弦乐队,乐队,管弦乐,乐池
+orchestra pit~n:乐池
+orchestrate~v:配器
+orchid~n:兰花,兰,恭维话,感谢,兰草,贺词,祝贺
+orchidacean~n:兰花
+orchidaceous~a:兰花
+ordain~v:注定,任命,规定,制定,命令
+ordeal~n:考验,折磨|v:考验
+order~n:命令|v:饬令,驱迫,支,注定,定制|d:先后
+order about~v:摆布,驱迫,拨弄,摆弄
+order around~v:驱使
+order dishes~n:点菜
+order food~n:点菜
+order for goods~n:定单,订单
+order form~n:订单
+order goods~n:定货
+order in advance~v:预订
+order in consequence~v:绪
+order of magnitude~n:数量级
+order of strokes~n:笔顺
+order people about~n:指手划脚,发号施令
+order sheet~n:订货单
+order somebody about~v:播弄,掇弄
+orderliness~n:条理,整洁,整齐,理路,板眼,秩序井然
+orderly~a:整齐,井然有序|n:公务员,井,通讯员
+orderly man~n:勤务兵
+orderly ways~n:章法
+orders~n:军命
+ordinace~n:法令
+ordinal~n:序数
+ordinance~n:法令,条例,仪式,天意,条令,训令,布告
+ordinances~n:条例
+ordinarily~d:通常,一般,常,平常,按说,大抵,大概,普通|v:照说
+ordinary~a:普通,一般,平常,常,平凡,寻常,便,平庸,庸庸碌碌,凡庸,凡,简单,如常,等闲|n:常例,法官,庸夫,客店|v:如常
+ordinary citizen~n:平民
+ordinary days~n:平日
+ordinary fare~n:家常便饭
+ordinary mail~n:平信
+ordinary man~n:小卒
+ordinary matters~n:常事
+ordinary meal~n:家常便饭
+ordinary mortal~n:凡人
+ordinary people~n:凡夫俗子
+ordinary person~n:凡人
+ordinary share~n:普通股
+ordinary shares~n:普通股
+ordinary state~n:常态
+ordinary superphosphate~n:过磷酸钙
+ordinate~n:纵坐标
+ordinates~n:纵坐标
+ordination~n:规则,整理,分数,委任
+ordnance~n:军械,军用品,武器,军器,军需品,大炮
+ordnance department~n:军械处
+ordnance factory~n:兵工厂,军工厂
+ordnance material~n:军火
+ordnance works~n:兵工厂
+ordonnance~n:命令,法令
+ordovician~n:奥陶纪
+ordure~n:下流话,粪便,肥料,排泄物,粪
+ordure pellet~n:粪便
+ore~n:矿石,矿砂,矿,矿车,矿层,贫矿
+ore bed~n:矿层
+ore body~n:矿体
+ore deposit~n:矿,矿床
+ore deposits~n:矿藏
+ore district~n:矿区
+ore formation~n:矿层
+ore horizon~n:矿层
+ore lode~n:矿脉
+ore pillar~n:矿柱
+ore pulp~n:矿浆
+ore vein~n:矿脉
+orexia~n:食欲
+orexis~n:食欲,愿望,欲望
+organ~n:器官,风琴,机构,机关,喉舌,管风琴,机器,口琴,元件,机件,官,器,报刊,工具,机关报
+organdiedy~n:玻璃纱
+organdy~n:玻璃纱
+organelle~n:细胞器
+organic~a:有机,机|n:机
+organic act~n:基本法
+organic dyestuff~n:有机染料
+organic matter~n:有机质
+organic synthesis~n:有机合成
+organisation~n:组织,团体
+organise~v:组织
+organism~n:生物,有机体,生物体,微生物,机体,组织,肌体,构造,结构
+organisms~n:生物
+organism's habits~n:生态
+organization~n:组织,机构,结构,构成,编制,团体,委员会,协会,公会,团,会党,生物体,体制,组织性
+organization department~n:组织部
+organization system~n:建制
+organizational system~n:建制
+organize~v:组织,组建,整理,搞,发起,编,创办,创立|n:组
+organize a defense~v:布防
+organize into teams~v:编队
+organized body~n:社
+organized system~n:组织
+organizing~v:组织
+organizing committee~n:组委会
+organon~n:原则
+orgie~n:放荡,狂欢
+orgy~n:狂欢,放荡
+orient~n:东方,亚洲|a:定向,光彩夺目|v:修正
+oriental~a:特等
+oriental arborvitae~n:侧柏
+oriental cherry~n:樱
+oriental jasper~n:鸡血石
+oriental oak~n:栓皮栎
+oriental picking melon~a:越瓜
+oriental pickling melon~n:越瓜
+oriental white oak~n:槲栎
+oriental wormwood~n:茵陈蒿
+orientate~v:定位,调整,辅导,定向
+orientation~n:方向,取向,定向,方针,倾向性,定位,适应
+orientations~v:朝向
+orifice~n:孔,口,喷嘴,开口
+orificing~v:节流
+oriflamme~n:军旗
+origin~n:起源,出身,起因,成因,原点,来源,血统,来历,由来,根源,源,渊源,起始,根本,本源,开始,母,起点,出发点,根,震源,根子,焦点,根由,缘起,本原,来路,因由,元,发端
+original~n:底本,原型,雏型,底片,模型|a:本,母,初|v:原有
+original accumulation~n:原始积累
+original appearance~n:原貌,原样
+original capital~n:老本,血本
+original copy~n:原件
+original cost~n:原价
+original creation~n:独创
+original family home~n:祖籍
+original form~n:活字版
+original idea~n:本意,创见
+original inhabitants~n:土著
+original intention~n:原意
+original judgment~n:原判
+original language~n:源语言
+original manuscript~n:原本,原文,原稿,手稿
+original negative~n:原版
+original package~n:原装
+original pattern~n:原稿
+original place~n:策源地
+original price~n:原价
+original profession~n:本业
+original sample~n:原样
+original selection~n:初选
+original sentence~n:原判
+original shape~n:原样
+original sin~n:原罪
+original version~n:蓝本
+original work~n:原作
+originality~n:独创性,新颖,创见,创造力,独出心裁,创意,匠心,创举,怪人,原物|a:新颖
+originally~d:最初,原来,起初,本来,原本|n:当初
+originally create~v:独创
+originate~v:引起,发源,首创,发生,开始,创始,发起,源于,发自,发明,来源,创办,创作,肇,创设,滥觞,起头|n:来源
+originate a method~v:自我作古
+originate an idea~v:别出心裁
+originate from~v:起源于,起源
+originate in~v:来源于,起源
+originatenation~n:发明,开始
+origination~n:发源,起始,起点,创作
+originator~n:开山祖师
+oriole~n:黄莺,莺,黄鹂,黄鸟
+orion~n:猎户
+ormazd~n:创世主
+ormer~n:鲍
+ornament~n:装饰|v:美化,点缀
+ornamental~n:观赏植物,装饰品
+ornamental design~n:花饰
+ornamental engraving~n:镂花
+ornamentalize~v:装饰
+ornamentation~n:装饰,装饰品,修饰
+ornaments~n:饰物,摆设
+ornate diction~n:辞藻
+ornate phraseology~n:词藻
+ornate terms~n:词藻
+ornery~a:古怪
+ornithology~n:鸟类学
+ornithorhynchus~n:鸭嘴兽
+orogeny~n:造山运动
+orogeny movement~n:造山运动
+orostachys~n:瓦松
+orphan~n:孤儿,孤子,遗孤
+orphan asylum~n:孤儿院
+orphan home~v:孤儿院
+orphanage~n:孤儿院
+orphanhood~n:孤儿
+orpiment~n:雌黄,雄黄
+ort~n:废品
+orthoboric acid~n:硼酸
+orthocenter~n:垂心
+orthoclase~n:正长石
+orthodox~a:正统
+orthodox eastern church~n:东正教
+orthodox tradition~n:正统
+orthodoxy~n:正统,正教
+orthoepy~n:正音法
+orthograph~n:正视图
+orthographic projection~n:正投影
+orthography~n:正字法,正字
+ortho-hydroxybenzoic acid~n:水杨酸
+orthopaedics~n:骨科
+orthopaedy~n:矫形术
+orthopedic~a:矫形
+orthopedic shawl~n:披肩
+orthopedics~n:整形,骨科
+orthopedy~n:矫形术
+orthophosphoric acid~n:磷酸
+orthoptera~n:昆虫,直翅目
+orthoptic~v:直视
+orthose~n:正长石
+oryx~n:羚羊
+oryzanol~n:谷维素
+os~n:操作系统,孔穴,通路
+osaka~n:大阪
+oscar~n:奥斯卡,左轮,现款
+oschea~n:阴囊
+oscillate~v:振荡,摆动,变动,浮沉,晃荡,振动
+oscillating~v:振荡
+oscillating movement~n:摆动
+oscillation~n:振荡,振动,摆动,震荡,变动,振幅|v:震荡,摆动,震动,振荡
+oscillation absorber~n:减震器
+oscillator~n:振荡器
+oscillograph~n:示波器
+oscillometer~n:示波器
+oscilloscope~n:示波器,示波管
+oscitancy~n:冷淡
+osculate~v:密切,接触
+osculation~n:接吻,密切
+osculum~n:吸盘
+osier~n:柳树,柳枝,柳条
+osifer~n:军官
+oslo~n:奥斯陆
+osmanthus~n:木犀
+osmesthesia~n:嗅觉
+osmium~n:锇
+osmogen~n:酶原
+osmose~v:渗透
+osmosis~n:渗透|v:渗透
+ospray~n:鱼鹰
+osprey~n:鱼鹰,鹗
+ossature~n:骨骼
+osseocolla~n:骨胶
+osseous pin~n:骨针
+osseous remains~n:遗骨
+ossification~n:硬化,僵化,骨化|v:硬化,骨化
+ossified~v:僵死
+ossifrage~n:鱼鹰,秃鹰
+ossify~v:僵化,硬化,骨化
+osteitis~n:骨炎
+ostemyelitis~n:骨髓炎
+ostentation~n:卖弄,摆阔,表面文章,排场,夸示,夸耀
+ostentatious~a:浮华,浮艳,阔绰|n:浮华
+osteocarcinoma~n:骨癌
+osteoepiphysis~n:骨骺
+osteology~n:骨骼,骨学
+osteoma~n:骨瘤
+osteomalacia~n:软骨病
+osteomyelitis~n:骨髓炎
+ostermoors~n:胡须
+ostiary~n:门房
+ostium~n:口,门,孔
+ostler~n:马夫
+ostracean~n:牡蛎
+ostracism~n:排斥,放逐,流放
+ostracize~v:排斥,流放,放逐
+ostracum~n:介壳
+ostric~n:鸵鸟
+ostrich~n:鸵鸟,鸵
+othello~n:奥赛罗
+other~r:他|a:外|n:旁|d:另外
+other counties~n:外县
+other countries~n:别国
+other country~r:别国,他国|n:他国
+other day~n:前几天
+other nationalities~n:外族
+other people~n:人,他人,物
+other people's business~n:闲事
+other places~n:他方
+other ports~n:外埠
+other provinces~n:外省
+other style~n:别样
+other than~p:不同,除外,之外,与_不同,除了_之外
+otherness~n:他,相异
+others~r:他人,旁人,别的,别人
+otherwhile~d:有时候
+otherwhiles~d:有时候
+otherwise~c:反之,要不,不然,否则,要不然|d:否则|a:一
+otherwise than~a:除外
+otherworldliness~n:来世
+otitis media~n:中耳炎
+otolaryngological department~n:耳鼻喉科
+otolaryngology~n:耳鼻喉科
+otology~n:耳科
+otophone~n:助听器
+otosteon~n:听骨
+ottawa~n:渥太华
+otter~n:水獭,獭,水獭皮
+ou~n:欧
+ou river~n:瓯江
+ouch~f:哟|i:哎|n:扣子
+ought~v:应该,应当,当|n:零
+ought not~v:不合
+ought to~v:理应,应当,宜,应
+ought to have~v:本当,理应
+oui~d:对
+oulopholite~n:石膏
+ounce~n:盎司,少量,英两
+our~r:我,敝,我们|a:我
+our country~n:我国
+our daily bread~n:食粮
+our father~n:上帝,天父
+our own army~n:子弟兵
+our side~n:我方
+our species~n:人类
+ourselves~r:吾人
+oust~v:取代,斥,代替,剥夺,轧,撵,驱逐,逐出
+ouster~n:剥夺,驱逐,放逐,逐出
+out~d:出去|n:印象|v:逐出|p:外面|a:结束|i:出去,滚蛋
+out and out~a:彻头彻尾
+out dated coin~p:古钱
+out of~p:离开,外,由于,里,来自,从中,缺乏,从_里,在_外
+out of all proportion to~p:超过
+out of bound~v:出线
+out of bounds~p:越轨
+out of bounds to~p:禁区,对_的禁区
+out of business~p:失业
+out of cash~p:妙手空空
+out of commission~p:退役
+out of control~p:失控,群龙无首
+out of count~p:无数
+out of date~a:过时,老掉牙
+out of dispute~p:无可争辩
+out of door~p:室外
+out of doubt~p:无可置疑
+out of employment~p:失业
+out of gear~p:失常
+out of hand~n:立刻
+out of heart~p:沮丧,没精打采
+out of job~p:失业
+out of joint~p:脱节,脱臼
+out of keeping with~p:不符,与_不符
+out of measure~p:过度
+out of mind~p:疯狂,发狂
+out of office~p:去职,野
+out of order~p:出毛病,紊乱
+out of play~p:出局
+out of power~p:下台
+out of practice~p:生疏,荒疏
+out of proportion to~p:不成比例,与_不成比例
+out of question~p:无疑
+out of quiet~p:骚扰,干扰
+out of reach~p:鞭长莫及
+out of recognition~p:面目全非
+out of repair~p:失修,破损
+out of shape~p:变形,走样
+out of sorts~p:心烦意乱,不好过,失神,没精打采,心神不定,不爽
+out of spirits~p:气闷
+out of stock~p:抢购一空
+out of temper~p:发脾气
+out of ten~p:停
+out of the way of~p:给_让路,让路
+out of touch~p:闭塞
+out of touch with~p:陌生,与_失去联系,对_陌生,失去联系
+out of true~p:出毛病
+out of tune~p:失调,走调儿
+out post~p:前哨
+out strolling~p:遛弯儿
+outage~n:出口,停车,停止,停电,损耗|v:断电
+out-and-out~a:完全
+outback~n:内地
+outbalance~v:胜过,优于
+outbid~v:抢先
+outbreak~n:爆发,暴动,暴发,反抗,骚扰,发作|v:暴动,暴发,爆发
+outburst~n:爆发,迸发|v:爆发
+outcast~n:流氓,流浪者,丧家之犬,无赖,废物
+outcaste~n:贱民
+outclass~v:超过
+outcome~n:结果,结局,后果,成果,产物,分晓,胜负,输出,终局|v:输出
+outcomer~n:外国人
+outcrop~n:露头|v:露头
+outcropping~n:矿苗|v:露头
+outcry~n:喊叫,喧嚷,叫卖,怒号,吆喝
+outdare~v:蔑视
+outdated~a:老,老式
+out-dated views~n:老眼光
+outdistance~v:胜过
+outdo~v:优于,超越,胜过,凌驾,超过,制服,打败
+outdone~v:烦恼,激怒
+outdoor~n:野外,室外|a:野外
+outdoors~n:户外,野外,外头,自然界,世间,露天
+outdoors live~v:幕天席地
+outer~a:外,套|n:外面,外壳
+outer bark~n:外皮
+outer casing~n:外壳
+outer city~n:市郊,郊区
+outer clothing~n:外衣
+outer coat~n:外衣,外套
+outer coffin~n:椁
+outer cover~n:外胎
+outer covering~n:外壳
+outer form~n:外形
+outer garment~n:风衣,外衣,外套
+outer jacket~n:罩
+outer layer~n:外层
+outer leaf~n:帮
+outer mongolia~n:外蒙古
+outer phase~n:外相
+outer planet~n:外行星
+outer regions~n:边
+outer skin~n:外壳
+outer space~n:太空,宇宙空间
+outer suburbs~n:远郊
+outer term~n:外项
+outer wear~n:外衣
+outer wheel~n:渠
+outermost shell~n:外壳
+outer-ring~n:外围
+outerwear~n:外套,外衣
+outface~v:恐吓,挑,反抗,冒,蔑视
+outfall~n:出口,河口,吵架,突击,袭击
+outfall ditch~n:排水沟
+outfield~n:边境,外场,郊外,边地
+outfight~v:击败,打败,战胜
+outfire~v:灭火
+outfit~n:准备,素养,用品,工具,装置,旅费|v:供给,装
+outfit with~n:配备,装备
+outfitting~v:准备,装束
+outflank~v:包抄,迂回,阻挠
+outflow~n:流出,泛滥,爆发|v:流出,外流
+outgo~n:支出,出发|v:胜过,超过,优于
+outgoing~v:外出,出去,出发,开支,声明
+outgoing line~n:出线
+outgoing message~n:发文
+outgrow~v:出生
+outgrowth~n:结果,枝条,成果,长大,副产物,瘤
+outguess~v:看透
+outgun~v:超越,胜过
+outing~n:远足,出游,外出,游览,散步,旅行
+outjockey~v:哄骗,骗
+outland~n:内地,外国
+outlander~n:洋人,外国人,外地人,陌生人,局外人
+outlandish~a:稀奇古怪
+outlandish clothes~n:奇装异服
+outlandish clothing~n:奇装异服
+outlandish dress~n:奇装异服
+outlandish ways~n:洋气
+outlaw~n:歹徒,逃犯,亡命徒|v:取缔
+outlawry~n:放逐
+outlay~n:开支,经费,费用,花费,用度,支出,用,用费|v:花费
+outleakage~v:泄漏
+outlet~n:出口,出路,插座,销路,输出,通路|v:输出
+outlet water~n:废水
+outlier~n:局外人,门外汉
+outline~n:轮廓,梗概,提纲,要点,大纲,纲,架子,略图,概略,概要,纲要,草稿,崖略|v:勾勒,领,剪影,简述|d:略|a:凡
+outline essential points~n:撮要
+outline map~n:要图
+outline of sole~n:鞋样
+outlook~n:观点,眼界,景色,前景,人生观,展望,望楼,观,了望,见解,见地,看守,形势,景致,风光
+outlook on life~n:人生观
+outlying~a:边远
+outlying place~n:隅
+outmatch~v:优于,胜过
+out-migrate~v:迁徙
+out-mode conventions~n:老框框
+outmoded~a:陈旧,过时
+outmoded convention~n:陈规
+outmoded conventions~n:陈规
+outness~n:外面,外在性
+outnumber~v:超过
+out-of-bounds~d:界外球
+out-of-bounds area~n:禁区
+out-of-the-way mountain area~n:山窝
+out-of-the-way place~n:僻壤,旮旯儿
+outpace~v:超过,胜过
+out-patient department~n:门诊部
+out-patient service~n:门诊
+outperform~v:胜过
+outplay~v:击败,胜过
+outpost~n:前哨
+outpour~v:流出|n:流出
+outpouring~n:迸发,流露,洋溢,流出
+output~n:产量|v:出力
+output coefficient~n:利用率
+output power~n:出力
+outrage~v:犯,驳倒,凌辱,伤害,违反|n:暴行,残暴,凌辱,痛恨,义愤
+outrage attack~n:暴举
+outrageous~a:妄,不像话,残暴
+outrageously~d:悍然
+outrance~n:最后
+outrange~v:胜过
+outreach~v:伸长,胜过,超过|n:展开,伸出
+outrigger~n:支架
+outright~d:彻底,坦白,马上,完全,公然,公开,即刻|a:爽快,地地道道
+outright lies~n:鬼话
+outrival~v:打败
+outroot~v:根绝,毁灭,消灭
+outrun~v:脱离,超过,胜过,逃走
+outrunner~n:先驱者,侍从
+outrush~n:流出
+outset~n:开始,开头,最初,开端
+outshine~v:解放,胜过,优于
+outshine all others~v:超群绝伦
+outshine others~v:一枝独秀
+outshoot~v:伸出,突出|n:射击
+outshot~v:等外品
+outside~n:外面,外表|a:出界|d:外面|p:在_外|v:在外
+outside a city~p:平野
+outside appearance~p:标
+outside circles~p:外间
+outside class~p:课外
+outside common tangent~p:外公切线
+outside connections~p:外线
+outside help~p:外援
+outside material~p:面料
+outside of~p:在_外,外
+outside of belly~p:腹面
+outside school~p:校外
+outside shanhaiguan~n:关外
+outside shanhaiguan pass~n:关外
+outside the party~p:党外
+outsider~n:外人,局外人,门外汉,外行
+outsight~n:观察,观察力|v:观察
+outsize~n:特大号
+outskirt~n:市郊,郊区,外边
+outskirts~n:郊外,市郊,四郊,郊区,城郊,远郊
+outsmart oneself~v:弄巧成拙
+outsoar~v:飞过
+outsole~n:皮掌,皮掌儿
+outspan~v:卸
+out-speaker~n:扩音器
+outspoken~a:坦率,直言,爽直,直肠子|v:直肠子
+outspread~v:展开,传播,扩张,散布
+outstand~v:停留,突出,忍耐,凸出,反抗
+outstanding~a:杰出,出色,优秀,突出,显著,卓越,卓著,拔尖,出类拔萃,俊,旷代,旷世,了不得,了得,著,卓异,特出,优,不凡,非凡,杰,优异,尤,峥嵘,卓然,卓跞,响当当|v:超拔,出类拔萃,数得着,出众,未了,冒尖儿,头角峥嵘,未决
+out-standing~a:卓著
+outstanding accounts~n:欠债
+outstanding contribution~n:勋劳,奇勋,勋绩
+outstanding debts~n:积欠
+outstanding figures~n:英豪,英杰,英雄豪杰
+outstanding issue~n:悬案
+outstanding merit~n:殊勋
+outstanding military exploit~n:战功
+outstanding person~n:杰,英
+outstanding service~n:奇勋
+outstanding talent~n:头角峥嵘
+outstandingly meritorious deed~n:功勋
+outstare~v:挑战,对抗
+outstep~v:走过,犯,过火,逾越,超过
+outstretch~v:伸出,展开,扩张,张开,伸展
+outstrip~v:超过,胜过,越过,优于,超前,逃脱
+outstrip pass forereach~n:超过
+outta~p:由于,从_里,缺乏,里,外,在_外
+outtake~n:烟道
+outtalk~v:说服
+outthrow~n:废料
+outthrust~n:突出|v:突出
+outturn~n:产量,结果
+outturn sheet~n:纸样
+outvie~v:打败,胜过
+outwalk~v:走过,越过
+outward~n:外观,外形,外表|a:外,外貌|d:表面化
+outward appearance~n:外貌,外面
+outward run~v:出车
+outward sign~n:标
+outwardly~d:在外
+outwardness~n:客观性
+outwards~d:在外
+outwash~v:冲刷|n:冲刷
+outweigh~v:胜过
+outwind~n:海风
+outwit~v:智取,哄骗
+outworn~a:陈腐
+ouyang~n:欧阳
+ova~n:卵细胞,卵
+oval~n:椭圆,椭圆形
+oval face~n:瓜子脸
+ovarium~n:卵巢
+ovary~n:卵巢,子房
+ovary cell~n:卵细胞
+ovation~n:欢呼
+oven~n:烤箱,烤炉,炉子,炉灶,烘炉,灶火,灶,炭窑,烘箱,炉
+oven dry~n:烘干
+oven port~n:炉门
+oven-dry~n:烘干
+over~p:过|d:出,剩余,过于,倒|n:上面,剩余,套,以上,余额,上边,上头|a:逾分,多,余,过度|f:开外,过
+over again~p:再次
+over against~p:比较,在_对面,与_比较,对面
+over all~p:全部
+over and above~p:此外,除_之外,之外
+over beam~p:悬梁
+over cautious~n:谨小慎微
+over food~p:纱罩
+over length~p:全长
+over modest~n:过谦
+over praise~p:过誉
+over production~p:超产
+over sowing~p:重播
+over speed~p:超速
+over state~p:言过其实
+over stride~v:跨过
+over the years~p:长年累月
+over wintering crops~p:越冬作物
+overabunant~v:汗牛充栋
+overabundance~n:奢侈品
+overabundant yang~n:重阳
+overact down trees~v:乱砍滥伐
+overage~n:超额,过多,过量,过剩|a:超龄
+overall~n:工装裤|a:罩|d:全盘,通盘
+overall appraisal~n:总评
+overall consideration~n:统筹兼顾
+overall length~n:全长
+overall loading~n:满载
+overall perspective~n:全景,全貌
+overall planning~n:统筹兼顾
+overall situation~n:大事,全局
+overall unit~n:整机
+overall view~n:全景
+overalls~n:工作服,套裤
+overarm~a:横杆
+overawe~v:威吓,威慑
+overbalance~v:压倒,优于,胜过
+overbear~v:压倒,超过,超生,压服,制服
+overbearing~a:傲慢,盛气凌人|v:气势汹汹,咄咄逼人,不可一世
+overbearingly~d:气势汹汹
+overbid~n:谎价
+overblow~v:夸张,吹散
+overboot~n:套鞋
+overbridge~n:旱桥,跨线桥,天桥
+overbrim~v:溢出
+overburden~v:过载|n:重担
+overburn~v:烧毁
+overbusy~v:多管闲事
+overcare~n:过虑
+overcast~a:阴沉,阴,低沉,灰蒙蒙|n:覆盖
+overcast sky~n:阴天
+overcautious~a:拘谨,狷
+overcharge~v:加码,敲,敲竹杠,夸张,压倒
+overclothes~n:外衣
+overcloud~v:阴暗,悲伤
+overcoat~n:大衣,外套,大氅
+overcoating~n:涂饰
+overcolor~v:夸张
+overcolour~v:夸张
+overcome~v:克服,战胜,克,征服,制胜,排除,制服,打败|n:克
+overcome all difficulties~v:排除万难
+overcome difficulties easily~v:履险如夷
+overcome poverty~v:脱贫
+overconfidence~n:自负
+overconfident~a:不自量
+overconsuming~n:超前消费
+overcrow~v:打垮,压倒,夸耀,胜过
+overcrowd~v:挤满,拥塞
+overdo~v:过分,夸张,过火,过头|a:过头
+overdose~v:过量
+overdraft~v:透支|n:透支
+overdraught~n:透支
+overdraw~v:透支,夸大,夸张
+overdrawn~v:夸张,透支
+overdress~n:外衣
+overdrink~v:暴饮
+overdue~v:过期,误点|a:过期
+overdue debt~n:宿债
+overdue fine~n:滞纳金
+overeat~v:暴食
+overelaborate~a:繁缛
+overelaboration~n:烦琐哲学
+overestimate~v:看重
+overestimate one's strength~v:举鼎绝膑
+overestimate oneself~v:自不量力
+overflight~n:飞越
+overflow~v:溢,泛滥,淹没,充满,溢出,漫溢,满,漫|n:过多,泛滥
+overflow dam~v:溢洪坝
+overflow fat~v:滚水坝
+overflowing~n:过剩,充沛,溢出|a:盎然,潋滟|v:横溢
+overflowing spirits~n:豪兴
+overflowing with vigour~n:生机盎然
+overfly~n:飞越|v:飞越
+overfreight~n:超载
+overgarment~n:外衣,大衣
+overgild~v:镀金
+overgovern~v:统治
+overground~a:地上
+overgrow~v:丛生,疯长
+overgrown~a:老
+overgrown with underbrush~a:荒芜
+overgrowth~n:繁茂,蔓延,生长,增生,疯长,共生|v:生长
+overhand~n:优势,上风,胜利
+overhang~v:伸出,威胁|n:悬垂
+overhanging cliff~n:悬崖
+overhanging eaves~n:飞檐
+overhaul~v:检修,追上|n:检查
+overhaul thoroughly~v:正本清源
+overhead~a:架空,空中,高架|n:上空,天,空中,天花板|v:开销
+overhead light~n:顶灯
+overhead pedestrian crossing~n:过街桥
+overhead traveling crane~n:天车
+overhear~v:偷听
+overindulgegence~n:姑息,放纵
+overindulgence~n:放纵
+overissue~n:滥发|v:滥发
+overjet~v:覆盖
+overjoy~v:大喜,狂喜
+overjoyed~v:欢天喜地,欢跃|a:欢天喜地
+overkill~n:过多
+overlade~v:过载
+overlap~v:交叠,一致,覆盖,叠加,套,交叉|n:重复
+overlapping~v:重叠,交叠,交叉
+overlay~v:涂,铺,压倒,盖,重叠,叠置,压制,叠加,覆,敷
+overlaying welding~n:堆焊
+overleaf~n:反面|d:反面
+overleap~v:忽略,省去,越过,跳出
+overload~v:过载|n:超载
+overloading~v:过载,超载
+overlook~v:忽略,俯瞰,忽视,俯视,眺望,监视,漠视,观察,忘记,读,疏忽,临,监督,检阅,检查,视察,忘,忽
+overlooker~n:监工
+overlord~n:霸王,霸,太岁,霸主,太上皇
+overlordship~n:唯我独尊
+overlying~v:叠加
+overman~n:头头,头头儿,工头,监工,超人,总管
+overmaster~v:征服,克服,压服,压倒
+overmatch~v:优于,胜过,压倒
+overmeasure~n:过量,剩余
+overmuch~n:过量,剩余
+overnight~d:过夜,整夜,昨晚,通宵|n:一朝一夕
+overpass~v:翻过,忽视,通过,优于,越过,超过,违背,渡,超出,过|n:过街桥,天桥,高架道路,旱桥
+overpass the limit~v:越界
+overpassing~v:超出
+overpitch~v:夸大
+overplus~n:过多,剩余,过剩
+overpower~v:制服,压倒,打败,压服
+overpraise~n:谬奖,过奖|v:过誉,过奖
+overprint~v:叠印
+overproduce~v:生产过剩
+overproduction~n:生产过剩
+over-production~n:生产过剩
+overpull~n:套衫
+overranging~v:超出
+overrate oneself~v:不自量,螳臂当车
+overreach~v:越过,赶上,超越,追上,过火,夸张
+overreach oneself~v:弄巧成拙
+overread~v:通读
+override~v:不顾,压倒,推翻,藐视,蔑视,废弃,凌驾,制服,超过
+overriding~v:过载
+overrule~v:否决,驳回,推翻,压倒,压制,统治,克服,废弃
+overrun~v:超过,超出,泛滥,猖獗,越过,侵占,侵略,蔓延,蚕食|n:猖獗,余额,跋扈,泛滥成灾,蔓延
+overrun by carriage~n:躏
+overruncost~n:超支
+overrunning~v:凌驾
+overseas~n:国外|a:海外|d:海外
+overseas chinese capital~n:侨资
+overseas compatriot~n:华侨
+overseas compatriots~n:侨胞
+overseas debt~n:外债
+overseas refugee~n:难侨
+oversee~v:监督,管理,视察,监视,了望,照料,错过,俯瞰|n:监工
+oversee the whole~v:顾全大局
+overseer~n:监工,工头,监督,管理员
+oversensitive~a:神经过敏|v:过敏,多愁善感,神经过敏|n:斗筲
+overset~v:推翻,翻转,镶嵌,颠覆,搅乱|n:打倒,推翻
+oversew~v:缝合
+overshadow~v:庇护,相形见绌,遮蔽
+overshadowed~v:相形见绌
+overshirt~n:衬衫
+overshoe~n:套鞋
+overshoes~n:套鞋
+overshoot~v:越过,镶边,超出,飞过,夸张|n:尖峰
+overshoot the mark~v:弄巧成拙
+overshoot the truth~v:言过其实
+overshot~v:抓取
+overshoulder~d:回头
+oversight~n:疏忽,监督,监视,看管,疏漏
+oversimplified~a:简单|v:简单
+oversimplify~v:简单化
+oversize~n:特大号,大号|a:特大
+overskirt~n:套裙
+overslaugh~v:妨碍,阻止,忽略
+oversleeve~n:套袖,袖套,罩袖
+overslip~v:错过
+oversold position~n:空头
+oversoul~n:上帝
+overspeed~v:超速|n:超速
+overspend~v:超支
+overspending~v:超支
+overspread~v:布满,铺天盖地,罩,扩张,遮掩,覆盖,铺盖,蒙,遮盖,蔓延
+overstaffed~v:臃肿|a:臃肿
+overstate~v:夸大,夸张,走火,夸,过甚,过甚其词
+overstate the case~v:过甚其词
+overstatement~n:夸张,大话,言过其实
+overstay one's leave~v:超假
+overstep~v:超越,超拔,越过,犯,违犯,越,超出
+overstep one's authority~v:僭
+overstep the boundary~v:越界
+overstep the bounds~v:出圈儿,出轨
+overstepping one's bounds~n:非分
+overstock~v:积压
+overstory~n:上层
+overstress~v:过载
+overstride~v:超越,骑,跨,优于
+overstuffed with redundancies~a:屋上架屋
+overswing~v:超越
+overt~a:公开,明,阳
+overtake~v:超过,赶上,追上,超,超车,赶,打垮,赶超,压倒
+overtax one's nerves~v:伤神
+overthrow~v:推翻,颠覆|n:失败,瓦解,征服,倾覆,灭亡,垮台
+overthrowal~n:推翻,打倒
+overtime~n:加班,加班费
+overtime pay~v:加班费
+overtly~d:公然,公开
+overtone~n:泛音,意味,联想,暗示,言外之意
+overtones~n:弦外之音
+overtones in conversation~n:话中有话
+overtop~v:超出,高出,凌驾,胜过,高于
+overture~n:序曲,建议,提议,开端,序幕,前奏曲,提案
+overturn~v:打翻,推翻,倾覆,翻转,毁灭,打倒|n:垮台,灭亡,推翻,毁灭,瓦解,倾覆
+overturn the heavens~v:翻天
+overuse~v:滥用|n:滥用
+overview~n:概观
+overwash~v:冲洗
+overwatch~v:守候,掩护,监视
+overwater~n:水上
+overweening~a:自负,惟我独尊|v:惟我独尊,唯我独尊
+overweigh~v:胜过,超重,压倒,压迫,压垮
+overweight~n:超重,优势|v:超重
+overwhelm~v:淹没,压倒,覆盖,制服,压垮,倾覆,推翻,压服
+overwhelmed by grief~a:肝肠寸断
+overwhelmed with joy~a:乐不可支
+overwhelming force~n:压力,破竹之势
+overwhelmingly ambitious~a:野心勃勃
+overwinter~v:过冬
+overwork~n:加班
+overworked~v:劳累,劳乏
+oviduct~n:输卵管
+oviparity~n:卵生|a:卵生
+oviparous~a:卵生
+oviposit~v:产卵
+oviposition~v:产卵|n:产卵
+ovolecithin~n:卵磷脂
+ovoviviparity~n:卵胎生
+ovrm~n:卵子
+ovulate~v:排卵
+ovulation~n:排卵
+ovule~n:胚珠,卵细胞
+ovum~n:卵,卵子,卵细胞
+owe~v:欠,短欠,短
+owe a debt~v:欠债
+owe to~v:托,由于
+owen~n:欧文
+owenk~n:鄂温克
+owing~a:由于
+owing to~p:多亏,因为,由于
+owl~n:猫头鹰,夜猫子,鸱|v:走私
+owler~n:走私者
+owlet~n:鸺鹠,枭,猫头鹰
+owl-light~n:薄暮
+own~v:有,承认,拥有,所有,占有|a:负
+own country~n:本国
+own profession~n:本行
+own to~v:承认
+own up~v:供,坦白,招
+owned by all~a:共有
+owner~n:主人,业主,所有者,物主,主,失主,货主,东
+owner of cargo~n:货主
+owner-farmer~n:自耕农
+owner-occupier~n:业主
+owner-peasant~n:自耕农
+ownership~n:所有权,所有制,所有
+ownership right~n:股权
+owning rate~n:拥政爱民
+ox~n:牛,公牛,黄牛
+ox cart~n:牛车
+ox hide gelatin~n:黄明胶
+oxalate~n:草酸
+oxalic acid~n:乙二酸
+oxbow~n:河套
+oxcart~n:牛车
+oxen~n:牛,公牛
+oxen for meat~n:肉牛
+oxfence~n:牛栏
+oxford~n:牛津
+oxhair~n:牛毛
+oxhead~n:傻人
+oxherd~n:牛郎,牛倌
+oxhide~n:牛皮
+oxhorn~n:酒杯
+oxidant~n:氧化剂
+oxidate~n:氧化物|v:氧化
+oxidation~n:氧化
+oxide~n:氧化物,氧化|v:氧化
+oxiding flame~n:氧化焰
+oxidize~v:氧化,生锈
+oxidizer~n:氧化剂
+oxidizing agent~n:氧化剂
+oxidizing material~n:氧化物
+oxidizing substance~n:氧化剂
+oxidosis~n:酸中毒
+oxime~n:肟
+oxlip~n:樱草
+oxyacetylene metal-cutting~n:氧割
+oxyde~n:氧化物
+oxydizing enzyme~n:氧化酶
+oxygen~n:氧,氧气
+oxygen content~n:含氧量
+oxygen deficit~n:缺氧
+oxygen gas~n:氧气
+oxygen lack~n:缺氧
+oxygen therapy~n:供氧
+oxygenant~n:氧化剂
+oxygenateation~n:氧化
+oxygenation~n:氧化
+oxygenize~v:氧化
+oxyhydrogen blowpipe~n:氢氧吹管
+oxyphorase~n:血红蛋白
+oxytocin~n:生化,催产素
+oyer~n:审判
+oyster~n:牡蛎,海蛎子,蚝,蚝油
+oyster nut~n:油渣果
+ozocerite~n:石蜡
+ozone~n:臭氧
+ozone-gas~n:臭氧
+ozonosphere~n:臭氧层
+ozostomia~n:口臭

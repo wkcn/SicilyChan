@@ -1,36 +1,9 @@
-#ifndef SICILY_H
+﻿#ifndef SICILY_H
 #define SICILY_H
 
 #include "Defines.h"
-//#include "trans.h"
-class Trans : public QThread
-{
-    Q_OBJECT
+#include "Trans.h"
 
-public:
-    Trans();
-    ~Trans();
-private:
-    string res;
-    string ori;
-    string cstr;
-
-    PyObject *pTransModule;
-    PyObject *Translate;
-    //之前用py出现乱码的原因，没有将字符串转str!还要encodeutf8!
-
-    void PyTrans(string text,bool eng);
-protected:
-    void run();
-
-public:
-
-    void Set(const string &text);
-    string Get();
-    string GerOrigin();
-    volatile bool ing;
-    volatile bool finished;
-};
 
 
 namespace Ui {
@@ -60,7 +33,6 @@ private:
 
     int boxLife;
     string sText;
-    int zhOccupy;
 
     int sicilyPosY;
 
@@ -69,9 +41,9 @@ private:
 
     int freezeTime;
 
-    int comboRightButton;
-    int comboLeftButton;
-    int comboMiddleButton;
+    //int comboRightButton;
+    //int comboLeftButton;
+    //int comboMiddleButton;
 
     float wingID;
 
@@ -99,6 +71,7 @@ private:
     void mousePressEvent(QMouseEvent *);
     void mouseMoveEvent(QMouseEvent *);
     void mouseReleaseEvent(QMouseEvent *);
+    bool mouseSeq(int seq);//鼠标序列
     void Restart();
     void SaveData();
     void LoadData();

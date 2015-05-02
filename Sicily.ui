@@ -36,7 +36,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>sicily.ico</normaloff>sicily.ico</iconset>
+    <normaloff>Sicily.ico</normaloff>Sicily.ico</iconset>
   </property>
   <property name="windowOpacity">
    <double>1.000000000000000</double>

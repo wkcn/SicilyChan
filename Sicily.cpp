@@ -1,4 +1,4 @@
-#include "Sicily.h"
+﻿#include "Sicily.h"
 #include "ui_Sicily.h"
 
 
@@ -29,11 +29,11 @@ Sicily::Sicily(QWidget *parent):QMainWindow(parent,WINDOW_FLAG_TOPHINT),ui(new U
 
 void Sicily::ReadResource(){
 
-    QPixmap pix = QPixmap(GetFileDir("sicily.png"));
+    QPixmap pix = QPixmap(GetQDir("Pic\\sicily.png"));
 
-    chatBoxPic[0] = QPixmap(GetFileDir("chat0.png")); //top
-    chatBoxPic[1] = QPixmap(GetFileDir("chat1.png"));
-    chatBoxPic[2] = QPixmap(GetFileDir("chat2.png"));
+    chatBoxPic[0] = QPixmap(GetQDir("Pic\\chat0.png")); //top
+    chatBoxPic[1] = QPixmap(GetQDir("Pic\\chat1.png"));
+    chatBoxPic[2] = QPixmap(GetQDir("Pic\\chat2.png"));
 
     sbody = pix.copy(0,0,300,450);
     //this->setMask(sbody.mask());
@@ -41,8 +41,8 @@ void Sicily::ReadResource(){
     for (int i = 0; i < 3; i++)
         sface[i] = pix.copy(300 * (i + 1), 0, 300, 450);
 
-    wings[0] = QPixmap(GetFileDir("leftWing.png"));
-    wings[1] = QPixmap(GetFileDir("rightWing.png"));
+    wings[0] = QPixmap(GetQDir("Pic\\leftWing.png"));
+    wings[1] = QPixmap(GetQDir("Pic\\rightWing.png"));
 
     ui->sicily->setPixmap(sbody);
     ui->eye->setPixmap(sface[0]);
@@ -51,9 +51,18 @@ void Sicily::ReadResource(){
 void Sicily::ReadModules(){
     Py_Initialize();
 
+    if(!Py_IsInitialized()){
+        ErrorSend("初始化Python失败啦");
+        return;
+    }
+
     PyRun_SimpleString("import sys");
     PyRun_SimpleString("reload(sys)");
     PyRun_SimpleString("sys.path.append('./')");
+    string setPath = "sys.path.append('";
+    setPath += GetDataDir("Data");
+    setPath += "')";
+    PyRun_SimpleString(setPath.c_str());
     PyRun_SimpleString("sys.setdefaultencoding('utf-8')");
 
 
@@ -63,16 +72,20 @@ void Sicily::ReadModules(){
     //检测0就好了
     if(pDragModule == 0){
         ErrorSend("打开Python失败啦");
+        return;
     }
     else{
-
-
         Drag = PyObject_GetAttrString(pDragModule, "Drag");
         //ADrag = PyObject_GetAttrString(pTransModule, "ADrag");
-        if(!Drag){
+        if(!Drag || !PyCallable_Check(Drag)){
             ErrorSend("拖拽模块出问题了");
+            return;
         }
     }
+    //if(!trans.pycan){
+    //    ErrorSend("不会翻译了呜~");
+    //    return;
+    //}
 }
 
 void Sicily::FixPos(int h){
@@ -100,8 +113,6 @@ void Sicily::InitData(){
     deskWidth = deskRect.width();
     deskHeight = deskRect.height();
 
-    zhOccupy = string("我").size();
-
     //这样分配窗口吧，先分配Sicily酱的位置 450*300
     //剩余的是chatBox大小
     this->move(deskWidth - 300,deskHeight-450);
@@ -116,9 +127,9 @@ void Sicily::InitData(){
 
     freezeTime = 0;
 
-    comboLeftButton = 0;
-    comboRightButton = 0;
-    comboMiddleButton = 0;
+    //comboLeftButton = 0;
+    //comboRightButton = 0;
+    //comboMiddleButton = 0;
 
     ox = (this->pos()).x();
     oy = (this->pos()).y();
@@ -188,7 +199,8 @@ void Sicily::UpdateButton(){
     static int lastSleepTime = 0,lastWakeTime = 0;
     if(!sleeped && mouseCount == 3){
         //左右右
-        if(mouseList[0] && !mouseList[1] && !mouseList[2]){
+        //qDebug("ewa");
+        if (mouseList[0] && !mouseList[1] && !mouseList[2]){
             sleeped = true;
             sleepTime = time(0);
             freezeTime = 0;
@@ -202,7 +214,7 @@ void Sicily::UpdateButton(){
 
 
     //top or bottom
-    if(mouseCount == 2 && !mouseList[0] && !mouseList[1]){
+    if (mouseCount == 2 && !mouseList[0] && !mouseList[1]){
         static bool topHint = true;
         topHint = !topHint;
         SwitchHint(topHint);
@@ -210,7 +222,7 @@ void Sicily::UpdateButton(){
     }
 
     //REPEAT SAY
-    if(mouseCount == 2 && mouseList[0] && mouseList[1]){
+    if (mouseCount == 2 && mouseList[0] && mouseList[1]){
         SicilySay("",5,3);
         mouseCount = 0;
     }
@@ -238,9 +250,9 @@ void Sicily::UpdateButton(){
     //notice: clock() is different between Ubuntu and Windows!
     //clock()/ CLOCKS_PER_SEC
 
+    //qDebug("hha%d",GetClock() - mouseTime);
     if(GetClock() - mouseTime >= 400){
         mouseCount = 0;
-        //qDebug("hha%d",GetClock() - mouseTime);
     }
 
     int escapeTime = time(0) - lastTime;
@@ -298,7 +310,7 @@ void Sicily::UpdateButton(){
         //互动
 
         if(haveError){
-            SicilySay(errorMsg,5);
+            SicilySay(errorMsg,5,5);
         }
 
         if(true){
@@ -308,11 +320,35 @@ void Sicily::UpdateButton(){
             trans.Set(cstr);
         }
 
-        comboLeftButton = 0;
-        comboRightButton = 0;
-        comboMiddleButton = 0;
+        //comboLeftButton = 0;
+        //comboRightButton = 0;
+        //comboMiddleButton = 0;
     }
 
+}
+
+bool Sicily::mouseSeq(int seq){
+    int w = 1;
+    int js = 10;
+    while(seq > js){
+        w ++;
+        js *= 10;
+    }
+    //if seq = 112
+    // here,w=3,js=1000
+    //qDebug("%d %d %d",seq,w,mouseCount);
+    if(mouseCount == w){
+        //qDebug("()%d %d",w,seq);
+        for(int i=0;i<w;i++){
+            js /= 10;
+            int m = seq / js;
+            if(m == 1 && !mouseList[i])return false;
+            if(m == 2 && mouseList[i])return false;
+        }
+        mouseCount = 0;
+        return true;
+    }
+    return false;
 }
 
 void Sicily::timerUpDate(){
@@ -369,13 +405,13 @@ void Sicily::SicilySay(string text, int time, int freeze){
 }
 
 void Sicily::SaveData(){
-    ofstream fout("data.tmp");
+    ofstream fout(GetDataDir("data.tmp"));
     fout<<playTime<<" "<<lastTime;
     fout.close();
 }
 
 void Sicily::LoadData(){
-    ifstream fin("data.tmp");
+    ifstream fin(GetDataDir("data.tmp"));
     if(fin){
         fin>>playTime>>lastTime;
         //qDebug("LastTime:%d StartTime:%d NowTime:%d",lastTime,startTime,time(0));
@@ -416,7 +452,7 @@ void Sicily::mousePressEvent(QMouseEvent *event){
 
     if(event->button()==Qt::LeftButton){
         //qDebug("Left %d",clock()-mouseTime);
-        comboLeftButton ++;
+        //comboLeftButton ++;
         mouseList[mouseCount++] = true;
         //qDebug("mo%d",mouseCount);
         mouseTime = GetClock();
@@ -427,7 +463,7 @@ void Sicily::mousePressEvent(QMouseEvent *event){
     }
     else if(event->button()==Qt::RightButton){
         //qDebug("Right %d",clock()-mouseTime);
-        comboRightButton ++;
+        //comboRightButton ++;
         mouseList[mouseCount++] = false;
         mouseTime = GetClock();
         //this->update();
@@ -449,7 +485,7 @@ void Sicily::mousePressEvent(QMouseEvent *event){
         event->accept();
     }
     else if(event->button()==Qt::MiddleButton){
-        comboMiddleButton ++;
+        //comboMiddleButton ++;
         event->accept();
     }
 }
@@ -459,7 +495,12 @@ void Sicily::mouseReleaseEvent(QMouseEvent *event){
         int ax = (this->pos()).x() - ox;
         int ay = (this->pos()).y() - oy;
         char iii[] = "iii";
-        string res = PyString_AS_STRING(PyObject_CallFunction(Drag,iii,ax,ay,GetClock()-dragTime));
+        PyObject *pystr = PyObject_CallFunction(Drag,iii,ax,ay,GetClock()-dragTime);
+        string res;
+
+        if(pystr)// && PyCallable_Check(pystr))
+            res = PyString_AS_STRING(pystr);
+
         if(res != ""){
             SicilySay(res,3);
         }
@@ -496,17 +537,16 @@ void Sicily::paintEvent(QPaintEvent *){
     painter.begin(this);
 
     if (boxLife > 0 && sText.size() > 0){
-
         const int widthPerLine = 172;
 
         int lines = 0;
         bool nextline = true;
         vector<string> strList;
         //static string punc = " !@#$%^&*()-_+={}[]|:;'<>?,./\"";
-        int slen = sText.size();
+        size_t slen = sText.size();
 
         //a chinese equal two english
-        for(int i=0;i<slen;){
+        for(size_t i=0;i<slen;){
             if(sText[i] == '\n'){
                 nextline = true;
                 i ++;
@@ -523,7 +563,8 @@ void Sicily::paintEvent(QPaintEvent *){
             strList[lines - 1] += sText[i++];
 
             if(zh){
-                for(int q=1;q<zhOccupy;q++)
+                //UTF - 8 可变长字符
+                while((sText[i]&0xC0) == 0x80)
                     strList[lines - 1] += sText[i++];
             }
             if(GetStrWidth(strList[lines - 1]) >= widthPerLine){

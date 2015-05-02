@@ -1,0 +1,133 @@
+Keyword~Interpret
+zag~n:急弯,急变|v:急弯
+zaire~n:扎伊尔
+zambia~n:赞比亚
+zang language~n:藏语
+zang nationality~n:藏族
+zany~n:丑角,傻瓜,小丑
+zanzibar~n:桑给巴尔
+zaoyang~n:枣阳
+zaozhuang~n:枣庄
+zap~v:打败,砰,传送,弄死,除掉,攻击|n:生气,活力,精力,攻击|d:砰
+zapper~n:遥控器
+zareba~n:篱笆
+zeal~n:热情,热心,热忱,热诚,劲头,劲,奋发,奋起
+zealotry~n:热情,狂热
+zealous~a:热情,热心,热忱
+zebra~n:斑马,瘤牛
+zebra crossing~n:斑马线
+zebra-stripe~n:斑马线
+zebu~n:瘤牛
+zedoary~n:郁金
+zelkova schneideriana~n:榉
+zemindar~n:地主
+zen~n:禅宗
+zen sect~n:禅宗
+zenana~n:闺房,妇女
+zeng~n:曾
+zengmu reef~n:曾母暗沙
+zenith~n:全盛,顶点,极点,顶峰,绝顶,极盛,天穹
+zenithal~a:顶峰
+zephyr~n:微风,和风
+zero~n:零|a:○
+zero degree~n:零度
+zero end~n:零点
+zero point~n:零点
+zero position~n:零位
+zero sign~n:零
+zero tolerance~n:严惩不贷
+zero-frequency current~n:直流
+zest~n:热情,兴趣,风趣,热心,香料,风味,香味
+zesty taste~n:香味
+zetetic~a:探究
+zeus~n:宙斯
+zhai~n:翟
+zhan~n:詹
+zhang~n:张,丈
+zhang state~n:漳州
+zhangde~n:彰德
+zhanghe~n:漳河
+zhanghua~n:彰化
+zhangjiajie~n:张家界
+zhangjiakou~n:张家口
+zhangye~n:张掖
+zhanjiang~n:湛江
+zhao~n:赵,肇
+zhaoqing city~n:肇庆
+zhaoyuan county~n:肇源
+zhejiang~n:浙江
+zhen~n:甄
+zhenbao island~n:珍宝岛
+zheng~n:郑
+zhengzhou~n:郑州
+zhenjiang~n:镇江
+zhi river~n:芷江
+zhiguan period~n:贞观
+zhili~n:直隶
+zhong~n:钟
+zhongguancun~n:中关村
+zhongnan lake~n:中南海
+zhongshan city~n:中山
+zhongshan university~n:中山大学
+zhou~n:周
+zhu~n:朱
+zhuang~n:庄
+zhuang brocade~n:壮锦
+zhuang nationality~n:壮族
+zhuang opera~n:壮戏
+zhuangzi~n:庄子
+zhuge~n:诸葛
+zhuge liang~n:诸葛亮
+zhuhai~n:珠海
+zhuo~n:卓
+zhuo county~n:涿县
+zhuozhou city~n:涿州
+zibeline~a:黑貂
+zibet~n:灵猫
+zibeth~n:灵猫
+zibo~n:淄博
+zichuan~n:淄川
+zig~n:转变
+zig zag~n:急转弯
+zigong~n:自贡
+zigzag~a:曲折,蜿蜒,曲里拐弯,弯曲
+zigzag rule~n:折尺,曲尺
+zigzag ruler~n:折尺
+zigzagging~v:盘曲,盘陀|a:盘曲,盘陀
+zijin~n:紫金
+zilch~n:零,普通人,无,小人物,某某
+zillah~n:郡
+zillerite~n:石棉
+zillerthite~n:石棉
+zillionaire~n:亿万富翁
+zimbabwe~n:津
+zinc~n:锌,锌白
+zinc dust~n:锌粉
+zinc etching~n:锌版
+zinc oxide~n:锌白
+zinc plate~n:锌版
+zinc powder~n:锌粉
+zinc sulfate~n:硫酸锌
+zinc vitriol~n:硫酸锌
+zincic~a:锌
+zincite~n:红锌矿
+zincode~n:阳极
+zincograph~n:锌版
+zincoid~a:锌
+zincous~a:阳极,锌
+zing~n:热情,兴致,精力,活力,趣味
+zingy~a:激动
+zinnober~n:朱砂
+zion~n:天堂,犹太人,天国
+zip~n:拉锁|v:压缩,逮捕,突进
+zip code~v:邮政编码
+zip fastener~v:拉链
+zip-top can~n:易拉罐
+zizhou~n:资州
+zolaism~n:自然主义
+zong~n:宗
+zongyang county~n:枞阳
+zoroastrianism~n:拜火教
+zou~n:邹
+zunyi~n:遵义
+zurich~n:苏黎世

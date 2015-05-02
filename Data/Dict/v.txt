@@ -1,0 +1,1264 @@
+v~n:保险箱
+vacancy~n:空缺,缺额,缺,空额,空,空间,空位,阙,无所事事,遗缺,空房,空虚,闲暇,心不在焉,空地,出神,空隙,缺略
+vacant~a:空,茫然,空虚,惘然若失
+vacant hole~n:空穴
+vacant position~n:空缺,空位
+vacant room~n:空房
+vacant site~n:空位
+vacant space~n:虚空
+vacantly~d:茫然
+vacate~v:辞职,腾出,腾,休假,退出,解除,空
+vacation~n:假期|v:放假
+vacation school~n:讲习会
+vaccin~n:菌苗,疫苗
+vaccinal~a:疫苗
+vaccinate~v:接种,种牛痘,种痘
+vaccination~n:接种,种痘,预防注射|v:种痘
+vaccine~n:疫苗,牛痘苗,痘苗,苗|a:疫苗
+vaccine pustule~n:牛痘
+vaccinia~n:牛痘
+vaccinum~n:菌苗,疫苗
+vacillate~v:优柔寡断,游移,振荡,动摇,波动,摇摆
+vacillating~a:踌躇,犹豫
+vacillation~n:优柔寡断,犹豫不决,波动,振荡,摇摆,踌躇
+vacuity~n:无所事事,真空,空隙,空
+vacuo~n:真空
+vacuole~n:液泡
+vacuous~a:空,真空
+vacuum~n:真空,空虚|a:真空
+vacuum bottle~n:保温瓶
+vacuum flask~n:保温瓶,热水瓶
+vacuum pump~n:真空泵
+vacuum sweeper~n:吸尘器
+vacuum valve~n:真空管
+vademecum~n:手册
+vagabond~n:无赖,流氓|a:流浪,漂泊|v:流浪
+vagabondage~n:流浪
+vagabondism~n:流浪
+vagary~n:异想天开,妄想,变幻莫测,幻想
+vagina~n:阴道,膣,阴沟,鞘,叶鞘
+vaginal~a:叶鞘
+vaginal orifice~n:产门
+vaginitis~n:阴道炎
+vagrancy~n:流浪,漂泊,变幻无常,离题
+vagrant~n:游民,流浪者,无赖,流氓
+vague~a:含糊,笼统,模模糊糊,隐晦|n:迷走神经|v:闪烁
+vague aching~n:酸疼
+vague generalization~n:一般化
+vaguely~d:依稀,影影绰绰
+vagueness~n:含糊
+vagus~n:迷走神经,交感神经
+vagus nerve~n:交感神经
+vail~v:脱帽,脱,低下,低头|n:贿赂,赏钱
+vain~a:浮华,空头,谿
+vain glory~n:虚荣
+vain hope~n:妄想
+vain shot~n:空炮
+vainglorious~a:自负
+vainglory~n:虚荣心,虚荣,自负
+vainly~d:白白
+vainly hope~v:妄想
+vainness~n:自夸,虚荣,无益
+val~n:克当量
+vale~n:谷,峪,沟|i:再见
+vale of years~n:老境
+valediction~n:告别,辞别
+valedictory~a:告别,辞别
+valence~n:价,化合价,原子价,结合|v:结合
+valence of atoms~n:原子价
+valency~n:原子价
+valentine~n:情人,对象
+valentine day~n:情人节
+valentinite~n:锑华
+valet~n:男仆,随从|v:侍候
+valetudinarianism~n:体弱多病
+valiant~a:英勇,勇敢,雄赳赳,骁勇,猛,赳赳,强悍,飒爽,英武,勇武|n:英烈
+valiant general~n:猛将
+valiant record~n:丰功伟绩
+valiantly~d:雄赳赳
+valib~n:有效
+valid~a:有效,正确,正当,确实
+validate~v:确认,确证,证实,批准
+validation~n:有效
+validity~n:有效,正确,妥当,效力,真确,合法性,正当
+valise~n:背包,旅行袋,提包
+valitin~n:凡立丁呢
+valium~n:安定
+vallation~n:堡垒
+vallecula~n:谷,溪,沟,窝
+valley~n:山谷,谷,谷地,流域,崖谷,山洼,峪,波谷,山沟,山窝,低谷
+valley bottom~n:谷地,谷底
+valley flat~n:河漫滩
+valley floor~n:谷底,谷地
+vallum~n:壁垒,睫毛,阵营
+valor~n:英勇,勇猛
+valorous~a:无畏,勇猛
+valour~n:英勇,勇猛
+valuable~a:宝贵,贵重,珍贵,值钱,可贵,贵
+valuable advice~n:金口玉言
+valuable curios~n:珍玩
+valuable results~n:结晶
+valuableness~n:昂贵
+valuables~n:财
+valuate~v:鉴定,评价,估价
+valuation~n:估价,价值,评价,赋值|v:计价
+value~n:值,价值,数值,价格,意义|v:估量|d:尚
+value every minute~n:一刻千金
+value field~n:值域
+value highly~v:珍重,珍,惜
+value of sales~n:销售额
+value-added~a:附加值|n:增值
+valued~a:重要,宝贵,贵重
+valuta~n:币值
+valve~n:阀门,阀,真空管,瓣膜,管,电子管,活门,截门,门,裂片,管子,活瓣,灯,瓣,豆瓣
+valve inside~n:气门心
+valvular~a:活门
+vamp~v:拼凑,修补,翻新,捏造,添补|n:补钉
+vamp up~v:添补
+vampire~n:吸血鬼
+van~n:囚车,先锋,家具,翼,大篷车,领袖,前卫,前列,领导人,范,前驱,先驱,行李车|v:选
+vanadium~n:钒
+vanatic~n:游民
+vance~n:万斯
+vancouver~n:温哥华
+vandalize~v:破坏
+vandyke brown~n:深褐色
+vane~n:风向标,叶片,叶轮,翼,文
+vanguard~n:先锋,前锋,先锋队,前卫,前茅,尖兵,先驱,领导者
+vanilla~n:香草
+vanillin~n:香草醛
+vanish~v:消失,绝迹,消,消散,没,消逝,隐没,杳无踪迹,泯,消灭,泯没,溜掉,泯灭,隐退,涣,冰释
+vanished into nothingness~a:化为乌有
+vanishing cream~n:雪花膏
+vanity~n:虚荣心,虚荣,自负,空虚,自大,梳妆台,无用,假大空|a:虚荣
+vanity case~n:梳妆盒
+vanity fair~n:名利场
+vanquish~v:击败,克服,征服,降伏,抑制,战胜|n:击败,征服
+vanquish the enemy~v:克敌制胜
+vanquisher~n:胜利者
+vantage~n:获利,优势,利益
+vantage ground~n:上风
+vantage-point~n:上风
+vanward~a:先锋,领导|d:向前
+vapid~a:乏味,平淡
+vapidity~n:乏味,无味,走味,平淡
+vapor~n:蒸气,蒸汽,水汽,雾气,烟雾,烟,汽|v:蒸发
+vapor lamp~n:汽灯
+vaporing~n:蒸发
+vaporisationzation~n:蒸发
+vaporise~v:蒸发
+vaporiseize~v:蒸发
+vaporiser~n:汽化器,喷雾器
+vaporization~n:汽化,气化
+vaporize~v:蒸发,汽化,气化,散失
+vaporizer~n:喷雾器,汽化器
+vapors~n:废气,烟雾
+vapory~a:烟雾
+vapour~n:水汽,雾,烟,空想,雾气,自大|v:吹牛,挥发,自夸
+vapours~n:烟雾
+varec~n:海草
+varech~n:海草
+varek~n:海藻
+varia~n:混合物
+variability~n:变异性,无常,易变
+variable~a:无常,易变|n:变数,变星
+variable motion~n:变速运动
+variable quantity~n:变量
+variable speed~n:变速
+variable star~n:变星
+variables~n:变数
+variance~n:不和,偏差,变化,变量,冲突,变更,离散,相异,变动,争论
+variant~n:变量,变形,异体|a:不同
+variant form~n:异体
+variant name~n:异名
+variate~n:变量
+variation~n:变化,变异,变动,变奏曲,变种,变量,演变,调整,偏差,异体|v:调整
+variational~a:变化
+variator~n:变速器
+varicella~n:水痘
+varicolored~a:杂色,五颜六色|n:杂色
+varicoloured~a:五颜六色
+varicosis~n:静脉曲张
+varicosity~n:静脉曲张
+varied~a:多变,多种多样,杂,多样,花花搭搭,各种各样
+variegated~a:斑驳,花|n:杂色
+variegated carp~n:鳙,胖头鱼,花鲢
+variegated colour~n:彩
+variegation~a:花斑,杂色|n:花斑,上色
+varieties of trees~n:树种
+variety~n:品种,变种,种,种类,变化,多样化,花样,多样性,项目,变形,名堂,彩,异体,杂凑
+variety shop~n:百货店
+variety show~n:杂耍
+variohm~n:变阻器
+variola~n:天花,痘疮
+variorum~n:集注
+various~a:各种,各,各种各样,多种,多方面|r:各|n:各式各样
+various ideas~n:众说
+various interpretation~n:歧义
+various interpretations~n:歧义
+various kinds~n:各样
+various opinions~n:杂说
+various places~n:各地
+variousness~n:多样性
+varix~n:静脉曲张
+varlet~n:无赖,歹徒,跟班
+varletry~n:乌合之众,走卒
+varmint~n:淘气鬼,歹徒,害兽
+varnish~n:清漆,漆|v:掩饰,粉饰,文饰,美化
+varnish errors~n:文过饰非
+varnish tree~n:漆树
+varnished~a:油光
+varvity~n:纹理
+vary~v:变化,不同,改变,不等,变换,多样化,可变,不一,变异,变化多端,违背,相异,变更,修改
+vary slightly~v:略有出入
+varying velocity~n:变速
+vas~n:血管,导管,脉管
+vascular~a:血管,导管
+vascular strand~n:维管束
+vasculum~n:阴茎
+vase~n:花瓶,瓶,瓷瓶,水瓮,瓿
+vaseline~n:凡士林,矿脂
+vaselinum~n:凡士林
+vassal~n:部属,诸侯,附庸,奴隶
+vassal state~n:藩,属国,藩国
+vassalage~n:效忠,领地
+vast~a:辽阔,大量,广大,巨大,广阔,无垠,茫茫,无边,浩瀚,无边无际,无际,宏大,苍茫,褒,宽旷|n:大海,汪洋|v:无限
+vast difference~n:天渊之别
+vast field~n:莽原
+vast majority~n:大多数
+vast sums~n:巨款
+vast wealth~n:万贯家财
+vastitude~n:广度,广阔
+vastly white~a:白茫茫,白蒙蒙
+vastness~n:巨大
+vasty~a:巨大
+vat~n:缸,染缸
+vatalize~v:振兴
+vatic~a:预言
+vatican~n:梵蒂冈
+vaticinal~a:预言
+vaticinate~v:预言,预告
+vaticination~n:预言
+vatting~v:还原
+vaude~n:杂耍
+vaudeville~n:杂耍
+vaulling box~n:跳箱
+vault~n:金库,墓穴,拱顶|v:跃居,跳跃
+vault into prominence~n:一举成名
+vaulted~a:穹形|n:拱形
+vaulting box~n:跳箱
+vaulting horse~n:拱柱
+vaulting shaft~n:拱柱
+vaunt~v:自夸,宣扬,自吹自擂,夸张|n:自负,自夸
+vaunt courier~v:先驱
+vaunting~a:吹嘘
+vcd~n:影碟机
+vcr~n:录像机
+vealer~n:犊
+vector~n:矢量,向量,带菌者,幅,航向
+vector quantity~n:向量
+vectorgraph~n:立体电影
+vectoring~v:引导
+vedette~n:哨兵
+veeno~n:酒
+veer~v:改变,转变,放出,放松
+veer about~v:横冲直撞
+veer round to~v:转变,改变
+veg~n:蔬菜
+vega~n:织女星,织女
+vegetable~n:蔬菜,菜,植物,素
+vegetable bed~n:菜畦
+vegetable dish~n:素菜
+vegetable farm~n:菜园
+vegetable garden~n:菜畦,菜园子,菜圃
+vegetable gelatin~n:琼脂
+vegetable glue~n:树胶
+vegetable grower~n:菜农
+vegetable market~n:菜市
+vegetable marrow~n:西葫芦
+vegetable oil~n:菜油
+vegetable plate~n:素菜
+vegetable seeds~n:菜籽
+vegetable soup~n:菜汤
+vegetable sponge~n:丝瓜
+vegetables~n:蔬菜,菜蔬
+vegetal~a:植物,蔬菜
+vegetarian~n:食草动物
+vegetarian diet~n:斋
+vegetarian feast~n:素酒
+vegetarian food~n:斋饭,素菜
+vegetarian meal~n:素餐
+vegetarianism~n:素食
+vegetate~v:结晶,流出,增殖,生长,长大|n:结晶
+vegetation~n:植被,植物,草木,覆盖,发育|v:覆盖
+vegetative~a:植物,蔬菜,无所作为|v:无所作为
+vegetative cover~n:植被
+veggie~n:蔬菜
+veggies~n:蔬菜
+vehemence~n:热烈,热心,激烈,猛烈
+vehement~a:强烈,激烈,猛烈,激昂慷慨,激切|v:激切
+vehemently~d:强烈
+vehicle~n:车辆,飞行器,车,交通工具,媒介,车子,飞船,轱,媒质
+vehicle owner~n:车主
+vehicle wheel~n:车轮
+vehicular~a:车
+veil~n:面纱,面罩,幕,烟幕|v:弥漫,隐匿,遮盖
+veiled~a:含蓄|n:隐藏
+veiled criticism~n:微词,微辞
+veiling~n:面纱,帐幔|v:遮蔽
+vein~n:静脉,血管,矿脉,脉,性格,叶脉,筋络,毛刺,倾向,裂缝,情绪,射流,性情,翅脉,裂痕,纹理,风格,筋,气质,心境
+veins~n:纹理
+velamen~n:帆,膜
+velar~n:舌根音,舌面后音
+veld~n:草原
+velitation~n:争论
+vellicate~v:抽动,跳动,扯
+vellication~n:抽筋,抽动,痉挛
+velocipede~n:自行车
+velocity~n:速度,速,速率,迅速
+velocity of escape~n:脱离速度
+velocity of sound~n:声速
+velocity package~n:加速器
+velocity ratio~n:速比
+velograph~n:速度计
+velometer~n:速度计
+velour~n:毛皮,丝绒,天鹅绒,棉绒
+velours~n:毛皮,棉绒,天鹅绒,丝绒
+velum~n:帆,软腭,膜
+velure~n:天鹅绒
+velutum~n:天鹅绒,丝绒
+velvet~n:天鹅绒,丝绒,平绒,赚头
+velvet flowers birds~n:绒花
+velvet glove~n:外圆内方
+velveteen~n:平绒,棉绒
+velvety~a:软绵绵
+vemous~n:旋涡
+vena cave~n:大静脉
+venae~n:静脉
+venal~a:贪污|v:贪
+venality~n:见利忘义,贪财,贪污,受贿
+venation~n:纹理,脉络,翅脉
+vend~v:出售,鬻,卖,粥,发表,贩卖,叫卖
+vendee~n:买主,买方
+vender~n:卖方
+vending machine~n:售货机
+vendition~n:销售,出售,卖
+vendor~n:小贩,卖方,卖主
+vendor's stand~n:摊子
+veneer~n:胶合板,镶板|v:粉饰,胶合
+veneer board~n:胶合板
+veneer sheet~n:胶合板
+venenation~n:中毒
+venerability~n:尊敬
+venerable elder~n:长者
+venerate~v:崇拜,尊敬,尊,尊崇,钦仰,敬慕,敬仰
+venerated old people~n:耆宿
+venerated old person~n:耆宿
+veneration~n:尊崇,崇拜,尊敬
+venereal~a:性交,性病
+venereal disease~n:性病,花柳病
+venereology~n:性病学
+venery~n:性欲,性交|v:性交
+venesection~n:放血
+venetian~n:威尼斯
+venezuela~n:委内瑞拉
+vengeance~n:复仇,报仇,报复
+venice~n:威尼斯
+venison~n:鹿肉,野味
+venom~n:恶毒,毒汁,怨恨,毒,毒物,恶意,诽谤|v:放毒
+venomous~a:有毒,恶意,狠毒,险,刻毒|v:有毒
+venomous plot~n:毒计
+venomous scheme~n:毒计
+venomous snake~n:毒蛇
+venomously slander~v:含血喷人,血口喷人
+venomousness~n:有毒
+venous~a:静脉,脉络
+vent~n:发泄|v:排气,发出,泄露,放出,吐露,泄漏
+vent anger on~n:迁怒
+vent one~v:出气
+vent ones grievances~v:诉苦
+vent one's grievances~v:诉苦
+vent one's hatred~v:解恨
+vent one's resentment~v:泄愤
+vent one's spleen~v:出气,解气,闹脾气
+vent pipe~n:通风管
+ventage~n:出口,孔隙,发泄
+venter~n:腹面,腹部,母
+ventiduct~n:通风管
+ventilate~v:通风,通气,透风,透气,排气,发表,换气,发泄,宣布
+ventilated~v:透风
+ventilation~n:通风|v:通风
+ventilation door~n:风门
+ventilation leakage~n:漏风
+ventilation tower~n:气楼
+ventilative~a:通气
+ventilator~n:风箱,气窗,通风管,气孔,通风机,换气扇,风扇
+vent-pipe~n:通风管
+ventral~a:腹,腹鳍|n:腹鳍
+ventral fin~n:腹鳍
+ventricle~n:心室,室,脑室
+ventricles~n:心室
+ventricular~a:室
+ventriculus~n:胃
+ventriloquism~n:口技
+ventriloquy~n:口技
+ventroptosis~n:胃下垂
+venture~v:敢,冒昧|n:冒险|a:冒昧
+venture on~v:冒险
+venturesome~a:大胆
+venturesomely~d:斗胆
+venturous~a:大胆
+venue~n:场地
+venule~n:支脉
+venus~n:维纳斯,色情,长庚,美人,爱神,启明,性爱,美女
+venushair~n:铁线蕨
+venus's shell~n:宝贝
+veracious~a:诚实
+veracity~n:诚实,确实,正确,真实
+veranda~n:走廊,阳台,游廊,廊子,露台,晾台,凉台
+verandah~n:游廊,阳台,走廊
+verb~n:动词
+verbal~a:口头,词句|n:言语
+verbal evidence~n:证言
+verbalism~n:措词,咬文嚼字
+verbally~d:口头
+verbatim~d:逐字
+verbatim et literatim~n:逐字逐句
+verberation~v:打击
+verbiage~n:冗词,措辞,冗长,饾饤
+verbose~a:罗嗦,冗赘,詹,累赘,繁芜
+verbose writings~n:冗词赘句
+verbosity~n:冗长,赘言,冗赘
+verdancy~n:嫩绿,单纯,无知,幼稚
+verdant~a:苍翠,青翠,葱绿,翠绿,嫩绿,生疏,青葱,葱茏,葱郁
+verdant green~n:嫩绿
+verde~n:佛得角
+verdelite~n:电气石
+verdict~n:裁决,决定,判断,结论,意见,冤狱,谳,定案
+verdigris~n:铜绿
+verdolaga~n:马齿苋
+verdure~n:青翠,生气,繁盛,青绿,新鲜
+verein~n:协会,社,组,公会,联盟
+verelite~n:聚苯乙烯
+verge~n:边缘|v:逼近,濒临
+verge on~n:濒于,接近
+verge upon~n:接近,濒于
+vergence~v:转向
+veridical~a:诚实
+veriest~a:十足,绝对
+verification~n:验证,证明,确定,证据,证实,校验|v:鉴定,核对,证实,验证,检验
+verified~a:凿凿|v:凿凿
+verify~v:证实,验证,校验,检验,核实,证明,校准,考,对证,稽考,证验,查证,探明,查对|n:证
+verifying~v:核对
+verisimilar~a:可能
+verisimilitude~n:逼真,可能性
+veritable~a:真正,确实
+veritas~n:真理
+verity~n:真理,真实
+verjuice~n:乖戾
+verjuiced~a:酸
+vermeil~n:朱砂
+vermex~n:哌嗪
+vermicelli~n:挂面,粉丝
+vermiculation~n:蠕动
+vermiform appendix~n:阑尾
+vermiform process~n:阑尾
+vermifuge~n:驱虫剂
+vermilion~n:银朱,朱砂|a:朱红
+vermilion gate~n:朱门
+vermillion~n:朱砂,银朱
+vermin~n:歹徒,害虫,寄生虫,坏蛋,害鸟,蠹虫,害兽,害人虫
+verminous~a:害虫
+vermix~n:阑尾
+vernacular~n:土话,下流话,行话,白话,大白话,俗话,方言,口语
+vernacular chinese~n:白话
+vernacular literature~n:白话文学
+vernacularism~n:俗话,方言
+vernal~a:春天,和煦
+vernal equinox~n:春分点,春分
+vernalization~n:催芽
+vernalize~v:催芽
+vernatia~v:蜕皮
+vernier~n:游标
+vernier adjustment~n:微调
+vernierscale~n:游标
+verole~n:梅毒
+verruca~n:疣
+versailles~n:凡尔赛
+versant~n:斜面,坡度,山坡
+versatile~a:多才多艺|v:多才多艺
+versatile man~n:多面手
+versatility~n:多才多艺
+verse~n:诗,诗句,诗歌,韵文,诗篇,章
+verse dramas~n:传奇
+versed~a:反,熟练,精通
+versicle~n:短句
+versification~n:诗体
+versifier~n:诗人
+version~n:说法,版本,形式,译文,文本,译本,本,型,模型|v:执行
+verso~n:封底,封四,背面,反面|a:反面
+versus~p:对,相对,与_相对
+vert~n:绿色
+vertebea~n:椎骨
+vertebra~n:椎骨,脊椎,脊椎骨,脊,椎,脊骨
+vertebrae~n:脊
+vertebrae cervicales~n:颈椎
+vertebral~a:脊椎
+vertebrate~n:脊椎动物
+vertebrates~n:脊椎动物
+vertebration~n:脊椎
+vertex~n:顶点,顶,头顶,绝顶,极点
+vertical~a:垂直,直,竖,纵,铅直,立|n:纵向,垂线,垂直线,垂直面|v:竖,铅直
+vertical axis~n:纵轴
+vertical column~n:立柱
+vertical coordinates~n:纵坐标
+vertical face~n:垂直面
+vertical line~n:垂线,竖线
+vertical rudder~n:方向舵
+vertical section~n:纵剖面,纵切面
+vertical shaft~n:立柱,立轴
+vertical stroke~n:直,竖
+verticality~n:垂直
+verticilcel~n:环
+verticillium wilt~n:黄萎病
+vertiginous~a:旋转,眩晕
+vertigo~n:眩晕,头晕,眼花
+vertin~n:黄雀
+verve~n:生气,活力,热情,气势,气韵,神韵,才能
+very~d:很,非常,十分,大,极,太,真|a:生,绷,滚,精,煞,不得了|v:不得了,滚
+very anxious~a:焦灼
+very anxious to~a:恨不得
+very arrogant~a:目空一切
+very attentively~d:聚精会神
+very bad~a:恶劣
+very beautiful~a:花容月貌,天姿国色,国色天香
+very brief~a:短促
+very bright~a:融,贼亮
+very bright-minded~a:玲珑剔透
+very busy~a:应接不暇
+very careful~a:小心翼翼
+very clean~a:一清二白
+very clear~a:昭然
+very clearly shown~a:彰明较著
+very clear-sighted~a:洞若观火
+very clever~a:千伶百俐
+very close~a:间不容发
+very close by~a:咫尺之间
+very close friend~v:相知
+very cocky~a:神气活现
+very cold~a:天寒地冻
+very cold area~n:高寒区
+very common~a:触目皆是
+very complicated~a:错综复杂
+very dangerous~a:盲人瞎马
+very dark~a:黑咕隆冬,黑沉沉
+very dense~a:密密麻麻
+very dilapidated~a:百孔千疮
+very diligent~a:手不释卷
+very disorderly~a:杂乱无章
+very dull~a:萧条
+very early~a:老早
+very efficient~a:干净利落
+very eloquent~a:辩才无碍
+very energetic~a:精力充沛
+very familiar~a:耳熟能详
+very famous~a:鼎鼎大名
+very fast~a:急速,飞快,嘌
+very few~a:寥寥无几,无几,屈指可数
+very fierce~a:恶恶实实
+very firm~n:四平八稳
+very fortunate~a:万幸
+very frightened~a:不寒而栗,面无人色
+very fruitful~a:卓有成效
+very good~a:大好
+very great~a:浩大
+very happy~a:眉开眼笑
+very hard~a:硬邦邦
+very heavy~a:死沉
+very high frequency~n:甚高频
+very hot~a:烫
+very hot weather~v:盛暑
+very important person~n:要人
+very important persons~n:社会名流
+very impressive~a:赫赫有名,有声有色
+very indifferent~a:不怎么样
+very insignificant~a:微乎其微
+very interesting~n:饶有风趣
+very intimate~a:耳鬓厮磨
+very jealous~a:醋劲儿
+very large~a:硕大
+very light blue~v:葱白
+very likely~a:大半|d:大半
+very limited outlook~n:一孔之见
+very little~a:无几,半,寸
+very long~a:久久,老远,漫长,漫漫
+very low frequency~n:甚低频
+very lucky~a:天幸
+very much~a:良,倍儿,非常,殊
+very much alike~a:逼真
+very much bored~a:百无聊赖
+very much discouraged~a:心灰意懒
+very much enamored~a:含情脉脉,脉脉含情
+very obstinate~a:死硬
+very obvious~a:彰明较著
+very often~d:经常
+very oily~a:油晃晃
+very old~a:老态龙钟,耄,年事已高,耆
+very older~a:动辄
+very ordinary~a:平淡无奇
+very ornamental~a:花团锦簇
+very pale blue~v:月白
+very perceptive~a:耳聪目明
+very pleased~a:欢跃
+very poor~a:窘迫
+very popular~a:不胫而走
+very precarious~a:不绝如缕
+very probably~d:光景
+very profitable~a:一本万利
+very promising~n:头角峥嵘
+very quickly~d:霍地
+very quiet~a:静幽幽,静悄悄
+very rare~a:千载难逢
+very real~a:千真万确
+very reluctantly~d:忍痛
+very rich~a:腰缠万贯,万贯家财
+very rough sea~v:巨浪
+very round~a:滴溜儿,圆溜溜
+very sangrias~n:盲人瞎马
+very sharp~a:八面锋
+very short~a:寸
+very short time~v:一刹那,眨眼
+very shy~a:羞人答答
+very slowly~d:慢腾腾
+very small~a:小不点儿,芾,藐,渺小,眇
+very smooth~a:顺遂,溜光
+very smooth sea~v:微波
+very soon~d:俄,很快,俄顷
+very stiff~a:硬邦邦
+very stingy~a:一毛不拔,爱财如命
+very straight~a:笔挺
+very strange~a:千奇百怪
+very sweet~a:甜津津
+very tall~a:参天
+very tempered~a:火冒三丈
+very thin~a:稀溜溜,纤细
+very thirsty~a:焦渴
+very tight~a:紧巴巴
+very tired~a:人困马乏
+very touching~p:扣人心弦
+very ugly person~n:丑八怪
+very unexpectedly~d:从天而降
+very warm~a:热烘烘
+very wealthy~a:万贯家财
+very well-disposed indeed~a:四平八稳
+very witty~a:妙趣横生
+vesica~n:膀胱,胆囊,囊
+vesicate~v:糜烂
+vesication~n:糜烂
+vesicle~n:泡,囊,水疱
+vesicular germ~n:囊胚
+vesper~n:黄昏,长庚星,太白星,薄暮
+vesper tide~n:晚上,黄昏
+vespertide~n:黄昏,晚上
+vespertine~a:薄暮
+vespid~n:黄蜂,胡蜂
+vessel~n:船,容器,血管,船舶,器皿,导管,船只,舰,盛器,飞船,脉管,舟,管,皿
+vessels~n:船只,船,舟楫,管
+vest~n:背心|v:给与
+vest home~v:疗养院
+vestal~n:处女,修女|a:修女
+vestiary~n:衣帽间
+vestibular~a:门厅
+vestibule~n:前厅,前庭,门厅,门道
+vestibulum~n:门厅
+vestige~n:遗迹,痕迹,证据,残迹,迹,一点儿,足迹
+vestiges~n:残迹,残余
+vestigial~a:痕迹
+vestigium~n:遗迹
+vestment~n:法衣,外衣,礼服,衣服,制服
+vestpocket~n:袖珍
+vest-pocket~a:袖珍
+vesture~n:衣服,罩衣|v:覆盖,笼罩
+vesuvian~a:火山
+vet~v:治疗,检查|a:老练|n:兽医
+vetch~n:野豌豆,巢菜
+veteran~n:老兵,退伍军人,老将,老手,老资格,元老,复员军人,转业军人
+veteran cadre~n:老干部
+veteran player~n:老将
+veteran sportsman~n:老将
+veterinarian~n:兽医
+veterinary~n:兽医
+veterinary science~n:兽医学
+veto~n:禁止|v:禁止
+veto power~n:否决权
+vex~v:病,忧烦
+vex oneself~v:自寻烦恼
+vexation~n:烦恼,恼火,着急,生气,苦恼,心烦
+vexed~a:糟心,苦恼|v:争论不休
+vexillary~n:旗手
+vexillum~n:军旗
+vexing~a:烦人,烦恼
+via~p:通过,经,经过,途经,取道|n:管道,道,道路,路|v:取道
+viaduct~n:栈道,跨线桥,旱桥,高架桥
+viae~n:通路
+vial~n:玻璃瓶
+vial case~n:玻璃瓶
+vialog~n:计程仪
+viand~n:食物,佳肴,食品
+viands~n:食品
+viatic~a:道路
+viaticum~n:旅费
+vibes~v:颤动,摇摆,振动|n:颤动,摇摆,振动
+vibra~v:振动
+vibrance~n:振动,响亮,颤动,活跃|v:振动,响亮
+vibrancy~n:活跃,振动,响亮,颤动|v:振动
+vibrant~a:响亮,振动
+vibrate~v:振动,震动,颤动,摇动,摆动,震荡,颤,抖动,震撼,撼动,震
+vibrating sound~n:颤音
+vibration~n:振动,振荡,震动,摆动,颤动,震颤,激动,摇摆,犹豫|v:振荡,颤动,摇摆,振动,摆动
+vibration absorber~n:减震器
+vibration damper~n:减震器
+vibration pickup~n:拾音器
+vibrational~a:震动
+vibrative~a:振动
+vibrator~n:振荡器,簧
+vibratory~a:振动,震动
+vibrio~n:弧菌
+vibrissa~n:触须
+vibroshock~n:减震器
+vic~n:犯人
+vicar~n:教皇,两面派
+vicarious~a:代理,替代
+vice~n:恶习,老虎钳,毛病,恶,缺点,罪恶|p:代|a:恶
+vice general~v:副将
+vice versa~p:反过来
+vicegerency~n:代理权,摄政
+vicegerent~n:代理人
+vice-minister~n:次长
+viceregal~a:总督
+vicereine~n:出发
+viceroy~v:开始,着手|n:总督
+vicinage~n:邻舍,附近,邻近|v:开动
+vicinal~a:附近,邻近
+vicinity~n:附近,接近,周围,邻近,前后|v:接近
+vicinity to~n:接近,亲近
+vicious~a:凶恶,恶毒,恶性,邪恶,险,坠落,狠毒,歹,辣,险恶,歹毒,辣手
+vicious cycle~n:恶性循环
+vicious device~n:辣手
+vicious horse~n:劣马
+vicious intention~n:异心
+vicious plots~n:鬼蜮伎俩
+vicious remarks~n:恶言
+vicious talk~n:坏话
+viciousness~n:歹毒
+vicissitude~n:变迁,交替,变动,盛衰,兴衰,推移,变化
+vicissitudes~n:沧桑,变迁
+vicissitudinous~a:饱经沧桑
+victim~n:受害者,牺牲品,受害人,被害者,牺牲
+victimization~n:害人,牺牲|v:害人
+victimize~v:迫害,害,欺骗,穿孔,鱼肉,牺牲,穿透
+victor~n:胜利者
+victoria~n:维多利亚
+victorious~a:胜利,得胜,凯
+victorious battle~n:胜仗
+victoriously~d:取胜
+victoriousness~n:取胜
+victory~n:胜利,胜,战胜,胜仗,战果,捷|v:胜
+victual~n:剩饭,饮料,食物,粮食
+victuals~n:给养
+vide~v:参看,见
+videlicet~d:就是说,即
+video~n:电视,视频,影像|a:视频,电视
+video camera~n:摄影机
+video cassette recorder~n:录像机
+video disk~n:影碟
+video frequency~n:视频
+video phone~n:可视电话
+video picture~n:显像
+video recorder~n:录影机,录像机
+video tape~n:录像片,录像带
+video tape recorder~n:录像机
+video telephone~n:可视电话,电视电话
+videodisc~n:影碟
+video-disc~n:影碟
+videodisk~n:影碟
+videophone~n:电视电话,可视电话
+video-phone~n:电视电话
+videotape~n:录像带|v:录像
+vidicon~n:摄像机
+vidimus~n:摘要,检查
+vie~v:竞争,争,抢
+vie for~v:抢
+vie for power~v:逐鹿
+vie for superiority~v:争衡
+vienna~n:维也纳
+viet nam~n:越南
+vietnam~n:越南
+view~n:观点,看法,景色,意见,见解|v:揣度,检查,视察,看做
+view point~n:风景区
+view with disfavour~n:侧目而视
+viewer~n:观众
+viewfinder~n:反光镜
+viewing~v:观测,观看,检视,观察
+viewpoint~n:观点,看法,观念,视点,见解
+views~n:见解
+views on politics~n:言论
+viewy~a:空想
+vifrification~a:透明
+viga~n:椽
+vigil~n:守夜,值夜,熬夜
+vigilance~n:警惕,警戒,守夜|v:警觉
+vigilant~a:机警,警
+vignette~n:小品文,描述
+vigor~n:活力,魄力,精力,精神,血气,劲头,生气,朝气,劲,愣劲儿,锐,元气,干劲,魄
+vigor of style~n:风骨
+vigorous~a:有力,旺盛,强有力,强烈,朝气蓬勃,精神,蓬勃,神气,苍劲,积极,猛,猛烈,带劲,刚劲,虎虎,遒劲,奕奕,峭拔,武,茁壮,勃,刚健,盛,怒,起劲,勃勃,轰轰烈烈,能动|n:虎|v:盛
+vigorous atmosphere~n:活气
+vigorous growth~n:勃兴
+vigorous opponent~n:劲敌
+vigorously~d:力,起劲,强烈,大力,欢,勃然,冲|n:力
+vigour~n:劲,干劲,体力,元气,劲头,气力,强壮,锐,优势,气魄,魄,血气
+vigour of style~n:风骨
+vile~a:卑鄙,可耻,鬼
+vile creature~n:丑类,恶人
+vile spawn~n:孽障
+vilification~n:诽谤
+vilify~v:辱骂,谤,诬蔑,丑化,诽谤,攻击,中伤,贬低,污蔑,诋毁,诟骂
+vilipend~v:诬蔑,轻视,贬低
+villa~n:别墅,墅
+villadom~n:别墅
+village~n:村子,村庄,村,乡村,村落,农村,乡下,乡,乡间,村寨,农庄,屯落,小区,庄,群落,聚落,屯子,堡,庄子
+village bully~n:土棍
+village girl~n:村姑
+village god~n:土地
+village hamlet~n:村落
+village head~n:村长
+village history~n:村史
+village school~n:村塾
+villager~n:村民,乡民,乡下人,村夫
+villagers~n:乡亲
+villain~n:恶棍,坏蛋,反面人物,坏人,丑类,乡巴佬,凶徒,恶人,慝,小人
+villainous~a:坏人,缺德,恶棍,无行
+villains holding sway~d:小人得志
+villainy~n:邪恶,凶恶,卑劣,罪恶
+villatic~a:田园
+villus~n:绒毛
+vim~n:精力,力气,活力
+vimen~n:苗
+vinasse~n:酒糟
+vinculum~n:联结,联系,结合,纽带
+vindicate~v:维护,开脱,剖白,表白
+vindicate oneself~v:自白
+vindication~n:维护,辩白,辩护,辩解,证明
+vindictive~a:恶意,复仇
+vine~n:藤,缠绕茎,藤子,秧子,藤本植物
+vinegar~n:醋,醯,米醋,酢
+vinegar concentrate~n:醋精
+vinegar essence~n:醋精
+vinegary~a:酸
+vinery~n:葡萄园
+vineyard~n:葡萄园
+vino~n:酒,果酒
+vinosity~n:酒味
+vinous~a:酒
+vint~v:酿造
+vintage~n:酒
+vintage car~n:老爷车
+vintage shaoxing wine~n:陈绍
+vintage wine~n:名酒
+vintry~n:酒窖
+vinus~n:晨星
+vinylon~n:维尼纶
+viola~n:中提琴
+viola yedoensis~n:紫花地丁
+violate~v:违背,违犯,破坏,侵犯,违,违反,触犯,糟蹋,妨害,背,违拗,妨碍,强奸,仵,睽,侵害,侵入,牾,污辱,犯
+violate a ban~v:犯禁
+violate a taboo~v:犯忌
+violate a treaty~v:违约
+violate it knowingly~v:明知故犯
+violate the discipline~v:犯戒
+violate the regulations~v:违例
+violate the taboo~v:犯禁
+violate the tradition~v:犯忌
+violation~n:侵害,违反,侵犯,违背,犯规,违犯,违例,污辱,妨害,强奸
+violation of rules~n:犯规
+violence~n:暴力,猛烈,暴行,激烈,热烈,暴虐,歪曲,暴,窜改,侵害,伤害,曲解,烈度,强暴,强奸,违犯
+violent~a:猛烈,激烈,强烈,猛,粗暴,凶猛,暴烈,狂暴,急,怒,强暴,鸷|v:激
+violent in action~a:霸道
+violent storm~n:急风暴雨,狂风暴雨,暴风,疾风暴雨
+violent storms~n:急风暴雨
+violent tempered~v:暴戾恣睢
+violent tempered horse~n:烈马
+violent tiger~n:猛虎
+violent treachery~n:毒手
+violent upheavals~n:天下大乱
+violently~d:猛,横,大肆|a:横暴,横
+violently charge~v:猛冲
+violet~n:紫罗兰|a:紫
+violet ray~n:紫外线
+violin~n:小提琴
+violin instrument~n:小提琴
+violoncello~n:大提琴
+violone~n:低音提琴
+vip~n:达官贵人,大人物
+viper~n:蝰蛇,毒蛇
+viperine~a:毒蛇
+viperish~a:恶毒
+viperous~a:恶毒
+vips~n:达官贵人
+virago~n:悍妇,泼妇
+viral~a:病毒
+virescence~n:绿化
+virgation~n:分歧,分枝
+virgin~n:处女,黄花闺女,处子,室女,童女,黄花
+virgin land~n:处女地
+virgin maid~n:童女
+virgin soil~n:生荒地
+virginal~a:处女,纯洁
+virginia~n:弗吉尼亚
+virginia creeper~n:爬山虎
+virginity~n:贞操,贞,新鲜,童贞,纯洁
+virgo~n:室女
+virid~a:碧绿
+viridescence~n:青绿,淡绿,生气,新鲜
+viridian~a:翠绿
+viridity~n:生气,活力,新鲜,纯洁,翠绿色,碧绿,翠绿|a:碧绿
+virile~a:男,壮年,英武
+virilescence~n:男性化
+virilism~n:男性化
+virility~n:气魄,雄浑,成年,男子气,成人,年富力强
+virilize~v:男性化
+virilized~a:男性化
+virology~n:病毒学
+virtu~n:古玩,古董
+virtual~a:虚,实际上
+virtual courtesy~n:虚礼
+virtual image~n:虚象
+virtually~d:实际上,事实上,简直,无形中|a:无形
+virtually the same~n:大同小异
+virtue~n:美德,优点,德行,品德,长处,贞操,效力,效能,英勇,操守,德,价值,节操,功效,力
+virtuoso~n:大师,名家
+virtuous~a:善良,贤惠,贤慧|n:贤德
+virulence~n:刻毒,有毒,恶毒,毒性,恶意
+virulent~a:有毒
+viruology~n:病毒学
+virus~n:病毒,恶意,恶毒,毒害,毒素
+vis~n:活力
+visa~n:签证
+visage~n:脸,面貌,外表,面庞,面容,面目,脸色
+visatergo~n:推力
+vis-a-vis~p:与_相对,与_比较,比较,相对
+vis-à-vis~p:相对,比较,与_比较,与_相对
+viscera~n:脏器,内部,内容,内脏,脏,脏腑|a:脏
+visceral~a:内脏,体腔
+visceral organ~n:脏器
+viscidity~n:粘性
+viscose~n:粘胶
+viscose rayon~n:粘胶
+viscosity~n:粘度,粘性
+viscount~n:子爵,子
+viscous~a:粘,溏
+vise~n:台钳,虎钳
+visibility~n:能见度,可见度,明白,明显,显著
+visible~a:可见,在望,有形,明
+visible sound~n:电眼,示波器
+visibly~d:显然,明明白白
+vision~n:视力,幻想,视觉,幻象,远见,幻影,眼光,想象力,景象,眼力,目光,美景,姿态,显圣,想像力|v:显示,想像,想见
+visional~a:梦幻,幻想
+visionary~a:虚无缥缈,想象,空幻,梦幻|v:虚无缥缈|n:空想家
+visionary hope~n:泡影
+visionary plan~n:泡影
+visit~v:访问,参观,看,拜访,看望|n:拜会,巡视,往来,视察
+visit a class~v:听课
+visit a king~n:朝见
+visit a prisoner~v:探监
+visit brothels~v:寻花问柳
+visit classroom~v:听课
+visit different houses~v:串门儿
+visit each other~v:走动
+visit friends~v:探友
+visit grave~v:扫墓
+visit physiognomies~v:看相
+visit prostitutes~v:问柳寻花,嫖,冶游
+visit resorts~v:登临
+visit somebody~v:过访
+visit somebody's grave~v:上坟
+visit the relatives~v:探亲
+visitant~n:贵宾,来客,候鸟
+visitation~n:视察,报应|v:视察
+visitatorial~a:访问
+visiter~n:学监
+visiting~a:访问,视察
+visiting card~n:名帖,刺,片子
+visiting group~n:参观团
+visitor~n:客人,游客,来宾,来客,客,游人,学监,宾客,检查员
+visitorial~a:访问
+visor~n:帽舌,遮阳,面罩|v:遮阳
+vista~n:前景,展望
+vistatorial~a:视察
+visual~a:视觉,可见,目视,看
+visual angle~n:视角
+visual chart~n:视力表
+visual hallucination~n:幻视
+visual measurement~n:目测
+visual purple~n:视紫质
+visual table~n:目力表
+visualisationzation~n:形象,显现,想像
+visualization~n:形象,目测,显像
+visualize~v:想象,显现,构想
+visualizeise~v:显现,想像
+visually~d:有目共睹
+visus~n:视力,视觉
+vita~n:生命,生存,传记|v:生存
+vital~a:生命,致命,紧要,活力,生机
+vital capacity~n:肺活量
+vital centres~n:重地
+vital energy~n:气,正气
+vital link~n:节骨眼
+vital organs~n:五脏六腑
+vital part~n:腹心
+vital point~n:枢纽
+vital statistics~n:统计
+vitality~n:活力,生命力,元气,生气,体力,朝气,生机,持久力,精神,活气,春
+vitalize~v:搞活
+vitalizeise~v:激发,鼓舞
+vitally interrelated~v:息息相关,休戚相关
+vitally need~v:必需
+vitals~n:要害,核心
+vitamin~n:维生素,维他命
+vitamin a~n:维生素Ａ
+vitamin b~n:硫胺,维生素Ｂ,核黄素
+vitamin c~n:抗坏血酸
+vitamin g~n:核黄素
+vitamin m~n:叶酸
+vitamine~n:维生素,维他命
+vitelline~n:蛋黄,卵黄|a:蛋黄
+vitellus~n:蛋黄,卵黄
+vitex~n:荆
+vitiate~v:损害,损坏,弄坏,污染
+vitiation~n:损害
+vitiligo~n:白癜风,白斑
+vitium~n:病
+vitrella~n:晶体
+vitreous~a:玻璃,透明
+vitreous enamel~n:釉瓷
+vitrified clay pipe~n:陶管,缸管
+vitriol~n:蓝矾,矾,硫酸,硫酸盐
+vitriol oil~n:硫酸
+vitriolic~a:硫酸,尖刻
+vitrolite~n:瓷砖
+vituperate~v:骂,谩骂,辱骂,责骂
+vituperation~n:辱骂
+vituperative~a:责骂,舌战
+viva~n:欢呼声,欢声,口试
+vivacious~a:活泼,焕发|v:焕发
+vivacity~n:活泼,快活,愉快
+vivasity~n:活泼,快活
+vivers~n:食物,粮食
+vivid~a:生动,鲜艳,活泼,真切,形象,传神,逼真,活灵活现,绘声绘色,活,清晰
+vividly~d:活灵活现
+vivification~n:苏醒
+viviparism~a:胎生
+viviparity~n:胎生
+viviparous~a:胎生
+vivipation~a:胎生
+vivisect~v:解剖
+vixen~n:泼妇,母老虎,悍妇
+vixenish~a:泼辣
+vizier~n:大臣
+vizir~n:大臣,高官
+vizor~n:护目镜,面罩
+vladivostok~n:符拉迪沃斯托克
+vlei~n:沼泽
+vley~n:沼泽
+vm~n:电压表
+vocable~n:单词,词
+vocabulary~n:词汇,语汇,字汇
+vocabulary table~n:词表
+vocal~a:声音,有声|n:歌曲
+vocal accompaniment~n:伴唱
+vocal concert~n:演唱会
+vocal cords~n:声带
+vocal imitation~n:口技
+vocal mimicry~n:口技
+vocal recital~n:独唱会
+vocalic~a:元音,母音
+vocalise~v:发声
+vocalism~n:发声,歌唱,声乐
+vocalist~n:歌唱家,歌手,声乐
+vocality~n:声乐
+vocalization~n:发声
+vocalize~v:哼,叫,发声,谈,喊,说,唱
+vocally~d:口头
+vocation~n:职业,天职,行业,才能,使命,天命
+vocational~a:职业,行业
+vocational school~n:职高,职业高中
+vocative~a:称呼,呼唤
+vociferate~v:叫喊,叫嚣,叫嚷,吵闹,喧嚷
+vociferous~a:叫喊,喧嚷
+vodka~n:伏特加
+vogue~n:流行,时髦,风气,时样,时尚|a:时髦
+vogue word~n:新名词
+voice~n:声音,嗓音,嗓门,嗓子,声,语音,歌手,意见,人声,歌喉,发言权,语声,歌声,语言,口音,呼声|v:发抒,抒发
+voice box~n:音箱
+voice control~n:声控
+voice grievances~n:鸣冤叫屈
+voice one's discontent~v:鸣冤叫屈
+voice over~n:话外音
+voice support for~n:摇旗呐喊
+voiced~v:带音
+voiced consonant~n:浊辅音
+voiced sound~n:浊音
+voiceover~n:画外音
+voice-over~n:画外音
+void~n:空位,空隙,空穴,孔隙,空虚,真空|a:浮,虚,空闲,空虚|v:退出,取消,排泄,放出
+void of~p:缺乏,没有|v:缺乏
+voidance~n:排泄,脱出,放出,放弃,出缺,放空,退出
+voiding~v:残羹剩饭|n:残羹剩饭
+vola~n:手掌,足底,脚掌
+volant~a:飞行
+volar~a:手掌
+volatile~a:浮,飞行
+volatile compound~n:挥发物
+volatile substance~n:挥发物
+volatility~n:挥发性,快活,反复无常,轻快,轻浮
+volatilization~n:挥发,发散|v:发散
+volatilize~v:挥发,飞
+volcanic~a:火山,猛烈
+volcanic earthquake~n:火山地震
+volcanic island~n:火山岛
+volcanic vent~n:火山口
+volcanics~n:火山岩
+volcano~n:火山
+volcanology~n:火山学
+vole~n:田鼠
+volga~n:伏尔加河,伏尔加
+volga river~n:伏尔加河
+volitant~a:飞翔
+volitate~v:飞行
+volitation~n:飞行,飞翔
+volition~n:意志,决心
+volitional~a:意志
+volitive~a:意志
+volkslied~n:民谣
+volley~v:排放,齐鸣,迸发,拦击|n:连发,迸发
+volley of guns~n:排炮
+volleyball~n:排球
+volleyball world~n:排坛
+volplane~v:滑翔|n:滑翔
+volt~n:伏特,闪避,伏
+volta~n:回
+voltage~n:电压
+voltage changer~n:变压器
+voltage stabilization~n:稳压
+voltage transformer~n:变压器
+voltage-dependent resistor~n:变阻器
+voltaic~a:电流
+voltaic arc~n:电弧
+voltaic wire~n:导线
+voltameter~n:库仑计,电量计
+voltampere~n:伏安
+volt-ampere~n:伏安
+volte-face~n:变卦
+voltmeter~n:电压表,伏特计,电压计,电量计
+voluation~v:赋值
+volubility~n:流畅,谈锋,流利,饶舌
+voluble~a:健谈,流利
+volume~n:体积,卷,量,容量,音量,容积,大量,本,许多,编,材积,书籍,书卷,册,分量,册子,额,响度,大小,总数,强度,辑,集,卷轴
+volume expansion~n:体膨胀
+volume level~n:音量
+volume meter~n:流量计
+volume of production~n:产量
+volume of wood~n:材积
+volume swelling~n:体膨胀
+volumes of~n:大量
+volumetric~a:容积,容量
+volumetric cylinder~n:量筒
+volumetric expansion coefficient~n:体胀系数
+voluminal~a:容积,体积
+voluminous~a:长篇,洋洋洒洒,浩如烟海
+voluminousness~n:长篇
+voluntarily~d:自愿,自动,志愿,自觉自愿,自行|n:志愿|v:自愿
+voluntariness~n:自发,自愿,自动
+voluntarism~n:募兵制
+voluntary~a:志愿,自愿,义务|v:自动
+voluntary labour~n:义务劳动
+voluntary muscle~n:随意肌
+volunteer~v:自愿|n:志愿兵|a:义务
+volunteer soldier~v:义务兵
+volunteers~n:志愿军,义勇军
+voluptuous~a:骄奢淫逸
+volute pump~n:离心泵
+volution~n:螺旋,旋转|v:滚动
+vomer~n:犁骨
+vomit~v:呕吐,吐,唾弃,涌流,呕
+vomiting~v:呕吐
+vomiting during pregnancy~n:孕吐
+vomiting nut~n:马钱子
+vomitive~n:大门,催吐剂|a:呕吐
+vomiturition~n:干呕,作呕|v:干呕
+vomitus~n:呕吐
+von~n:冯,领地
+voodoo~n:巫术
+voracious~a:贪吃,贪婪|v:贪得无厌,强取豪夺
+voracious eater~n:饕餮
+voracity~n:暴食,贪婪,贪食
+vorspiel~n:序曲
+vortex~n:涡流,涡,旋风,旋涡,漩涡,漩,洑
+vortex flow~n:涡流
+vortexing~n:涡流
+vortical~a:旋涡
+vorticit~n:旋涡
+votarist~n:信徒
+votary~n:信徒,爱好者
+vote~v:投票|n:表决权,投票权,议决
+vote down~v:否决
+vote for somebody~n:票选
+vote in~v:选出
+vote of confidence~n:信任投票
+voter~n:选民
+voting~n:投票|a:投票
+voting booth~n:投票站
+voting paper~n:选票
+votingpaper~n:选票
+votive~a:奉献,还愿
+vouch~v:担保,保证,证明,作证,确定,断言
+vouch for~v:担保
+voucher~n:凭证,保证人,单据,凭单,证件,传票,票据,收据,收条,证书
+vouchsafe~v:给,赐予,开恩,允诺,赐
+vow~v:发誓|n:誓约|d:矢口
+vow solemnly~v:信誓旦旦
+vowel~n:元音,母音
+vowel rhyme~n:叠韵
+vox~n:呼声,声音,语言,声
+voyage~n:航行|v:飞行
+voyageur~n:船夫
+vrille~n:螺旋
+vs.~p:对,与_相对,相对
+vue~v:控诉,控告
+vuffocate~v:窒息
+vulcan~n:锻工,铁匠
+vulcanite~n:胶木
+vulcanizate~n:硫化,硫化物,橡胶,橡皮
+vulcanization~n:硫化,硬化|v:硫化
+vulcanize~v:硫化,热补,硬化
+vulcanized fibre~n:钢纸
+vulcanizeise~v:硫化,硬化
+vulcanizing~v:硫化
+vulgar~a:庸俗,粗俗,粗鄙,俗,俗气,低级,鄙俗,俗不可耐,粗,鄙,俚,陋,俚俗,鄙吝,伧俗,伧
+vulgar practice~n:陋习
+vulgarian~n:俗物
+vulgarism~n:粗俗,歹话,齐东野语,俗语,粗鄙,庸俗
+vulgarity~n:粗俗,粗野,下流,下流话,庸俗
+vulgarization~n:庸俗化,大众化
+vulgate~n:口语,土话,俗话
+vulgus~n:老百姓,平民
+vulnerability~n:弱点,脆弱性,要害
+vulnerable~a:薄弱,脆弱
+vulnerable point~n:小辫子,弱点
+vulnus~n:创伤
+vulpine~a:狡猾,狐狸
+vulture~n:秃鹫,坐山雕,鹫,雕
+vulva~n:阴门,女阴,阴户,外阴,孔
+vum~i:赌咒,发誓
+vycor~n:石英玻璃,重量

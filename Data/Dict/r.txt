@@ -1,0 +1,3815 @@
+rabbet~n:插孔,插座,榫头
+rabbi~n:法师,先生
+rabbin~n:先生
+rabbit~n:兔子,野兔,兔,兔皮,家兔|v:诅咒
+rabbit food~n:生菜
+rabbit skin~n:兔皮
+rabble~n:贱民,乌合之众,狐朋狗友,耙子|v:搅拌
+rabblement~n:暴动
+rabbler~n:刮刀,搅拌器
+rabbling~v:搅拌
+rabid~a:狂热
+rabid dog~n:疯狗
+rabidity~n:顽固,蛮横,猛烈
+rabidness~n:猛烈,狂犬病,顽固
+rabies~n:狂犬病,恐水病
+raccoon~n:浣熊
+raccoon dog~n:貉,貉子,貔
+raccoon dog fur~n:貉绒
+race~n:比赛,赛跑,种族,赛马,民族,竞赛,种|v:飞跑,疾行
+race against time~n:只争朝夕
+race boat~n:快艇
+race car~n:赛车
+race each other~v:你追我赶
+race horse~n:螳螂
+race to attack~v:抢攻
+race to control~n:抢占
+race walking~n:竞走
+race way~n:水道
+racecourse~n:赛马场,沟,跑道
+racehorse~n:赛马
+raceline~n:水渠
+raceme~n:总状花序
+racer~n:快艇
+racetrack~n:跑道
+raceway~n:水道,水沟
+rachel~n:犹太人
+rachides~n:花轴
+rachis~n:花茎,脊椎,花轴,脊柱
+rachitis~n:佝偻病
+racialism~n:种族主义
+racily~d:痛快
+raciness~n:活泼,痛快,挑逗性
+racing~n:赛马,赛艇,赛跑,空转,竞赛|v:空转,赛马
+racing bicycle~n:跑车
+racing bike~n:跑车
+racing car~n:赛车
+racing current~n:奔流
+racing yacht~n:赛艇
+racism~n:种族歧视,种族主义
+rack~n:架子,行李架|v:剥削
+rack one's brains~v:处心积虑,绞尽脑汁,煞费苦心,冥思苦索,挖空心思,动脑筋,费尽心机,搜索枯肠,操心,左思右想
+rack rod~n:齿条
+racket~n:网球拍,球拍,吵闹,球拍子,考验,骗局,敲诈,狂欢,职业,工作,讹诈,拍子,事情,喧嚷|v:喧闹,喧嚷,吵闹,拍
+racket court~n:网球场
+racketeer~v:敲诈,恐吓,讹诈|n:骗子
+rack-rent~v:收取
+rackwork~n:齿条
+racoon~n:浣熊
+racquet~n:球拍
+radar~n:雷达
+radar soldier~n:雷达兵
+raddle~v:交织
+radiac~n:辐射计
+radial~n:径向,射线|a:光线
+radial artery~n:桡动脉
+radial direction~n:径向
+radialization~n:辐射,放射
+radian~n:弧度,弪
+radiance~n:光辉,光彩,光芒,容光焕发,照射,发光,泽,光焰,发光度,辐射
+radiancy~n:亮度
+radiant~a:满面春风,云蒸霞蔚|v:云蒸霞蔚|n:光源
+radiant beauty~n:容光焕发
+radiant energy~n:辐射能
+radiant splendor~n:异彩
+radiant splendour~n:异彩
+radiant with happiness~n:春风满面
+radiate~v:辐射,放射,发射,照射,发光,发散,散热,闪耀
+radiation~n:辐射,发射,放射,照射,发光,放热,散热器|v:发射,发光,照射,放射
+radiation protection~n:防辐射
+radiation sickness~n:放射病
+radiator~n:散热器,冷却器,水箱,振荡器
+radical~n:基,根式,根|a:急进
+radical bud~n:根芽
+radical change~n:巨变
+radical exponent~n:根指数
+radical expression~n:根式
+radical party~n:急进派
+radicalization~n:激进
+radically~d:根本
+radicals~n:部首
+radicand~n:被开方数
+radication descending axis~n:根系
+radices~n:基数
+radicle~n:胚根,根,基
+radii~n:半径
+radio~n:收音机,无线电,无线电台|v:广播
+radio communication signals~n:电讯
+radio drama~n:广播剧
+radio frequency~n:射频
+radio graphs~n:造影
+radio hookup~n:联播
+radio operator~n:报务员
+radio play~n:广播剧
+radio receiver~n:收音机
+radio receiving set~v:话匣子
+radio record~n:收录机
+radio scattering~n:散射
+radio set~n:电台,收音机,接收机
+radio station~n:广播电台
+radio telegraph~n:无线电报
+radio telephone~n:无线电话
+radio tower~n:电视塔
+radio tube~n:真空管
+radio wave~n:电波
+radio waves~n:无线电波
+radioactive appear~n:放射形
+radioactive half-life~n:半衰期
+radioactive ray~n:放射线
+radioactive rays~n:放射线
+radioactiveactivity~n:放射性,放射
+radioactivity~n:放射性
+radiodetector~n:检波器
+radiogram~n:无线电报
+radiography~v:造影|n:造影
+radioisotope battery~n:核电池
+radiolocator~n:雷达
+radiology~n:放射科,辐射学
+radiometer~n:辐射计
+radiometer-type receiver~n:辐射计
+radionics~n:电子学
+radiophone~n:无线电话
+radiophoto~n:传真
+radiotelegram~n:无线电报
+radiotelegraph~n:无线电报
+radiotelegraphic receiver~n:收报机
+radiotelegraphy~n:无线电报
+radiotelephone~n:无线电话,报话机
+radiotelephony~n:无线电话
+radiotherapy~n:放疗
+radiovision~n:电视
+radiovisor~n:电视机
+radish~n:萝卜,小萝卜,莱菔
+radium~n:镭
+radium emanation~n:镭射气
+radius~n:半径,桡骨,辐,针
+radius vector~n:辐
+radix~n:基数,根,底数,词根,根本,根源
+radix angelicae formosanae~n:白芷
+radix asparagi~n:天门冬
+radix isatidis~n:板蓝根
+radix notoginseng~n:田七
+radix number~n:基数
+radix point~n:小数点
+radon~n:氡
+rae~n:雷
+rafael~n:拉斐尔
+raff~n:大量,废料,许多,垃圾,大批
+raffle~n:垃圾,废物,杂物
+raffle drawing~n:抽奖
+raffle ticket~n:彩票
+raft~n:木筏,筏子,木排,大量,筏,排,橡皮船,救生筏,排筏
+rafter~n:椽子,榱,椽
+rafting~n:合金|v:合金
+rag~v:开玩笑|n:帐篷,恶作剧,开玩笑,少量,毛刺
+rag bag~n:破烂
+ragabash~n:乌合之众,废物
+ragamuffin~n:山雀
+raga-zine~n:小报
+rage~n:愤怒,怒火,怒气,狂怒,热情,激烈,狂热,暴怒|v:激荡,发狂,流行,汹涌,气愤,风行,发怒,狂怒,盛怒|a:愤怒,汹涌
+ragged~a:破烂,褴褛,参差不齐,破破烂烂,参差
+ragged clothes~n:鹑衣百结,鹑衣
+ragged clothing~n:百衲衣
+ragged jacket~n:褴
+ragged verse~n:打油诗
+ragger~n:新闻记者
+ragging~v:开玩笑,恶作剧,胡闹,欺负
+raging~v:狂怒,熊熊
+raging tide~n:怒潮
+raging waves~n:惊涛骇浪,狂澜
+ragplicker's disease~n:炭疽
+ragtag~a:乌合之众,贱民
+rahagades~v:皲裂
+raid~v:袭击|n:急袭,围捕,游击,抄查,侵入
+rail~n:横杆,扶手,路轨|v:责骂
+rail bearing~n:轨枕
+rail fence~n:篱墙,栅栏
+rail spike~n:道钉
+railing~n:栏杆,栅栏,围栏,栏,扶手,责备,咒骂
+railings~n:栅栏
+raillery~n:讥笑,挖苦,取笑,逗弄
+railroad~n:铁路,铁道
+railroad bridge~n:铁路桥
+railroad bureau~n:铁路局
+railroad car~n:车厢
+railroad rail~n:钢轨
+railroad switch~n:道岔
+railroad train~n:列车
+rails tie plate~n:垫板
+railway~n:铁路,铁道,轨道
+railway administration~n:路局
+railway network~n:铁路网
+railway police~n:路警
+railway track~n:路轨
+railway wagon~n:车皮
+raiment~n:衣服
+rain~n:雨|v:消除,中断,降雨,提出,冲洗
+rain band~n:雨带
+rain belt~n:雨区
+rain boot~n:雨靴
+rain check~n:顺延
+rain clouds~n:阴云
+rain condition~n:雨情
+rain drop~n:雨珠
+rain glass~n:气压表
+rain hat~n:雨帽
+rain in spring~n:春雨
+rain out~v:消除,冲洗,中断,暂停
+rain praises on~v:赞不绝口
+rain sprout~n:水落管
+rain water~n:雨水
+rainbow~n:彩虹,虹,幻影,鲎,幻想
+rainbow-shaped bridge~n:虹桥
+raincap~n:雨帽
+raincoat~n:雨衣
+raindrop~n:雨点
+rainfall~n:降雨量,雨量,雨水,降雨,降水量,降水,下雨
+rainfall province~n:雨区
+rainforest~n:雨林
+rainhat~n:雨帽
+raininess~n:降水
+rainproof~a:雨衣
+rainshoes~n:雨鞋
+rainspout~n:水落管,落水管
+rainstorm~n:暴风雨,暴雨,风暴,瀑
+rainwater~n:雨水
+rainwater in puddles~n:涔
+rainwear~n:雨衣
+raise~v:提高,提出,举起,引起,抬起,增加,提,养,筹集,饲养|n:筹款,登高,上升,加价,升起,抬起
+raise a fuss~v:大惊小怪
+raise a hand~v:动手
+raise a rebellion~v:揭竿而起
+raise a rumpus~v:闹翻天,沸反盈天
+raise an alarm~v:告急
+raise an army~v:招兵买马
+raise an outcry~v:大喊大叫
+raise another standard~v:别树一帜
+raise cain~v:生气
+raise capital~v:集资
+raise difficulties~v:拿人
+raise flowers~v:种花
+raise funds~v:筹款,集资,筹措
+raise hell~v:闹翻天,撒赖,沸反盈天
+raise in price~v:加价
+raise in salary~v:加薪
+raise livestock~v:畜牧
+raise money~v:筹资,募款|n:筹募
+raise one's hat~v:脱帽
+raise one's head~v:仡,抬头,昂首
+raise oneself slightly~v:欠身
+raise rebellion~v:造反
+raise slightly~v:欠
+raise the devil~v:大吵大闹
+raise the price~v:提价
+raise the quota~v:加码
+raise the roof~v:大发雷霆
+raise the wind~v:筹款
+raise together with~v:混养
+raise troops~v:招兵
+raise up~v:举起
+raise wages~v:调资
+raised angle~n:棱
+raised plot~n:坛
+raiser~n:酵母
+raiserockhole~n:天井
+raises~n:加薪
+raisin~n:葡萄干
+raising~v:养育,提高,饲养
+raj~n:统治,支配
+raja~n:王公,王侯,酋长
+rajah~n:王公,柞丝绸,酋长
+rake~v:耙,扫射|n:倾斜度,钉耙
+rake hell~n:无赖,浪子
+rake in profits~v:捞一把
+rake off~v:油水,佣金,利益,回扣,手续费,扫除
+rake ratio~v:斜率
+rake the ground~v:平地
+rake the land~v:平地
+rake together~v:搂
+rake up~v:搜集,扒,激起
+rakehell~n:浪子
+rake-off~n:回扣
+raker~n:支柱,清道夫
+rally~v:振奋|n:集结,挖苦,嘲笑
+rally forces again~v:重整旗鼓
+rally one's forces~v:重整旗鼓
+rally together~v:群起
+rallying cry~n:呐喊
+rallying point~n:号召力
+ram~v:撞,撞击|n:夯
+ram pot~n:水缸
+ram with~n:塞满
+ramadan~n:封斋,斋月
+ramble~v:漫步,东拉西扯,漫谈|n:漫游,漫步,浪,闲谈,漫笔,散步
+ramble in talk~n:东拉西扯
+rambler~n:蔓生植物
+rambling~a:拉杂|n:天南海北|v:漫无边际
+ramee~n:苎麻
+ramet~n:金属陶瓷,树枝
+ramie~n:苎麻,苎
+ramification~n:分歧,分支,分枝,后果,门类,结果,衍生物,支派|v:分叉
+ramified~v:丫杈|n:丫杈
+ramify~v:分叉,分枝,分派,交错
+rammed earth construction~n:干打垒
+rammer~n:通条,夯,夯砣
+rammers' work chant~n:夯歌
+ramming~v:打夯
+ramp~n:斜坡,坡道,舷梯,斜路,愤怒,诈骗|v:诈取,诈骗,张牙舞爪,降低,减少
+rampage~v:暴怒,发怒
+rampancy~n:蔓延,繁茂,猖獗,直立|a:猖獗
+rampant~a:猖獗,嚣张
+rampart~n:城墙,壁垒,垒|v:垒
+rampway~n:坡道
+ramrod~n:通条
+ram's horn~n:羊角
+ramus~n:支,分支
+ram-wing craft~n:冲翼艇
+ran~v:泛滥,溢出|n:冉
+rancho~n:牧场
+rancid~a:哈喇,腐臭|v:腐臭
+rancidity~n:哈喇,腐臭
+rancor~n:怼,冤仇,怨恨
+rancour~n:憎恨,怨恨,冤仇
+rand~n:地头,边缘,田埂
+randannite~n:硅藻土
+random~a:随机,乱,随便,漫|v:漫
+random breed~n:杂种
+random inspection~n:抽查
+random number~n:随机数
+random talk~n:胡说八道,说长道短,漫谈,说东道西
+randomicity~n:随机性
+randomness~n:随机性
+ranee~n:王妃,王后
+rang oneself~v:自缢
+range~n:范围,射程,距离,幅度,种类|v:到达,瞄准,巡逻,开列,连绵,蔓延,整理,对准
+range dimension~n:范围
+range finder~n:测距器
+range finding~v:测距
+range light~n:桅灯
+range marks~n:导标
+range of vision~n:观
+range oneself~v:成家立业
+range pole~n:标杆
+range-height display~n:高度表
+ranging~v:测距
+ranging fancy~v:水性杨花
+rangoon~n:仰光
+rangoon teak~n:柚木
+rani~n:公主,王妃
+rank~n:地位,队伍,士兵,军阶|v:定级|a:莽莽
+rank first~v:名列榜首
+rank grass~v:莽
+rank-and-file soldier~n:兵
+ranker~n:兵
+ranking~n:顺序,名次
+ranking bar~n:手推车
+rankle~n:怨尤,怨望|v:激怒,红肿
+ranks~n:队伍,阵线,行列
+ransack~v:洗劫,掳,掠,搜,搜查,劫掠,掠夺
+ransliterate~v:音译
+ransom~n:赎金|v:赎回
+ransom money~n:赎金
+ransom price~n:赎价
+rant~n:叫喊,叫声,妄语,大话,怒骂,咆哮,怒吼,妄言|v:咆哮,说大话,怒吼,怒骂
+rao~n:饶,尧
+raob~v:溢出
+rap~n:一点儿|v:抢走
+rap the gavel~v:拍板
+rapacious~a:贪婪|v:强取豪夺
+rapacity~n:掠夺,贪婪,抢夺,贪心|a:贪心
+rape~v:强奸|n:抢夺
+rape by turn~n:轮奸
+rape flower~n:菜花
+rape oil~n:菜油,菜籽油,菜子油
+raper~n:强奸犯
+rapeseed~n:油菜子,油菜籽,菜子
+raphael~n:拉斐尔
+raphe~n:脊
+rapid~a:迅速,快,急,湍急,急促,狂暴,急遽,骤|n:急湍,湍流|d:骤
+rapid advancement~n:青云直上
+rapid counterattack~n:快反
+rapid fire~n:速射
+rapid progress~n:蒸蒸日上
+rapid pulse~n:脉速
+rapid spike~n:短平快
+rapid tire~n:速射
+rapidity~n:速度,迅速,敏捷,快速,急速
+rapidly~d:迅速,快,急速,立刻,疾速,急匆匆,霍然,敏捷
+rapidly rise~v:青云直上
+rapido~n:快车
+rapids~n:滩,险滩,激流,急流,湍流
+rapine~n:劫掠,滥伐,掠夺
+rapist~n:强奸犯
+rapparee~n:流寇,土匪,海盗,游民
+rappee~n:鼻烟
+rapper~n:证人
+rappini~n:芜菁
+rapport~n:关系,和睦,配合,亲善,和好,联系
+rapporteur~n:书记
+rapprochement~n:和解,和睦
+rapscallion~n:无赖,流氓,恶棍
+raptor~n:猛禽,猛兽
+rapture~n:狂喜,欣喜若狂,着迷|v:欢天喜地
+rare~a:罕见,稀有,难得,少有,珍贵,稀薄,个别,稀少,罕有,珍奇,名贵,鲜,冷,不可多得,稀罕,傀,珍,瑰,罕,希奇,稀,生僻,稀奇,珍异|d:很,极
+rare achievement~n:奇勋
+rare avis~n:神童,珍品
+rare book~n:珍本,秘籍
+rare delicacy~n:异味
+rare earth~n:稀土
+rare element~n:稀有元素
+rare fragrance~n:异香
+rare metals~n:稀有金属
+rare-earth element~n:稀土元素
+rarefied~a:稀薄
+rarefy~v:稀释
+rarely~d:难得,极,不大,罕有
+rarely seen~a:罕见,稀少
+rareness~n:稀罕,稀奇
+rareripe~n:早熟
+rarity~n:珍品,异物,稀薄,瑰宝,奇事,稀有
+rarity of rarities~n:凤毛麟角
+rark~n:衬衣
+rascal~n:坏蛋,恶棍,无赖,流氓,地痞
+rascallion~n:歹徒,流氓,恶棍
+rascally~a:流里流气,流氓,赖皮,无赖|d:赖皮
+rascally behavior~n:流气
+rascals~n:地痞
+rash~a:鲁莽|n:疹|v:造次
+rash action~n:妄动
+rash advance~n:冒进
+rash fellow~n:愣头儿青
+rash on skin~n:癍
+rashly~d:率然,贸然,轻易,愣,冒
+rashly advance~v:冒进
+rashly done~a:草草了事
+rashness~n:轻率,轻举妄动
+rasp~n:木锉,焦急|v:磨擦
+raspberry~n:讥笑
+rasp-cut file~n:木锉
+rasper~n:障碍
+rasping file~n:木锉
+rassle~n:摔跤
+raster~n:光栅,屏面
+rat~n:老鼠,叛徒,耗子,鼠,工贼|v:责骂,变节,叛变,告密,捕鼠
+ratablebility~n:估价
+ratafee~n:果酒
+rataplan~n:击鼓
+ratch~n:棘轮,棘爪
+ratchel~n:卵石
+ratchet~n:棘轮,棘爪
+ratchet wheel~n:棘轮,闸轮
+ratcheting~n:离合器|v:离合器
+rate~n:速率,速度|v:骂,评级
+rate of attendance~n:出勤率
+rate of exchange~n:兑换率,汇费
+rate of germination~n:发芽率
+rate of growth~n:增产率
+rate of heat~n:热效率
+rate of increase~n:增长率
+rate of interest~n:分,利率,利润率
+rate of profit~n:利润率
+rate of rise~n:增长率
+rate of taxation~n:税率
+rate of work~n:功率
+rate per annum~v:年率
+rated~a:额定
+ratel~n:猫
+rate-of-flow meter~n:流量计
+rath~n:围墙
+rather~d:相当,有些,有点,颇,颇为,宁愿,宁可,未免,比较,挺,够,怪,较,当然,反而,几分,稍微,满,毋宁,无宁,聊|c:宁,宁愿|r:有些|i:当然|v:聊|a:几分
+rather anxious~a:油煎火燎
+rather cool~a:凉丝丝
+rather dark~a:黑糊糊
+rather peculiar~a:古里古怪
+rather suspicious~a:半信半疑
+rather than~c:与其,毋宁|p:宁愿
+rather thin~a:精瘦
+ratherish~d:稍微
+rathole~n:鼠穴
+rathskeller~n:酒吧间
+ratification~n:批准,认可,追认
+ratify~v:批准,认可,追认,核定,核准
+rating~n:斥责,等级,分摊,估计,测定,规格,估价,参量,级别,定额,分配,计算
+rating plate~n:铭牌
+ratings~n:分级
+ratio~n:比,比率,比值,比例,系数,关系|v:对比
+ratio of speed~n:速比
+ratio of transmission~n:传动比
+ratio of velocity~n:速比
+ratiocinate~v:推断,推理,推论
+ratiocination~v:推理,推论|n:推理,推论
+ration~n:配给|v:配售,限定
+ration system~v:供给制
+rational~a:合理,有理|n:有理数,理性
+rational formula~n:有理式
+rational fraction~n:有理分式
+rational function~n:有理函数
+rational nature~n:理性
+rational number~n:有理数
+rationale~n:理论
+rationalism~n:唯理论
+rationality~n:合理性,理由
+rationalization~n:合理化|v:合理化
+rationalize~v:合理化,理顺,文饰,文过饰非
+rations~n:给养
+ratofkite~n:萤石
+rattan~n:藤,白藤,藤条
+rattan case~n:藤箱
+rattan shield~n:藤牌
+rattan whip~n:藤条
+ratten~v:捣乱
+ratter~n:告密者,工贼,叛徒
+rattle~n:发生器,乒乓,咕隆,响度|v:叨叨,咕隆
+rattle drum~n:拨浪鼓,波浪鼓
+rattle one's saber~v:磨刀霍霍
+rattle stick dance~v:花棍舞
+rattler~n:倾盆大雨,滚筒,响尾蛇
+rattlesnake~n:响尾蛇
+rattling~d:极,非常,很
+rattrap~n:困境
+raucous~a:沙哑
+raucously~d:沙哑
+raunch~n:粗俗,粗野
+ravage~v:毁坏,蹂躏,糟蹋,劫掠,摧残,破坏|n:暴力,荒废,破坏,灾害,损害,毁坏
+ravages of war~n:焦土
+rave~v:嚷,说胡话,咆哮,胡言乱语,叫嚣,叫喊,狂喜,激赏,狂暴|n:怒吼,围栏
+rave angrily~v:声色俱厉
+ravel~v:拆开,缠绕,解除,解开,纠结,纠缠,纷乱,错综,解决|n:缠绕,纠结,混乱,错杂
+ravel out~v:解开
+raveling~n:拆
+ravelling~n:解,解开
+ravelment~n:纠缠,混乱
+raven~v:狼吞虎咽,掠夺|n:劫掠,渡鸦
+raven about~v:打家劫舍
+ravenous~v:强取豪夺|a:强取豪夺
+ravin~n:掠夺,赃物
+ravine~n:深谷,峡谷,沟,山谷,山沟,涧,峪,赃物,沟壑,谷
+raving~a:狂|n:狂言
+ravings~n:狂言,呓语,谵语,胡话
+ravioli~n:馄饨
+ravish~v:强奸,抢夺
+ravishing~v:引人入胜
+raw~a:生,阴冷,原,潮湿|n:痛处,触犯
+raw coal~n:元煤
+raw condition~n:原状
+raw hemp~n:麻经儿
+raw lacquer~n:生漆
+raw meat~n:生肉
+raw recruit~n:新兵,新手
+raw rubber~n:生橡胶
+raw silk~n:生丝,绡
+raw stock~n:原材料
+raw stuff~n:原料
+rawboned person~n:笨伯
+rawmaterial~n:原料
+rawness~n:生硬
+ray~n:光线,射线,光,雷|v:放射,投射,闪现
+ray axis~n:光轴
+ray of light~n:光线,光束
+ray velocity~n:波速,光速
+rayon~n:人造丝,粘胶
+raze~v:消除,摧毁,擦伤,毁灭,毁坏,拆毁,磨灭
+razon~n:飞弹
+razor~v:剃|n:剃刀
+razor back~n:剃刀鲸
+razor clam~n:蛏干,蛏
+razor edge~n:刀口
+razorback~n:长须鲸
+razz~n:嘲弄,嘲笑,责备,讥笑|v:嘲弄
+razzia~n:侵略,劫掠,袭击
+razzle~n:胡闹
+razzle-dazzle~n:混乱,烂醉|v:欺骗
+razzmatazz~n:活力,精力,兴奋
+re~p:关于
+re river~n:热河
+reaaction~n:反应
+reach~v:到,达到,到达,达成,抵达,伸出,达,取得|n:智力,力量,地段,到达,宽窄,理解力,领域,伸出,游
+reach agreement~v:媾,和解
+reach an agreement~v:媾
+reach bottom~v:查明
+reach every place~v:遍及
+reach great heights~v:登峰造极
+reach out~v:伸展,伸出
+reach perfection~v:尽善尽美
+reach rock bottom~v:扫地
+reach the clouds~v:凌云
+reach the limit~v:满,到顶,登峰造极
+reach the peak~v:到顶
+reach the sky~v:连天
+reach the summit~v:登峰造极
+reach up to~v:达到
+reaching the sky~n:连天
+react~v:反应,反抗,反动,反作用,重演,倒退
+re-act~v:重演
+reactance~n:电抗,反作用力
+reactant~n:成分,反应器
+reacting~v:反作用|n:反作用
+reaction~n:反应,反作用,反动,反作用力,倒退|a:反动
+reaction devices~n:反应器
+reactionaries~n:反
+reactionary~n:反动派,守旧派,反|a:黑暗,黑
+reactive~a:活泼
+reactive resistance~n:电抗
+reactor~n:反应器,反应堆
+reactor fuel~n:核燃料
+read~v:读,看,阅读,读书,念,了解,读出,宣读,朗读,识字,攻读,学习,研究,审阅,写作,读取,默读,念书,辨认,翻阅,专攻,批阅,阅,诵读,念诵,阅览,察觉,用功,解答|n:读书,阅读
+read aloud~v:读,籀,诵读,念,念诵
+read briefly~v:略读
+read cursorily~v:渔猎
+read in~v:写入
+read newspaper~v:读报,看报
+read off~v:宣读
+read only~v:只读
+read out~v:朗读,读出,宣读
+read over~v:批阅,翻阅,审阅
+read over quickly~v:过眼
+read rapidly~v:一目十行
+read silently~v:默念
+read something extensively~v:博览
+read up~v:专攻
+read up on~v:研究
+read widely~v:博览群书
+read without thinking~v:死记硬背
+readability~n:可读性
+reader~n:读者,标签,读本,讲师,文选,助教,读物
+reader involvement~n:悬念
+reader's card~n:借书证
+readily~d:欣然,轻易,甘心,甘愿,爽快,不假思索
+readily available fertilizer~n:速效肥料
+readily exploitable loopholes~n:可乘之机
+readily subscribe to~v:苟同
+readin~n:写入
+read-in~n:写入|v:写入
+readiness~n:准备,愿意,乐意,迅速,敏捷|v:准备
+reading~n:阅读,读数,读书,读物,朗读,学识,指示|v:读出
+reading content~n:读后感
+reading desk~n:书桌
+reading lamp~n:台灯
+reading method~n:音读
+reading note~n:札记
+reading notes~n:札记
+reading party~n:读书会
+reading public~v:读者
+reading room~n:阅览室
+readings~n:度数
+readjust~v:调整,微调,整顿,饬
+readjustment~v:调整|n:调整
+read-only~n:只读
+readout~n:读出,宣读
+read-out~n:读出
+ready~a:就绪|v:就绪|n:现金|d:欣然
+ready at reply~n:应答如流
+ready cash~n:头寸
+ready marketability~n:适销对路
+ready money~n:现金,现
+ready-made~a:现成
+ready-made cloths~n:成衣
+ready-money~n:现金
+reaffirm~v:重申
+reagent~n:试剂,试药
+reagon~n:里根
+real~a:的,真,真正,实际,真实|n:真格的,实物,实情,实数|d:真正
+real amount~n:实数
+real article~n:正经货
+real assets~n:不动产
+real benefit~n:实惠
+real buddhist~n:佛
+real condition~n:真相
+real estate~n:房地契
+real estate broker~n:纤手
+real features~n:真面目
+real name~n:本名
+real object~n:实物
+real person~n:正身
+real property~n:不动产
+real results~n:证验
+real sentiments~n:真情实感,真情
+real silk~n:真丝
+real strength~n:实力
+real wages~n:实际工资
+realestate~n:房地产
+realgar~n:雄黄
+realgar wine~n:雄黄酒
+realise~v:体认
+realism~n:现实主义,写实主义,现实性,实在论
+realistic~a:实际,切实
+reality~n:现实,实际,事实,真实,实体,真实性,实在,现实性,本体,逼真|a:实
+realization~n:实现,变卖,成就,赚头
+realize~v:了,意识,实现,知道,了解,发觉,体会,变卖,领悟,知,变为,兑现,写实,领略,酬,实行,悟
+realize one's ambition~v:大展宏图
+realize ones error~v:悔悟
+really~d:真,真正,确实,实在,的确,非常,其实,够,果真,当真,着实,正经,硬是,委实,端的,确乎,真个,果然,诚,殊,敢情,究,果,委
+really good~a:没说的,不含糊,没有说的
+really kind~a:够意思
+really not~d:并非
+really something~n:够意思
+really true~a:当真
+realm~n:领域,王国,国土,界,圈,独立王国,境域,带,境界,部门
+realm of fancy~n:空中楼阁
+realm of necessity~n:必然王国
+realness~n:真实性
+realskin~n:真皮
+realty~n:房地产,不动产
+ream~v:绞,铰,榨取|n:令,条纹
+reamer~n:绞刀
+reanimate~v:鼓舞,激励
+reanimation~n:鼓舞
+reap~v:收割,得到,获得,收获,穑,获,艾
+reap fabulous profits~v:牟取暴利
+reap profits~v:获利
+reap some profit~v:有利可图,捞油水
+reap the benefit~v:坐收渔利
+reap unfair gains~v:渔人得利,渔人之利
+reap up~v:钻研
+reap without sowing~v:不劳而获
+reaper~n:收割机
+reaping hook~n:镰刀
+reappear~v:重现,再,再现|d:再
+re-appear~v:重现
+reappearance~n:再现
+rear~v:出现,建立,竖起,栽培,牧畜,培育,蓄养,高耸,举起,培养,养育|n:屁股,背后,后部,后边,背面|a:后边
+rear admiral~n:少将
+rear area~n:总后方,大后方
+rear axle~n:后轴
+rear guard~n:后卫,殿军
+rear livestock~n:畜牧
+rear most axle~v:后轴
+rear of flank~n:侧后
+rear poultry~n:畜牧
+rear rank~n:后排
+rear row~n:后排
+rear-end~v:撞入
+rearer~n:饲养员
+rearguard~n:殿军
+rearrange~v:重排,改编
+rearrangement~n:改编|v:改编
+rearview mirror~n:后视镜
+rearward~n:后方,后面,背后,后部|d:背后|a:背后
+rearward face~n:凹面
+reason~n:原因,理由,道理,理性,理智,缘故|v:论断,推究,推论,端|p:由,因|c:故
+reason by analogy~n:类推,触类旁通
+reason for death~n:死因
+reason out~v:作出
+reason out something~n:评奖
+reason things out~n:论理,说理,评理
+reason together~v:商定
+reason with~n:说服
+reason with somebody~n:讲理
+reasonable~a:合理,公道,通情达理,明白,有理|v:通情达理,知情达理,像话
+reasonableness~n:理性
+reasoning~n:推理,推论,论证,理论,论断|v:推理
+reassemble~v:调整
+reassert~v:重申
+reassign~v:交还
+reassurance~n:安心,再保险,自信
+reassuring words~n:宽心丸
+rebate~n:回扣,折头,折扣,减少|v:减少,折,削弱,打折扣
+rebel~v:反抗,造反|n:叛逆
+rebel against~v:叛,叛逆
+rebel bandit~v:叛匪
+rebel soldier~v:叛兵
+rebel troop~v:叛兵
+rebelata~n:乐果
+rebellion~n:叛乱,反抗,造反,起义,反,暴乱|v:暴动,暴乱
+rebellious people~n:顽民
+rebirth~n:再生,转生,复活,轮回,新生
+rebound~v:弹回,回响|n:反应,篮板球,弹回
+rebroadcast~n:重播,转播|v:转播,重播
+rebuff~v:驳斥,挫折,阻碍,击退,拒绝|n:拒绝
+rebuild~v:重建,翻修,改建,改造,整修,返修,改变
+rebuke~v:指责,责骂,斥责|n:熊
+rebuke severely~v:痛责
+rebus~n:谜,字谜
+rebut~v:驳斥,反驳,驳回,驳,置辩,揭露,阻止,戳穿,批驳
+rebutment~n:反驳,反证
+rebuttal~n:反驳,反证
+rebutter~n:反证
+rec~n:运动场
+recalcitrance~n:固执,顽抗,顽固,抗拒,顽强
+recalcitrancy~n:反抗
+recalcitrate~v:反抗,不服
+recalcitration~n:反抗
+recall~v:回忆,记得,回想,想起,召回,唤起,收回|n:撤回
+recall an order~v:收回成命
+recall one's words~v:收回成命
+recall past sufferings~v:忆苦
+recall troops~v:收兵
+recall with nostalgia~n:留恋
+recant~v:改变,取消
+recantation~n:撤消,取消
+recap~v:翻新
+recapitulate~v:概括
+recapitulation~v:重演|n:重演
+recapture~v:收复,征收|n:恢复,征收
+recast~v:改作,改造
+recede~v:退,后退,退缩,归还,退出,倒退,低落,退却,跌落,交还
+receding~n:逆流|v:逆流
+receding backflow~n:回流
+receipt~n:收据,接收,发票,收条,接受,进款,收益,票据,字,回条,契据,回单,回执,借据,发单,疗法,文契|v:接收,收到
+receipts~n:进款,入款,收入,进项|v:收
+receive~v:收到,得到,接收,接到,接受,欢迎,接待,受,接见,接,领到,迎接,承受,收听,款待,收,容纳,招待,蒙,进,奉,领取,纳,领,听从,收买,承认,支撑,领受,签收,迎,接防,领悟,收容,支,落,膺,遇,信任
+receive a gift~v:受礼
+receive a visitor~v:会客
+receive aid~v:受援
+receive an award~v:获奖
+receive baptism~v:受洗,领洗
+receive clemency~v:宽大
+receive commands~v:禀承
+receive from above~v:承
+receive government degrees~v:登第
+receive guests~v:待客
+receive instructions~v:受命
+receive medical advice~v:看病
+receive orders~v:奉命
+receive presents~v:受礼
+receive serious rebuff~v:碰钉子
+receive somebody~v:接见
+receive training~v:受训
+receive with hospitality~v:款
+received in full~n:收讫,收清
+receiver~n:接收机,听筒,接收器,受话器,收音机,窝家,耳机,容器,收报机,收件人,电视机
+receiver room~n:收发室
+receiver set~n:收报机
+receiving~n:接收|v:接收
+receiving machine~n:接收机
+receiving set~n:接收机
+receiving station~n:接收站
+recency~n:崭新,新近
+recension~n:修订
+recent~n:近期|a:近期
+recent acquaintance~n:初交
+recent time~n:最近
+recently~d:最近,近来,新,新近,比,迩来,日来|n:近日,最近|a:新
+recently married~a:新
+recentness~n:前不久
+receptacle~n:插座,容器,盛器,花托,仓库,插孔
+receptacle plug~n:插头
+reception~n:招待会,接待,接收,欢迎,欢迎会,招待,收音,迎接,酒会,承认,反响,领悟|v:迎接,取回,接收,接受
+reception center~n:接待站
+reception office~n:传达室,号房
+reception room~n:会客室,接待室,客堂,客厅
+receptionist~n:接待员,招待员,传达|v:传达
+receptivity~n:理解力
+receptor~n:感受器,接收器
+recess~n:深处,凹槽,休会|v:开槽,隐藏,后退
+recesses~n:深处
+recession~n:衰退,不景气,交还,退出|v:衰退,退缩,后撤,后退
+recessional~n:赞美歌
+recessiveness~n:隐性
+recessivity~a:隐性
+rechannel~v:改道
+recharge~n:补给
+recharger~n:充电器
+recidivist~n:惯犯
+recipe~n:食谱,配方,方法,处方,秘诀,方剂
+recipes~n:食谱
+recipience~n:接受,领受
+recipiency~n:接受,领受
+recipient~n:得主,容器
+recipients~n:收件人
+reciprocal~a:交|v:对等,有来有往,互惠|n:反比
+reciprocal ratio~n:反比例
+reciprocal treatment~n:互惠待遇
+reciprocate~v:报答,回报,交换,往复,报,酬答,来回,互换,答
+reciprocate another's courtesy~v:答礼
+reciprocation~n:报答,来回,交换
+reciprocity~n:对等,可逆性,相关性,互换
+recision~n:撤回,取消,废除
+recital~n:故事,叙事,吟诵,朗诵,细说,详述,背诵,独奏,叙述
+recitation~n:背诵,朗诵,叙述,宣叙调,详述,课堂
+recitative~n:道白,宣叙调
+recite~v:背诵,朗诵,列举,吟诵,呻,吟,念诵,诵,叹,细说,讲,陈述,念经,陈诉,籀
+recite from memory~v:背
+recite loudly~v:唪
+recite poem~v:吟诗
+recite poems~v:吟诗
+recite with appreciation~v:吟味
+recite with relish~v:吟味
+reciver~v:恢复
+reck~v:注意,留心
+reckless~a:鲁莽,妄,猖,胆大妄为,愣头愣脑,风风火火|v:胆大妄为
+reckless action~n:妄动,横冲直撞
+reckless of life~a:不知死活
+recklessly~d:恣意妄为,没命,不管三七二十一,混,大肆,肆意|v:混
+recklessly con-coat~a:胡编
+recklessness~n:鲁莽
+reckon~v:认为,估计,计算,想,算,指望,合计,依赖,估摸,算计,揣,总计,列入,想见,支付,依靠,料想,揣度,打量,揣测,掂掇,加入,推算,推想
+reckon as~v:认为
+reckon by time~v:计时
+reckon for~v:看做,认为
+reckon on~v:依赖
+reckon up~v:合计,合算,总计
+reckon upon~v:依赖
+reckoning~n:估计,算账,计算|v:推测,推算
+reclaim~v:开垦,改造,改正,改邪归正,收回,再生|n:悔改,矫正,改造,改邪归正,开垦
+reclaim wasteland~v:开荒,开垦,拓荒
+reclamation~n:回收,开垦,矫正,收复|v:开垦
+recline~v:躺,靠,信赖
+reclosing~v:重合
+recluse~n:隐士,隐君子,逸民
+reclusion~n:隐退,幽居
+reclusive~a:孤独
+recognise~v:认识,认出
+recognition~n:识别,承认,认识,公认,认可,认得,表扬,感谢,招呼,酬劳,褒奖|v:识别
+recognizance~n:保证金,承认,具结,保证书,保释金|v:具结
+recognize~v:认出,承认,认识,识别,认,公认,认得,看出,赏识,确认,辨认,辨,具结,酬劳,感谢,表扬,认清,招呼
+recognize retroactively~v:追认
+recognize worth of~v:赏识
+recoil~v:缩,退缩,倒退,畏缩|n:坐力
+recoil in fear~n:缩头缩脑
+recoilless gun~n:无后坐力炮,无坐力炮
+recollect~v:回忆,想起,回想,记忆,追忆,想到,追念,忆,追思
+re-collect~v:振作,鼓
+recollect the past~v:忆旧
+recollection~n:回忆,记性,记忆力,回想,感怀
+recollections~v:感怀
+recombination~n:复合,重组
+recombine~v:重组
+recommend~v:推荐,建议,介绍,劝,保举,举荐,引进,委托,绍介,引荐,保荐,荐举,劝告,荐,荐引,提倡,引用,托
+recommend oneself~v:自荐,毛遂自荐
+recommendable~a:可取
+recommendation~n:建议,推荐,劝告,介绍,举荐,介绍信,特长,议案|v:推荐
+recompense~n:报酬,回报,酬报,酬劳,偿还,报|v:偿还,酬答,回报,酬报,报偿,报
+recompose~v:改组,重排,改写
+recomposition~n:改编
+recompression~v:压缩
+recon~n:侦察
+reconcile~v:调和,调解,融合,排解,调停
+reconcilement~n:调停,和解,顺从,服从,调和,一致
+reconciliate~v:和解
+reconciliation~n:和解,调解,调和,服从,一致,调停|v:和解
+recondite~a:深奥,高深,深邃,玄
+recondition~v:翻新,修理,整修,改革,恢复,修复,修好,重建,还原,检修,修整,修改,调整
+reconnaissance~n:侦察,勘探,搜索,调查,勘察,勘测,探测,勘查|v:探测,搜索,勘探
+reconnoiter~v:侦察,斥,斥候,踏勘
+reconnoitertre~v:搜索
+reconnoitre~v:调查|n:斥候
+reconquer~v:克复
+reconsider~v:复议
+reconstruct~v:重建,改建,设想,推想,修复,改造,复兴
+reconstruction~n:重建,改造,复兴|v:建设,重建
+reconversion~v:复原|n:复原
+reconvey~v:送还,归还,取回
+record~n:记录|v:登
+record a demerit~n:记过
+record a merit~v:记功
+record copy~n:转录
+record event~n:纪事
+record of events~n:记事
+record of service~n:资
+record the points~v:记分
+record workpoints~n:记工
+recordation~n:记载,记录
+recorder~n:录音机,记录器,记录
+recorder apparatus~n:记录器
+recording~n:记录,录音,唱片|v:引出
+recording at length~n:大书特书
+recording room~n:录音室
+recording studio~n:录音棚
+records~n:案卷,志,杂志
+recount~v:讲述,叙述,列举,述说,诉说,叙事|n:叙
+recountal~n:叙述
+recoup~v:补偿,收回,赔偿,扣除,偿还
+recoupment~n:扣除
+recourse~n:求助,依靠,求援,依赖|v:求援
+recover~v:恢复,痊愈,康复,复元,回收,清醒,收复,找到,复原,追回,复,怀柔,安抚,光复,赔偿,开采,提取,愈,取回,围垦,挽回,光,克复,取得,胜诉,收回
+recover from~v:恢复
+recover from illness~v:痊
+recovered~a:康复|v:康复
+recovering~v:再现
+recovery~n:恢复,回收,康复,痊愈,收回,矫正,复苏,复原,再生|v:复苏,回收,复原,再生
+recovery phase~n:恢复期
+recovery rate~n:治愈率
+recovery time~n:恢复期
+recreance~n:怯懦
+recreancy~n:不义,怯懦
+recreant~a:不义|n:胆小鬼
+recreate~v:休养,静养,消遣
+re-create~v:改造
+recreation~n:娱乐,消遣,康乐,休养,游戏,游艺
+recreation room~n:游艺室
+recrement~n:废物
+recriminate~v:反诉,倒打一耙|n:反唇相讥
+recrudesce~v:复发
+recrudescence~n:复发
+recruit~v:招收,吸收,补充,录用,征募,招聘,征集,招募,招,保养,补养,招纳,招工,征,录取,征求,发展,收录,搜罗,征收|n:新兵
+recruit followers~v:招兵买马
+recruit grain~v:征粮
+recruit soldiers~v:募兵,征兵
+recruit students~v:招生
+recruit workers~v:招工
+recruitment through invitation~n:聘任
+rectangle~n:矩形,长方形
+rectangular~a:长方
+rectificating~v:检波
+rectification~n:整流,调整,整顿,矫正,净化,修正,改正,校正|v:修正,整流,调整,净化,校正
+rectification of name~n:正名
+rectifier~n:整流器,整流,检波器,解调器
+rectify~v:调整,纠正,正,改正,纠,端正,矫正,整顿,匡正,检波,更正,厘,提纯,整流,订正,矫,匡,整,整饬,改,校正
+rectify the party~v:整党
+rectifying~v:检波,整流
+rectilinear scale~n:直尺
+rectitis~n:直肠炎
+rectitude~n:正直,公正,诚实,正确,笔直|a:笔直
+recto~n:封一
+rectocele~n:脱肛
+rector~n:校长
+rectum~n:直肠
+recumbency~n:依赖,休息,依靠
+recuperate~v:恢复,疗养,休养,养病,回收,起色,痊愈,调理,调养,将息,复原,将养,缓,疗
+recuperate one's health~v:养,康复
+recuperation~n:反馈,弥补,复原,起色,回收,痊愈,恢复,挽回|v:复原,回收
+recuperative medical care~n:调治
+recur~v:复发,重演,回想,回到,想起,循环,翻来覆去,递归
+recure~v:复原
+recurred~v:治愈
+recurrence~n:复发,递归,反复|v:循环,返回
+recurrent fever~n:回归热
+recurring~v:再现
+recursion~n:递归,循环|v:循环
+recurve~v:折回
+recusancy~n:抗拒
+recusant~n:凡夫俗子
+recycle~v:改建,整修
+recycle flattening~v:压延
+recycle waste material~v:变废为宝
+red~n:红,红色,亏空,赤字,共产党|a:红不棱登
+red agate~n:红玛瑙
+red alga~n:红藻
+red army~n:红军,工农红军
+red army man~n:红军
+red as fire~n:火红
+red autumnal leaves~n:红叶
+red ball~n:快车
+red beam~n:小豆
+red bean~n:小豆,赤豆,赤小豆
+red blood cell~n:红血球
+red blood corpuscle~n:红细胞
+red book~n:红皮书
+red breast~n:知更鸟
+red brick~n:红专
+red bronze~n:红铜
+red chromatography~n:套红
+red clay~n:红土
+red cliff~n:红岩
+red copper~n:红铜
+red corpuscle~n:红血球
+red cotton tree~n:木棉
+red crescent society~n:红新月会
+red cross~n:红十字会,吗啡,十字军
+red crowned crane~n:丹顶鹤
+red data book~n:红皮书
+red dates~n:红枣
+red deer~n:马鹿,水鹿
+red dish~n:红藻
+red earth~n:红壤,红土
+red eye~n:酒
+red flower~n:红花
+red fox~n:赤狐,火狐
+red ginseng~n:红参
+red gold~n:货币,现金
+red guard~n:红卫兵
+red guards~n:赤卫队,赤卫军
+red hat~n:红衣主教
+red heart~n:赤心,红心
+red heat~n:赤热
+red indian~n:印第安人
+red ink~n:损失
+red lantern~n:红灯
+red leaf~n:红叶
+red leaves~n:霜叶
+red metal~n:红铜
+red oil~n:油酸
+red orpiment~n:雄黄
+red paint~n:朱漆
+red poplar~n:赤杨
+red porgy~n:真鲷
+red ribbon bath~n:勋章
+red sage~n:一串红
+red sandalwood~n:红木
+red sanders~n:红木
+red scarf~n:红领巾
+red sea~n:红海
+red silk~n:缙
+red spider~n:红蜘蛛,麦蜘蛛
+red square~n:红场
+red tag~n:特价
+red tape~n:繁文缛节
+red tea~n:红茶
+red ticket~n:红票
+red tide~n:红潮
+red water~n:红潮,血尿
+redact~v:拟订,编写,编纂,编辑
+redaction~n:编写,编辑,校订,改订
+redbreast~n:知更鸟
+redbud~n:紫荆
+redcap~n:红帽子,金翅雀,宪兵,搬运员,搬运工,魔鬼
+red-crowned crane~n:丹顶鹤
+redd~v:整顿,收拾
+redden~v:脸红
+reddish~a:潮红,红不棱登,红殷殷
+reddish black~n:天青
+reddish brown~n:栗色,棕红,赭色,赭
+reddish orange~n:橘红
+rede~v:忠告,打算,讲述,解释,传说,说明|n:故事,说明,解释,忠告
+redeem~v:赎回,赎,取回,弥补,补救,履行,偿还,超度,拯救,挽回,赎买,恢复,还清,收回,缓冲
+redeem something pawned~v:赎当
+redemption~n:赎回,履行|v:缓冲,兑换,兑现
+redeploy~v:调动,转移
+redeployment~n:转移
+redesignate~v:改编
+red-eye~n:夜班
+redeye mullet~n:梭鱼
+red-hot~a:炽燥
+rediculous~a:不像话
+rediffusion~n:播送,播放,转播
+rediffusion station~n:广播站
+redingote~n:大礼服
+red-inked writing~n:朱笔
+redintegrate~v:复原,更新,复旧
+redintegrategration~n:复原,更新
+redintegration~n:复原,复旧
+redirection~n:折回,归还
+red-letter day~n:节
+red-light~n:红灯
+redline~v:歧视
+redneck~n:乡下人
+redness~n:红色,红
+redolence~n:芬芳,芳香
+redouble~v:加倍,倍增,加强,激增|d:加倍
+redound~v:促进,发生,抬高,增加
+redound upon oneself~v:自食其果
+red-pencil~v:改正,修正
+redress~v:革除|n:善后
+redress a grievance~v:湔雪
+redress a wrong~v:雪冤
+redresser~n:解调器,检波器
+redroot gromwell~n:紫草
+redshank~n:红脚鹬
+red-tapism~n:文牍主义
+red-tasseled spear~n:红缨枪
+reduce~v:减少,降低,削减,减小,缩小,减低,缩减,还原,减轻,压缩,简化,约,化为,提炼,压低,克服,降,精简,缩短,减,贬,杀,裁减,减杀,归并,裒,征服,煞,约分,节减,减缩,紧缩,精炼,弱化,裁,分解,减免
+reduce a salary~v:减薪
+reduce by half~v:减半
+reduce expenditure~v:节流
+reduce expenses~v:省吃俭用
+reduce fever~v:退烧
+reduce in rank~v:降级
+reduce inflammation~v:消炎
+reduce phlegm~v:化痰
+reduce pressure~v:减压
+reduce price~v:降价
+reduce progressively~v:递减
+reduce the price~v:减价
+reduce the speed~v:减速
+reduce to practice~v:实施
+reduce weight~v:减肥
+reduced price~n:折价
+reduced stone~n:碎石
+reduced to ashes~a:化为灰烬
+reducer~n:减速器,还原剂,减压阀,减压器
+reducing~v:缩减,简化,降低,减低,还原|n:还原,减低
+reducing agent~n:还原剂
+reducing device~n:减速器
+reducing flame~n:还原焰
+reducing natural disaster~n:减灾
+reducing valve~n:减压阀
+reduction~n:降低,减少,还原,缩小,简化,压缩,减低,还原法,弱化,订正,提炼,陷落,缩减,整理,投降,约分|v:订正,缩小,减低,降低,还原,衰减,简化,压缩,缩减
+reduction gear~n:减速器
+reduction of deposits~n:退押
+reduction of output~n:减产
+reduction rate~n:传动比
+reduction to absurdity~n:归谬法,反证法
+reduction valve~n:减压阀
+reduction voltage~n:降压
+reductive~a:还原剂
+reductor~n:减压器,减速器,还原剂
+redundance~n:多余,过多,冗余
+redundancedancy~n:过剩,过多
+redundancy~n:冗余,多余,冗词赘句|v:过剩
+redundant~a:冗,衍,冗词赘句,赘
+reduplicate~v:重复
+reduplication~n:加倍,重叠,重复|v:重叠
+redwood~n:红树,红杉
+re-echo~v:轰传,哄动|n:反响
+reed~n:芦苇,簧片,苇,簧,芦,苇丛,筘,牧笛,杼,箭,衔铁,萑,苇子
+reed catkins~n:芦花
+reed faggot~n:芦柴
+reed flower~n:芦花
+reed matting~n:苇箔
+reed pipe~n:胡笳
+reedify~v:重建
+reef~n:暗礁,礁石,礁|v:收缩
+reef knot~n:死结
+reefer~n:冷藏船,冰箱,冷藏室
+reek~n:臭气|v:冒烟
+reel~v:摇摇晃晃,摇摆,眩晕,摇动,桄,纺|n:眩晕,卷轴,摇摆,卷筒,纺车,线轴
+reel cart~n:绞车
+reel of thread~n:桄
+reelect~v:改选
+reeling~v:头晕眼花,缫丝
+reeling silk~v:缫丝
+reelingly~v:头晕眼花
+reenforce~v:加强,增援
+re-enter~v:收回,加深
+reentry~n:重返
+reequip~v:改装
+rees matting~n:苇箔
+reestablish~v:重建
+re-establish~v:重建
+reestablish diplomatic relations~v:复交
+reestablishment~v:重建
+reeve~v:穿,穿过
+reeves shad~n:鲥鱼,鲥
+re-examination~n:复试
+reexamine~v:复审,复查
+re-examine~v:复查,再审,复试
+reexamine a case~v:甄别
+re-exchange~v:掉换
+refashion~v:毁,改制,改变
+refection~n:消遣,茶点,休养,饮食
+refectory~n:食堂,饭厅
+refer~v:提到,涉及,提交,提,参考,参阅,参看,引用,查阅,委托,认为,属于,打听,借助,参见,翻阅,交付,指点,查看,谈及,指示,引证,参照,付托,见于,参,见
+refer somebody to~v:指出
+refer to~v:参看,参,按,查阅,见,参阅,参照,提,指,涉及,参见,参考,见于,提交
+refer to as~v:提交,称谓,归类
+referee~n:裁判,裁判员
+reference~n:参考,基准,提到,证明书,提及,依据,引证,委托,出处,介绍人,咨询,鉴定书,关系|v:引证,参考,交付
+reference book~n:参考书,工具书
+reference frame~n:参考系
+reference point~n:控制点,控制符
+reference room~n:资料室
+reference to~n:访问
+referendum~n:投票
+referential~a:参考系
+referral~n:介绍,提名,指示,指引
+refill~n:笔芯
+refine~v:提炼,改进,推敲,锤炼,精益求精,改善,精制,炼,澄清,精炼,斟酌,提纯,琢磨,炼制,美化
+refine oil~v:炼油
+refine on~v:改进,精益求精,斟酌
+refine on words~v:字斟句酌
+refine upon~v:改进,斟酌
+refined~a:文雅,风雅,精|v:脱俗
+refined interest~n:雅兴
+refined pleasure~n:雅趣
+refined taste~n:大雅之堂
+refinement~n:优雅,提炼,高尚,精密,精致,纯净,精制,精炼,改善,净化,精制品,提纯,微妙,大雅,精美|v:精制,提纯
+refineness~a:精美
+refinery~n:炼油厂
+refining~v:精炼,精练|n:精炼|a:精练
+refinishing~v:精制
+refit~v:整修,改装|n:整修,改装
+reflect~v:反映,反射,考虑,带来,思考,反应,回想,体现,映,弹回,非难,照,表现,辉映,招致,博得,转移,反响,反照,返照,诽谤,中伤
+reflect on~v:思考,回想,考虑
+reflect on oneself~v:反省
+reflect upon~v:回想,考虑
+reflectance~n:反射率,反射
+reflection~n:反射,反省,反映,影子,翻转,影像,弹回,倒影,丢脸,影,耻辱,感怀,非难|v:反射
+reflection arc~n:反射弧
+reflection furnace~n:反射炉
+reflection law~n:反射定律
+reflection layer~n:反射层
+reflection of light~n:反光,反照
+reflection surface~n:反射面
+reflections~n:感想|v:感怀
+reflectivity~n:反射率
+reflector~n:反射镜,反射面,反光镜,反射层,回光镜
+reflet~n:光泽,光彩
+reflex~n:反映,影像,倒影,显现|v:回复,反映,反射
+reflex image~n:复制品
+reflexion~n:反射
+reflexotation~v:反转
+refloat~v:打捞
+refloatation~n:打捞
+refluence~n:退潮,逆流,倒流
+refluent~a:倒流
+reflux~n:回流,退潮,倒流
+reform~v:改革,改造,改过自新,改良|n:改进,改正,悔改,维新
+re-form~v:改编
+reform oneself~v:改过自新
+reform oneself thoroughly~v:洗心革面
+reform radically~v:正本清源
+reform the society~n:移风易俗
+reform through labour~n:劳改,劳动改造
+reformation~n:改革,改造,修正|v:革新,改革,修正
+re-formation~n:再造
+reforming~v:变换,整形
+reformism~n:改良主义
+reformist~n:改良派
+reformists~n:改良派
+reformulate~v:修订,改订
+refract~v:折射,分析
+refracting~n:折射|v:折射
+refracting power~n:折射率
+refraction~n:折射
+refraction line~n:折射线
+refractive power~n:折光
+refractivity~n:折射率
+refractory~n:耐火材料|a:耐火
+refractory brick~n:火砖
+refractory clay~n:耐火黏土
+refractory material~n:耐火材料
+refrain~v:自制,抑制,避开,戒除,忍,避免,制止
+refrain from~v:避免
+refrain from comment~n:默不作声
+refresh~v:恢复,翻新
+refresh oneself~v:解乏,提神
+refreshed~a:爽快|v:爽快
+refreshed in spirit~a:心旷神怡
+refresher~n:食物,饮料,复习,酒|v:复习
+refreshing~a:清爽|v:沁人心脾,清香
+refreshingly~d:爽口
+refreshment~n:点心,心旷神怡,振作,提神,饮食
+refreshment car~n:餐车
+refreshment room~n:餐厅
+refreshments~n:茶点,小吃
+refrigerant~n:冷冻剂,清凉剂,冷却剂
+refrigerate~v:冷藏,冷冻,解热,冰镇
+refrigerating machine~n:制冷机
+refrigerating treatment~n:冷处理
+refrigeration~v:制冷,冷却,冷冻,冷藏|n:冰冻,冷冻
+refrigerator~n:冰箱,电冰箱,制冷机,冷冻机,冷藏库,冷冻箱
+refrigerator car~n:冷藏车
+refrigeratory~a:冰箱,冷库,冷却器
+refuel~v:加油
+refuge~n:避难所,避难,庇护|v:躲避,避难,庇护
+refuge shelter~n:避难所
+refugee~n:难民,逃亡者,流民
+refugees from justice~n:亡命之徒
+refulgence~n:辉煌,光辉,灿烂
+refund~v:归还|n:归还
+refund of duty~n:退税
+refurbish~v:刷新,翻新,整修
+refurbished version~n:翻版
+refusal~n:拒绝,谢绝
+refusal of entrance~n:闭门羹
+refuse~v:拒绝,拒,却,不予|n:糟粕,秽土,渣滓,废料
+refuse nobody~v:来者不拒
+refuse nobody's request~v:来者不拒
+refuse oil~v:废油
+refuse payment~v:拒付
+refuse to~v:拒绝
+refuse to acknowledge~v:不理
+refuse to admit~v:抵赖
+refuse to budge~v:僵持,相持
+refuse to comment~v:不置可否
+refuse to hear~v:充耳不闻
+refuse to obey~v:不服,不忿
+refuse to work~v:撂挑子
+refuse to yield~v:坚强不屈
+refuse with thanks~v:婉言谢绝,婉谢
+refutal~n:驳斥,反驳
+refutation~n:反驳|v:反驳
+refute~v:驳斥,驳倒,驳,批驳,辩驳,辟,抗辩,置辩,驳难|n:团
+refute a rumor~v:辟谣
+refute a rumour~v:辟谣
+refute slanders~v:辟谣
+regain~v:恢复,收回,收复,回到|n:收回,收复,恢复,回潮
+regain consciousness~v:苏醒,醒,清醒
+regain freedom~v:重见天日
+regale~v:款待,吃喝,欢娱|n:佳肴,盛宴|a:欢娱
+regalia~n:徽章,标记,勋章
+regality~n:王国,王位
+regard~n:关心|v:顾虑
+regard as~v:当,当作,算,作,当做,看成,作为,看做,认为,把
+regard as dangerous~v:视为畏途
+regard as important~v:看重
+regard as incorrect~v:不以为然
+regard as positive~v:肯定
+regard as shameful~v:耻
+regard as unimportant~v:等闲视之
+regard for oneself~n:自爱
+regard highly~v:器重
+regard oneself as~v:自命
+regard superciliously~v:傲视
+regard with equanimity~n:安之若素
+regard with indifference~n:安之若素,秋风过耳
+regardful~a:谨慎
+regarding~p:关于,对于,论
+regardless~a:不拘,不顾,不管|d:无论如何
+regardless of~p:不拘,不管,不顾,无|c:不问
+regardless of anything~p:不管三七二十一
+regardless of danger~p:不知死活
+regardlessness~n:不顾一切
+regards~n:敬意
+regency~n:政权,统治,摄政
+regeneracy~n:刷新,更生,新生,革新,再生
+regenerate~v:再生,恢复,革新,更生,悔悟,回收,改造|a:更生
+regeneration~n:再生,新生,更生|v:更新,还原,再生|a:更生
+regenerative read~n:再生
+regenesis~n:新生,更新,再生
+regent~n:学监,摄政王
+regicide~n:弑君
+regime~n:政权,状态,制度,统治,管理,方法,政柄,格律,政体,社会制度
+regimen~n:养生之道,政权,摄生,统治,支配,水情,政体
+regiment~n:团,支配,大量|v:编入
+regiment flag~v:团旗
+regiment headquarters~v:团部
+regimental~a:军服
+regimental flag~n:团旗
+regimentals monkey suit~n:军服
+regimentation~n:编制,类别,统治
+region~n:地区,区域,区,范围,地方,地带,层,域,邻近,地面,领域,区间,部位,局部,部,方,路,间隔,界,境,行政区,地域,地段
+regional price differences~n:地区差价
+regionalism~n:地方主义
+register~n:寄存器|v:对齐,注,登录,录
+register for examination~n:报考
+register of names~n:花名册
+register office~v:登记处
+register profound respect~v:肃然起敬
+registered letter~n:挂号信
+registered name~n:注册名
+registered permanent residence~n:户口
+registrar~n:记录员
+registration~n:登记,注册,记录,读数,签到,定位,对齐,挂号,报到,对准|v:对准
+registration fee~n:登记费
+registry~n:国籍,记录簿,登记,籍,注册处,登记簿,登记处,注册,记录
+regolith~n:浮土,表土
+regorge~v:倒流
+regosol~n:浮土
+regrate~v:囤积,售出
+regress~v:退化,倒退,复归|n:回顾,回归,退化,退步,退回
+regression~n:回归,复归|v:后退,退化
+regression line~n:回归线
+regret~v:遗憾,后悔,抱歉|n:痛惜|a:抱歉,遗憾
+regret deeply~v:悔恨
+regret forever~v:抱恨终天
+regretful~a:遗憾,懊,不过意
+regroup for battle~v:重整旗鼓
+regtangle~n:长方形
+regualtion~n:例规
+regular~a:规则,固定,定期,正规,正式,一定,正常,端正,正,板正,整齐,均匀,周正,健全,专任|n:修道士,例,班|d:完全,非常|p:经
+regular activities~n:组织生活
+regular air service~n:班机
+regular army~n:正规军
+regular battle~n:正规战
+regular bus~n:班车
+regular channels~n:正经
+regular customer~n:老主顾
+regular freight~n:慢件
+regular meal~n:餐
+regular meeting~n:例会
+regular pattern~n:规律
+regular polygon~n:正多角形
+regular polyhedron~n:正多面体
+regular procedure~n:例行公事
+regular professional training~n:科班
+regular register~n:正编,正册
+regular route~n:顺路
+regular routine~n:常例
+regular script~n:正字,楷,正书,真,正楷,正体,真书
+regular style~n:楷书
+regularity~n:规律性,定期,经常性,经常,匀称,整齐,正规,调和,规格
+regularization~n:整理,正规化,合法化,调整|v:正规化
+regularize~v:调整,整理,固定
+regularly~d:经常
+regulate~v:控制,调节,管理,规定,调整,厘,调剂,检束,对准,校准,管制,治,整顿
+regulate a family~v:治家
+regulating dam~n:拦河闸
+regulation~n:规则,规章,条例,调节,管理,控制,限制,节制|v:调整,管理,调节
+regulation tax~n:调节税
+regulations~n:规程,规章,条规,条例,例,清规,章程,清规戒律,守则,条令,章
+regulator~n:调节器,标准钟,标准,控制器,原则
+regulatory tax~n:调节税
+regurgitate~v:反刍,回流,翻胃,吐,反胃
+regurgitatetation~n:反胃,回流,反刍
+regurgitation~v:反胃,反刍|n:翻胃,反刍
+rehabilitate~v:重建,恢复,修理,复兴,复原,休养生息,平反,改善,善后,修复,昭雪
+rehabilitation~n:恢复,复原,康复,善后,平反,休养生息|v:复原,康复
+rehandle~v:改造
+rehash~v:炒冷饭,改作|n:改作
+rehear~v:重审,复审,再审
+rehearsal~n:排练,详述,排演,复述,练习,背诵
+rehearse~v:排练,排演,练习,讲述,朗诵,列举,总计,背诵,详述,预演,排
+rehearse a play~v:排戏
+reheat~v:温
+reheating furnace~n:加热炉
+reich~n:帝国,德国,国
+reign~v:统治,在位,当政|n:势力
+reign of terror~n:腥风血雨
+reign title~n:年号
+reimburse~v:补偿,赔偿,偿付,偿还,赔还,退款
+reimpression~n:重版
+rein~v:控制,勒|n:统治,牵制
+rein force~v:增兵
+rein in~v:勒
+reincarnate~v:投胎
+reincarnation~n:再生,转生,超生,化身,投胎
+reindeer~n:驯鹿,鹿
+reindeer moss~n:石蕊
+reinforce~v:增援,加强,增强,加固,补充,接应,求援,救应,充实,添加|n:援军
+reinforce each other~v:相生相克
+reinforced~v:加料
+reinforced bar~a:钢筋
+reinforced concrete~n:钢骨水泥
+reinforcement~n:增援,增强,援军,加固,支援,援兵,后援,构架
+reinforcements~n:生力军,后援,救兵,援军
+reinforcer~n:放大器
+reinforcing~v:补足
+reinforcing bar~n:铁筋,钢骨
+reinforcing dam~n:护堤
+reinforcing steel~n:钢筋
+reinforcing the spleen~n:培土
+reins~n:腰部,激情,爱情,感情,肾脏
+reinstate~v:恢复,复原,修理,起用,修补
+reinstate somebody in~v:恢复
+reinstatement~n:复原
+reinsurance~n:分保,再保险
+reinsure~v:分保,再保险
+reintegrate~v:恢复,重建,复兴
+reinvigorate~v:搞活
+reissue~v:补发,重排|n:改版
+reiterate~v:重申,反复
+reiteration~n:重申,重复,反复|v:重复
+reiterative location~n:叠字
+reject~v:拒绝,否决,剔除,排斥,拒收|n:下脚料
+reject off-hand~v:一笔抹煞
+reject tactfully~v:婉谢
+reject with thanks~v:辞谢
+rejectamenta~n:废物,海草,垃圾
+rejected material~v:废品
+rejection~n:拒绝,否决,抛弃,否定,驳回,排除,闭塞,阻碍,截止,废弃,舍去,抵制,丢弃,拒收,衰减,退回|v:截止,衰减,拒收
+rejects~n:等外品
+rejoice~v:高兴,有,庆祝,欢乐,庆幸,快乐,欢呼,欢喜,欢庆,开心,享有,欢腾,幸
+rejoice at something~v:高兴
+rejoice in~v:有,享有
+rejoicing~n:庆祝,欢呼,高兴,喜悦,欢声,欢庆,欢喜
+rejoin~v:回答,重返,抗辩,答辩,答应,答复,重逢
+rejoin one's unit~v:归队
+rejoinder~n:答辩,反驳,回答,回嘴
+rejuvenate~v:返老还童,再生,回春,翻身,复原,死灰复燃,复壮|n:返老还童
+rejuvenation~n:返老还童,更新,回春|v:回春,复壮
+rejuvenesce~v:复壮,返老还童
+rejuvenescence~n:返老还童,复壮,更新,回春|v:回春
+relapse~v:故态复萌,沉陷,堕落,回复,复发,退步,恶化|n:复旧,退步
+relapse into error~v:故态复萌
+relapsing fever~n:回归热
+relate~v:联系,讲述,涉及,讲,关联,叙述,符合,追叙,诉说,叙,述,关乎,诉|n:叙
+relate in detail~v:一五一十
+relate to~v:涉及,有关,关乎,系
+related~v:连带
+related by blood~a:亲,血
+relating to~n:关于
+relation~n:关系,亲戚,联系,关系式,亲属,叙述,讲述,故事,告发,比率|v:讲述
+relation between people~n:人际关系
+relation by marriage~n:姻
+relation of production~n:生产关系
+relational expression~n:比例式
+relations with people~n:人头,人缘
+relationship~n:关系,联系,关系式,亲缘,交,义,亲戚
+relative~n:亲戚,亲属,亲人|a:亲|p:关于
+relative family~n:关系户
+relative humidity~n:相对湿度
+relative importance~n:轻重
+relative school~n:戚族
+relative to~p:有关,关于
+relatively~d:相对,较,比较,较比,相互
+relatively complemented~v:互补
+relatives~n:党,亲戚,亲属,六亲
+relatives by marriage~n:亲家,姻娅
+relativism~n:相对主义,相对论,相对性
+relativity~n:相对论,相对性,相关
+relativity theory~n:相对论
+relax~v:放松,松弛,松懈,缓和,休息,松驰,弛缓,放宽,松,松快,和缓,缓解,松散,削弱,宽绰,休养,减少,娱乐|a:弛缓,宽绰,弛懈,和缓,宽
+relax one's efforts~v:松劲,松气
+relax restrictions~v:放宽
+relax the pressure~v:减压
+relax throat~v:咽喉炎
+relaxation~n:缓和,放松,松弛,松驰,舒张,休息,解闷,弛缓,娱乐,削弱,宽舒,松懈,放宽,减轻,衰弱,休养|v:削弱|a:弛缓
+relaxed~a:轻松,松快,轻,松动,缓,宽心,清爽,轻快,松散
+relay~n:继电器|v:转播,传达,接替,转发,中继,接力,替班
+relay baton~n:接力棒
+relay broadcast~n:转播
+relay intercropping~n:套作
+relay line~n:中继线
+relaying~v:中继|a:中继
+release~n:释放|v:发布
+release connection~n:断开
+release from~n:免除
+release of~n:释放
+releasing~v:脱扣
+relegate~v:委托,贬谪,丢弃,谪,贬,谴,贬黜,束之高阁,指示,驱逐,移交,充军,降职
+relegation~n:贬黜,移交,归属,降职,委托,驱逐,充军
+relent~v:缓和,发慈悲,松口,心平气和,转租
+relentless~a:毫不留情,恶狠狠,狠
+relevance~n:关系,贴切,中肯,关联,相关
+relevancevancy~n:适当
+relevancy~n:关联
+relevant~v:相应,相关|a:贴题
+relevant to~a:有关
+reliability~n:可靠性,安全性,确实,守信用
+reliable~a:可靠,靠得住,确切,稳当,牢靠,牢稳,确实,稳妥,准,确,忠实,可信,妥靠,稳,信实
+reliable agent~n:腹心
+reliablity~n:可信度
+reliably~d:确
+reliance~n:信赖,信任|v:信任
+relic~n:遗物,残余,遗风,遗迹,遗念,遗俗,故迹,纪念物
+relics~n:陈迹,废墟,遗骸,遗址
+relict~n:寡妇,残余,遗孀
+relief~n:救济,减轻,起伏,安慰,缓解,地形,地势,救援,援救,释放,地貌,慰藉,安心,卸载,救济品,救助,解围,替班,显著|v:替班,释放,援救,换班
+relief block~n:凸版
+relief feature~n:地形
+relief pressure valve~n:减压阀
+relief printing~n:铅印
+relief troops~n:援军
+relief valve~n:安全阀
+relieve~v:减轻,解除,缓解,缓和,宽,周济,免除,救济,减少,接班,纾,换防,济,接防|a:宽,宽绰
+relieve a cough~v:止咳
+relieve a garrison~v:换防,接防,移防
+relieve a sentry~v:换岗
+relieve against~v:映衬
+relieve anxiety~v:解忧
+relieve itching~v:止痒
+relieve nature~v:大小便
+relieve of~v:解除
+relieve oneself~v:解,大小便,便,净手
+relieve somebody's misery~v:救苦救难
+relieve summer heat~v:消暑
+relieve the bowels~v:大便
+relieve the bowls~v:便溺
+relieved~a:宽心,清爽,放心
+relieving~v:显露
+relievo~n:浮雕
+religion~n:宗教,信仰,教|v:教
+religious~n:修士,修女
+religious leader~n:教主
+religious painting~n:宗教画
+religious section~n:教派
+relinquish~v:放弃,捐,停止,让出,作罢,废除,捐弃,放松,撤回,放开
+relinquish one's hold~v:撒手
+reliquiae~n:化石,遗物
+relish~n:味,佐料,滋味,劲,美味|v:品味
+relish plain food~v:饥不择食
+relive~v:苏醒,再生,复活
+relocatability~v:浮动
+relocate~v:搬迁
+relocated households~n:搬迁户
+reluctance~n:不愿,勉强,嫌厌
+reluctancetancy~n:反抗,厌恶
+reluctancy~n:勉强
+reluctant~a:不愿
+reluctant to depart~a:依依
+reluctant to part~a:依依惜别
+reluctantly~d:勉强
+rely~v:依靠,依赖,信赖,赖,信任,挟,仰赖,倚赖,倚仗,依托,倚,有赖于,仗恃,仰,赖以,依傍,聊
+rely on~v:凭,凭借,仰赖,依托,倚,冯,挟,仗恃,负,据,赖以,仰,依,仗,指,靠,聊,信赖,依傍,怙,赖,倚靠,倚仗,托,有赖于
+rely on hearsay~v:贵耳贱目
+rely on oneself~v:自力更生
+rely upon~v:依靠,信赖
+rely upon it~v:肯定
+relying on~v:凭着,凭借
+remain~v:在,仍,保持,留,依然,剩,剩下,停,留下,有待,停留,残留,搁置,遗留,逗留,残存,留存,余,遗址,归于,现存,留成,剩余|n:化石,遗迹,遗体,遗址,遗风,遗物,遗嘱,余额
+remain a bachelor~v:打光棍儿,打光棍
+remain a layman~v:在家
+remain as before~v:依然如故
+remain calm~v:面不改色
+remain completely unmoved~v:无动于衷
+remain firm~v:岿然不动
+remain forever~v:万古长存
+remain free~v:无拘无束
+remain immortal~v:万古长存
+remain impenitent~v:怙恶不悛,执迷不悟
+remain in bed~v:卧床不起
+remain in employment~v:留用
+remain in obscurity~v:默默无闻
+remain in office~v:留任
+remain inactive~v:按兵不动
+remain indifferent~v:漠不关心,无动于衷
+remain nothing~v:片瓦无存
+remain on balance~v:存
+remain silent~v:不则声,闷声不响,默默无言,三缄其口
+remain stagnant~v:停滞不前
+remain strictly neutral~v:不偏不倚
+remain the same~v:仍旧
+remain unchanged~v:原封不动,依然如故
+remain uncontaminated~v:一尘不染
+remain unconvinced by~v:不服
+remain uncorrupted~v:两袖清风,清风两袖
+remain under cover~v:隐藏
+remain unmoved~v:岿然不动,不为所动
+remain unperturbed~v:恬
+remain unruffled~v:处之泰然
+remain with~v:归于,属于
+remain within doors~v:足不出户
+remain youthful forever~v:永葆青春
+remainder~n:余数,剩余,余额,残余,废墟,遗物|v:余存,余剩
+remaindership~n:继承权
+remaining~v:残存,余下|a:余,残
+remaining confederated~n:余党
+remaining confederates~n:余党
+remaining doubt~n:存疑
+remaining part~n:尾
+remaining prestige~n:余威
+remaining style~n:余风
+remaining sum~n:余额,余款
+remaining taste~n:余味
+remaining trace~n:残迹
+remaining trace sign~n:残迹
+remaining years~n:余年,晚年
+remains~n:遗体,遗骸,残骸,残余,遗迹,遗物,尸体,头,遗骨,遗容,尸身
+remake~v:改造,改作,翻新,修改|n:翻新,改造,修改
+remand~v:检查,检阅,召回,送还|n:召回,退押
+remanence~n:剩磁
+remark~n:话|v:议论,表示,留意,陈述
+remark on~n:批评,评论
+remark upon~n:评论,批评
+remarkable~a:显著,杰出,出色,卓越,不同凡响,了不得,漂亮,殊,炳,卓异,倬|v:不同凡响
+remarkable ability~n:神通
+remarkable people~n:风流人物
+remarkable spectacle~n:奇观
+remarkably to life~p:惟妙惟肖
+remarks~n:用语,备注
+remarque~n:标记
+remarriage~n:再嫁,再婚|v:再婚
+remarried wife~n:后妻
+remarry~v:复婚,再婚,再嫁,后续,转嫁,续弦,走步,改嫁
+re-marry~v:再婚
+rematch~n:复赛
+remeber~v:记得
+remedial teaching~n:补课
+remediation~n:辅导,补习,补救
+remedy~v:纠正,挽救|n:公差,纠正
+remedy allowance~n:公差
+remember~v:记得,记住,记,想起,回忆,记忆,问候,牢记,致意,追想,记取,谂,识,忆及,追
+remember fondly~v:想念,思念
+remember past kindness~v:饮水思源
+remember with concern~v:惦,惦记
+remember with longing~v:想,想念
+remembr~v:记住
+remembrance~n:纪念,回忆,纪念品,记忆,回想,问候,追忆,记忆力,纪念碑,致意,耳性
+remembrancer~n:纪念品
+remind~v:提醒,指出,打招呼
+remind of~v:提醒,指出
+reminder~n:通知,提示,信号
+reminisce~v:话旧,追怀,追,追想
+reminiscence~n:回忆,回忆录,记忆力,追忆|v:回忆
+remise~v:出让
+remiss~a:粗心大意|v:怠
+remission~n:缓解,汇款,延期,平息,宽恕,减轻,免除,松弛,减退,交付,缓和
+remission of tax~n:免税
+remissness~n:疏失
+remit~v:免除,汇款,豁免,汇,释放,宽恕,减轻,延期,展期,和缓,付款,放弃,付,缓和,汇寄,开发,送交,停止,汇兑,豁,减退
+remit money~v:汇款
+remittal~n:减轻,免除,宽恕,赦免
+remittance~n:汇款,汇兑,支付,开发
+remittance fee~n:汇水,汇费
+remittance order~n:汇款单
+remitter~n:复位
+remitting charge~n:汇费
+remnant~n:残余,零头,残存,残部,剩,剩余,遗迹,底子,余烬,残,头,尾,遗风,幸存者|a:残
+remnant troops~n:残兵
+remnants~n:残余
+remodel~v:改造,重建,装修,改编,改作,改变
+remold~v:改造
+remonstrance~n:劝告,规劝,抗议,责备,抗辩,规谏,忠告
+remonstrate~v:抗议,规劝,责备
+remonstrate against~v:抗议
+remonstrate earnestly~v:苦口婆心
+remonstrate with~v:谏
+remonstratefff~v:忠告
+remonstration~n:抗议
+remontoir~n:发条
+remora~n:障碍物,阻碍,障碍
+remorse~n:悔恨,后悔,疚,沉痛,自责,同情心,怜悯,痛悔,慈悲
+remorseful~a:懊,愧恨
+remote~a:远程,遥远,偏僻,远,偏远,久远,边远,远距离,悠悠,辽远,悠远,迢迢
+remote ages~n:上古
+remote antiquity~n:太古
+remote area~n:绝域
+remote cause~n:诱因
+remote kinsfolk~n:远亲
+remote measurement~n:遥测
+remote metering~n:遥测
+remote mountain area~n:山旮旯儿
+remote place~n:边鄙
+remote regions~n:天涯海角
+remote sense~n:遥感
+remote sensing~n:遥测,遥感
+remote-control~a:遥控
+remoteness~n:偏僻,远离
+remotest~d:太|a:太
+remotest places~n:天边
+remotion~n:移动,离开
+remould~v:改型
+remount~v:回到,回溯
+remous~n:涡流
+removal~n:除去,迁移,切除,移动,排除,去掉,杀害|v:移动,转移,移植
+removal of mines~n:排雷
+remove~v:除去,消除,去掉,去,清除,除掉,排除,搬走,摘除,取消,除,脱掉,撤职,拿走,迁移,移,搬,解除,起,收拾,消失,搬家,拆卸,撤除|n:间隔,移动,阶段
+remove designation of~v:摘帽子
+remove dust~v:除尘
+remove from office~v:革除,罢免,革
+remove ill fortune~v:消灾
+remove mines~v:排雷
+remove the beret~v:摘帽子
+remove the seal~v:启封
+remover~n:搬运工
+remover plate~n:垫板
+removing the phlegm~n:祛痰剂
+remunerate~v:报酬,酬报,酬劳
+remuneration~n:酬金,工资,待遇,补偿,报酬,赔偿,酬劳
+remuneration for writing~n:笔资
+ren~n:任
+renaissance~n:文艺复兴,复兴,复活,新生
+renal calculus~n:肾结石
+rename~v:改名
+renascence~n:复活,再生,复兴,更生
+renconter~n:决斗,冲突
+rencontre~n:论争,论战
+rencounter~v:冲突,交战|n:决斗
+rend~v:割裂,响彻,劈开,裂开,撕裂,分裂,撕碎
+rend away~v:抢走
+rend in two~v:一分为二
+rend out of~v:抢走
+render~v:翻译,演奏,表现,给予,使得,归还,表示,打底,放出,粉刷,反映,放松,报答,炼,抹灰,提出,放弃,交付,交纳,提取,托付,移交,描写,让出,反响,让给,演出,致使|n:打底,粉刷
+render assistance to~v:帮助,援助
+render great service~v:有功
+render lip service~v:徒托空言
+render meritorious service~v:立功
+render obedience to~v:归顺
+render one's services~v:犬马之劳
+render support to~v:支持
+render to~v:付给
+render unfeasible~v:架空
+render unto~v:交还
+render up~v:让给,让出
+rendering~n:演奏,翻译,描绘,抹灰,提炼,译文,打底,译本|v:粉刷,炼油
+rendering plant~n:炼油厂
+rendezvous~v:集合,聚会,会见,聚集,相遇|n:集合
+rending~v:断裂,裂开
+rendition~n:再现,给予,施行,翻译,放弃,演奏|v:给予,复制,引渡
+renedy~n:药物
+renegade~v:背叛,变节|n:叛匪
+renege~v:背信,拒绝,违约,否认,食言
+renegue~v:拒绝,否认,背信
+renenal~v:复原
+renew~v:恢复,新,继续,展期,续借,更新,更换,补充,更生,更新换代,换取,重建,更改|a:新,更生
+renew cordial relations~v:重修旧好
+renew one's subscription~v:续订
+renew one's youth~v:返老还童
+renewal~n:恢复,延期,更新,展期|v:复原,更新,修补,更换
+renewedly~d:重新
+renew-friendly relations~n:重修旧好
+renicapsule~n:肾上腺
+renieratene~n:胡萝卜素
+renminbi~n:人民币
+renounce~v:放弃,背弃,抛弃,弃权,摒除,否认
+renounce the world~v:出世
+renouncement~n:放弃,否认
+renovate~v:整修,修复,更新,修缮,革新,刷新,整治,整,改善,修理,修补,翻新,恢复,修葺,翻改
+renovate a house~v:翻盖
+renovation~n:翻新,更新,革新,修补|v:革新,翻新,回复,修复
+renown~n:名望,声威,声誉,威名,传闻,名人,声望,传说,名声
+renowned~a:著名,闻名|v:驰名,闻名
+rent~n:分裂,谷,断口,裂缝,租子,裂隙,分歧,实物地租,峡谷,租价|v:租借,佃
+rent deposit~n:押租
+rent land~n:佃
+rent out~v:出租,租
+rental~n:租金,租钱,收入
+renter~n:出租人,佃户,承租人,房客,租户
+renunciation~n:放弃,自制,拒绝,废弃,出家,断念,否认,弃权,抛弃
+reoccupy~v:收复
+reopen a case~v:翻案
+reorganization~v:改组,改编|n:改组,改编
+reorganize~v:改组,整,改造,改编,整编,整备,整顿,整理,改革
+reorganize troops~v:整编
+reorientation~n:改变
+rep~n:名气,名声,代表,名誉
+repack~v:改装
+repackage~v:改装
+repair~v:修理,修,去,修好,修复,修缮,修补|n:依靠,矫正,赔偿,订正,依赖,补偿
+repair a wrong~v:赔不是
+repair factory~n:修配厂
+repair part~n:备件
+repair piece~n:备品
+repair plant~n:修配厂
+repair shop~n:修理厂,机修厂
+repair the road~v:管路
+repair the roads~v:修路
+repair to~v:赴,往,去
+repairman~n:修理工
+reparation~n:赔偿,补偿,修补|v:赔偿,弥补,修补
+reparations~n:赔款
+repartition~v:分配,分割,划分|n:划分,分配
+repast~n:饮食,饭菜,膳食,食物,饭|v:就餐,设宴
+repatching~v:修补
+repatriate~v:遣返,回国,遣送
+repatriation~n:遣返
+repay~v:还,偿还,报答,回报,报复,报,报偿,偿,回敬,酢,酬报,酬
+repay favours granted~v:补报
+repay with thanks~v:酬谢
+repayment~n:偿还,偿
+repayment of capital~n:还本
+repayment of principal~n:还本
+repeal~v:取消,废除,撤消,作废,撤回,召回,撤销|n:废除,取消,撤销,撤回,作废
+repeat~v:重复,反复,背诵,复述,重演|n:复制,再说,重播,拷贝
+repeat a lesson~v:背书
+repeat each other~v:千篇一律
+repeat endlessly~v:刺刺不休
+repeat from memory~v:背诵
+repeat once again~v:三翻四复
+repeat others' ideas~v:人云亦云
+repeat the performance~v:重演
+repeat to memory~v:背
+repeatability~n:重复性
+repeated~a:累,频仍
+repeated addition~n:叠加
+repeated orders~n:三令五申
+repeatedly~d:一再,反复,多次,屡次,再三,亟,接二连三,屡屡|a:两次三番
+repeatedly advise~v:叮嘱
+repeatedly attempt suicide~v:寻死觅活
+repeatedly declare~v:口口声声
+repeater~n:循环小数,惯犯,围盘,中继器
+repeating~a:中继|v:中继
+repel~v:排斥,拒绝,击退,抵制,推却,抵抗,弹回,反驳,斥,拒
+repellent~n:驱虫剂,防水布
+repelling~v:挡板|n:挡板
+repent~v:后悔,忏悔,悔恨,悔改,悔悟,追悔|n:后悔
+repent genuinely~v:洗心革面
+repent of~v:抱憾
+repent one's error~v:悔过
+repent too late~v:悔之晚矣
+repentance~n:后悔,悔改,悔悟|v:悔改
+repentant~a:遗憾
+repercussion~n:影响,余波,反响,击退,返回|v:弹回
+repercussions~n:余波
+repertoire~n:清单,剧目,目录
+repertory~n:库存,目录,宝库,索引,积贮,搜集,仓库,保留剧目,贮藏
+reperuse~v:重读
+repetition~n:重复,反复,背诵,拷贝,重读,留级|v:重复
+repetitiveness~n:重复性
+repine~v:不满,发牢骚,向往
+replace~v:代替,取代,替代,替换,更换,撤换,更,接替,接任,置换,还,更新,赔偿,倒换,顶替,替,代换,更替,换位,倒替,交替,替补,调换,送还|d:更
+replace somebody~v:取而代之
+replaceable~a:移位,置换,归还,交代,替换,替代,代换
+replacement~n:取代,更换,置换,替换,交代,替代|v:替代,置换,交代,更换
+replacement part~n:备件
+replacing~v:复位,代换,置换
+replant~v:移植,补种,再植
+replay~v:重演,重播|n:重演
+replenish~v:补充,装满,填,添补,追加,充实,加强
+replenish one's stock~v:进货
+replenisher~n:显影剂
+replenishment~n:补充,充实,补给,供给,充满
+repletion~n:充分,充满,满足,充实
+replica~n:复制品,拷贝,复印,反复,摹本
+replicate~v:复制,重复
+replication~n:复制,重复,复印|v:复制,重复
+reply~v:回答|n:反响,报复
+reply by letter~n:函复
+reply defiantly~v:顶嘴
+reply to~v:答复,回答
+report~v:报告,报道|n:炮声,速记,意见书,名气
+report a matter~v:呈报
+report achievement~n:报功
+report as unserviceable~v:报废
+report back~v:回禀,回
+report card~n:成绩单
+report for approval~v:报批
+report for duty~n:归队,报到
+report of artillery~n:炮声
+report of gun~n:炮声
+report on~n:举报
+report one's arrival~v:报到
+report secretly~v:密告
+report success~n:报喜
+report tax returns~v:报税
+report to~n:呈报
+reportage~n:报告文学,报道
+reportedly~d:据报道
+reporter~n:记者,通讯员,指示器
+reporting station~n:情报站
+reposal~n:托付,信托,信赖
+repose~n:长逝|v:长逝,信赖,基于,休憩,倚靠
+repose confidence in~v:信任
+repose on~v:安睡,基于
+reposit~v:归还,贮藏,保存,取代
+reposition~n:贮存,安置,保藏,保存|v:换位
+repository~n:仓库,宝库,容器,心腹,墓室,店铺,博物馆,知识库
+repossess~v:取回
+repossession~n:取回
+repot~v:移植
+reprehend~v:申斥,责难,指摘,非难,谴责
+reprehension~n:非难,谴责,指摘,申斥
+represent~v:代表,表示,表现,描述,象征,扮演,描写,代理,描画,上演,意味,比拟
+representation~n:表示,代表,抗议,模型,陈述,表达式,表象,建议,代理,画像,演出|v:再现
+representative~n:代表,议员,典型,继承人|a:典型
+representative assembly~n:代表大会
+representativeness~n:代表性,典型性
+repress~v:镇压,压抑,抑制,制止,压制,压迫,抑,约束
+repression~n:阻遏,镇压,压制,抑制,制止|v:阻遏
+reprieve~n:缓刑,暂缓|v:缓刑,暂缓
+reprimand~v:斥责,训斥,谴责|n:惩戒
+reprint~v:重印,转载,再版,翻本|n:翻版,再版,单行本
+reprisal~n:报复,赔款
+reprise~v:重复,重演
+reprises~n:租金
+reproach~v:责备|n:污辱
+reproach abusively~v:痛骂
+reprobate~v:谴责,非难,痛斥,拒绝,罚|n:恶棍
+reprobation~n:反对,斥责,摈弃,排斥,拒绝,异议
+reprocess~v:再生,回收
+reprocesse~v:还魂
+reproduce~v:繁殖,复制,再现,重现,生殖,转载,传种,仿造,孳,演示,复写,再版,再生产,增殖,翻印
+reproducer~n:扬声器
+reproducing needle~n:唱针
+reproducing stylus~n:唱针
+reproduction~n:繁殖,复制,复制品,生殖,再现|v:再现,生殖,再生产,复制,放映,复写
+reproduction rate~n:繁殖率
+reproductive capacity~n:繁殖力
+reproductive force~n:繁殖力
+reproductive organ~n:生殖器
+reprogram~v:改编
+reproof~n:谴责,责备,责骂
+reproval~n:责备,责骂
+reprove~v:责备,训斥,数落,指斥,谴责,责骂,责,斥骂
+reprove for~v:责备
+reptile~n:爬行动物,爬虫
+reptilian~a:爬虫|n:爬行动物
+republic~n:共和国,共和,国家
+republic of china~n:中华民国
+republican~n:共和党
+republican party~n:共和党
+republicanism~n:共和
+republication~n:重版,再版
+republish~v:重版
+repudiate~v:拒绝,遗弃,否认,否定,推倒,批判,辟,推翻,驳斥,驳倒,拒付,赖
+repudiate a debt~v:赖账
+repudiation~n:批判,拒绝,拒付,推翻,驳斥,撤销|v:撤销,拒付
+repugn~v:反对
+repugnance~n:厌恶,冲突,憎恶
+repugnancenancy~n:厌恶,反对,矛盾
+repugnancy~n:厌恶,冲突
+repugnant~a:反感,讨厌|v:讨厌
+repulse~v:拒绝,击退,驳倒,挫败,反击,击败,谢绝,却,排斥,推开|n:反击
+repulsion~n:排斥,斥力,厌恶,反驳,嫌恶,拒绝,反击,消散
+repulsive~a:丑恶
+repulsive force~n:斥力,推斥力
+reputation~n:名声,名誉,声誉,声望,信誉,名气,声名,名,名望|v:闻
+reputation for immorality~n:秽闻
+repute~v:看做,名誉,称为,评价,闻|n:名声,信用,名誉,名望
+reputedly~d:据说
+reputedly a tyrant~n:纣
+request~v:要求,请求,请,恳请,求|n:需要|a:烦
+request another's help~v:请托
+request instructions~v:请示
+request reinforcements~v:求援
+requiem~n:安魂曲,挽歌
+require~v:需要,要求,需,命令,责,请求
+require of~v:需要
+requirement~n:要求,需要,需求,条件,需要量,规格,资格,必需品,必要条件
+requirements~n:口径
+requisite~n:要素,必需品,要件|a:必要
+requisition~n:需要,要求,通知书,必要条件,命令,征调,征发,索取|v:征用,要求,征购,召集,征调
+requisition ground~n:征地
+requisitioning of grain~n:征粮
+requital~n:罚,报酬,还礼,复仇,报答,补偿
+requite~v:回报,报,报酬,报答,还礼,偿,酬谢,补偿,酬报
+requite favours~v:报恩
+rerail~n:复轨
+reramp~v:整修
+reread~v:重读
+rerecording~v:配音,转录
+rerun~v:重复
+res~n:事件,事,物件,实体
+resale~n:转卖
+rescind~v:撤消,废除,撤销,解除,退,删除,作废,取消
+rescind a contract~v:解约
+rescind a prohibition~v:开禁
+rescission~n:废除,解除,取消,撤销,解约|v:撤销
+rescript~n:副本
+rescue~v:救,抢救|n:援救
+rescue boat~n:救生艇
+rescue squad~n:救护队
+rescuer~n:救兵,救星
+research~v:研究|n:调查,探测,追究
+research fellow~n:研究员
+research institute~n:研究院
+research into~n:研究
+research on~n:研究
+researcher~n:研究者,研究员,研修生
+reseau~n:网格
+resect~v:切除
+reseed~v:补种
+resell~v:转卖,转手
+resell at a profit~v:倒卖
+resemblance~n:相似,像,神似,肖像,样子,外观,外表,外形
+resemble~v:像,类似,相似,象,宛如,相像,肖,摹写,仿|a:相似,相像|n:类
+resend~v:退还,送还
+resent~v:憎恨,愤恨,怨望,恼恨,望
+resent deeply~v:痛心疾首
+resentful~a:不满,愤懑,不平,反感,悻然,冯,悻悻
+resentment~n:怨恨,愤慨,愤怒,憎恨,怨气,愤,怨望,怼,恩怨,嫌,嫌怨|v:怨尤,怨恨,怨艾,怨
+reserpine~n:利血平
+reserpinum~n:利血平
+reservation~n:保留,预订,预定,但书,限制,条件,先决条件,预约,声名
+reserve~n:储备|v:贮藏|a:后备
+reserve force~n:后备军
+reserve fund~n:公积金
+reserve part~n:备品
+reserve space~n:虚
+reserve strength~n:后劲
+reserve tank~n:副油箱
+reserved~a:矜持,含蓄,拘谨|v:不苟言笑,沉默寡言
+reserved copy~n:正本
+reserver tank~n:副油箱
+reserves~n:后备军,储藏量,储量
+reservoir~n:水库,容器,油箱,贮藏,水槽,蓄积|v:贮藏
+reset~v:复位,复原,清除,重排,转接,移栽
+resetting~v:还原,复位
+reshape~v:改造
+reshape nature~v:改天换地
+reshaping~v:整形
+reshipment~n:转载
+reshuffle~v:改组
+reshuffling~v:改组
+reside~v:属于,住,居住,存在,居,住家,住居,居留,归于,寓
+reside in~v:住家
+residence~n:住宅,居住,住所,落,寓所,宅,住家,窝巢,宅子,宅邸,居所,寓,居,留存,住处|v:落
+residency~n:居住
+resident~n:居民|a:常驻
+resident bird~n:留鸟
+resident family~n:住户
+resident student~n:寄宿生
+residential area~n:居民区,住宅区,居民点
+residential district~n:街道
+residential quarter~n:住宅区
+residential quarters~n:住宅区
+residual~n:上演税,残渣,后遗症|a:残留,剩余|v:残留
+residual hazard~n:残毒
+residual magnetism~n:剩磁
+residual magnetization~n:剩磁
+residual products~n:副产品
+residuary~a:剩余
+residue~n:残渣,余数,残余,剩余,渣,渣滓,余款,脚,木屑,废渣
+residuum~n:残渣,残余,副产品,剩余
+resign~v:辞职,辞去,放弃,退出,退职,委托,引退,离职,下台,听从,让出,隐退|n:辞去
+resign from~v:辞职
+resign from office~v:退职
+resign in resentment~v:掼纱帽
+resign one's right~v:下台
+resign oneself to~v:认,甘心
+resign sovereign authority~v:让位
+resignation~n:辞职,辞呈,服从,听从,听任,退职,断念,抛弃,忍受,让位
+resile~v:回来,折回,弹回,畏缩,躲避
+resilience~n:弹性|v:弹回
+resin~n:树脂,松香,松脂
+resin fall~n:脱胶
+resinoid~n:香精
+resinous carbon~n:松脂
+resinous wood~n:明子
+resipiscence~n:悔过自新
+resist~v:抵抗,抵制,抗拒,抗,抗击,阻止,反对,抵挡,抵御,反抗,阻碍,御,违背,敌对,击退,抗争|n:防腐剂,防染剂
+resist desperately~v:负隅顽抗
+resist disease~v:抗病
+resist force~v:抗暴
+resist forcible drafting~v:抗丁
+resist foreign aggression~v:御侮
+resist heat~v:耐热,抗热
+resist invasion~v:御侮
+resist orders~n:拿三搬四
+resist the drought~v:抗旱
+resistance~n:抵抗,阻力,电阻,反抗,电阻器,抗拒,敌对,抵御,阻抗|v:抵抗
+resistance force~n:阻力
+resistance pressure~n:阻力
+resistant~a:防腐剂
+resistant to~a:抵抗
+resisting~v:抗拒
+resisting arrest~n:拒捕
+resisting force~n:阻力
+resistivity~n:电阻率,抵抗
+resistor~n:电阻,电阻器
+resolute~a:坚决,果断,毅,果|v:决绝
+resolutely~d:毅然,决然,狠狠,雷厉风行
+resolutely decide~v:狠心
+resolution~n:决议,决心,决定,分辨率,分辨,坚决,解决,分解,果断,清晰度,决断,离析,解答,归结,变形,转化,刚毅|v:分辨,解析
+resolution power~n:分辨率
+resolution ratio~n:分辨率
+resolve~v:决定,解决|n:决断,议决,铁
+resolve a doubt~v:释疑,析疑
+resolve after deliberation~v:议决
+resolve doubts~n:析疑
+resolve to~v:奋
+resolved~a:坚决
+resolvent~n:溶剂
+resolver~n:分解器
+resolving~v:溶解,解析
+resonance~n:共振,共鸣,同步,调谐,谐振,反响|v:共鸣
+resonance oscillation~n:共振,谐振
+resonance vibration~n:共振
+resonant~a:洪亮,响亮,嘹亮,豁亮
+resonate~v:共鸣,共振,回响|n:共振,共鸣
+resonating~v:调谐
+resonator~n:共鸣器,共振器
+resort~v:求助,诉诸,采用,玩弄,玩,倚靠,动用,会集|n:手段
+resort on~v:凭借
+resort to~v:玩弄,玩,诉,动用
+resort to arms~n:用兵,用武
+resort to bribery~n:行贿
+resort to deceit~n:弄虚作假
+resort to demagogy~n:蛊惑人心
+resort to force~n:动武
+resort to forces~n:动武
+resort to fraudulence~n:偷梁换柱,偷天换日
+resort to sophistry~n:狡辩,强词夺理
+resort to violence~n:武斗
+resound~v:回荡,回响,响彻,传遍,赞扬,传播,反响,共振,亮
+resound through~v:响彻
+resounding~v:共振,回声,反响,亮|a:高亢,响亮,亮|n:反响,回声
+resounding through~n:响彻
+resource~n:资源,方法,物力,手段,消遣,能力,娱乐,机智,智谋,才略
+resourceful~a:机智,智
+resourceful person~n:智多星
+resourcefulness~n:智谋
+resources~n:财力,资源,财源,利,家底
+resourrces~n:资源
+resow~v:补种
+respect~n:方面|v:戴,奉,关心,敬|a:贵
+respectability~n:体面,礼仪,尊严,威望,习俗,可敬
+respectable~a:体面,可敬,尊贵,高尚,正经
+respectable behaviors~n:亮节高风
+respected~a:可敬,尊贵|v:有头有脸
+respectful~a:恭敬,谨,穆,肃,寅|d:谨|v:肃然
+respectfully~d:肃然|v:敬
+respectfully presented by~v:敬赠
+respectfulness~n:敬意
+respecting~p:关于,鉴于,由于
+respective~a:各自
+respectively~d:分别,各自,各别
+respiration~v:呼吸|n:呼吸
+respirator~n:口罩,防毒面具
+respiratory organ~n:呼吸器官
+respiratory system~n:呼吸系统
+respiratory tract~n:呼吸道
+respire~v:呼吸,休息,生活
+respite~n:休息,休养,延期,缓刑|v:喘息,延期,缓期
+resplendence~n:辉煌,灿烂
+resplendenceency~n:光辉,光彩
+resplendency~n:辉煌
+resplendent~a:华丽,华,靡丽|v:鲜艳夺目
+resplendent sunset~n:火烧云
+resplendent with jewels~a:珠光宝气
+respond~v:反应,回答,响应,应,应答,答腔,应付,符合,答理,感应,唱和,履行,答,答应,一致,搭腔,报,搭理,负责|n:对称
+respondence~n:反应
+respondenceency~n:反应,符合,回答,响应,适合
+respondency~n:反应
+respondent~n:反射,应答,被告,反应|v:应答
+response~n:反应,响应,回答,特性,答复,回音,反响,感应,灵敏度|v:应答,回答,响应
+response quickly~n:应答如流
+response rate~n:灵敏度
+responsibility~n:责任,职责,事,责任感,负担,责任心,言责,干系,荷,责,可靠性
+responsible~a:负责
+responsible for~a:担负,负责
+responsory~n:唱和
+respublica~n:国家,联邦,共和国
+ressentiment~n:憎恶
+rest~v:休息,靠|n:架,托
+rest assured~n:确信
+rest content~n:安,乐天知命
+rest day~n:假日
+rest easy~v:高枕无忧
+rest for~n:休息
+rest home~v:休养院,休养所
+rest house~n:客栈,休养所,监狱
+rest in peace~n:安息
+rest on~n:有赖,依靠,依赖
+rest one's heart~v:放心
+rest room~n:厕所,休息室,化妆室
+rest satisfied~n:心满意足
+rest under tree~n:歇荫
+rest upon~n:依靠
+rest with~n:归于,在,落
+restate~v:重述,重申
+restatement~n:重述
+restaurant~n:餐馆,饭馆,饭店,餐厅,馆子,酒家,饭庄,菜馆
+restaurant waiter~n:堂倌
+restful~a:安生|v:安生
+resting bud~n:休眠芽
+resting frequency~n:中频
+restitute~v:复原,复旧,退赔,归还,赔偿
+restitution~n:赔偿,复职,归还,恢复,复原,偿还,解调
+restless~a:不安,躁|d:忽忽
+restless in bed~a:辗转反侧
+restless with anxiety~a:焦躁
+restoration~n:恢复,修复,复辟,复兴,痊愈,复原,归还,再造,复职,光复|v:复位,回复,复原,更新
+restoration stage~n:恢复期
+restorative~n:补药,补品|a:滋补
+restoratives~n:补药
+restore~v:恢复,修复,归还,重建,复兴,修补,修理,还原,复活,复辟,补正,复,复原,翻修,痊愈,整修,再造,复旧
+restore ancient ways~n:复古
+restore good relations~v:和好
+restored to health~v:康复
+restoring menstrual flow~n:通经
+restrain~v:克制,约束,抑制,制止,限制,防止,收敛,束,抑,律,钤,制,敛,管束,捺,绳,收,辖制,抑遏,约,拘束,牵制,限定,戢,拘,束缚|n:克,束|a:拘束
+restrain one's grief~v:节哀
+restrain one's selfishness~v:克己
+restrain oneself~v:检,收敛,自持,忍耐
+restrained~a:矜持
+restraint~n:克制,约束,限制,拘束,抑制,禁止,束缚,监禁|v:约束,制约,阻止,抑制|a:拘泥
+restrict~v:限制,拘束|a:拘束
+restrict one~v:画地为牢
+restricted~a:有限,管|v:限制性
+restricted area~n:禁区,重地
+restricted experience~n:坐井观天
+restricted message~n:密电
+restriction~n:限制,限制性,约束,自制,樊篱,框框,拘束|v:约束
+restrictive~a:限制性
+restrictly~d:从严
+restrictor~n:闸门
+restroom~n:厕
+restructure~v:调整,改组
+result~n:结果|v:导致
+result from~n:由于
+result in~n:得,落得,酿,招致,归于,致使,引致
+resultant~n:结果,合力,生成物,后果,合成,组合,产物
+resultant force~n:合力
+resultant of forces~n:合力
+results~n:收获
+resume~v:继续,恢复|n:概要,履历表,概略
+resume class~n:复课
+resume classes~n:复课
+resume friendship~n:言归于好
+resume growth~n:返青
+resume one's post~v:复职
+resume work~v:复工
+resumption~n:取回,概要,收回,继续
+resurfacing welding~n:堆焊
+resurge~v:苏醒,复活
+resurgence~n:苏醒,复活,中兴,复苏|v:复苏,复活,回潮
+resurgent~a:中兴,恢复,复兴|v:恢复
+resurgentgence~n:复活
+resurrect~v:复活,复苏,复兴,死而复生
+resurrection~n:复活,复兴,恢复
+resurret~v:恢复
+resurvey~v:复查|n:复查
+resuscitate~v:救活,复活,复苏,复兴
+resuscitation~n:复苏,复兴,复活,回生|v:复苏
+ret~v:浸渍,沤,渍
+ret saw~v:钢丝锯
+retail~v:零售,转述,传播|n:零售|d:零卖
+retail dealer~n:零售商
+retail department~n:小卖部
+retail price~n:零售价
+retail sale~n:零售
+retail section~n:小卖部
+retail trade~n:零售业
+retailer~n:零售商,零售店
+retain~v:保留,保持,记住,维持,保有,拦蓄,维系,存,雇用,聘用
+retain freshness~v:保鲜
+retained fluid~v:饮
+retainer~n:仆从,随从,挡板,定位器,侍从,门客
+retaining~v:制动
+retake~v:克复
+retaliate~v:报复,回报,倒算,还击
+retaliation~n:报复,反击,倒算
+retard~v:延迟,妨碍,延缓,推迟,阻滞,阻止,减速,迟延,放慢,迟到,耽误,减缓|n:耽误,迟延,阻止,迟滞,妨碍
+retardate~n:白痴
+retardation~n:阻碍,迟延,留级,推迟,阻滞,迟钝,迟滞,制动,延迟|v:制动
+retarded pulse~n:迟脉
+retarder~n:减速器
+retch~v:干呕,反胃,呕吐,作呕,恶心
+rete~n:网
+retell~v:复述,重述,再说
+retention~n:保持,滞留,保留,记忆力,潴留,拘押,监禁|v:滞留
+retention of urine~n:癃,尿潴留
+retenue~n:谨慎,节制,克制
+rethink profoundly~v:反思
+reticence~n:保留,沉默,含蓄,缄默
+reticency~n:含蓄,缄默,沉默,保留
+reticent~a:沉默,沉默寡言,默默无言,不苟言笑|v:沉默寡言
+reticently~d:默默无言
+reticulation~n:网状
+reticulum~n:蜂巢胃
+retina~n:视网膜,网膜
+retinue~n:左右,随员,侍从,扈,随从
+retionalise~v:合理化
+retire~v:退休,就寝,退居,撤退,退役,退隐,收回,离开,退职,离职,后退,辞退,告退,退却,离休|n:退隐
+retire from army~v:退伍
+retire from office~v:引退
+retire with honors~v:离休
+retire without worries~v:高枕无忧
+retired~v:离休,退休
+retired gentleman~n:寓公
+retired pay~n:退休金
+retiredness~n:离群索居
+retirement~n:退休,退职,退役|v:辞退
+retirement annuity~n:退休金
+retirement pension~n:退休金
+retirement with honors~n:离休
+retorsion~n:报复
+retort~n:反驳|v:反击
+retortion~n:报复
+retouch~v:修改,修饰,润色,润饰,描
+retrace~v:回溯,回想,折返,回顾,退回,回忆,折回|n:回程
+retrace one's steps~v:走回头路
+retract~v:缩回,撤消,食言,取消,收回,撤回,翻,收起
+retract one's promise~v:自食其言
+retract one's testimony~v:翻供
+retractation~n:撤回,缩回
+retractility~n:伸缩性
+retracting stroke~n:倒转
+retraction~n:撤回,取消,撤消,收回,缩回
+retransformation~v:逆变换
+retransmission~v:转发
+retransmit~v:重播,转播
+retread~v:翻新
+re-tread~v:走回头路
+retreat~v:撤退|n:默想,收容所
+retreat from~v:放弃,撤退
+retrench~v:紧缩,节省,缩减,俭约,减缩,精简,撙节,减少
+retrenchment~n:节约,缩减,紧缩,省略,删除|v:紧缩
+retrial~n:复审,再审|v:复审,再审
+retribution~n:报复,惩罚,报酬,报应,报,报答
+retribution for evildoing~n:恶报
+retribution for sin~n:因果报应
+retributive justice~n:天公地道,因果报应
+retrieval~n:检索,弥补,取回,挽回,修补,补偿|v:复原,检索,补救
+retrieve~v:检索,挽回,取回,恢复,回收,想起,追回,收复,收回,找回,补偿|n:恢复,找回,挽回
+retro~n:复旧,怀旧
+retroact~v:追溯,反作用
+retroaction~n:反馈,反作用
+retrocede~v:交还,退还,归还,后退,退却
+retrocession~n:后退,交还|v:后退
+retrofire~v:发动
+retrofit~v:翻新,改型
+retroflex~n:卷舌音
+retroflex vowel~n:卷舌元音
+retroflexionflection~n:翻转
+retrogradation~n:后退,逆行,退化,倒退,退步|v:退化,衰退,倒退
+retrograde~v:堕落,后退,退步,退化,逆行,倒退|a:后退
+retrograde motion~n:逆行
+retrogration~v:后退
+retrogress~v:衰退,退步,退化,倒退
+retrogression~n:逆行,衰微,退化,退步,倒退,堕落,后退,衰退,消退|v:后退,减退,退化,衰退,倒退
+retropulsion~v:后退
+retrospect~n:回想|v:回顾,回想,追忆,追溯
+retrospection~n:回想,回顾,对证
+retroversion~n:倒退,回顾,翻转|v:退化,倒退
+retry~v:重审,再审
+retting~v:浸渍
+return~v:回来,回到,返回,回,恢复,再,还,还给,回答|n:回答,汇报|d:再
+return a blow~v:回手
+return a compliment~v:回敬
+return a deposit~v:退押
+return a salute~v:回礼,还礼
+return a solute~v:答礼
+return alive~v:生还
+return board~v:滑板
+return bottom~v:滑板
+return coupling~v:反馈
+return fire~v:还击,回击
+return for~v:报答
+return for report~n:回报
+return fully loaded~v:满载而归
+return green~v:返青
+return home~v:回乡,回老家
+return in triumph~n:回师
+return money found~n:拾金不昧
+return of goods~n:退货
+return of health~n:复发
+return of spring~n:回春
+return receipt~v:回执
+return something~v:发还
+return something to~v:归
+return something with thanks~v:奉还
+return streamer~v:回流
+return stroke~v:回程,回击
+return the salute~v:回敬
+return ticket~v:来回票
+return to~v:返回,还给,恢复,复,回
+return to base~n:返航
+return to life~n:还阳,故态复萌
+return to power~n:东山再起
+return to school~n:返校
+return to stations~n:返防
+return to work~v:复工
+return trip~v:回程
+return visit~v:回拜,回访,答拜
+return water~v:回水
+return with thanks~n:璧还
+returned purchase~v:退货
+returned student~v:留学生
+returned students~v:留学生
+returning security money~n:退押
+reunion~n:团聚,团圆,和解,复合,聚会
+reunion dinner~n:团圆饭
+reunite~v:团聚,完聚
+reussin~n:芒硝
+reuter~n:路透社
+reuters~n:路透社
+reuter's news agency~n:路透社
+rev~n:旋转|v:变速
+revalue~v:升值
+revamp~v:补钉,修补,翻新,改装,修改,修理,补缀,改制
+revea~v:和盘托出
+reveal~v:透露,显示,暴露,揭示,泄露,显露,揭露,露出,现,展现,给,披露,吐露,看,亮,展示,告诉,现出,表露,流露,点化,揭发,露,透漏,启示,走,默示,说穿,道破|n:窗框,显露
+reveal everything~v:和盘托出
+reveal itself~v:出现
+reveal one's features~v:显形
+reveal one's sorrows~v:倾吐
+reveal oneself~v:显现
+revel~v:狂欢,沉迷,作乐,陶醉,狂喜|n:欢乐
+revel in~v:爱好,陶醉
+revelation~n:启示,透露,泄露,揭发,暴露,显示,默示,圣经
+revelry~n:狂欢|v:狂欢
+revenant~n:幽灵
+revenge~n:报复,报仇|v:报仇,报复
+revengeful murder~n:仇杀
+revenue~n:收入,税收,总收入,岁入,收益,所得,钱粮
+revenue stamp~n:印花
+reverberate~v:回荡,回响,回音,反射,弹回,反响|n:回响
+reverberate through~v:响彻
+reverberation~n:回声,反响|v:反射
+reverberator~n:反射镜,反射炉
+reverberatory~a:反射炉
+revere~v:敬重,尊敬,尊,尊崇,钦仰,宠,敬畏,敬仰,敬慕,崇敬
+revered earliest ancestor~n:不祧之祖
+reverence~n:崇敬|v:崇敬,敬畏
+reverend~n:牧师|a:大师
+reverent~a:穆,恭,虔敬
+reverie~n:梦幻,沉思,遐想,白日梦,幻想,空想,妄想,梦想,幻想曲
+revers~n:翻领
+reversal~n:颠倒,反转,倒转,换向,逆转,撤消,反向,逆向,反复|v:反转
+reverse~v:倒置,掉换,推倒,倒退,翻转,换向,扭转,摧折,逆转,交换,可逆|n:逆向,反向,倒转,反对,背面,失败,左转,不幸,挫折,颠倒,倒刺|a:逆向
+reverse a case~v:翻案
+reverse a decision~v:翻案
+reverse a sentence~v:翻案
+reverse a verdict~v:翻案
+reverse dive~v:翻滚
+reverse drive~v:回程
+reverse feedback~v:负反馈
+reverse flow~v:逆流
+reverse one's course~v:走后门
+reverse proportion~v:反比例
+reverse ratio~v:反比例
+reverse running~v:回程
+reverse side~v:反面,反
+reverse the verdict~v:翻案
+reverse transformation~v:逆变换
+reverse turn~v:反转
+reversed~v:颠倒,反|a:反
+reversed image~n:倒像
+reversement~v:反转
+reversibility~n:可逆性,可逆
+reversible~a:可逆,双面
+reversible atavism~n:返祖现象
+reversible cell~n:蓄电池
+reversible jacket~n:两用衫
+reversing~v:换向
+reversing winch~n:卷扬机
+reversion~n:逆转,继承权,颠倒,复归|v:回潮,回复
+revert~v:回想,回复,恢复,归还,返回,复归,归属,复辟,继承,犯,还原|n:归属,继承
+revert to~v:恢复,犯
+revery~n:幻想,梦想
+revet~v:巩固
+revetment~n:驳岸,被覆,护坡
+review~v:回顾,复习,评论,检阅,复审|n:反省,习题,复审,回忆
+review a case~n:复审
+review questions~n:复习题
+review troops~n:阅兵,嵬
+reviewal~n:复习
+reviewer~n:评论员
+revile~v:诽谤,勾当,辱骂,诟骂,漫骂,唾骂,咒骂
+revisal~n:修正,修订,校订
+revise~v:修改,复习,改变,修订,校正,改编,修正,订正,删改,校阅,校订,改,订,温习|n:订正,校订
+revise finalized~v:删改
+reviser~n:检查员
+revision~n:修正,修改,修订,校对,修订本,复审,校订,订正,上诉,审校|v:校订
+revision bill~n:修正案
+revisionism~n:修正主义|v:修
+revisit~v:回到
+revisit the homeland~v:故地重游
+revitalization~n:新生
+revitalize~v:复兴,休养生息
+revival~n:复兴,复活,苏醒,苏,再生,更生
+revive~v:恢复,苏醒,复活,复兴,死灰复燃,振奋,复原,缓,死而复生,更新,苏,稣,还魂,再生,更生|a:更生
+revive after death~v:还魂
+reviver~n:酒,兴奋剂
+revivification~n:苏醒,再生,复原,还原,复活|v:还原,苏醒
+reviving~v:返青
+reviviscence~n:复活,苏醒,再生,复苏
+revivtication~v:苏醒
+revocation~n:撤销,废除,取消,撤回,解除
+revoice~v:应答
+revoke~v:吊销,取消,废除,撤销,作废,撤消,解除,吊,收回|n:废弃
+revoke verbal evidence~v:翻供
+revolt~v:反感|n:暴乱
+revolt against~v:悖,叛逆
+revolting~v:不堪入耳,令人作呕|a:不堪入耳
+revolution~n:革命,转,旋转,公转,运行,转速,回转,周转|v:旋转,公转,回转
+revolutionary~n:革命,革命家,红色|a:左,红
+revolutionary army~n:革命军
+revolutionist~n:革命者,革命家
+revolutionize~v:革新
+revolve~v:绕,旋转,转动,转,公转,围绕,运行,考虑,思索,运转,环绕,周转,旋绕,打转,运,循环,旋
+revolve around~v:旋绕,环绕
+revolve round~v:围绕
+revolvement~v:旋转
+revolver~n:左轮,转炉,转轮手枪
+revolving chair~n:转椅
+revolving shaft~n:转轴
+revolving table~n:转台
+revue~n:活报剧,滑稽剧
+revulsion~n:反感,突变,嫌恶,诱导|v:突变
+reward~n:奖金,劳金,劳务费,惩罚|v:奖
+reword~v:改写
+rewrite~v:改写,修改,改订
+rex~n:王
+rhachiokyphosis~n:驼背
+rhagadia~v:皲裂
+rhapsody~n:狂想曲,狂热,狂喜
+rhea~n:苎麻
+rhenium~n:铼
+rheometer~n:电流计
+rheomicrophone~n:微音器
+rheoscope~n:验电器
+rheostat~n:变阻器
+rhesus~n:猕猴,狙
+rhesus monkey~n:猕猴
+rhetoric~n:修辞,辩才,修辞学,辞藻|a:花言巧语
+rhetorical flourishes~n:空话
+rhetorical question~n:反问
+rheum~n:感冒
+rheuma~n:感冒
+rheumatic~a:风湿痛
+rheumatic disease~n:风湿病
+rheumatism~n:风湿病,风湿痛,风湿,痹
+rheumatismus~n:风湿病
+rheumatosis~n:风湿病
+rhine~n:莱茵
+rhinesthesia~n:嗅觉
+rhinestone~n:水晶
+rhinitis~n:鼻炎
+rhino~n:犀牛
+rhinocarcinoma~n:鼻癌
+rhinoceros~n:犀牛,犀
+rhinoceros horn~n:犀角
+rhinolalia~n:鼻音
+rhizel~n:根基
+rhizina~n:假根
+rhizine~n:根部
+rhizoid~n:假根
+rhizoma~n:地下茎,根茎
+rhizoma arisaematis~n:天南星
+rhizoma corydalis~n:延胡索
+rhizome~n:根茎
+rhizopertha dominica~n:谷蠹
+rhodesia~n:罗得西亚
+rhodium~n:铑
+rhododendron~n:杜鹃花
+rhodopsin~n:视紫质
+rhodora~n:杜鹃
+rhomb~n:菱形
+rhombencephalon~n:后脑
+rhombus~n:菱形
+rhonchus~n:鼻音
+rhubarb~n:大黄,争吵
+rhyme~n:诗,韵,韵脚|v:叠韵|a:压韵
+rhyme scheme~n:韵律
+rhymed dialogue~n:对口词
+rhymed formula~n:诀
+rhymes~n:词韵
+rhyming dictionary~n:诗韵
+rhyolite~n:火山岩
+rhysema~n:皱纹
+rhythm~n:节奏,节律,节拍,韵律,配合,抑扬,拍子,匀称,周期性,调和
+rhythmical~a:抑扬顿挫,有板有眼
+rhythmical language~n:韵语
+rhythmical prose style~n:骈体
+rhythmicity~n:韵律
+rialto~n:交易所,市场
+riata~n:套索
+rib~n:肋骨,肋,肋条,少女|v:戏弄
+rib cuff~n:罗口
+rib top~n:罗口
+ribaldry~n:下流话,下流
+ribbed velvet~n:灯心绒
+ribbed velveteen corduroy~n:灯心绒
+ribbing~n:垄,开玩笑,翅脉,田垄,挖苦|v:扩大
+ribble-rabble~n:胡言乱语
+ribbon~n:丝带,缎带,碎片,带,绶带,色带,飘带,带子,帽带,发条
+ribbon gymnastics~n:带操
+ribbon iron~n:扁钢
+ribbonfish~n:带鱼
+ribes~n:醋栗
+riboflavin~n:核黄素,维生素
+ribose~n:核糖
+ribosome~n:核糖体
+ribs~n:骨子,排骨
+ribtickler~n:笑料
+rice~n:大米,米饭,米,水稻,稻子,稻,稻米,稻谷,白米
+rice basket~n:箪
+rice bran~n:糠秕
+rice cake~n:米糕
+rice chaff~n:砻糠,稻糠
+rice cooker~n:饭锅
+rice fat~n:米脂
+rice field eel~n:黄鳝
+rice flour~n:米粉
+rice grain~n:糁,米粒
+rice grains~n:米粒
+rice grass~n:稻草
+rice gruel~n:米粥
+rice hull~n:稻壳
+rice huller~n:砻
+rice husk~n:稻壳,粞
+rice milling~n:碾米
+rice paper~n:卷烟纸
+rice paper pith~n:通草
+rice porridge~n:大米粥
+rice pudding~n:米糕
+rice seedlings~n:稻秧
+rice shell~n:稻壳
+rice shoots~n:稻秧
+rice shouts~n:稻秧
+rice steamer~n:甑,甑子
+rice transplanting~n:插秧
+rice water~n:稀粥
+rice weevil~n:蛘
+ricebird~n:芙蓉鸟
+rice-cooker~n:饭锅
+rice-flour noodles~n:米粉
+rice-paper plant~n:通脱木
+rich~a:富,丰富,富有,有钱,肥沃,阔气,阔,富饶,浓郁,富足,丰盛,醇厚,肥美,殷实,充实,肥|v:腆,饶
+rich coal~n:肥煤
+rich family~n:大户
+rich field~n:沃田
+rich in~n:富于,富有
+rich in wisecracks~n:妙趣横生
+rich man~n:财主,阔佬,大款
+rich men's sons~n:膏粱子弟,纨绔子弟
+rich multicolored decorations~n:花团锦簇
+rich ore~n:富矿
+rich people~n:富民,富人
+rich rice-producing area~n:米粮川
+rich talent~n:才华
+rich water~n:肥水
+rich with fragrance~n:菲
+richard~n:理查
+riches~n:财富,丰富,钱财,财帛,钱
+richly endowed~v:富饶
+richly fragrant~a:香馥馥
+richness~n:富有,富丽,财富
+rickback~n:回程
+rickets~n:佝偻病
+rickety~v:东倒西歪|a:东倒西歪
+ricksha~n:人力车,黄包车
+rickshaw~n:胶皮,人力车,黄包车,洋车
+ricochet word~v:重言
+ricolite~n:蛇纹石
+rictus~n:裂口,张口
+rid~v:摆脱,去掉,释放,免除,清扫,救,扫除
+rid oneself of~v:摆脱
+riddance~n:除去,驱除,摆脱,去除
+riddle~v:穿孔,解谜,解|n:哑谜
+riddling~v:过筛
+ride~v:骑,骑马,坐,乘|n:乘坐
+ride a hobby~v:爱好
+ride blind~v:鲁莽灭裂
+ride for fall~n:自讨苦吃
+ride hell-for-leather~v:快马加鞭
+ride horseback~v:骑马
+ride in~v:乘
+ride roughshod over~v:欺凌,欺负,欺压,一意孤行
+ride the fore-horse~v:一马当先
+ride the whirlwind~v:叱咤风云
+rider~n:骑士,接穗,马贼,武士,附笔,夹层,系,行商
+rider sheets~n:垫板
+ridge~n:山脊,山梁,脊,山岭,屋脊,分水岭,岗,书脊,鼻梁,顶部,埂子,地塄,栋梁,波峰,上部,梁,垄,脊梁,山脉,沟,棱,岭,垄坎,脊背,岗子,山嘴,田埂|v:培土
+ridge beam~n:栋梁
+ridge of field~n:田埂
+ridge of wave~n:波峰
+ridge planting~n:垄作
+ridge tillage~n:垄作
+ridge-bordered plots~n:畦田
+ridged field~n:畦田
+ridge-like things~n:垄
+ridgepiece~n:脊檩
+ridgepole~n:栋,栋梁,脊檩
+ridging~v:培土
+ridicule~v:嘲笑,揶揄,讥笑,取笑|n:笑话,笑柄,愚弄
+ridiculous~a:可笑,不成体统,好笑|v:不成体统
+riding~n:骑马|v:乘车
+riding breeches~n:马裤
+rifacimento~n:改写
+riff~n:涟漪,礁石
+riffle~n:涟漪,波纹,急流,沟槽,微波,成功,胜利|v:翻,流过
+riffraff~n:痞,流氓,痞子,群氓,废物,渣滓,地痞
+rifle~v:洗劫|n:来复线
+rifle practice~n:打靶
+rifle range~n:靶场
+riflebird~n:风鸟
+rifleman~n:步兵,枪手
+riflery~n:枪弹
+rifling~n:膛线
+rift~n:裂痕,裂谷,裂缝,断裂,分裂,罅隙|v:断裂,裂开
+rift valley~n:裂谷
+rig~n:钻塔|v:控制
+rig up~v:拼凑,囤积居奇
+rigger~n:脚手架,骗子
+rigging~n:衣服,机构,服装,设备,屋脊,装置|v:装配
+rigging line~n:吊索
+right~n:权利|v:改善,救济,竖立,拯救|d:很|a:真的|i:唉
+right a wrong~v:洗雪,申冤,湔雪
+right after~p:就
+right against~p:劈
+right alone~v:不断
+right angle~n:直角
+right angle axes~n:直角坐标
+right as trivet~p:平安无事
+right away~v:当时,跟着,当儿,就
+right beside one~p:手头
+right by~p:旁边
+right deviation~n:右倾
+right down~p:完全
+right field~n:右翼
+right flank~n:右翼
+right forward~v:右锋
+right hand~n:右手
+right in front~v:对面
+right line~n:直线
+right mindedness~n:正义感,正直
+right now~v:刚才,马上,此时,当下
+right of possession~p:占有权
+right of privacy~p:隐私权
+right of property~p:财权
+right of recall~p:罢免权
+right of rent~p:佃权
+right of residence~p:居留权
+right of use~p:使用权
+right of way~n:主动权
+right of work~p:劳动权
+right off~v:马上,立刻
+right out~p:直接
+right over head~v:当头
+right round~v:各处,处处
+right side~n:右边,右耳
+right to defense~p:辩护权
+right to life~p:生存权
+right to vote~v:表决权
+right up to~v:直到
+right up until~p:直到
+right way~n:正路
+right wing~n:右翼
+right winger~n:右翼
+right wrongs~n:拨乱反正
+right-about~n:改变,转变
+righten~v:整顿
+righteous~a:公正,正人君子|v:雅正|n:正义
+righteous anger~n:义愤
+righteous ardor~n:热血
+righteous ardour~n:热血
+righteous cause~n:大义
+righteous indignation~n:理直气壮,义愤
+righteousness~n:正义
+right-eyed flounder~n:鲽
+right-falling stroke~n:捺,磔
+rightful~a:合法,正当
+right-hand man~n:左右手,膀臂
+right-hand seat~n:下手,下首
+rightists~n:右派
+rightly~d:当然
+rightness~n:正确,公正,恰当,正直,无误,正义|v:适合
+rights~n:权限
+rigid~a:严格,僵,呆板,死,刚,硬性,生硬,机械,死板,板板六十四,死硬,划一不二,呆滞,硬挺,执著|v:划一不二,硬挺|d:刚
+rigid control~n:束缚
+rigid fixing~n:固定
+rigid uniformity~n:一刀切
+rigidify~v:固定,僵化
+rigidity~n:刚性,刚度,顽固,刚直,坚硬,精密,严峻,僵直,严格,严厉|a:坚硬,僵直
+rigidly adhere to~v:死守,拘泥
+rigmarole~n:废话,梦呓,鬼话
+rigor~n:苛刻,寒冷,苛求,严寒,发冷,严厉,生硬,寒战,僵硬
+rigorous~a:严格,严,严谨,严峻,厉
+rigorously enforce~v:厉行
+rigour~n:严格,困苦,严密|a:寒冷,生硬
+rigourous~a:严寒
+rigsdag~n:国会
+riksdag~n:国会
+rile~v:激怒
+rilievo~n:浮雕
+rill~n:溪流,沟纹,谷
+rille~n:沟纹,谷
+rim~n:边框,缘,边沿,海面,眼镜框,边|v:镶
+rim saw~n:圆锯
+rimble-ramble~n:傻话
+rime~n:树挂,雾凇,结晶,霜,韵律
+rimifon~n:雷米封,异烟肼
+rimless~a:无边
+rimmer~n:轮辋
+rimocidin~n:链霉素
+rimrock~n:悬崖
+rind~n:皮子,外表,外层,外观,外皮,树皮,表面,果皮
+rinderpest~n:牛瘟
+ring~n:戒指,环|v:登录,收下,鸣|a:卷绕
+ring around~v:围住
+ring circuit~n:环路
+ring current~v:环流
+ring exercise~n:圈操
+ring flange~n:法兰盘
+ring form~n:环形
+ring latch~n:挂锁
+ring leader~n:首领
+ring of encirclement~n:包围圈
+ring off~v:挂
+ring out~v:响起
+ring road~n:环路
+ring saw~n:圆锯
+ring the bell~v:按铃
+ring up~v:登录,挂,收下
+ring worm~n:发癣
+ringed pheasant~n:山鸡
+ringer~n:电铃,骗子,铁环,成功
+ring-fence~n:围墙,束缚,限制
+ringing~a:清朗
+ringleader~n:头头儿,罪魁,罪魁祸首,头目
+ringlet~n:卷发
+ringlike~n:环状|a:环形
+ringman~n:赌客
+ring-pull can~n:易拉罐
+rings~n:吊环
+ringworm~n:金钱癣,体癣,癣,癞癣
+rink~v:溜冰|n:溜冰场
+rinse~v:冲洗|n:清洗
+rinse out~v:洗涤
+rinse the mouth~v:漱口
+rinsing~n:冲洗,渣滓,残渣,漂洗|v:冲洗|a:水洗
+rio de janeiro~n:里约热内卢
+riot~n:骚乱,暴乱,暴动|v:挥霍,骚动,乱,防暴,暴动
+riot shield~n:盾牌
+rioter~n:暴徒
+rip~v:撕开|n:激流,浪子,废物
+rip open~v:剖,剖开
+rip up~v:撕碎
+ripe~a:成熟,熟
+ripen~v:成熟,长成,催熟
+ripeness~n:成熟
+ripening~a:成熟
+rip-off~n:偷窃,骗取
+riposte~v:还击
+ripper~n:派性
+ripping~v:开裂
+ripple~v:荡漾,卷,漾,浮动|n:水波,波动
+ripples~n:涟漪
+rippling~v:涟漪|n:涟漪
+rippling wheat~n:麦浪
+riprap~n:乱石
+rips~n:涟漪
+riptide~n:激流
+rise~v:起来,升起,上涨|n:复活,苏醒,出头|a:高涨
+rise above~v:超越
+rise above self~n:舍己为人
+rise abruptly~v:崛,崛起
+rise again~v:回升,死而复生,再生
+rise at cockcrow~n:鸡鸣而起
+rise beyond~v:没
+rise high~n:突起,飞黄腾达,凌,高涨
+rise in~v:起源
+rise in insurrection~n:举事
+rise in price~n:调价,贵
+rise in rank~n:晋级
+rise in rebellion~n:造反,揭竿而起,叛乱
+rise in resistance~n:揭竿而起
+rise in revolt~n:发难,作乱
+rise in revolution~n:闹革命
+rise in swarms~n:蜂起
+rise in value~n:增值
+rise of itself~n:油然而生
+rise rapidly~v:腾飞
+rise sharply~v:崛起
+rise steeply~v:壁立
+rise straight up~v:耸
+rise suddenly~v:勃兴,骤增
+rise superior to~v:战胜
+rise to prominence~n:崛起
+rise up~v:升起
+rise up together~v:群起
+rise vigorously~v:奋起
+rise well~v:出
+risen~v:涨,上升
+risibility~n:可笑
+rising~n:反抗,起义,上升,苏醒,出现,起床,起立,复活,高地,疙瘩,起来|v:蒸腾
+rising edge~n:前沿
+rising force~n:浮力
+rising star~n:后起之秀
+rising stroke~n:剔,提,挑
+rising sun~n:旭日,朝日
+rising tide~n:涨潮
+rising tone~n:阳平
+risk~n:风险,危险|v:冒险|a:危险
+risk at all~v:万无一失
+risk on something~n:压
+risk one's life~v:舍命,拼命,拼死,舍死忘生,出生入死,舍生忘死
+risk universal condemnation~n:冒天下之大不韪
+risky~a:险
+rite~n:仪式,惯例,礼仪,习惯,仪,典礼,礼
+ritual~n:仪式,典礼,式
+ritualistic formalities~n:繁文缛节
+rivage~n:河岸,海滨
+rival~v:比美,匹敌,竞争,抗衡,媲美,对抗,伦比|n:对手,敌手,竞争者
+rival in love~n:情敌
+rival in trickery~n:斗心眼儿,斗心眼
+rival show~n:对台戏
+rivalry~n:竞争,对抗,竞赛
+rivalship~n:竞争,对抗
+rive~v:分裂,扯裂,撕开,劈开,折断,裂开,撕裂,撕碎|n:碎片
+rivel~v:干瘪
+rivelling~n:条纹
+river~n:河,河流,水,江,江河,河面,河川,川
+river bank~n:河边,湄,河堤,河沿,汜,河岸,江岸
+river bed~n:河身
+river bend~n:崴,河湾,隈
+river boat~n:江轮
+river canal~n:河槽
+river channel~n:河道,河槽
+river deer~n:獐子,獐,麇
+river eel~n:河鳗
+river embankment~n:河堤
+river flat~n:河漫滩
+river head~n:河源
+river levee~n:河堤
+river mud~n:河肥
+river network~n:河网
+river pilot~n:领江
+river port~n:河港,口岸
+river rapids~n:河滩
+river side~n:河畔
+river source~n:河源
+river steamer~n:江轮
+river valley~n:河谷
+river wall~n:河堤
+river water~n:江水
+river work~n:河工
+riverain~a:河流
+riverbank~n:河边
+riverbed~n:河床,河槽
+riverhead~n:水源,河源
+riverport~n:港,口岸
+rivers~n:河流,江河,水流
+rivers and lakes~n:江湖
+rivers and mountains~n:江山
+riverside~n:河边,浦,江干,河沿,河岸
+river-side~n:河边,河畔
+riverway~n:河道
+rivet~v:铆接,铆,加深|n:铆,铆钉
+rivet bond~v:铆接
+rivet connection~v:铆接
+rivet joint~v:铆接
+rivet up~v:铆接
+rivet worker~v:铆工
+riveter~n:铆工,铆钉枪,铆机
+riveting~v:铆接|n:铆工
+riveting gun~n:铆钉枪
+rivulet~n:小溪,溪,溪流
+riyuetan pool~n:日月潭
+rna~n:核糖核酸
+roach~n:蟑螂,蜚蠊,岩石
+roach back~v:弓背
+road~n:路,道路,公路,马路,铁路,道,路途,车行道,干道,办法,街道,路程,手段,隧,涂,行程,方法,行车道,途径,路道,途,锚地,陌,途程|v:涂
+road bed~n:道床
+road block~n:路障,路卡
+road bridge~n:公路桥
+road closed~n:此路不通
+road delineator~n:指路牌
+road junction~n:道口
+road lamp~n:路灯
+road leveling machine~n:压路机
+road map~n:路线图
+road of bridge~n:桥面
+road regulations~n:路规
+road repairing~n:修路
+road roller~n:压路机
+road shoulder~n:路肩
+road show~n:巡回演出
+road side~n:路边
+road sign~n:路徽
+road to ruin~n:绝路
+road toll~n:养路费
+road wagon~n:货车
+road wheel~n:车轮
+roadbed~n:路基,路面,行车道,道床
+roadblock~n:路障,障碍,困难
+roader~n:行人
+roadhouse~n:客店,客栈
+roadside~a:路边,路旁|n:路边
+roadstead~n:锚地
+roadster~n:马车夫,跑车,流浪者
+roadway~n:车行道,道路,路,铁路,车道,巷道
+roam~v:漫游,漫步,逛,闲逛,云游,浮游,流荡|n:漫游,闲逛,游荡,游历
+roamer~n:流民
+roar~v:吼,呼啸,吼叫,咆哮,怒吼|n:鼓噪
+roar down~v:咆哮
+roar lights~v:极光
+roar out~v:说唱
+roar with laughter~n:哗笑,哈哈大笑,哄然大笑,绝倒
+roaring~n:咆哮,吼声,怒号|v:呼啸|a:兴旺
+roaring blade~n:浪子
+roaring blaze~n:烈焰
+roaring flame~n:烈焰
+roaring waves~n:狂澜
+roars of laughter~n:狂笑
+roast~v:责备,炙,炒,焙烧,烧|n:烧肉,炒,焙烧,烘
+roast meat~v:炙,烤肉
+roasted broad bean~n:铁蚕豆
+roaster~n:烤箱
+rob~v:抢劫,抢,盗,掠夺,打劫,抢夺,盗窃,劫掠,偷走,剽,盗劫,劫,掠,打家劫舍,盗掘,行劫
+rob a tomb~v:盗墓
+rob of~v:抢走
+robber~n:强盗,抢劫犯,盗贼,盗寇,强人,盗犯,暴客,响马
+robbers~n:盗贼,盗匪
+robbery~n:抢劫,盗窃,劫夺,盗案,抢夺
+robe~n:长袍,礼服,浴衣,衣服,袍子,罩袍,法衣,官服,袍,制服,衣柜|v:装扮,穿上
+robe-de-chambre~n:晨衣
+robert~n:罗伯特
+robin~n:知更鸟,歌鸲
+roborant~n:强壮剂
+robot~n:机器人,机械手,机械人
+robot plane~n:无人驾驶飞机
+robotization~n:自动化
+robust~a:强壮,健壮,结实,茁壮,雄健,壮,粗壮,壮实,矫健,奘|n:壮健
+robust seedling~n:壮苗
+robustly~d:强健
+roc~n:中华民国,鹏
+roche~n:岩石
+rochet~n:法衣
+rock~n:岩石,石头,礁石,岩,石块,暗礁|v:摇荡
+rock cave~n:石窟
+rock cliff~n:悬崖
+rock crystal~n:石英
+rock dove~n:野鸽
+rock excavation~n:石方
+rock formation~n:岩层
+rock mass~v:岩体
+rock pigeon~n:原鸽
+rock rill~n:钎子
+rock salt~n:石盐,氯化钠
+rock slide~n:塌方
+rock tar~n:原油
+rock the boat~v:惹事生非
+rock the earth~v:震天憾地
+rock work~n:假山
+rock-and-roll~n:摇滚乐
+rock-drilling machine~n:凿岩机
+rocker~n:摇椅,振荡器
+rockery~n:假山
+rocket~n:火箭,火箭弹|v:猛涨
+rocket launcher~n:火箭筒
+rocket scientist~n:高人,能人
+rocket tube~n:火箭筒
+rocketeer~n:发射
+rockfoil~n:虎耳草
+rocking~a:摇摇晃晃
+rocking chair~n:摇椅
+rocking horse~n:木马
+rockism~n:摇滚乐
+rockman~n:矿工
+rock-n-roll~n:摇滚乐
+rockshaft~n:井筒
+rockwork~n:石工,假山
+rocky~v:头晕目眩|a:头晕目眩
+rocky desert~n:戈壁,沙漠
+rocky mound~n:崔嵬
+rococo~a:俗不可耐
+rod~n:杆,拉杆,连杆,魔杖,棍,体罚,竿,威力,棍子,枝条,棍棒,避雷针,枝,标尺,血统,子孙,手枪,推杆,杖
+rodomontade~n:大言不惭,大话|v:吹牛
+roe~n:狍子,卵,鲕,狍,鱼子
+roe deer~n:獐
+roebuck~n:獐
+roentgen~n:伦琴,伦琴射线
+roentgen ray~n:爱克斯光
+roentgenoscopy~v:透视|n:透视
+roeteln~n:风疹
+roetheln~n:风疹
+roger~i:乐果
+rogor~n:乐果
+rogue~n:流氓,恶棍,无赖,小淘气|v:流浪,欺诈,淘汰,行骗,游荡
+roguery~n:淘气,欺骗,捣鬼|v:行骗
+roguish look~n:贼眉鼠眼
+rohdea japonica~n:万年青
+roil~v:搅乱,搅动
+roister~v:喧闹,摆架子
+roke~n:矿脉
+role~n:作用,角色,责任,任务,角,正角儿,脚,男角
+roll~v:滚,卷,转动,滚滚,卷起,滚动|n:轧辊,鼓鼓囊囊,目录,团,滚滚,卷轴,旋转|a:鼓鼓囊囊|d:咕噜
+roll about~v:打滚,滚动,捧腹大笑
+roll back~v:反转
+roll call~v:点名
+roll down~v:轧制
+roll extrusion~v:滚压
+roll film~v:胶卷
+roll in~v:卷进,蜂拥而上,纷至沓来
+roll irresistibly onward~v:汹涌澎湃
+roll on~v:穿上
+roll over~v:滚动,折
+roll up~v:卷,蜷缩
+roll up sleeves~v:揎,卷
+rollback~n:击退
+rollcall~v:点名
+roll-call~n:点名
+rolled angle~n:角钢
+rolled gold~n:金箔
+rolled products~n:钢材
+rolled steel~v:钢材
+rolled-steel section~n:型钢
+roller~n:滚筒,卷轴,压路机,辊,轴,转子,警察,辊子,磙子,碾子,轧辊,轴子,碾,碾盘,轧道机,磙,滑轮
+roller bearing~n:滚柱轴承
+roller compaction~n:碾压
+roller-skate~v:溜冰鞋
+rollick~n:说笑,高兴
+rolling~v:轧制,滚动,镇压,滚,轰鸣,压延,滚压|n:旋转,轧,轰鸣,轧制,滚动|a:滚滚
+rolling bearing~n:滚动轴承
+rolling chair~n:轮椅
+rolling depression~n:滚压
+rolling friction~n:滚动摩擦
+rolling log~n:滚木
+rolling mill~n:轧钢厂
+rolling motion~n:滚动
+rolling mountains~n:惊涛骇浪
+rolling out~n:延伸
+rolling pin~n:擀面杖
+rolling pole~n:擀面杖
+rolling skin~n:结疤
+rolling stock~n:车辆
+rolling-mill~n:轧钢厂
+rollover~n:翻转
+rollup~n:卷起
+roly-poly~n:扳不倒儿
+roma~n:罗马
+romaine lettuce~n:生菜
+romal~n:马鞭
+roman~n:拉丁语,天主教徒
+roman numeral~n:罗马数字
+romance~v:谈情说爱,妄想,吹牛|n:风月,浪漫史
+romance fiction~n:言情
+romances~n:稗官野史
+romania~n:罗马尼亚
+romanism~n:教义
+romanist~n:天主教徒
+romantic~a:浪漫,罗曼蒂克
+romantic affairs~n:风月
+romantic fancy~n:闲情逸致
+romantic history~n:罗曼史
+romanticism~n:浪漫主义,虚构,传奇性,空想
+romantism~n:浪漫主义
+romany~n:吉普赛
+rome~n:古罗马
+rome empire~n:罗马帝国
+romp~n:欢蹦乱跳,顽皮,顽童|v:调情
+rompers~n:背心
+rondeau~n:回旋曲
+rondure~n:弧线
+roneo~v:复写|n:誊写版
+rong~n:荣
+rood~n:路德,十字架
+roof~n:屋顶,房顶,顶部,屋面,车顶,顶板,顶子,上颌,上颚,房屋,顶针|v:庇护
+roof beam~n:袱
+roof covering~n:屋面
+roof fall~n:冒顶
+roof tree~n:栋梁
+roofer~n:屋主
+roofing~n:屋顶,屋面,覆盖
+rooftop~n:屋顶
+rook~n:车,骗子,军|v:诈骗,敲竹杠
+rookery~n:公寓
+rookie~n:新兵,新手
+rooky~a:新手
+room~n:房间,屋子,屋,房,地方,房子,室,空间,余地,间,机会,位置,堂,地位,场所,席位,余裕,房室|v:投宿,留住,住宿,寓居
+room charge~n:房租
+room for action~n:地步
+room for maneuver~n:后手,后路,退路,退步
+room temperature~n:室温
+roomate~n:同屋
+roomer~n:房客
+roomful~n:满座
+roomie~n:室友
+roominess~n:广阔
+roommate~n:室友
+roomy~a:宽敞,宽阔,宽绰,宽大,庞大
+roose~n:赞美
+roosevelt~n:罗斯福
+roost~v:安歇,就座,过夜,投宿|n:鸡栅,床,卧室,鸡舍,鸡窝
+rooster~n:雄鸡,公鸡
+root~n:根,树根,根源,根本|v:铲除,欢呼,搜寻,除根,肃清,赞助,斩草除根,固定,声援
+root away~v:根除
+root carving~n:根雕
+root directory~n:根目录
+root for~n:声援
+root in~v:来源于|n:来源于
+root index~n:根指数
+root of tooth~n:牙根
+root out~v:铲除,肃清,斩草除根,除根
+root sculpture~n:根雕
+root segment~n:根部
+root stock~n:根源,砧木,根茎,起源
+root tuber~n:块茎
+root tubercle~n:根瘤
+rootage~n:生根,固定,根源
+rooted salvia~n:丹参
+rooter~n:挖土机
+rooters~n:拉拉队,啦啦队
+rooting~v:加固
+rootle~v:翻,寻找
+root-nodule bacteria~n:根瘤菌
+roots of grass~n:茇
+rootstock~n:根茎
+root-stock~n:根茎
+rope~n:绳子,绳索,绳,缆绳|v:笼络,引诱,拉扯
+rope block~n:滑轮
+rope bridge~n:索桥
+rope exercise~n:绳操
+rope hoist~n:绞车
+rope in~v:笼络,拉拢,拉扯
+rope skipping~n:跳绳
+rope somebody in~v:诱骗
+ropedancing~n:走绳,走索
+ropewalking~n:走绳
+ropeway~n:索道
+ropiness~n:粘性
+roquet~v:击中
+rorqual~n:长须鲸
+rorty~a:美好
+rosa xanthina~n:黄刺玫
+rosary~n:念珠,玫瑰园
+rose~n:玫瑰,玫瑰花,蔷薇,愉快
+rose bay~n:夹竹桃
+rose copper~n:红铜
+rose of sharon~n:槿
+rose water~n:奉承话
+rose willow~n:红柳
+rose wood~n:黄檀
+rosebay~n:夹竹桃
+rosebush~n:蔷薇
+rosefinch~n:朱雀
+rosein~n:品红
+rosette~n:插座
+rosewood~n:红木,紫檀
+rosin~n:树脂,松香,松脂
+rosin flux~n:焊剂
+rosin oil~n:松香油
+rosiness~n:玫瑰色
+roster~n:登记簿,花名册,名单,名册
+rostrum~n:主席台,讲坛,讲台,检阅台,嘴
+rosy~a:红润
+rosy dawn~n:朝霞
+rot~v:腐烂|n:堕落
+rot for sale~n:非卖品
+rot merely~v:非独
+rot salty~v:口轻
+rota~n:轮唱,轮班,值班
+rotary drum~n:滚筒
+rotary hand drill~n:手摇钻
+rotary polarization~n:旋光性
+rotary table~n:转盘
+rotate~v:旋转,转动,轮流,自转,转,轮作,轮换,循环,打转,轮回,轮转,转圈,交替,倒茬,轮替,倒换
+rotate days off~v:轮休
+rotate grazing~v:轮牧
+rotate speed~v:转速
+rotating platform~n:转台
+rotating speed~n:转速
+rotation~n:旋转,自转,轮流,轮作,公转,循环,轮换,交替,轮转|v:旋转,循环,回转
+rotation grazing~n:轮牧
+rotation of crops~n:倒茬
+rotation rate~n:转速,周转率
+rotation shaft~n:转轴
+rotational speed~n:转速
+rotational symmetry~n:轴对称
+rotator~n:转子
+rote~n:死记硬背,死记
+roteln~n:风疹
+rotheln~n:风疹
+rotor~n:转子
+rotten~a:烂,腐败,腐朽,腐,腐臭,糟朽,烂乎乎,糜烂|v:糟,腐臭,朽
+rotter~n:贱骨头,无赖,废物
+rotundity~n:肥胖,圆形,洪亮,球状,华丽
+rouble~n:卢布
+roubsshite~n:菱镁矿
+rouge~n:胭脂,口红,唇膏,粉红,铁丹
+rough~a:粗糙,粗野,崎岖,粗鲁,粗略,粗,粗暴,毛,干|n:要略,大纲,村野,废料,梗概|v:搅乱,虐待,驯,敷设|d:粗,大概,约略
+rough bamboo mat~n:笪
+rough calculation~n:概算
+rough diamond~n:草莽英雄
+rough draft~n:草稿,草图,底
+rough finish~n:粗加工
+rough gentian~n:龙胆
+rough hand~n:大老粗
+rough in~v:敷设,草拟
+rough it~v:摔打
+rough luck~n:恶运
+rough machining~n:粗加工
+rough material~n:原料
+rough outline~n:粗线条
+rough proof~n:毛样
+rough sand~n:粗沙
+rough scuff~n:暴徒
+rough sketch~n:画稿,草图
+rough stone~n:礤
+rough straw paper~n:草纸
+rough stuff~n:暴力
+rough weight~n:毛重
+rough working~n:粗加工
+roughage~n:原料,粗粮,粗饲料,素材
+rough-and-tumble~n:战斗,混战
+roughcast~v:打底子
+rough-cast glass~n:毛玻璃
+roughhew~v:草拟
+roughhouse~v:大吵大闹
+roughing~v:粗加工
+roughly~d:大致,粗,大略,约摸,约莫|a:粗
+roughly finished~v:粗枝大叶
+roughly process~v:粗加工
+roughly processed~v:荒
+roughneck~n:暴徒
+roughness~n:粗糙,粗暴|v:近似
+roulade~n:颤音
+round~v:环绕|n:轮,一系列,环,周期|d:周围|a:滚瓜溜圆|p:附近
+round about~v:大约
+round angle~p:周角
+round bar steel~n:圆钢
+round basket~p:圆笼
+round brackets~n:圆括号
+round face~p:圆脸
+round file~p:圆锉
+round haul net~p:围网
+round it off~p:功德圆满
+round mountain peak~p:峦
+round number~p:概数
+round of drinks~n:巡
+round off~v:成功,煞尾,扫尾
+round out~v:成功
+round robin~n:轮转
+round silk fan~p:纨扇,团扇
+round steel~p:圆钢
+round table~n:圆桌会议
+round the clock~p:日夜,昼夜,夜以继日
+round the middle~p:拦腰
+round the world~p:环球
+round ticket~p:来回票
+round timber~p:圆材
+round trip~n:周游
+round up~v:综述,围捕,兜捕,兜抄
+roundabout~a:迂|n:迂回|v:迂回
+roundabout way~n:弯路
+round-bottomed basket~n:笆篓
+rounded~a:圆形
+roundel~n:圆盘,环
+roundelay~n:回旋曲,小曲儿
+rounder~n:酒鬼
+rounding~v:舍去,四舍五入
+roundle~n:圆盘
+roundly~d:完全,充分,大略
+roundness~n:圆,率直,坦率,圆形,严厉,圆满,完整,丰富,球形,完满
+roundsman~n:送货员,推销员
+roundup~n:逮捕,围捕,综述,摘要,兜捕
+roundwood~n:圆材
+roundworm~n:蛔虫,圆形动物,蛔
+roup~n:鸡瘟,感冒
+rouse~v:惊醒,叫醒,醒来,唤醒,激发,激励,唤起,奋起,愤激,抖擞,拨弄,鼓励,鼓,鼓舞,抖|n:奋起,觉醒,干杯
+rouse oneself~v:奋发,振奋,发奋
+roused~v:激昂|a:激昂
+roust~v:激动,驱逐,唤醒,鼓舞
+rout~n:溃败|v:搜,翻,唤起,打垮
+route~n:路线,路,航线,线路,通路,路径,路程,线,辙,航路,旅程,途,道,信道
+route marking~v:路标
+route of retreat~n:退路
+route sign~n:路标
+routed troops~v:溃兵
+routine~n:程序,例行,例,常规,事务,例行公事,手续,惯例,家常便饭,定例,舞步|a:常务
+routine duties~n:例行公事
+routine package~n:程序包
+routing process~n:程序
+routinism~n:墨守成规,事务主义
+roution~n:例行公事
+rove~v:环视|n:垫圈
+rove around~v:游
+rover~n:海盗,流浪者,童子军
+roving~n:粗纱,粗纺|v:游
+roving doctor~n:游医
+roving rebel bands~n:流寇
+row~n:行|v:溜,申斥,责骂,责备
+row a boat~v:摇船
+row material~n:原料
+row over~n:争吵
+row pitch~n:行距
+row spacing~n:行距,株距
+rowboat~n:划艇,划子
+row-de-dow~n:喧嚣,吵闹,喧嚷
+rowdy~n:无赖
+rowdydow~n:吵闹,喧嚷
+rowe~n:罗
+rowel~n:齿轮
+rowing~n:划船,赛艇|v:赛艇
+rowing boat~n:划子
+rowing-boat~n:划艇
+rows of trees~n:树行子
+roxion~n:乐果
+royal ancestral temple~n:太庙
+royal blue~n:品蓝
+royal court~n:宫廷,王室,王朝
+royal crown~n:王冠,皇冠
+royal family~n:王室,皇族
+royal house~n:王室
+royal household~n:皇室,王室
+royal jelly~n:蜂王浆,蜂王精
+royal progress~n:出巡
+royal residence~n:禁
+royalcourt~n:朝廷
+royalist~n:保皇派
+royalists~n:保皇党
+royalty~n:版税,高贵,王位,上演税,庄严,王道,堂皇,王国,王族
+ruan~n:阮
+rub~v:擦,擦掉,摩擦,揉,磨|n:挖苦,障碍|a:困难
+rub elbow with~v:交往
+rub something long~v:捋
+rub stone~v:磨刀石
+rub up~v:擦亮,激起
+rub-a-dub~n:鼓声
+rubber~n:橡胶,橡皮,胶,皮,讥讽,挖苦,毛巾,不幸,阻碍,橡皮擦子,凶手,胶皮,困难,按摩师
+rubber bag~n:胶囊
+rubber band~n:猴皮筋,猴皮筋儿,橡皮圈
+rubber bands skipping~n:跳皮筋儿
+rubber boot~n:胶靴,雨鞋
+rubber check~n:空头支票
+rubber latex~n:胶乳
+rubber over shoes~n:胶鞋
+rubber overshoes~n:胶鞋
+rubber plant~n:橡胶树
+rubber stamp~n:橡皮图章
+rubber tree~n:橡树,橡
+rubber tube~n:橡皮管
+rubberized fabric~n:胶布
+rubberneck~v:游览|n:包打听
+rubbers~n:胶鞋,雨鞋
+rubber-soled shoes~n:胶鞋
+rubbing~v:擦亮|n:拓片
+rubbings~n:拓片
+rubbish~n:垃圾,废话,废物,货色,秽土,脏土,屁话,狗屁|v:蔑视
+rubbish bag~n:垃圾袋
+rubble~n:瓦砾,碎石,卵石,废料,石碴,碎砖
+rubblework~n:乱石
+rubdown~n:按摩
+rube~n:乡巴佬|a:土里土气
+rubedo~v:发红
+rubefaction~n:发红
+rubella~n:风疹
+rubeola~n:麻疹
+rubeolanotha~n:风疹
+rubicund~a:红润
+rubicundity~n:发红,红
+rubidium~n:铷
+rubine~n:红宝石
+ruble~n:卢布
+rubric~n:标题,规程
+rub-up~n:擦亮
+ruby~n:红宝石,宝石,鲜红色,血,嘴
+ruby-red~n:鲜红色
+ruck~n:废物,褶,皱,大量
+rucksack~n:背包
+ruckus~n:骚动,吵闹,吵嚷,乱动,喧闹
+ruction~n:骚动,吵闹
+rudder~n:方向舵,舵,船舵,指针,领导人|v:跺脚
+ruddiness~n:红色,红
+ruddle~n:红土
+ruddock~n:知更鸟
+ruddy~d:非常,很|a:红润
+rude~a:伧,粗,愣|v:唐突
+rudeness~n:无礼
+rudiment~n:初步,基本,入门,基础|v:萌芽
+rudimentary~a:起码,基本,初,素朴,初等,低级
+rue~v:后悔,悔恨,驾驶,悲叹|n:芸香,后悔
+rueful~a:悲戚
+ruffian~n:恶棍,歹徒,流氓,光棍,亡命之徒,泼皮,青皮,痞子,痞,暴徒
+ruffianly~a:凶恶
+ruffle~v:发脾气,搅乱,激怒,生气,洗,着急,扰乱|n:波纹,激怒,微波,皱纹
+rug~n:地毯,毯子,毯,毡子
+ruga~n:皱,皱褶
+rugby~n:橄榄球
+rugged~a:崎岖,粗犷,坎坷,嶙峋
+ruggedize~v:加强
+ruggedness~n:崎
+rugosity~n:皱纹
+ruijing~n:瑞金
+ruin~v:毁|n:灭亡,崩溃,祸害,败落,旧址,没落,瓦解,损失,祸,破坏
+ruin something~v:坏事
+ruinate~v:瓦解,灭亡,堕落,毁坏|a:崩溃
+ruination~n:没落,祸根,毁灭,毁坏,破产,灭亡
+ruined~a:残败|v:破败
+ruins~n:废墟,遗址,基址
+rule~n:规则,规定|v:宰,稳定
+rule by~n:听从
+rule by force~n:霸
+rule joint~n:曲尺
+rule of man~n:人治
+rule out~v:排除,拒绝
+rule over~n:统治,治理,王
+rule supremely~v:称王称霸
+ruler~n:统治者,尺,尺子,直尺,辟,横线,后,元首
+rules~n:矩,条例,条规,规程,章,守则,规章,例,章程,章则
+rules of conduct~n:纪纲
+rules of rhyming~n:韵律
+ruling~n:判决,刻度,支配|v:裁决,裁定,划线
+ruling party~n:执政党
+ruling pen~n:鸭嘴笔
+ruling price~n:现价,时价
+rum~n:酒,甜酒
+rumania~n:罗马尼亚
+rumanian~n:罗马尼亚
+rumba~n:伦巴
+rumble~v:隆隆|n:咕隆|d:咕噜
+ruminant~n:反刍动物
+ruminate~v:沉思,玩味,左思右想,咀嚼,寻味,反刍,深思,倒噍,倒嚼,默想
+rumination~n:默想,反刍,沉思,思索|v:反刍
+rummage~v:翻,翻腾,翻箱倒柜,搜查,检查,抄查|n:搜查,杂物,检查
+rummy~n:酒徒,无赖|a:古怪
+rumor~n:谣言,传闻,流言|v:谣传
+rumored~a:风
+rumors~n:谣诼
+rumour~n:传言,风传,道听途说,风声,风谣
+rumoured~v:风
+rumourmongering~n:造谣
+rumours~n:风风雨雨
+rump~n:屁股,臀尖,臀部,尾部,渣滓
+rumple~v:蓬乱,起皱
+rumpus~n:吵闹,喧嚷,口角
+run~v:跑,开,经营,奔跑,运行,跑步,运转,流,管理,行驶,走,撞|n:作业,打猎,倾向,事件|d:赶紧
+run a fever~v:发烧,烧
+run a horse~v:跑马
+run a lottery~v:开奖
+run a newspaper~v:办报
+run a risk~v:出生入死
+run a temperature~v:发热
+run about~v:窜,串,接送
+run about busily~v:东奔西走
+run about madly~v:狂奔
+run about wildly~v:狂奔
+run across~v:撞见,穿过,碰见
+run affairs~v:管事
+run after~v:追,逐,追赶
+run against~v:撞上,背叛
+run ahead of~v:超过
+run amuck~v:横行无忌,杀气腾腾,横行,横行霸道,横冲直撞
+run around~v:寻花问柳
+run away~v:脱逃,出奔,溜之乎也,亡,逃,逃窜,奔,跑,出走,奔逃,出逃,私奔,逃逸,脱缰,溜走,逃走
+run away from~v:溜之大吉
+run before~v:超前
+run business~v:营业
+run coal~v:原煤
+run counter~v:舛
+run counter to~v:违背,违反,非,南辕北辙,背道而驰
+run down~v:扫视,精疲力尽,追寻
+run dry~v:干枯,涸竭
+run errands~v:跑,跑腿儿,跑街
+run for cover~v:躲雨
+run for it~v:逃命
+run for shelter~v:躲雨
+run foul of~v:碰撞
+run great risks~v:捋虎须
+run high~v:上涨,激昂,高涨
+run idle~v:空转
+run in~v:插入,试车
+run into~v:碰到,碰,邂逅,遇到,丁,赶上,碰撞
+run into debt~v:欠债
+run into snags~v:碰钉子
+run into somebody~v:邂逅
+run into trouble~v:出岔
+run like mad~v:飞奔
+run like sheep~v:丢盔弃甲
+run low~v:缺乏
+run mad~v:发疯
+run mountains high~v:汹涌澎湃
+run off~v:离题,偷走
+run off rails~v:脱轨
+run on~v:继续
+run on rocks~v:触礁
+run one's home~v:持家
+run oneself haggard~v:疲于奔命
+run out~v:殆尽,耗尽,期满,欺瞒,完,流出,抽出,精疲力尽
+run out of~v:消耗
+run out on~v:抛弃
+run over~v:浏览,轧,溢出
+run quickly~v:驱,奔,奔驶
+run rampant~v:泛滥成灾
+run ring around~v:击败
+run riot~v:肆无忌惮
+run risks~v:冒险
+run scared~v:小手小脚
+run short~v:缺乏
+run short of~v:缺乏
+run somebody down~v:作践
+run the hazard~v:冒险
+run the risk~v:冒险
+run the show~v:演出
+run through~v:贯穿,用尽,贯串
+run to earth~v:追根究底
+run to extremes~v:走极端
+run up~v:升起
+run up against~v:碰到,遭遇,摊,遇到
+run up scores~v:债台高筑
+run upon~v:撞击
+run wild~v:猖獗,脱缰,无法无天,胡闹,横行无忌
+runabout~n:游民,幼儿,流浪者,敞篷车,幼童
+runagate~n:逃亡者
+runaround~n:躲闪,回避,逃避,藐视,借口
+runaway~n:私奔,逃亡者,亡命|a:失控|v:失控
+rundle~n:梯级
+rundown~n:裁减
+run-down~n:裁员|v:破败
+rune~n:神秘
+runfree~v:空转
+rung~n:梯级,一级,棍子
+rungs~n:条
+run-in~n:争吵,争论,口角
+runlet~n:溪,水沟
+runnel~n:水沟
+runner~n:秧鸡,交通员,使者,司机,推销员,滑道,转子,蔓,通讯员,叶轮,警察,收款员,走私者,巡捕,情报员
+runner-up~n:亚军
+running~n:管理|d:接连,一连|a:连续|v:工作
+running commentary~n:评注,注解
+running dog~n:走狗
+running fire~n:连发
+running hand~n:草写,草体,行书,草书
+running mate~n:密友
+running out~v:偏心,僚机
+running price~n:时价
+running sand~n:流沙
+running script~n:行书
+running take-off~n:滑跑
+running time meter~n:计时器
+running water~n:活水
+running-track~n:跑道
+runoff~n:径流,决赛|v:溢出,流出
+run-off~n:径流,决赛
+runon~n:追加
+runout~v:伸出,突破,流出,溢出|n:避开,偏转
+run-through~n:贯通
+runup~n:升高
+run-up~n:抬高
+runway~n:跑道,河槽,河道,轨道,滑道,斜坡
+rupee~n:卢比
+rupiah~n:卢比
+rupture~v:破裂|n:闹翻,裂缝
+rural~a:乡下人
+rural area~n:乡,乡村
+rural fair~n:集市
+ruse~n:计,计策,谋略,骗术,阴谋诡计,诡计,局,花头
+rush~v:冲,赶,闯|n:猛进,抢购,突击,突破,急进,灯心草,莽撞,突进,殷勤
+rush about~n:东奔西跑,奔|v:奔忙
+rush ahead~v:冲杀,抢先
+rush around~n:东奔西跑
+rush at~n:扑
+rush down~n:流泻,奔泻
+rush everywhere~v:满天飞
+rush for~n:赶往
+rush forward~v:一拥而上
+rush in~n:抢收,鱼贯而入
+rush into danger~n:铤而走险
+rush pith~n:灯草,芯子,芯
+rush shed~n:草棚
+rush to~n:奔
+rush to build~v:抢建
+rush to purchase~v:争购
+rush to repair~v:抢修
+rush to transport~v:抢运
+rush transport~n:抢运
+rushing~v:滚
+rushing waters~n:湍
+rush-plant~v:抢种
+rusk~n:面包干
+russell's viper~n:蝰蛇
+russet~n:黄褐色,土布,赤褐色
+russia~n:俄国,沙俄
+russian~n:俄文|a:俄语
+russian language~n:俄语
+russian olive~n:沙枣
+rust~n:锈,锈病,铁锈|v:锈蚀,衰退,氧化
+rust cleaning~n:除锈
+rust disease~n:锈病
+rust out~v:生锈
+rust protection~n:防锈
+rust removal~n:除锈
+rustic~a:土里土气|n:乡巴佬,乡间,庄稼人,村夫
+rustic song~n:歌谣
+rusticate~v:勒令,下乡
+rustication~n:下乡
+rusticity~n:质朴,礼貌,朴实,朴素,撒野
+rustiness~n:荒疏,生锈,衰退,锈蚀|v:锈蚀,衰退,生锈
+rusting~v:生锈
+rustle~v:飒飒,刷,觅食|d:刷,簌簌
+rustle up~v:觅食
+rustler~n:活动分子
+rustlingly~d:沙沙
+rusty~a:生锈,生疏,荒疏|v:荒疏
+rusty spot~n:锈斑
+rut~n:车辙,沟,惯例,辙,成规,沟槽,轨辙|v:动情,发情
+rutabaga~n:大头菜
+ruth~n:同情,悔恨,怜悯
+ruthenium~n:钌
+rutherford~n:卢瑟福
+ruthless~a:无情,残酷,残忍,狠,狠心,豺狼成性,严酷,辣手,暴虐,残暴,毫不留情,辣
+ruthless method~n:辣手
+ruthlessness~n:残酷,残暴
+rwanda~n:卢旺达
+rx~n:药方,处方
+rye~n:黑麦,裸麦,绅士
+ryegrass~n:毒麦
+ryke~v:达
+ryukyu island~n:琉球

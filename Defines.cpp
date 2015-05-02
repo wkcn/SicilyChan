@@ -1,4 +1,4 @@
-#include "Defines.h"
+﻿#include "Defines.h"
 
 QDir directoryOf(const QString &subdir)
 {
@@ -20,8 +20,29 @@ QDir directoryOf(const QString &subdir)
     return dir;
 }
 
+/*
 QString GetFileDir(QString file){
     return directoryOf("").absoluteFilePath(file);
+}
+*/
+
+QString GetQDir(QString file){
+    return QString().fromStdString(GetDataDir(file.toStdString()));
+}
+
+string GetDataDir(string file){
+    static string fileDir;
+    if(fileDir.size() == 0){
+        ifstream fin("dir.txt");
+        getline(fin,fileDir);
+#if !defined(WIN32)
+        getline(fin,fileDir);
+#endif
+        //qDebug("%s ---",fileDir.c_str());
+        fileDir += "\\\\";
+        fin.close();
+    }
+    return fileDir + file;
 }
 
 bool IsLeapYear(int year){
@@ -58,6 +79,7 @@ Date GetDate(int offsetHour){
 }
 
 int GetClock(){
+    return clock() * 1000 / CLOCKS_PER_SEC;
     time_t ltime1;
     struct TIMEB tstruct1;
     ftime (&tstruct1);            // start time ms

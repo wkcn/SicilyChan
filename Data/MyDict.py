@@ -14,6 +14,7 @@ dictData = range(26)
 def LoadData():
     data = xlrd.open_workbook('dictData.xls')
     for i in range(26):
+        #out = open(chr(i + ord('a'))+'.txt','w')
         table = data.sheet_by_index(i)
         nrows = table.nrows
         ncols = table.ncols
@@ -23,11 +24,13 @@ def LoadData():
             tr  = table.cell_value(r,1)
             #f.write(str(eng)+ '=' + str(tr)+ '\n')
             dictData[i][str(eng)] = str(tr)
+            #out.write(str(eng)+'~'+str(tr)+'\n')
+        #out.close()
 
 LoadData()
 def FindWord(word):
     word = word.strip(" !@#$%^&*()-_+={}[]|:;'<>?,./\"").lower()
-    #æ³¨æ„è¿™ä¸ªæ‹·è´,å¥½åƒä¸è¿™æ ·ä¹Ÿå¯ä»¥æ‹·è´çš„ã€‚
+    #×¢ÒâÕâ¸ö¿½±´,ºÃÏñ²»ÕâÑùÒ²¿ÉÒÔ¿½±´µÄ¡£
     oriWord = word[:]
     id = ord(word[0]) - ord('a')
     r = ''

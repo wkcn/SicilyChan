@@ -20,7 +20,8 @@ SOURCES +=\
 
 HEADERS  += \
     Sicily.h \
-    Defines.h
+    Defines.h \
+    Trans.h
 
 FORMS    += \
     Sicily.ui

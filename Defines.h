@@ -1,4 +1,4 @@
-#ifndef DEFINES_H
+﻿#ifndef DEFINES_H
 #define  DEFINES_H
 #define _CRT_SECURE_NO_WARNINGS
 #include <QMainWindow>
@@ -22,6 +22,8 @@
 #if defined(WIN32)
 # define  TIMEB    _timeb
 # define  ftime    _ftime
+//windows 的编码问题
+#pragma execution_character_set("utf-8")
 #else
 #define TIMEB timeb
 #endif
@@ -35,7 +37,6 @@
 #include <map>
 
 using namespace std;
-//#pragma execution_character_set("utf-8")
 
 struct SicilyConnect{
     bool update;
@@ -44,7 +45,8 @@ struct SicilyConnect{
 };
 
 QDir directoryOf(const QString &subdir);
-QString GetFileDir(QString file);
+QString GetQDir(QString file);
+string GetDataDir(string file);
 
 bool IsLeapYear(int year);
 int YearHaveDay(int year);

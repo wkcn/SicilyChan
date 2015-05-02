@@ -1,0 +1,3216 @@
+i~r:我,人家,咱们,俺,在下,小弟|n:兄弟,自我,意大利|a:余,愚
+i believe~v:谅
+i dare say~v:大概
+i hope~v:幸
+i say~v:敢情
+i see~v:哦
+i suppose~v:怕,谅
+i the sovereign~n:寡人
+i think~v:谅,恐怕
+i trust~v:幸
+i wish~v:但愿
+iateria~n:疗法
+iatreusis~n:疗法
+iatrology~n:医学
+iber~n:纤维
+ibex~n:羱羊,羱
+ibidem~d:同上
+ibis~n:红鹤,鹮
+ic~n:集成电路
+ice~v:冰,结冰|n:冷淡
+ice age~n:冰川期
+ice arena~n:冰场
+ice bag~n:冰袋
+ice box~n:冰箱
+ice chamber~n:冰箱
+ice chisel~n:冰镩
+ice coating~n:结冰
+ice cold~v:冷冰冰
+ice cream~n:冰淇淋,冰糕,冰激凌
+ice crystal~n:冰花,冰晶
+ice fish~n:银鱼
+ice floe~n:冰排
+ice flowers~n:冰花
+ice lantern~n:冰灯
+ice locker~n:冰柜
+ice pick~n:冰镐
+ice point~n:冰点
+ice refrigerator~n:冰箱
+ice rink~n:冰场
+ice river~n:冰河
+ice sheet~n:冰盖层
+ice skate~n:溜冰鞋,冰刀
+ice skate blade~n:冰刀
+ice stadium~n:冰场
+ice storm~n:冰雹
+ice sucker~n:棒冰
+ice surface~n:冰面
+ice tongue~n:冰舌
+ice well~v:冰窖
+iceberg~n:冰山
+iceboat~n:破冰船
+icebox~n:冰箱
+icebreaker~n:破冰船
+ice-breaker~n:破冰船
+icecap~n:冰盖
+ice-capped mountain~n:冰山
+ice-clad peak~n:冰峰
+ice-cold~a:冰冷,冰凉
+iced~v:冰镇
+icehouse~n:冰库,冰窖
+iceland~n:冰岛
+ice-lolly~n:雪条
+icescape~n:冰景
+ice-skate~v:溜冰
+iceskater~n:溜冰
+ice-skating~n:溜冰
+ice-water~n:雪水
+ichthammol~n:鱼石脂
+ichthymall~n:鱼石脂
+ichthyocolla~n:鱼胶
+ichthyol~n:鱼石脂
+ichthyology~n:鱼类学
+ichthyosaur~n:鱼龙
+icicle~n:冰柱,冰凌,冰锥
+icicles~n:树挂
+iciness~n:冰冷
+icing~n:糖衣,糖霜,积冰
+icon~n:偶像,雕像,画像,圣像,肖像,人像,影像
+iconograph~n:插图
+iconography~n:插图,图解
+iconometer~n:反光镜
+iconoscope~n:电视
+icterus~n:黄疸
+ictus~n:发作,冲击|v:冲击,发作
+icuffle~v:混战
+icy~a:冷冰冰,冽
+icy cold~n:冰冷
+icy snow-covered trees~n:琼枝玉叶
+icy spring~n:冷泉
+id~v:识别
+id card~n:工作证
+id code~n:识别码
+idea~n:想法,主意,思想,意见,观念,概念,念头,观点,计划,意思,见解,想象,打算,见,计,点子,意念,念,构想,主,想像,心劲,主题,心裁,心头,理念,心思,意,主见,定盘星,稿子,辙,观|v:见,构想
+idea of reference~n:疑心病
+ideal~n:理想,典型,抱负,天造地设,志气,志愿,志,模范,志向|v:天造地设
+idealism~n:唯心论,唯心主义
+idealist~n:空想家|a:唯心
+idealistic~a:唯心
+ideality~n:空想,想像力,理想
+idealization~n:理想化|v:简化
+idealize~v:理想化
+ideas~n:脑筋
+ideate~v:思考,想像
+idem~r:同上
+idemnify~v:赔偿
+identical~a:相同,同一,一致,雷同,清一色
+identical with~a:如出一辙
+identically~d:同样,同一
+identification~n:标识,识别,鉴定,身份证,证明,确认,认证,辨识,同化,认出|v:识别,认证
+identification of corpse~n:验尸
+identificatoin~n:证明
+identifier~n:标识符,标识号,编号
+identify~v:识别,对,鉴定,鉴别,认同,辨认,认,确认|n:同一性
+identify oneself~v:打成一片
+identify oneself with~v:一鼻孔出气,打成一片
+identify with~v:认同
+identifying~v:标识|n:标识
+identity~n:身份,身分,恒等式,一致,个性,同一性,本体,正身,同一
+ideogram~n:表意文字
+ideograph~n:表意文字
+ideographic writing~n:表意文字
+ideological content~n:思想性
+ideological system~n:思想体系
+ideologist~n:理论家,空想家,思想家
+ideologue~n:理论家,空想家
+ideology~n:意识形态,思想,观念形态,空论,思想体系,空想
+idiocy~n:白痴
+idioelectrics~n:非导体
+idiograph~n:商标
+idiom~n:成语,惯用语,方言,土语,风格,熟语,口碑,习用语
+idiomatic phrase~n:熟语
+idiosome~n:胶粒
+idiosyncrasy~n:特性,特质,个性
+idiot~n:白痴,笨蛋,蠢货,草包,憨子,傻子,痴子,蠢材,蠢物,蠢驴,呆子
+idiot box~n:电视机
+idiotic~a:痴,憨痴,呆头呆脑,痴呆
+idiotic ideas~n:痴想
+idiotic nonsense~n:痴人说梦
+idiotism~n:白痴
+idiovaviation~v:突变
+idiozome~n:胶粒
+idle~a:闲,闲散,懒惰,空闲,懒,怠惰,呆滞,磨|v:吃喝玩乐,蹉跎,懒,虚度,空耗,怠|n:空闲
+idle about~v:懈怠
+idle assertions~v:无稽之谈
+idle away~v:蹉跎岁月,虚度,蹉跎
+idle capital~v:游资
+idle gossip~v:闲言碎语
+idle money~v:游资
+idle talk~v:空话,清谈,空谈,闲谈
+idleness~n:懒惰,失业,无益,空闲,无效
+idler~n:空载,闲人,空车,二流子,懒汉
+idling~v:空转,空载,慢速|n:空载
+idol~n:偶像,泥胎,幻像,偶,幽灵,谬见,谬论,幻象
+idole~n:神像
+idolize~v:崇拜
+idolum~n:观念,幻想
+idyl~n:牧歌,田园诗
+idyll~n:田园诗,牧歌
+idyllic~n:诗情画意,田园诗|a:诗情画意
+ie~d:即
+if~c:就,如果,要是,要,若,假如,如,假若,而,是否,倘若,假使,即使,万一,若是,倘使,假设,假,设|v:使,是否,脱|n:条件|a:中频,假|d:如
+if any~c:即使
+if indeed~c:果
+if not~c:若非
+if not so~c:不然
+if one day~n:有朝一日
+if only~c:只要
+if peradventure~c:万一,如果
+if something happens~c:有事
+igneous~a:火成岩
+ignis fatuus~n:鬼火
+ignitability~n:可燃性
+ignite~v:点燃,点火,引火,燃烧,引燃,燃,发火,引爆,起爆,燃点
+igniter~n:点火器,电嘴
+ignition~n:点火,燃烧,起爆,点燃|v:点燃,点火
+ignition cartridge~n:底火
+ignition plug~n:电嘴
+ignition point~n:燃点,发火点
+ignitor~n:电嘴
+ignominious~a:可耻
+ignominy~n:耻辱,可耻,不名誉,污辱
+ignoramus~n:笨蛋,门外汉,愚人
+ignorance~n:无知,愚昧,蒙
+ignorant~a:无知,愚昧,蒙昧,愚味,孤陋寡闻,茫然,蚩,侗,懵懂,愚蒙,胸无点墨,浑浑噩噩,瞳,瞀,颛,茫,懵,儒,固陋,昧|v:孤陋寡闻,有眼无珠|n:胸无点墨
+ignorant but self-important~a:愚妄
+ignorant children~n:童蒙
+ignorant of~a:不知情
+ignorant of letters~a:目不识丁
+ignorant presumption~n:夜郎自大
+ignore~v:忽视,不理,忽略,无视,置之不理,不顾,抹煞,驳回,忽,漠视,冷|a:冷
+ignore completely~v:置若罔闻
+ignore one's duty~v:玩忽职守
+ignore stubbornly~v:悍然不顾
+ignore wholly~v:只字不提
+iktas~n:东西,物品
+ikterus~n:黄疸
+iky~n:当铺,犹太人
+ileotyphus~n:肠伤寒,伤寒
+iletin~n:胰岛素
+ileum~n:回肠
+ileus~n:肠梗阻
+iliac bone~n:髂骨
+ilium~n:肠骨,髂,髂骨
+ilk~n:家族,同类
+ill~n:疾病,罪恶,病痛,灾难|d:坏,笨,恶劣|a:邪恶,不善
+ill at ease~a:拘束,惴惴不安,忐忑不安,窘
+ill blood~n:敌意
+ill fame~n:恶名
+ill feeling~n:芥蒂
+ill gains~n:横财
+ill luck~n:恶运,厄运
+ill name~n:骂名
+ill omen~n:不祥,不祥之兆,恶兆
+ill repute~n:秽闻
+ill will~n:恶意,嫌,嫌隙
+ill wind~n:歪风
+illation~n:推论,结论,推理,演绎|v:推理
+ill-being~n:不幸,病态,贫穷
+ill-considered action~n:妄动
+illegal~a:非法,不法|v:禁用
+illegal dealings~n:倒买倒卖
+illegal government~n:伪政府
+illegal guns~n:黑枪
+illegal husband~n:姘夫
+illegal love affair~n:外遇
+illegal punishment~n:私刑
+illegal torture~n:私刑
+illegal trade~n:炒买炒卖
+illegality~n:不法,犯规,违法
+illegally gotten wealth~n:不义之财
+illegibility~n:模糊不清
+illegible~a:潦草
+illegible writing~n:天书
+illegitimacy~n:私生,不法,非法,违法
+illegitimate profit~n:油水
+ill-fated~a:倒霉
+ill-feeling~n:仇视,敌意
+ill-gotten gains~n:发横财,邪财,不义之财
+ill-gotten wealth~n:邪财,不义之财,横财
+illiberality~n:吝啬
+illicit~a:非法,私
+illicit conduct~n:暗事
+illicit income~n:非法所得
+illicit intercourse~n:私通
+illicit love~n:桃色
+illicit money~n:赃款
+illicit prostitution~n:暗娼
+illicit relations~n:外遇
+illicit sexual relations~n:奸
+illimitable~a:无边无际
+illinois~n:伊利诺斯
+illiteracy~n:文盲,睁眼瞎子,蒙,错误,失学
+illiterate~n:文盲|a:不识一丁
+illiterate of law~n:法盲
+illiterate person~n:白丁
+ill-mannered~a:粗鲁
+illness~n:病,疾病,病症,矜,疴,瘵,证,症,恙,疾,毛病
+illogicality~n:矛盾
+illotycin~n:红霉素
+ill-treat~v:虐待
+ill-treatment~n:虐待,糟塌,滥用
+illume~v:照亮
+illuminance~n:照度,光照度
+illuminancy~n:照度
+illuminant~n:光源
+illuminate~v:照亮,启发,照,阐明,说明,照明,照射,装饰,启蒙,照耀
+illuminate all things~v:普照
+illuminated~a:火亮|v:火亮
+illuminati~n:天才
+illuminating power~n:亮度
+illuminating projectile~n:照明弹
+illuminating source~n:光源
+illumination~n:照,照明,照射,明亮,彩灯,启发,光照,启蒙,阐明,照度|v:照射
+illuminators~n:舷窗
+illumine~v:照亮,启发
+illusion~n:幻想,幻觉,错觉,梦幻,假象,幻影,虚幻,镜花水月,玄想,痴想,幻景,梦幻泡影,幻梦,妄想
+illusionist~n:魔术师
+illusions~n:空中楼阁
+illusive~a:空幻
+illusory~a:虚幻,虚无缥缈|v:虚无缥缈
+illusory joy~n:南柯一梦
+illustrate~v:说明,举例,阐明
+illustrated books~n:图说,图册
+illustrated explanation~n:图说
+illustrated handbook~n:图鉴
+illustrated magazine~n:画报
+illustration~n:插图,说明,图解,例证,实例,插画
+illustrative sentence~n:例句
+illustrious~a:显赫,赫赫有名|v:闻达
+illy~d:坏
+ilotycin~n:红霉素
+ilute~v:稀释
+i'm afraid~v:恐,恐怕,怕
+i'm quite sure~v:没错儿
+image~n:象,图象,像,图像,影象,影像,形像|v:象征
+image by inversion~n:镜象
+image converter~n:显像管
+image formation~n:成像
+image tube~n:显像管,摄像管
+imagery~n:成像,雕像,像,画像,意象,比喻,肖像
+image-viewing tube~n:显像管
+imaginary~a:假想,虚幻,空幻|n:虚幻
+imaginary enemy~n:假想敌
+imaginary line~n:虚线
+imagination~n:想象力,想像力,想象,想像,创造力,空想,假想,悬想,妄想|v:想象
+imaginative power~n:才思
+imaginativeness~n:才思
+imagine~v:想象,想像,设想,猜想,推想,虚悬,悬,想得到,悬拟,假想,企图,悬想,意想,推见,推测,想见
+imagine something impossible~v:异想天开
+imaging~v:成像|n:映象
+imago~n:成虫,成,像
+imam~n:阿訇,教长
+imbalance~n:失调,差额
+imbecile~a:低能,昏庸|n:笨伯,低能儿
+imbecilic~a:痴愚
+imbecility~n:痴愚,低能,愚痴,愚笨
+imbed~v:嵌入
+imbedding~v:嵌入
+imbibe~v:吸收,喝,接受,饮
+imbibition~n:吸入,吸收
+imbody~v:收录,体现
+imbosom~v:怀抱,遮掩,拥抱
+imbroglio~n:纠葛,误解,纷乱
+imbrue~v:玷污
+imbue~v:充满,灌输,濡染,鼓吹,灌注,渗透,浸染
+imbue with~v:灌输
+imbued with vitality~a:朝气蓬勃
+imburse~v:付,偿还
+imflammation~n:炎
+imidazolylethylamine~n:组胺
+imitate~v:模仿,模拟,学,仿效,冒充,仿造,假充,踵武,仿制,象,摹仿,模,伪造,仿办,师法,仿照,师,效,效仿,仿,拟,则,照猫画虎,摹拟,依傍
+imitate awkwardly~v:东施效颦
+imitate somebody's footsteps~v:亦步亦趋
+imitation~n:模仿,仿效,模拟,仿造,拟态,复制品,学习,师|a:冒牌,人造
+imitation article~n:赝品
+imitation brand~n:冒牌
+imitation stone~n:斩假石
+imitator~n:模拟器
+immaculacy~n:纯洁,洁净,无瑕
+immanence~n:固有,内在
+immanentism~n:内在论
+immaterial~a:不在乎
+immaterialism~n:唯心论
+immature~a:幼小
+immature person~n:黄口孺子
+immaturity~n:生硬,幼稚
+immeasurable~a:无限|v:不可估量,无量
+immeasurableness~n:无限
+immediacy~n:直接
+immediate~a:立即,直接,即,即时,立,紧接着
+immediately~d:立即,立刻,马上,紧接着,当即,当下,顿时,即刻,连忙,随即,应时,旋踵,迅即,立地|n:当时
+immediately after~p:后脚,一经
+immediateness~n:直接
+immense~a:巨大,宏大,庞大,嘏
+immense forest~n:林海,林涛
+immense quantities~n:车载斗量
+immense strength~n:伟力
+immensely~n:无限,巨大,广大|d:无任
+immenseness~n:无限
+immensity~n:庞然大物,无限,广大
+immerge~v:浸入,埋头,专心
+immerse~v:浸,浸泡,沉浸,浸入,陷入,浸没,濡染,沐浴,濡,浸沉,卷入
+immerse grace~v:洪恩
+immerse oneself in~v:埋头
+immersed~v:专心致志
+immersion~n:浸渍,浸,浸没,专注,专心,沉浸,浸礼|v:浸渍
+immidiately~d:即刻
+immigrant~n:移民,侨民
+immigrant remittance~n:侨汇
+immigrate~v:迁移,移
+immigration~n:移民,移居
+immigration department~n:移民局
+immigration office~n:移民局
+imminence~n:迫近,危急,急迫
+imminent~a:迫在眉睫,一触即发,紧迫,迫近|v:一触即发,迫近,迫在眉睫
+imminent danger~n:燃眉之急
+immission~n:注入,注射
+immix~v:混合,混杂,搀合
+immixture~n:混合
+immobile~a:稳定
+immobile element~n:惰性元素
+immobilization~n:固定
+immoderate~a:无度
+immoderately~d:滥|a:滥
+immoderation~n:过度,极端,放肆
+immodesty~n:放肆,卤莽,莽撞
+immolate~v:牺牲,毁灭,杀戮
+immolation~n:牺牲品
+immoral~a:不道德
+immoral behavior~n:流氓
+immoral conduct~n:秽行
+immoral doings~n:邪门歪道
+immoral woman~n:淫妇
+immorality~n:不道德,邪恶
+immortal~n:神人,仙人,神仙,仙子,真人|a:不朽,永生,长生不老|v:长生不老,永生
+immortality~n:不朽
+immortalization~n:不朽
+immortally~d:很,非常
+immovability~n:不动产,固定
+immovable~a:不动产
+immovable property-real estate~n:恒产
+immoveable property~n:不动产
+immune~a:免疫
+immunise~v:免疫
+immunities~n:豁免
+immunity~n:免疫,免疫力,免疫性
+immunization~n:免疫,免除|v:免除
+immunize~v:免除
+immure~v:监禁,禁闭
+imp~n:小淘气|v:加强,增大,补充
+impact~n:影响,冲击,关系,碰撞|v:装填,撞击,冲击,碰撞,塞满
+impact crater~n:陨石坑
+impact damper~n:缓冲器
+impact force~n:冲力
+impact wave~n:冲击波
+impaction~n:撞击,嵌入|v:撞击
+impair~v:损害,减少,削弱,妨害,毁损,伤害,害,损伤
+impairment~n:损害,故障
+impale~v:刺穿,穿刺
+impale on~v:穿刺
+impalement~n:围栏
+impaludism~n:疟疾
+impansion~v:缩减
+imparity~n:不等,差异,不同|a:不同
+imparlance~n:谈判,讨论
+impart~v:告诉,传授,给予,通知,传
+impartial~a:公正,公平,不偏不倚,持平,公道,公|v:持平
+impartiality~n:不偏不倚,公平
+impartially~d:秉公
+impartment~v:传授
+impassability~n:不通,堵塞|v:堵塞
+impassable~a:不可逾越,过不去|v:不可逾越
+impasse~n:僵局,绝境,穷途末路,绝路,末路,死结,死胡同,死路
+impassion~v:激切
+impassioned~a:慷慨激昂|v:慷慨激昂
+impassiveness~n:冷漠
+impatience~n:不耐烦,急躁,渴望
+impatiens balsamina~n:凤仙花
+impatient~a:急于,急,急躁,性急,心急,焦躁,急切,急赤白脸
+impatient of~a:不耐烦
+impawn~v:抵押,典当,立誓
+impeach~v:弹劾,控告,检举,怀疑,参,举报,责难,指责,抨,弹,责问,告发
+impeachment~n:控告,指责
+impeccability~n:无罪
+impeccable moral integrity~n:白璧无瑕
+impedance~n:阻抗
+impede~v:妨碍,阻碍,牵掣,干碍,掣肘,格,遮拦,妨,遮,阻
+impede somebody~v:拖后腿
+impediment~n:障碍,妨碍,阻碍
+impedimenta~n:辎重,行李
+impel~v:激励,促使,驱使,迫使,推动,感召,强迫,推进,策励,激扬
+impel to retreat~v:促退
+impeller~n:叶轮,推进器,转子
+impellor~n:叶轮
+impend~v:临头,吊,悬挂,逼近
+impending cliff~n:悬崖
+impenetrability~n:无情
+impenetrable~a:不可理喻
+impenetrably dull~v:一窍不通
+impenetrably thickheaded~a:冥顽不灵
+impenetrate~v:刺穿,贯穿,穿,进入,渗透
+impenitence~n:顽固
+imperative~n:命令,条例,规则|a:急切,急迫
+imperatively~d:切切
+imperator~n:大将军,皇帝
+imperceptible~a:不知不觉
+imperceptibly~d:不知不觉,无形|a:不知不觉,无形
+imperfect~n:缺,缺略
+imperfection~n:缺陷,缺点,缺欠,缺略,缺,不足
+imperia~n:司法权
+imperial~n:龙|a:帝国
+imperial art academy~n:画院
+imperial bodyguard~n:侍卫
+imperial burial place~n:寝宫
+imperial capital~n:帝都
+imperial carriage~n:辇
+imperial clan~n:宗室
+imperial clansman~n:宗室
+imperial commissioner~n:钦差,钦差大臣
+imperial concubine~n:娘娘,西宫
+imperial concubines~n:西宫
+imperial court~n:王室,王朝
+imperial decree~n:圣旨
+imperial edict~n:圣旨,诏书,谕旨
+imperial envoy~n:钦差大臣
+imperial examination~n:科甲
+imperial examination hall~n:闱
+imperial family~n:皇族,皇家,皇室
+imperial government~n:朝廷
+imperial guard~n:御林军
+imperial guard troop~n:近卫军
+imperial house~n:皇室
+imperial kinsmen~n:皇族
+imperial mandate~n:诰
+imperial palace~n:皇宫,内廷,宸,阙
+imperial physician~n:御医,太医
+imperial seal~n:玉玺
+imperial throne~n:皇位
+imperial tomb~n:陵
+imperialism~n:帝国主义,帝
+imperil~v:危及,危害,威胁
+imperious~a:专横
+imperishable~a:浩气长存
+imperishable noble spirit~n:浩气长存
+imperium~n:统治权,裁判权,司法权,主权
+impermanence~n:无常,暂时
+impermanent~a:无常
+impermissible~a:使不得
+impersonality~n:客观
+impersonate~v:体现,扮演,模仿,饰
+impersonation~n:扮演,体现,假冒,模仿
+impersonator~n:演员
+impertinence~n:无礼,鲁莽,傲慢,不得要领,离题,弄错
+impertinency~n:无礼
+impertinent~a:不逊
+imperturbation~n:沉着,冷静
+impetigo~n:癞疮,脓疱病,黄水疮
+impetrate~v:哀求
+impetuosity~n:急躁,冲动,急性病,狂热,猛烈,激烈,冲力,轻举妄动|v:轻举妄动
+impetuous~a:急躁,感情用事,迅疾,毛,卞,浮躁,狷,躁|v:造次|n:急性子
+impetuously~d:率尔
+impetus~n:促进,动力,推动,声势,刺激,动量,势头
+impiety~n:不孝
+impigement~v:冲击
+imping~v:接穗
+impinge~v:影响,撞击,冲击,侵犯,碰撞,打,接触,侵害,打击,击
+impinge on~v:冲击,打击
+impingement~v:弹跳,撞击|n:撞击,弹跳
+impinging~v:碰撞,弹跳
+implacability~n:执拗
+implacable~a:死
+implacable enemy~n:死对头
+implacable foe~n:死敌
+implant~v:植入,嵌入,移植,注入,插入,植,灌输
+implant skin~v:植皮
+implantation~n:植入,嵌入,种植,灌输,鼓吹,插入
+implead~v:控告
+implement~v:落实,施行,推行|n:器具
+implementation~n:执行,贯彻,实行,履行,落实|v:执行
+implementer~n:设备
+implementor~n:设备
+implements~n:农具,器物
+implements of punishment~n:刑具
+impletion~n:充满,满
+implicate~v:牵扯,牵累,牵连,连累,株连,挂累,攀,涉,牵缠,缠绕|n:含意
+implication~n:含义,牵连,暗示,含意,含蓄,蕴含,牵涉,弦外之音,实质,蕴涵,结论,暗中,瓜葛,意味,意蕴,音儿,纠缠,话音,隐含,干系,涵义,言外之意,口气
+implicit~a:含蓄,涵蓄,暗示|v:暗示
+implied meaning~n:言外之意,文章
+impllement~v:施行
+implore~v:恳求,乞求,央求,哀求|n:求饶
+implore bitterly~v:乞哀告怜
+impluvium~n:蓄水池
+imply~v:意味着,暗示,包含,蕴涵,蕴含,暗含,含蓄,寓,默示,寓于
+impolicy~n:失策
+impolite~v:失礼|a:非礼
+impoliteness~n:失礼,无礼
+impone~v:打赌
+import~n:进口|v:输入,说明,引进,含有
+import excess~v:入超
+import surplus~n:入超
+importance~n:重要,重要性,意义,自大,有力,骄傲,痛痒,显著
+important~a:重要,要,重大,许多,大,要紧,紧要,重,打紧,鼎
+important affairs~n:要务
+important condition~n:要件
+important matter~n:大事
+important mission~n:重任
+important office~n:重任
+important official~n:要员
+important passageway~n:门户
+important people~n:栋梁
+important personage~n:显要,要人
+important place~n:重地,冲
+important point~n:重点
+important position~n:重地
+important programme~n:要图
+important road~n:要路
+importation~n:输入,进口
+imported cigarette~n:洋烟
+imported goods~n:舶来品,外货,来路货,洋货
+imported products~n:洋货
+importer~n:进口商
+imports~n:舶来品
+imports and exports~n:进出口
+importune~v:纠缠,泡蘑菇,强求
+importunity~n:强求
+impose~v:强加,征收,征,利用,课,施加,欺骗,施,放置,强迫,强求|n:课,冒名顶替
+impose a curfew~v:戒严
+impose a fine~v:罚款
+impose grain levies~v:征粮
+impose on~v:欺骗,强迫
+impose upon~v:欺骗,强迫
+impose upon people~v:招摇撞骗
+imposing~a:堂堂,雄伟|d:巍然
+imposing gesture~n:雄姿
+imposingly~d:堂而皇之
+imposition~n:课税,哄骗,税,负担,征税,强加
+impossible~a:叵
+impossible date~n:驴年马月
+impossible task~n:海底捞针
+impost~n:进口税,关税,税
+imposthume~n:腐败
+impostor~n:骗子,冒牌
+impostume~n:腐败
+imposture~n:冒名顶替
+impotence~n:无能,虚弱,衰弱,阳萎,阳痿,无力,无效
+impotency~n:天阉
+impotent~v:软弱无力|a:软弱无力
+impotentia~n:阳痿
+impound~v:没收,拘禁,蓄水,充公
+impoundment~n:扣留
+impoverished~a:贫困,贫穷,贫苦,穷苦,竭蹶
+impoverishment~n:耗尽|v:耗尽
+impracticable~a:架空,不切实际,疏阔|v:架空
+impracticable argument~n:迂论
+impractical~a:酸,虚浮|v:行不通
+impractical argument~n:迂论
+impractical discussion~n:清谈
+impractical opinion~n:迂见
+imprecate~v:诅,诅咒,咒
+imprecation~n:咒语
+impregnable~a:坚不可摧,毫不动摇,固若金汤
+impregnable bulwark~n:长城
+impregnable country~n:铁打江山
+impregnable fortress~n:金汤
+impregnant~n:溶剂
+impregnate~v:注入,浸透,灌注,怀孕,渗透,受精
+impregnatenation~n:怀孕,注入,渗透
+impregnation~n:浸染,浸渍|v:浸渍,怀孕
+impresario~n:经理,指挥,导演
+impress~v:征用|n:特征,痕迹,印记
+impression~n:印象,感觉,影响,感想,印痕,痕迹,效果,想法,意见,印数,印刷品,印次
+impressionism~n:印象派
+impressionist school~n:印象派
+impressions~n:感想,观感
+impressive~a:显赫,可观,蔚,威风,赫然,感人肺腑
+impressive appearance~n:气宇轩昂,气度不凡
+impressive looking~n:冠冕堂皇
+impressive sight~n:奇观
+impressive strength~n:威
+impressively~d:赫然
+impressment~n:征用
+imprest~n:预付款
+imprimatur~n:批准
+imprimis~d:首先
+imprint~n:痕迹,印痕|v:盖,印刷
+imprinter~n:印刷机
+imprinting~n:印记
+imprison~v:监禁,关押,束缚,禁锢,囚禁,囚,收监,下狱,锢,幽,幽禁,限制,圄,禁|n:关押,监禁
+imprisonment~n:徒刑,关押,束缚,徒
+improbity~n:邪恶
+impromptu~d:即席,即兴
+improper~a:不当,不端|v:失宜,欠妥,失当
+improperly familiar with~a:狎昵
+improperly managed~v:措置失当
+improve~v:改进,改善,提高,好转,利用,增加,进步,改良,增进,改动,健全,琢磨,壮,升值
+improve every moment~v:分秒必争
+improve on~v:改进,改动
+improve one's looks~v:美容
+improve the occasion~v:因势利导
+improvement~n:改进,改善,进步,改良,好转,装修,利用,起色,增进,矫正|v:矫正,改进,改善
+improver~n:见习生,学徒
+improvidence~n:目光短浅,浪费
+improvident~a:目光短浅
+improving~n:精炼|v:精炼
+improvisation~n:急就章
+improvise~v:随机应变,凑合
+imprudence~n:轻率,鲁莽
+imprudent~a:毛手毛脚
+impudence~n:厚颜无耻,冒失,无礼
+impudent~a:无耻,厚颜无耻,胆大妄为|v:胆大妄为
+impudicity~n:放肆
+impugn~v:指摘,攻击,打击,责难
+impugnment~n:责难
+impuissance~n:无能,无力,虚弱
+impulse~n:冲动,脉冲,冲量,推动,兴奋,搏动|v:推动,冲动,鼓舞
+impulse current~n:脉冲电流
+impulse of motion~n:冲动
+impulse wave~n:冲击波
+impulsion~n:冲力,冲动,刺激,推动力,脉冲,推进,鼓舞
+impulsive~a:浮躁,孟浪
+impulsive motion~n:脉动
+impunity~n:无罪
+impurity~n:杂质,混合物,下流,不道德,污垢
+impurity substance~n:杂质
+imput~n:输入
+imputate~v:归咎
+imputation~n:归罪,责怪,归咎,毁谤
+impute~v:归于
+in~p:就,用,到,于,将,进来,其中,进去,进,里,期间,其内,之内|d:到达,在家,在内,得到,流行,成功,时髦,一致|n:里|r:其中|v:进
+in a bate~p:发脾气
+in a body~p:全体
+in a box~p:为难
+in a breath~p:立刻
+in a breeze~p:轻而易举
+in a bustle~p:七手八脚,忙乱
+in a crack~p:立刻
+in a daze~p:发呆
+in a dilemma~p:进退维谷,进退两难
+in a fix~p:不上不下,左右为难,困难重重
+in a flash~p:转瞬,须臾之间,弹指之间,霍地,瞬间,转眼,俯仰之间,即刻
+in a flurry~p:慌慌张张,慌忙,仓惶,手忙脚乱,苍黄
+in a fog~p:莫可名状
+in a haste~p:匆匆忙忙
+in a heap~p:累累,成堆
+in a hubbub~p:沸沸扬扬,乱哄哄
+in a huff~p:怒气冲冲,气乎乎
+in a hurry~p:匆促,匆忙,急切,赶快,急三火四,赶忙,仓促,匆猝,匆匆忙忙,立即
+in a jerk~p:马上,立刻
+in a jiffy~p:霎时间,俯仰之间
+in a jumble~p:芜,杂乱,芜杂
+in a low~p:瓮声瓮气
+in a lump~p:总计
+in a measure~p:多少,一部分
+in a mess~p:乱,凌乱,乱糟糟,零乱,糟
+in a minute~p:一会儿
+in a mist~p:迷惘
+in a moment~p:一刹那,一霎,一会儿,一霎时,顷刻,弹指之间,不会儿,须臾之间,一忽儿,瞬间,旋踵,俄而,俄顷
+in a muddle~p:杂乱,芜,乱七八糟
+in a nutshell~p:简而言之,简言之
+in a panic~p:仓皇失措
+in a predicament~p:窘迫
+in a rage~p:气冲冲,怒冲冲,一怒之下
+in a roar~p:哄然大笑
+in a row~p:接连,一连,连续
+in a rush~p:一泻千里,匆匆,急急忙忙
+in a second~p:立即,立刻
+in a stream~p:陆续,连续
+in a tone~p:一致
+in a trance~p:恍惚,恍忽
+in a tumult~p:天下大乱
+in a turmoil~p:乱
+in a twinkle~p:俯仰之间,转瞬间
+in a twinkling~p:霎时间,刹那间,片刻
+in a way~p:一点,稍为
+in a while~p:一会儿
+in a word~d:总而言之,简言之,一句话,总的来说
+in abeyance~p:待办
+in abject poverty~p:赤贫
+in abundance~p:充足
+in accord~p:谐,一致
+in accord with~p:符合
+in accordance with~p:根据,按,一致,以,秉承,照,与_一致,针对,因,禀承,依据
+in acknowledgement of~p:答谢
+in acknowledgment of~p:答谢
+in actuality~p:骨子里
+in addition~p:并且,加以,另,另外,外加,除此之外,加之,外,还
+in addition to~p:之外,除外,除_之外
+in advance~p:事前,先行,先头,提前,先,头里,早
+in advance of~p:之前,在_之前,优于
+in agreement~p:合辙
+in agreement with~p:同意,符合,赞同
+in aid of~p:求助于
+in all~p:统共,一总,凡,共总,总计,共,合共
+in all aspects~p:在在
+in all directions~p:四下里
+in all earnestness~p:满腔热忱,语重心长
+in all places~p:到处,随处
+in all probability~p:十之八九
+in all quarters~p:四面八方
+in all reason~p:合情合理
+in all respects~p:处处
+in all seriousness~p:正经八百,一本正经
+in allusion to~p:暗示
+in amazing colours~p:五彩缤纷
+in amity with~p:和睦
+in amount~p:总之
+in an emergency~p:千钧一发
+in an instant~p:霎时间,一会儿,弹指之间,顷刻,须臾之间,刹那间,俯仰之间
+in an uproar~p:乱哄哄
+in ancient styles~p:古色古香
+in anger~p:气愤,含怒
+in any case~p:左右,好歹
+in any event~p:左不过,无论如何
+in any sort~p:无论如何
+in any term~p:无论如何
+in any wise~p:无论如何
+in appropriate measure~p:恰如其分
+in army service~p:行间
+in back of~p:后面,在_后面
+in bad repair~p:破损,失修
+in bags~p:袋装
+in batches~p:分批,成批|d:分批
+in behalf of~p:代表,为了
+in between~p:中间,在_中间,在中间
+in big strides~p:大踏步
+in bloom~p:盛开
+in blossom~p:盛开
+in brad-light~p:大天白日
+in breathless anxiety~p:提心吊胆
+in brief~d:简言之,总而言之,总的来看,简而言之
+in broad daylight~p:大白天,大庭广众,光天化日
+in broad outline~p:概括
+in bud~p:含苞
+in bulk~p:成堆,散装
+in cahoots with~p:与_联手,联手
+in care of~p:万一
+in case~c:要,倘若,万一,假如,倘使,傥,设,一旦,倘然
+in case of~p:如果,假使
+in case that~v:万一
+in categorical terms~p:义正辞严
+in charge~p:主管,负责,上台
+in charge of~p:负责,主管
+in chief~p:尤其
+in close succession~p:联翩
+in cold blood~p:冷静
+in common~p:同
+in common prudence~p:理所当然
+in common with~p:一样,与_一样,一致,与_一致
+in commotion~p:哗然
+in company~p:一起
+in company with~p:一起,与_一起
+in comparison~p:比较
+in comparison to~p:比较,与_比较
+in comparison with~p:与_比较
+in compatible with~p:圆凿方枘
+in complete harmony~p:水乳交融
+in compliance with~p:如,比较
+in conclusion~p:总之,最后,结束|d:如上所述,综上所述
+in conflict with~p:冲突,与_冲突
+in conformity with~p:一致,与_一致,本着,一鼻孔出气
+in confusion~p:错乱,紊乱
+in connection with~p:有关,与_有关,针对
+in consecutive years~p:连年
+in consequence~p:结果,因此
+in consequence of~p:缘故,由于_缘故
+in consideration of~p:由于,考虑到,鉴于
+in contact with~p:联系,与_联系
+in contempt of~p:不顾,藐视
+in contrast~p:相反
+in contrast to~p:相反,与_相反
+in contrast with~p:与_相反,相反
+in coordination with~p:配合
+in corners~p:偷偷摸摸
+in course of~p:在,中,在_中,在_之中,之中,正在
+in crease price~p:加价
+in crowds~p:三三两两
+in daily progress~p:蒸蒸日上
+in dead earnest~p:一本正经
+in debt~n:入不敷出
+in deep water~p:困难重重
+in default of~p:因没有
+in deference to~p:服从
+in defiance of~p:不顾,无视
+in desperation~p:气急败坏
+in detail~p:一五一十
+in difficult condition~p:涸辙之鲋
+in dire straits~p:落泊,落拓,落托
+in dire suffering~p:水深火热
+in disastrous state~p:百孔千疮
+in discomfiture~p:手足无措
+in disguised form~p:变相
+in disorder~p:披头散发,七零八落,混乱,凌乱,错乱,狼藉,零乱,七零八碎
+in disorderly fashion~p:糊里糊涂
+in disregard of~p:不顾
+in distant places~p:山南海北
+in due form~n:正式
+in early spring~p:开春
+in earnest~p:真心诚意,老老实实
+in ease~p:从从容容
+in endless whiteness~p:白茫茫
+in every case~p:但凡
+in every deed~p:真正
+in every direction~p:横竖,四面八方
+in every home~p:家家户户
+in every place~p:到处
+in everyone's mouth~p:脍炙人口
+in evidence~p:明显
+in excellent taste~p:大大方方
+in excess~p:太,过度
+in excess of~p:超过,多于
+in exchange for~p:交换,以_交换
+in expectation of~p:指望,期待
+in explicit terms~p:直截了当
+in extreme depression~p:无聊
+in face of~p:面临,面前
+in facsimile~p:惟妙惟肖,一模一样
+in fact~p:实际上
+in fault~p:不对
+in favor of~p:赞同,支持
+in favour~p:流行,入时
+in favour of~p:赞成,支持
+in feeling~p:芥蒂
+in financial straits~p:困顿,寒苦
+in fine~p:简言之
+in fine detail~p:缕
+in fine fettle~p:神采奕奕
+in flocks~p:成群结队
+in flower~p:盛开
+in flux~p:动荡
+in force~p:生效,现行
+in form~p:报信
+in former days~p:昔日
+in former times~p:往昔,往时,昔日
+in formidable array~p:浩浩荡荡,森罗万象
+in freezing winter~p:寒冬腊月
+in front~p:在先,头里,先头,前边,前面
+in front of~p:前面,前,面前,在_之前,在_前面,之前,前边,前头,在_前
+in fulfillment of~p:完成,履行,实现
+in full agreement~p:入港
+in full bloom~p:怒放,全盛
+in full feather~p:盛极一时
+in full power~p:开足马力
+in full speed~p:开足马力
+in full swing~p:欢,热火朝天
+in future~p:今后
+in gear~p:正常
+in general~p:一般,总的来看,总之
+in going order~p:正常
+in good condition~p:完好无缺,完好
+in good earnest~p:诚心诚意
+in good feather~p:神采飞扬
+in good health~p:安,康健,无恙
+in good order~p:井井有条,整饬,整齐,有条不紊,天下大治
+in good repair~p:完好无损,修好
+in good season~p:恰好
+in good shape~p:完美无缺
+in good spirits~p:神采奕奕
+in good taste~p:大方,雅观
+in good time~p:刚巧,恰好,适时,久而久之
+in great abundance~p:满坑满谷,林林总总
+in great confusion~p:乱成一团
+in great delight~p:兴高采烈
+in great demand~p:热
+in great detail~p:从头至尾
+in great disorder~p:乌七八糟,污七八糟,荒乱
+in great haste~p:急急忙忙
+in great number~p:繁
+in gross~p:大量
+in groups~p:成群
+in harmony~p:合拍,谐
+in haste~p:匆匆,匆忙,赶紧,急忙,连忙,迫不及待,急切
+in high feather~p:兴致勃勃,兴高采烈,扬眉吐气
+in high gear~p:全速
+in high glee~p:欢天喜地
+in high spirit~p:神采飞扬
+in high spirits~p:来劲,神采奕奕,兴致勃勃,起劲,带劲,意气风发
+in high-sounding words~p:冠冕堂皇
+in hope of~p:期待,希望
+in hopes of~p:希望,期待
+in hot haste~p:十万火急
+in humble reverence~p:毕恭毕敬,必恭必敬
+in imminent danger~p:火烧眉毛,厝火积薪,岌岌可危,危在旦夕
+in imminent peril~p:鱼游釜中
+in intaglio~p:阴
+in jest~p:开玩笑
+in joke~p:开玩笑
+in just quantity~p:恰如其分
+in justification of~p:辩护,为_辩护
+in keeping with~p:一致,与_一致
+in kind~p:同样
+in knots~p:三五成群
+in large groups~p:成群结队
+in large numbers~p:成群,满坑满谷
+in league with~p:伙同,勾结
+in lieu of~p:代替
+in light of~p:根据,按照,本着
+in line with~p:符合,根据
+in low spirits~p:忽忽不乐,委靡不振,无精打采,沉闷,闷闷不乐,失神,垂头丧气
+in low sprits~p:没精打采
+in low water~p:拮据
+in majestic splendor~p:富丽堂皇
+in many ways~p:多方面
+in memoriam~p:追念,纪念
+in memory of~p:纪念,追念
+in mighty contingents~p:浩浩荡荡
+in mighty formation~p:浩浩荡荡
+in mind~p:心里,心中
+in moderation~p:哀而不伤
+in most cases~p:大凡
+in multitudes~p:森
+in name~p:名义
+in name only~p:徒有其名
+in nature's garb~p:一丝不挂
+in neat order~p:俨然
+in need of~p:需要
+in negligible quantity~p:为数不多
+in no case~p:决不
+in no circumstances~p:绝不
+in no degree~p:决不
+in no sense~p:并不,决非
+in no time~p:快要,立即,转脸,即将
+in no way~p:决不
+in no wise~p:绝不
+in noisy disorder~p:乱哄哄
+in normal times~p:平素
+in north of~p:北边,北
+in number~p:总共
+in obedience to~p:顺从,服从
+in old age~p:垂暮之年
+in one~p:异口同声
+in one breath~p:一口气
+in one day~p:一朝一夕
+in one go~p:一鼓作气
+in one motion~p:立刻
+in one thirties~n:而立之年
+in one word~p:总而言之
+in one's childhood~p:小时候
+in one's decline~p:日暮途穷
+in one's eyes~p:眼里
+in one's face~p:迎面
+in one's hands~p:到手
+in one's life~p:有生以来
+in one's mercy~p:恻隐之心
+in one's office~p:复职
+in one's possession~p:到手
+in one's power~p:力所能及
+in one's prime~p:年富力强
+in one's regard~p:关于
+in one's skin~p:一丝不挂
+in one's stride~p:轻而易举
+in open~p:公然,公开
+in open view~p:堂堂皇皇
+in operation~p:现行,生效
+in opposition to~p:相反,反对,反抗,与_相反,与_相对,相对
+in order~p:井然有序,整齐划一,整整齐齐,挨次,秩序井然,整齐
+in order for~p:为了
+in order not to~p:为了不
+in order that~c:为了,以便,为着,俾
+in order to~p:为了,以,用以,为着,俾,以求
+in other words~d:换言之,换句话说
+in overtones~p:溢于言表
+in pace with~n:随着
+in pairs~p:偶,成对,成双,偶数
+in panic~p:苍黄,仓皇
+in parallel~p:并联,并行
+in part~p:一半
+in particular~p:尤其,特别
+in parts~p:分开
+in passing~p:顺带,附带
+in pause~p:停顿,终止
+in peacetime~p:平时
+in perfect harmony~p:一唱一和
+in perfect order~p:整整齐齐,秩序井然,有条不紊
+in perfect silence~p:鸦雀无声
+in perfect tranquility~p:太平无事
+in perpetuity~p:永远
+in person~p:亲
+in piecemeal fashion~p:零零落落
+in pieces~p:支离破碎,破碎
+in pitch darkness~p:昏天黑地
+in place~p:恰当,到处,处处
+in place of~p:代替,取代
+in places~p:到处
+in pleased surprise~p:喜出望外,大喜过望
+in plenty~p:汗牛充栋,满坑满谷
+in point~p:切题,中肯
+in point of~p:关于,就_而言,而言
+in poor health~p:虚弱,虚
+in poor taste~p:俗气
+in possession of~p:领,占有
+in power~p:当家作主,当权
+in practice~p:实际上,事实上
+in preference of~p:选择
+in preference to~p:选择
+in prejudice of~p:偏爱
+in principle~p:大体上|d:大体上
+in private~p:私下
+in privation~p:困苦
+in process of~p:在,在_过程中,正在
+in progress~p:半路
+in progression~p:连续
+in proper order~p:顺序
+in proper sequence~p:依次
+in proportion to~p:与_成比例
+in proximity to~p:接近
+in public~p:明处,大庭广众|n:大庭广众
+in pup~p:怀胎
+in pursuance of~p:依照,按照
+in pursuit of~p:追求,寻求
+in quantity~p:大量|d:成总儿
+in quest of~p:寻找,寻求,追求,为了_追求,为了_寻求,探求
+in quick succession~p:接二连三,紧接着
+in rapid sequence~p:接二连三
+in rapid succession~p:连珠,接连不断
+in raptures~p:欣喜若狂
+in rare cases~p:偶尔
+in re~p:关于
+in real earnest~p:真心实意
+in real life~p:活生生
+in reality~p:其实,实际上
+in reason~p:正当,合理
+in recent times~p:新近
+in recognition of~p:因,公认
+in reference to~p:关于
+in regard of~p:关于
+in regard to~p:关于,有关,对于,鉴于
+in regular order~p:顺次
+in regular sequence~p:一板一眼
+in relation to~p:关于,相比,与_相比
+in relief~p:彰明较著,阳
+in reply to~p:答复
+in respect of~p:关于,就
+in response to~p:响应,答复
+in retard~p:推迟
+in return for~p:报答,作为_的报答
+in reverse~p:相反,反之
+in rhyme~p:合辙
+in round numbers~p:约计
+in sadness~p:凄然
+in satisfactory circumstances~p:顺遂
+in search of~p:寻找,寻求,查究
+in season~p:当令,应时,喷
+in seclusion~p:冷冷清清
+in secret~p:私下
+in seeming earnest~p:煞有介事
+in sequence~p:挨,顺,顺次
+in service~p:在职
+in shifts~p:轮班
+in short~p:简言之,一句话,简而言之|c:总的来说,总的说来|d:简言之
+in short order~p:立即
+in short supply~p:稀少,紧张,缺乏
+in shunt with~p:关闭
+in sign~p:帽徽
+in similar manner~p:同样
+in small groups~p:三五成群,三三两两
+in small numbers~p:少数
+in small particles~p:细
+in smart clothes~p:衣冠楚楚
+in snatches~p:断断续续
+in solitude~p:孑然,独
+in some degree~p:多多少少
+in some sort~p:稍为,多少
+in some wise~p:有点
+in somebody's presence~p:当,当面
+in somebody's steps~p:步人后尘
+in space~p:一会儿,片刻
+in special~p:格外
+in speech~p:口头
+in spite of~p:尽管,不顾,不管
+in spring~p:春上
+in state~p:堂而皇之,堂堂皇皇
+in stead of~p:代替
+in step~p:同步,合拍,齐步
+in stern words~p:严词
+in stock~p:现货,存货,现存
+in straitened circumstances~p:困顿,贫困,穷困,拮据,窘,困窘,清寒
+in street corners~p:街头巷尾
+in succession~p:一连,连着,陆续,接连,连,纷纷
+in sum~p:大体上,简言之,总之
+in summary~p:扼要
+in support of~p:支持,支援,维护
+in suspense~p:悬而未决
+in swarms~p:蜂
+in sympathy with~p:同情
+in syrup~p:糖
+in tap~p:零售,现成
+in tears~p:潸
+in tense~p:埋首
+in terms of~p:根据,按照,论,在_方面
+in that case~p:便,然则,那,那么
+in the aggregate~p:总共
+in the air~p:空际
+in the army~p:行间
+in the ascendant~p:旭日东升
+in the back of~p:在_后面
+in the bargain~p:除外
+in the beginning~p:起初,起头
+in the bookshops~p:坊间
+in the case of~p:下,在_情况下
+in the centre~p:当心,当中,当间儿
+in the cold~p:冷淡
+in the concrete~p:实际上
+in the course of~p:在_期间,期间
+in the dark~p:茫然,茫,暗,暗中
+in the daytime~p:日间
+in the dismals~p:忽忽不乐
+in the dumps~p:颓丧
+in the east~p:东部,东边,东面
+in the end~p:究竟,终久,端的,竟,终,算,卒,到底,归根结蒂,末了,终归,最后|d:竟
+in the event of~p:发生,如果_发生
+in the extreme~p:煞,无以复加,杀
+in the face of~p:面对,面临
+in the favor of~p:同意,赞同
+in the favour of~p:同意,赞同
+in the first~p:首先
+in the flesh~p:本人
+in the front of~p:前面,在_前面,在_之前,之前
+in the future~p:往后,今后
+in the great~p:大概,总括
+in the heart~p:心上,心中,心里
+in the heaven~p:天上
+in the integrity~p:原封不动
+in the interest of~p:为了,利益,为了_的利益
+in the interim~p:同时,暂时
+in the issue~p:终于
+in the last~p:最后
+in the least~p:毫,绝,全然
+in the light of~p:鉴于,根据,按照
+in the limelight~p:引人注目
+in the locality~p:当地
+in the lump~p:总共,简言之,一并
+in the main~p:大抵,基本,基本上
+in the matter of~p:而论,就_而论,关于
+in the meantime~p:同时
+in the meanwhile~p:与此同时
+in the middle~p:居间,拦腰,居中,当中,半,当心
+in the middle of~p:在_之中,之中
+in the midst of~p:之中,在_之中
+in the mind~p:心中
+in the mouth~p:口中
+in the name of~p:名义,凭,以_名义
+in the neighborhood~p:就近
+in the nighttime~p:夜间
+in the nude~p:赤身露体
+in the open~p:露天,明处
+in the order of~p:大约
+in the past~p:已往,昔日,先头,早先,在先,当初
+in the place of~p:代替
+in the presence of~p:面前,在_面前
+in the process of~p:过程中,在_过程中
+in the rear~p:后头,后面,背后
+in the red~p:负债
+in the result~p:结果
+in the rough~p:大约
+in the sequel~p:结果
+in the shade~p:背阴,默默无闻
+in the sky~p:上空,天上,空际
+in the south~p:南面
+in the street~p:当街
+in the trade~p:内行,行家
+in the van~p:当先
+in the vicinity~p:左近
+in the vicinity of~p:邻近,在_附近,在_邻近,附近
+in the way of~p:方面,关于_方面
+in the world~p:天底下
+in the wrong~p:屈
+in these days~p:近日
+in this case~d:既然如此
+in this century~p:今生今世
+in this regard~p:关于
+in this way~p:如此
+in this wise~p:这样
+in those days~p:那咱,那时,当时
+in time~p:合拍,如期,恰好
+in time for~p:迭
+in tins~p:听装
+in token of~p:表示,作为_标志,标志
+in total~p:全部,完全
+in touch with~p:联系,与_联系
+in town~p:城里
+in trouble~p:出漏子,怀孕
+in truth~p:其实,确实,实际上
+in tune~p:协调,谐
+in turmoil~p:动荡不安
+in turn~p:挨个,反过来,分批,顺序,依次,顺次,以次|d:分批
+in two~p:分开
+in two shakes~p:一刹那
+in two twos~n:立刻
+in unison~p:一致,一齐
+in utter dilapidation~p:断壁残垣
+in utter disorder~p:一塌糊涂,天下大乱,杂乱无章
+in vague terms~p:含糊其词
+in vain~d:白费,白,无效,干,落空,徒,白白,空,唐,枉,一场空,白搭,虚
+in valuable asset~p:无价之宝
+in varied forms~p:多种多样
+in variety~p:不等
+in various ways~p:各式各样
+in verity~p:真正
+in view~p:看见
+in view of~p:由于,基于
+in village~p:村里
+in violation of~p:违背,违反
+in virtue of~p:由于,依靠,凭借|d:借助
+in vivo~a:体内
+in vogue~p:流行,时兴
+in want of~p:需要,缺少
+in with~p:相好,与_相处,与_相好,相处
+in words~p:口头
+in writing~p:书面
+in written form~p:笔头,书面
+inability~n:无力,无能为力,无能
+inaccessible~a:闭塞,可望而不可即
+inaccuracy~n:错误,误差
+inaccurate~a:疏阔
+inaction~n:故障,迟钝,怠惰,懒散,无为
+inactivate~v:钝化,撤销
+inactivation~n:钝化,僵化|v:僵化
+inactive~a:消极,被动
+inactivity~n:无为
+inadequate~a:不足,不够,绌,勉强,贫
+inadvertence~n:错误,粗心大意,疏忽
+inadvertency~n:疏忽
+inadvertent~a:漫不经心,粗心大意,不慎|v:无意
+inadvertently~d:无意,无心|v:无心
+inadvisable~a:不宜
+inamorata~n:恋人
+inamorato~n:情人
+inane~a:空洞
+inanimate~a:冥顽不灵,没精打采
+inanition~n:虚弱,空虚|a:空虚
+inanity~n:空虚,虚空,愚妄,无知,空洞|a:空虚
+inappetence~n:食欲不振
+inapproachable~a:无可比拟
+inappropriate~a:不当,不宜,失宜|v:失宜,失当
+inaptitude~n:无能
+inarm~v:拥抱
+inarticulate~a:笨口拙舌,哑口无言,嘴笨
+inasmuch as~c:因为,由于
+inattention~n:漫不经心,疏忽,粗心
+inattentive~a:心不在焉,粗疏,大意,松散|v:心不在焉,失神
+inaugural~a:就职
+inaugural ceremony~n:开幕式
+inaugurate~v:开始,开幕,开辟,揭幕,创始,开张
+inauguration~n:开幕式,开张,开始
+inaugurator~n:创始人
+inauspicious~a:不祥,凶
+inbeing~n:本性,本质
+inberent~a:固有
+inberit~v:继承
+inberitance~n:继承,遗传
+in-between the lines~n:字里行间
+inborn~a:天赋,天生|n:先天
+inbreak~v:闯进
+inbreathe~v:吸入
+inburst~v:涌入,突入
+inc~n:公司
+incalculable~v:不可估量|a:不可估量
+incandesce~v:白热化
+incandescence~n:白热
+incandescent lamp~n:白炽电灯,白炽灯
+incantation~n:咒语,妖术,念咒|v:咒
+incapable~a:无能,无法,无力|v:无力
+incapable of action~a:无能为力
+incapable of resistance~a:身不由己
+incapable person~n:草包
+incapably~d:无法
+incarcerate~v:监禁,禁闭
+incarceration~n:监禁
+incarnadine~n:肉色
+incarnate~v:体现,实现
+incarnation~n:化身,体现
+incase~v:围绕,包装
+incavation~n:洼地
+incendiarism~n:放火,挑拨,煽动,纵火
+incendiary~n:燃烧弹,易燃物|v:纵火|a:纵火
+incense~n:香,香气,奉承|v:香|a:香
+incense ash~v:香灰
+incense ashes~v:香灰
+incense burner~v:香炉
+incense burner table~v:香案
+incense smoke~v:香烟
+incensory~n:香炉
+incent~v:激动
+incenter~n:内心
+incentive~n:鼓励,刺激|v:激怒,刺激,动机
+incentre~n:内心
+incept~v:开始,发端,接受,摄取
+inception~n:开始,开端,发端
+incertitude~n:怀疑
+incessant~v:无尽无休,不已,不置|a:不停,无尽无休
+incessant changes in~n:日新月异
+incessant occurrences~n:险象环生
+incessant rain~n:苦雨
+incessant talk~n:滔滔不绝
+incessantly~d:不断,不置|v:接连不断,连天
+incessantly coming~n:源源而来
+incest~n:乱伦
+inch~n:英寸,个子,身段,少量,少许|v:渐进
+inch by inch~a:渐渐
+inchoation~n:初期,起初,开始,初步
+inchon~n:仁川
+inchworm~n:尺蠖,槐蚕
+incidence~n:入射,影响,发生,关联,负担,入射角,着落,倾角,接合
+incident~n:事件,事情,事故,事变,枝节,插话,事端|c:故
+incident ray~n:入射线
+incidental~n:杂费,杂项|a:偶然
+incidental expenses~n:零花钱
+incidental music~n:配音,配乐
+incidentally~d:附带|v:捎带
+incidentals~n:杂费
+incineation~n:焚化
+incinerate~v:煅烧,焚化
+incinerateation~n:焚化
+incinerateator~n:焚化炉
+incineration~n:焚烧,煅烧
+incinerator~n:焚化炉,火葬炉
+incipience~n:初期
+incipiency~n:初期
+incipient~a:开始
+incircle~n:内切圆
+incise~v:切割,雕刻,切入,切开
+incised council~n:金疮
+incised wound~n:金疮,割伤
+incision~n:切开,刀口,切入,雕刻
+incisive~a:锋利,尖锐,犀利,辟,精辟|v:辟
+incisive judgment~n:真知灼见
+incisor~n:门牙,门齿,板牙
+incisor front tooth~n:门齿
+incitant~n:兴奋剂
+incitation~n:激励,激发,动机,诱因,刺激,煽动|v:刺激,激发
+incite~v:煽动,激励,挑拨,挑动,主使,策动,扇,招,刺激,调唆,鼓励,唆使,煽,扇动,指使,撮弄,鼓,鼓捣,怂恿,教唆,撩拨,挑,拨弄,挑唆,鼓动,授意
+incitement~n:刺激|v:刺激,激发
+incivility~n:粗野
+inclemency~n:酷寒
+inclination~n:趋势,点头,倾斜,嗜好,志趣,倾向,倾斜角,倾角,斜度,斜面,鞠躬,偏流,歪斜,斜角,交角,斜坡,磁偏角,坡度
+incline~v:倾向,倾斜,低头,侧|n:斜坡,斜面,坡度|a:歪
+incline plane~v:斜面
+incline shaft~v:斜井
+incline to~v:趋向
+incline toward~v:倾向
+inclined~a:偏斜,歪,斜
+inclined shaft~n:斜井
+inclined well~v:斜井
+inclosure~n:附件
+include~v:包括,包含,收入,带,算,包,收录,归入,编入,赅,包罗,括,囊括
+include all~v:满打满算
+including~p:包括,连,在内|n:以内|v:以内
+inclusion~n:包括,包含,杂质|v:包含
+inclusive~a:在内
+inclusive of~p:包括
+incognito~v:隐姓埋名|a:隐姓埋名
+incoherence~n:不着边际,支离破碎
+incoherent~a:不相干,颠三倒四|v:不相干
+incoherent speech~n:语无伦次
+incoherent talk~n:狂言
+income~n:收入,收益,进款,所得,经济,入|v:收
+income account~n:损益计算书
+income tax~n:所得税
+incomer~n:移民
+incoming~a:入射,进入,到来|n:进来,岁入,收入|v:进入
+incoming letter~n:来书,来信
+incoming road~n:来路
+incoming telegram~n:来电
+incommensurable~n:无理数
+incommode~v:妨碍,打扰
+incommunicable~a:沉默寡言
+incomparable~a:无比,无与伦比|v:无与伦比,无可比拟
+incomparable skill~n:绝技
+incomparably~d:无比
+incomparably above everything~p:超群绝伦
+incompetence~n:无能
+incompetent~a:无能,蹩脚,不才|v:力不胜任
+incomplete~a:片,残缺,缺略,秃,残,缺,残缺不全
+incomplete leaf~n:不完全叶
+incompletely~d:悬而未决
+incompleteness~n:缺略
+incomprehensible~a:莫名其妙,百思不解,没头没脑,不知所云|v:不知所云,百思不解
+inconceivability~n:不可思议
+inconceivable~a:不可思议,不堪设想
+inconclusive~a:模棱两可
+inconclusiveness~n:不得要领,无效
+incongruous~a:格格不入|v:格格不入
+inconsequence~n:矛盾
+inconsequential~a:无关紧要|v:无关紧要
+inconsiderable~a:微不足道|v:微不足道,不足道
+inconsideration~n:轻率,粗心
+inconsistency~n:出入
+inconspicuous~a:不起眼
+inconstancy~n:反复无常,易变
+inconstant~a:易变
+inconstant in love~a:薄情,薄幸
+incontestability~n:无可争辩
+incontestable~v:无可争辩|a:无可争辩
+incontinence~n:失禁
+incontinent~a:立即
+incontrollable~a:失控
+incontrovertible~v:无可争辩|a:无可争辩
+incontrovertible proof~n:铁证
+inconvenience~n:麻烦|v:麻烦
+inconvenient~a:不便,麻烦
+incorporate~v:合并,混合,并入,结合,体现,包括,并,划归,收编|a:合并
+incorporate in~v:并入
+incorporate into~v:划归,并入
+incorporated company~n:股份有限公司
+incorporation~n:结合,编入,结社|v:结合
+incorrect~a:错误,不对,左
+incorrectness~n:错误
+incorrigible~v:惯,屡教不改|a:屡教不改
+incorrigible thief~n:惯盗
+incorrigibly obstinate~a:顽固不化
+incorrigibly stubborn~a:至死不悟
+incorrupt~a:两袖清风
+incorrupt government~n:廉政
+incorruption~n:不朽,廉洁
+incorruptness~n:清廉
+in-country~a:境内
+incrase~n:增长,增加
+incrassation~v:浓缩
+increase~v:增加,提高,增长,增大,增,增强|n:繁殖
+increase by degrees~n:递增,递加
+increase gradually~v:递加
+increase in~v:增加,增大
+increase in value~n:增值
+increase income~v:增收
+increase of penalty~n:加刑
+increase progressively~v:递加
+increase troubles~v:推波助澜
+increase value~v:增值
+increase with years~n:与年俱增
+increasing powers~n:升幂
+increasingly~d:越来越,日益,愈,愈加,益发,格外
+incredible~a:玄,玄乎,荒诞
+incredible aberration~n:异端邪说
+incredulity~n:怀疑
+incremate~v:火葬
+increment~n:增量,增长,增值,利润|v:生长,增值
+incremental~a:增加
+incretion~n:内分泌
+incriminate~v:连累,控告,归罪
+incrowd~n:小集团,熟人
+in-crowd~n:小圈子
+incrustant~n:水垢
+incrustation~n:镶嵌,疮痂,水垢,水碱,外壳,水锈,外皮,硬壳
+incrustation scale~n:水垢
+incubate~v:培养,孵,想,孵卵,孵化,沉思,潜伏,策划
+incubation~n:潜伏期,孵卵|v:孵化
+incubator~n:孵卵器
+incubus~n:梦魇,恶梦
+inculcate~v:灌输,教育
+inculcation~n:灌输
+inculpate~v:归罪,诬赖,控告
+inculpation~n:控告,归罪,连累
+incumbency~n:在职,执政,任职,任期,义务,职责
+incumbent~a:现任
+incumbent on~n:义不容辞
+incur~v:招致,讨,招惹,吃,招,承受,致
+incur debts~v:负债
+incur hatred of~v:结仇
+incur heavy debts~v:负债累累,债台高筑
+incur mischief~v:惹祸
+incur odium~v:自讨没趣
+incur ridicule~v:见笑
+incur unnecessary trouble~v:惹事生非
+incurable~v:不可救药|a:不可救药
+incurable disease~n:不治之症,死症
+incuriousness~n:淡漠
+incurrence~n:招致,蒙受
+incursion~n:流入,侵袭,袭击,进入,侵略,侵入
+incurvate~v:弯曲
+incurve~v:弯曲
+incus~n:砧骨
+ind~n:印度
+indaba~n:会议
+indebted~a:负债累累,入不敷出
+indebted to~a:感谢
+indebtedness~n:债务,负债,受惠
+indecency~n:无礼,下流,流氓,粗鄙
+indecent~a:不明不白,歪,亵,猥
+indecent assault~n:流氓
+indecent remark~n:下流话
+indecision~n:犹豫不决,优柔寡断
+indecisive~a:优柔寡断|v:优柔寡断
+indecorous~v:欠妥|a:欠妥
+indecorum~n:无礼
+indeed~d:的确,真,确实,实际上,实在,真正,固然,真的,诚然,委实,到底,直,真个,确定,诚,正经,敢情|a:诚,良,正经
+indeed as expected~p:果然
+indefatigability~n:不屈,不屈不挠
+indefatigable~v:孜孜不倦|a:不懈
+indefatigably~d:孜孜不倦
+indefinable~a:无名
+indefinite~a:活络,不定
+indefinite article~n:不定冠词
+indefinite inflorescence~n:无限花序
+indefinitely~d:不定
+indefinitely small~a:无穷小
+indefiniteness~n:不定,含糊
+indelible~v:不可磨灭|a:不可磨灭
+indelicacy~n:粗俗,下流,淫猥
+indemnification~n:保障,补偿,赔偿,赦免
+indemnify~v:赔偿,保障,保护,赔款,补偿
+indemnity~n:赔款,保障,赔偿费,赦免,补偿,赔偿
+indene~n:茚
+indent~v:订约
+indentation~n:凹槽,凹入,凹陷,空格|v:凹陷,凹入|a:低凹
+indenting hammer~n:锤头
+indention~n:凹入
+indenture~n:合同,契约,货单,证书,凭单
+independence~n:独立,独立性,自立,自主,无关,自主权|v:无关
+independency~n:独立,自主,自立,独立性
+independent~a:独立,单独
+independent character~n:独立性
+independent clause~n:主句
+independent country~n:独立国
+independent kingdom~n:独立王国
+independent nation~n:独立国
+independent realm~n:独立王国
+independent regiment~n:独立团
+independent variable~n:自变量,自变数
+independently~d:独力
+indescribability~n:不可名状
+indescribable~a:不可名状,无名|v:莫可名状
+indescribably~d:别提
+indescribably wonderful~a:妙不可言
+indestructible~a:坚不可摧
+indeterminably~d:不定
+indeterminacy~n:犹豫不决
+indeterminate~a:不定
+indeterminate form~n:不定式
+indetermination~n:犹豫不决,优柔寡断,模糊
+index~n:索引,指数,标志,标记,指标,引得,食指,指针|v:引得,指明,指出
+index arm~n:指标
+index bar~n:标杆
+index card~n:卡片纸
+index dial~n:表盘
+index finger~n:二拇指
+index plate~n:刻度盘
+index sign~n:指标
+index term~n:标引词
+indexer~n:索引
+indexing~v:索引,检索,搜索|n:索引
+india~n:印度,天竺
+india ink~n:墨汁,墨
+india rubber~n:橡胶,橡皮
+india shot~n:美人蕉
+indian~n:印第安人,印度,印第安,印第安语
+indian azalea~n:映山红
+indian classical logic~n:因明
+indian corn~n:苞米
+indian mallow~n:苘麻
+indian mustard~n:芥菜
+indian ocean~n:印度洋
+indian porpoise~n:江豚
+indian strawberry~n:蛇莓
+indian summer~n:秋老虎,小阳春
+indiana~n:印第安纳
+indianapolis~n:印第安纳波利斯
+indican~n:糖苷
+indicant~n:病症
+indicate~v:表示,表明,指示,指出,显示,指,需要,预示,标志,主,示,标明,暗示,标示,象征,指点
+indicate mourning~v:志哀
+indicating~v:指示
+indicating device~n:指示器
+indicating instrument~n:指示器
+indicating lamp~n:指示灯
+indication~n:迹象,指示,显示,表示,指出,象征,读数,迹,适应症,征兆,征候|v:显示
+indicator~n:指示器,指示剂,显示器,指针,示功器,标识
+indicator light~n:指示灯
+indicatrix~n:指标,指示
+indicia~n:标号
+indicium~n:征候,记号
+indict~v:控告,告发,告状
+indictee~n:被告
+indicter~n:原告
+indiction~n:宣告,公布
+indictment~n:起诉书,控告,起诉,诉状,告发
+indifference~n:冷淡,中立,中性,不在乎
+indifferency~n:不在乎
+indifferent~a:冷漠,冷淡,淡漠,苟,淡,平庸,漠,薄,没精打采,漠然,平平,淡然
+indifferent equilibrium~n:随遇平衡
+indifferentism~n:冷淡
+indifferently~d:漠然
+indigence~n:穷困,贫穷
+indigene~n:当地人
+indigenous~a:土,土生土长|v:土生土长
+indigenous expert~n:土专家
+indigestion~n:积,结症,杂乱,生硬,食积
+indigitation~n:肠套叠
+indignant~a:气愤,慨,忿怒,激愤,不平,恼怒,气哼哼|v:义愤填膺,激愤
+indignant at injustice~a:抱不平
+indignantly~d:义愤填膺
+indignantly denounce~v:怒斥
+indignantly resent~v:愤恨
+indignation~n:愤慨,愤怒,义愤|a:愤怒,愤慨
+indignent~a:愤愤不平
+indignity~n:侮辱,屈辱|a:无礼
+indigo~n:靛蓝,靛青|a:靛蓝
+indigo plant~n:蓝,蓼蓝
+indigo-blue~n:靛蓝,靛青
+indigotin~n:靛蓝,靛|a:靛蓝
+indirect~a:间接,委
+indirect fertilizer~n:间接肥料
+indirect wave~n:天波
+indirection~n:迂回,间接
+indiscreet~a:轻率|v:失礼
+indiscreetness~n:失礼
+indiscretion~n:轻率
+indiscriminate love~n:博爱
+indiscriminately~d:滥|a:滥
+indiscriminately imitate~v:照抄
+indiscrimination~n:混淆,任意,任性
+indispensable~a:必需,必不可少,必要|v:必需
+indisposed~a:不好过,不适
+indisposition~n:病痛,厌恶
+indisputable~v:无可争辩,颠扑不破,无可讳言|a:无可争辩,无可讳言
+indissolubility~n:永久性
+indissoluble~a:不解|v:不解
+indistinct~a:含混,漫漶,含混不清,隐隐约约,隐约,影影绰绰,苍茫,若隐若现,笼统,隐隐,迷漫|v:若隐若现,若明若暗
+indistinction~n:同等,模糊
+indistinctly~d:影影绰绰,隐约,隐隐
+indite~v:写
+inditer~n:作者
+indium~n:铟
+individual~n:个人,个体|a:个别,单个
+individual event~n:单项
+individual farmer~n:单干户
+individual farming~n:单干
+individual plant~n:植株,株
+individual term~n:单项
+individual word~n:单词
+individualise~v:个性化
+individualism~n:个人主义,利己主义,个性
+individuality~n:个人,个性,个体,人格
+individualize~v:一一列举,个性化
+individually~d:逐个,单个儿
+individuate~v:个性化
+individuateation~n:个性化
+individuation~n:个体化
+indivisibility~n:不可分割
+indivisible~n:微量|a:不可分割
+indocalamus leaf~n:箬
+indochina~n:印度支那
+indo-china~n:印度支那
+indocility~n:倔强
+indoctrinate~v:灌输,教训
+indoctrination~n:教导
+indo-european~n:印欧语
+indo-european languages~n:印欧语
+indolence~n:懒惰,好逸恶劳
+indolent~a:懒散,疏懒,惰,怠惰,懒怠,怠,懒
+indominable~a:不屈不挠
+indomitable~a:顽强|d:刚
+indonesia~n:印度尼西亚
+indoor~n:内部,室内|a:内部
+indoor pool~n:游泳馆
+indoor scene~n:内景
+indorse~v:背书
+indraft~n:吸入,引诱
+indraught~v:流入
+indubitable~a:无可置疑|v:无可置疑
+indubitable evidence~n:铁证
+induce~v:引起,诱发,诱导,引诱,诱,感应,引导,招引,劝诱,导致,勾,招致,催生,敦促,劝导,归纳
+induce calamities~v:惹祸
+induce perspiration~v:赶汗,发汗
+induced abortion~n:人工流产,堕胎
+induced current~n:感应电流
+induced draft~n:抽风
+induced labor~n:引产
+induced labour~n:引产
+inducement~n:引诱,诱导,动机,劝诱,诱因|v:引诱
+inducing resuscitation~n:开窍
+induct~v:感应,介绍,引导,引入,就职
+inductance~n:电感
+induction~n:归纳,诱导,感应,就职,归纳法,诱发,入会,吸入|v:归纳,诱导
+induction coil~n:感应圈
+inductive~a:归纳|n:感性
+inductivity~n:诱导性
+inductor~n:电感
+inductorium~n:感应圈
+indulge~v:纵容,放纵,惯,迁就,沉溺,纵情,姑息,纵,娇纵,助长,醉,逞,张,迷,赦免,酗酒,堕入,沉迷,娇养,湎,放任,宽纵,恕罪
+indulge in~v:堕入,迷,耽,醉
+indulge in dissipation~v:花天酒地
+indulge in dreams~v:想入非非
+indulge in exaggerations~v:夸夸其谈
+indulge in fantasy~v:闭门造车
+indulge in histrionics~v:装模作样,装腔作势
+indulge in merry-making~v:寻欢作乐
+indulge in pleasures~v:行乐
+indulge in self-delusion~v:自我陶醉
+indulge in self-glorification~v:自卖自夸
+indulge in verbiage~v:夸夸其谈
+indulge one's fancy~v:想入非非,异想天开
+indulge oneself~v:恣
+indulgence~n:嗜好,纵容,放任,沉迷,沉溺,恩惠,特惠,纵情,赦免,娇养,免罪
+indulgency~n:沉溺,纵容,娇养,赦免,嗜好,沉迷,纵情,恩惠,放任
+indulgent~a:纵容
+indumentum~n:羽毛
+indurascent~v:硬化
+indurate~v:硬结,坚固|n:硬结
+induration~n:硬结,硬化,顽固
+industrial~n:产业
+industrial area~n:工业区
+industrial army~n:产业军
+industrial atmospheric pressure~n:工业气压
+industrial circle~n:产业界
+industrial community~n:工业界
+industrial country~n:工业国
+industrial disease~n:工业病,职业病
+industrial estate~n:工业区
+industrial revolution~n:工业革命,产业革命
+industrial system~n:工业体系
+industrial worker~n:产业工人
+industrialisation~n:工业化
+industrialist~n:实业家,产业工人
+industrializati~n:工业化
+industrialization~v:工业化|n:工业化
+industrialize~v:工业化
+industrially~d:企业
+industrious~a:勤奋,勤劳,辛勤,孜孜,勤,手勤
+industriously~d:努力
+industry~n:工业,行业,勤劳,勤奋,产业,事业,业,工,刻苦,实业
+industry mine~n:工矿
+indwell~v:内在
+inearth~v:埋葬,葬
+inebriate~n:酒徒,醉鬼,酒鬼|v:灌醉
+inebriation~n:如痴如醉,高兴
+ineffaceable~a:不可磨灭|v:不可磨灭
+ineffective~v:无效|a:不力
+ineffective law rule~n:空文
+ineffective troops~n:虾兵蟹将
+ineffectiveness~n:无效
+inefficiency~n:无能,无效
+inefficient~a:无效
+inelegance~n:粗俗,生硬
+inept adviser~n:狗头军师
+ineptitude~n:拙笨,无能,愚笨
+inequality~n:不等式,高低,起伏
+inequality sign~n:不等号
+inequation~n:不等式
+inert~a:呆滞,麻木不仁|v:麻木不仁
+inert zone~n:死区
+inertance~n:惯性
+inertia~n:惯性,惰性,惯量,迟钝,无力
+inertness~n:惯量,惰性
+inescapable duty~n:义不容辞
+inescapable situation~n:瓮中之鳖
+inessential~v:无关宏旨|a:无关宏旨
+inestimable~v:不可估量|a:不可估量
+inevitability~n:必然性
+inevitable~a:必然
+inevitable outcome~n:定局
+inexhaustible~a:无穷,无穷无尽|v:无穷无尽
+inexorable~a:无情
+inexpedient~a:失策
+inexpensive~a:廉价,便宜,贱,廉
+inexpensive goods~n:贱货
+inexperienced~a:嫩,陌生|v:乳臭未干
+inexperienced in life~n:少不更事
+inexpert~a:生手
+inexplicable~a:莫名其妙
+infall~n:汇合,流入,合流
+infallible law~n:金科玉律
+infamous~a:臭名昭著,臭名远扬|v:臭名远扬,臭名昭著
+infamous conduct~n:胡作非为
+infamous pirates~n:江洋大盗
+infamy~n:出丑,恶名,声名狼藉|v:唾弃
+infancy~n:幼年,初期,孩提,幼儿期
+infant~n:婴儿,幼儿,赤子,婴,生手
+infant name~n:乳名,奶名
+infant prodigy~n:神童
+infant school~n:幼稚园
+infant school education~n:学前教育
+infanta~n:郡主,公主
+infanticide~n:溺婴
+infantile~a:幼小
+infantile disorder~n:幼稚病
+infantile malnutrition~n:疳
+infantry~n:步兵
+infantry pack~n:背包
+infantryman~n:步兵
+infarct~n:梗塞,梗死|v:梗死
+infarction~n:梗塞|v:梗塞
+infatuated~a:迷恋,痴|v:痴迷
+infatuation~n:迷恋,痴心,迷惑|v:迷恋
+infect~v:感染,传染,毒化,招,毒害,传
+infect by~v:感染
+infected part~n:患处
+infected plant~n:病株
+infection~n:感染,传染,影响|v:感染
+infeed~n:横向
+infelicity~n:不幸
+infer~v:推断,推测,暗示,表示,意味着,猜想,测,推导,推见,推度,推理,推演,臆测,推论,测出,测度,推,想见,犹豫,裁度
+infer from~v:推断
+inference~n:结论,推断,推理,推论,含蓄,论断,演绎,含意|v:推论,推理
+inferior~a:低劣|n:次品,潮
+inferior branch~n:劣株
+inferior brand~n:杂牌军,杂牌
+inferior goods~n:行货,剔庄货,次货
+inferior horse~n:驽,劣马,驽马
+inferior limb~n:下肢
+inferior painter~n:画匠
+inferior product~n:劣质品
+inferior to~n:不如,次于,不及|a:次于
+inferior to others~n:低人一等
+inferior work~n:下乘
+inferiority~n:低级,次等,次级,下等,下级,劣等,下位
+inferiority complex~n:妄自菲薄
+infernal~a:阴间
+infernal medicine~n:内科
+infernally~d:非常
+inferno~n:地狱,高温
+infertile~a:贫瘠,瘦瘠
+infertility~n:贫瘠
+infest~v:蔓延
+infestation~n:蔓延,侵扰|v:蔓延
+infidel~n:异教徒
+infidelity~n:失真,背信
+infield~n:可耕地
+infighting~n:混战,拳击
+infill~n:填入
+infilling~n:填充物
+infiltrate~v:打入,渗透,渗入,浸润,通过,混进,侵袭,渗滤
+infiltration~n:浸润,渗入,通过,渗滤|v:浸润
+infinite~a:无限,无穷,无边无际|n:无穷|v:无穷无尽
+infinite changes~n:层出不穷,层见叠出
+infinitely compassionate~v:大慈大悲
+infinitely great~a:无穷大,无限大
+infinitely loyal~a:忠心耿耿
+infinitely powerful~a:神通广大
+infinitely small~a:无限小,无穷小
+infinitesimal~n:无穷小,无限小
+infinitesimal analysis~n:微积分
+infinitude~n:无穷,无限
+infinity~n:无限,无穷大,无数|a:无数
+infinity small~n:无穷小,无限小
+infirmary~n:医务室,诊所,医院
+infirmity~n:虚弱,弱点,疾病,优柔寡断,缺点,癃,懦弱,衰弱
+infix~v:插入,进入|n:中缀,插入
+inflame~v:发炎,煽动,刺激,加剧,着火,激怒,燃烧
+inflame with~v:激怒
+inflammability~n:可燃性
+inflammable~a:易燃
+inflammables~n:易燃物
+inflammating~v:点燃
+inflammation~n:炎症,发炎,激动,炎|v:发炎,发光
+inflate~v:打气|a:胀
+inflated~a:暴涨,浮
+inflation~n:通货膨胀,膨胀,充气,自负,夸张,暴涨,补给,打气
+inflation of currency~n:通货膨胀
+inflation of prices~n:涨价
+inflator~n:打气筒,气筒,充气机
+inflection~n:衍射,凹陷|v:凹陷
+inflexibibility~v:动摇
+inflexibility~n:刚性,刚度
+inflexible~a:刻板,死,死板,机械,呆滞,一成不变,硬性,执著,板板六十四,拘板|v:一成不变
+inflexible aim~n:硬指标
+inflexibly~d:一个心眼
+inflexion~n:转调,弯曲
+inflict~v:加以,加刑,予以
+infliction~n:遭受,加刑,强加|v:加刑
+inflorescence~n:花序,开花,花朵
+inflow~n:流入,注入,渗透,吸入|v:渗滤,流入,渗透
+influence~v:影响|n:感应
+influence morals~n:移风易俗
+influence of surroundings~n:耳濡目染
+influent~n:支流,流入,液体,流体
+influential~a:声势浩大,显要|v:声势浩大
+influential family~n:名门
+influential figure~n:显要
+influential man~n:风云人物
+influential officials~n:显贵
+influential official's family~n:权门
+influenza~n:流感,感冒,伤风
+influx~n:流入,注入,河口|v:流入
+influxion~v:注入
+infold~v:包裹,拥抱
+inform~v:通知,告诉,告发,报告,告知,打招呼,告,启,出首,报信,奉告,语,打小报告,检举,诉,喻,照,知照,密告,诉冤,知
+inform against~v:打小报告,检举,出首,告发
+inform against somebody~v:告密
+inform by letter~v:函告
+inform by telegram~v:来电
+inform by telegraph~v:电告
+informal~a:随便,非正式|d:便
+informal clothes~n:便服
+informal discussion~n:漫谈
+informal dress~n:便服
+informal essay~n:随笔,随感
+informal writing~n:漫笔
+informality~n:非正式
+informant~n:告密者
+information~n:信息,资料,消息,情报,数据,知识,知,报道,报告,报导,信,通知,学识,告发,声息,耳目,风,见闻|v:知
+information bank~n:情报所
+information bureau~n:情报所
+information center~n:服务台
+information counter~n:服务台
+information desk~n:查号台,问讯处,服务台,问询处
+information kit~n:资料袋
+information network~n:情报网
+information office~n:问询处
+information science~n:信息学,情报学
+information source~n:情报源
+information technology~n:资讯
+informed opinion~n:弘论
+informer~n:告密者,密探
+infra~d:次,下
+infract~v:背信,违法
+infraction~n:违反,违法,背信
+infraction of rules~n:犯规
+infrared~n:红外线
+infrared rays~n:红外线
+infredient~n:成分
+infrequence~n:稀罕,稀少
+infrequency~n:稀少
+infringe~v:侵犯,违反,破坏,违犯,侵凌,违约
+infringe on~v:侵犯
+infringe upon~v:侵,侵犯
+infringement~n:侵犯,违约,违反
+infringement of rules~n:犯规
+infuriate~v:触怒,激怒
+infuriation~n:激昂
+infuse~v:灌输,注入,泡,沏,浸透,输液,激发,鼓舞,灌注,浸渍
+infuse into~v:注入
+infuser~n:茶壶,鼓吹者
+infusion~n:输液,注入,浸渍,浸剂,灌输|v:浸渍,输液
+infusoria~n:滴虫
+infusorial earth~n:硅藻土
+infusorian~n:纤毛虫
+ingather~v:收获,收集,收割,聚集
+ingathering~n:收获
+ingeminate~v:重申
+ingenerate~v:产生
+ingenious~a:巧妙,巧,绝妙,精巧,快,神妙,奇巧|v:神妙莫测
+ingenious military moue~n:奇兵
+ingenuity~n:独创性,巧妙,机灵,独出心裁,匠心,精巧,机智
+ingenuous~a:憨
+ingerence~n:干涉
+ingersoll~n:律师
+ingest~v:接待,摄取,吸收,摄食,吸纳,咽下
+ingesta~n:食物
+ingestion~n:摄取,吸收,摄食,咽下
+ingle~n:炉火,壁炉,火炉,火焰
+ingoing~a:进入
+ingot~n:锭,铸模
+ingot steel~n:钢锭
+ingoting~n:铸锭
+ingot-shaped tablet~n:锭
+ingotting~n:铸锭
+ingraftment~n:接穗
+ingrain~n:本质
+ingrained~v:根深蒂固|a:根深蒂固
+ingratiate~v:讨好,巴结,取悦
+ingratiate oneself with~v:讨好,买好,卖好
+ingratiating~a:巴结
+ingratiatingly~d:讨好,巴结
+ingratiation~n:逢迎
+ingratitude~n:忘恩负义
+ingravescence~n:加重,恶化
+ingredient~n:配料,成分,组成部分,配方,要素
+ingress~n:进食,进入,入口|v:进入
+ingression~n:进入
+inguen~n:腹股沟
+inguina~n:腹股沟
+ingulf~v:吞没,席卷
+ingurgitate~v:吞咽,狼吞虎咽
+ingurgitation~n:吃光,吞咽|v:吃光
+inhabit a region~v:聚居
+inhabitancy~n:居住|v:居住
+inhabitant~n:居民,住户
+inhabitation~v:居留|n:居住
+inhalation~n:吸入
+inhalator~n:防毒面具
+inhale~v:吸气,吃,吸,吸入,喝,出气
+inharmonious~a:忤,不对
+inharmony~n:冲突
+inhere~v:含有,固有,属于
+inherence~n:固有,内在|a:固有
+inherent~a:固有,内在,天生
+inherent immunity~n:天然免疫
+inherent in~a:固有
+inherent quality~n:本性
+inherent shortage of~n:先天不足
+inherit~v:继承,遗传,承袭,嗣,世袭,韶
+inherit the mantle~v:衣钵相传
+inheritance~n:遗产,继承,遗传,继承权,遗赠,天赋,承受,遗传性
+inheritor~n:继承人
+inhibit~v:抑制,禁止,压抑,阻止,压制,约束
+inhibition~n:抑制|v:抑制
+inhomogeneity~n:复杂性
+inhospitality~n:冷漠,冷淡
+inhuman~a:残酷,野蛮,非人,不人道,灭绝人性,惨
+inhumanity~n:无情,野蛮,残忍,灭绝人性
+inhumation~n:埋葬,土葬
+inhume~v:埋葬
+inimitableness~n:无双,无比
+iniquitousness~n:邪恶
+iniquity~n:罪过,罪恶,不法,憝,不义
+initial~a:最初,初始,初步,初级|n:序|v:草签
+initial condition~n:初始条件
+initial consonant~n:声,声母
+initial price~n:开价
+initial separation~n:初选
+initial value~n:初值
+initialization~n:初始
+initialize~v:预置
+initially~d:最初,起初,开始
+initiate~v:开始,启动,发动,开创,引发,创始,发起,倡言,提议,肇始,启蒙,启,首倡,倡导,倡议,启发,起头,兴办,引进,首创,倡首,发端
+initiation~n:开始,起爆,引发,创始,启发|v:引发
+initiative~n:主动权,倡议,积极性,主动性,能动性,发端,着手|a:主动
+initiator~n:倡议者,创始人
+inject~v:注射,注入,喷射,注满,打针,插入
+injection~n:注射,喷射,注入,打针,针剂,针,注射液,注满,入轨|v:注射,注入
+injector~n:喷嘴,注射器
+injunct~v:禁止
+injunction~n:禁令,命令,指令
+injure~v:伤,伤害,损害,损伤,毁伤,损坏,残,加害,贼,病,毁坏|a:残|n:贼
+injure insidiously~v:放冷箭
+injure public morality~v:伤风败俗
+injurious~a:害
+injury~n:受伤,伤,伤害,损害,毁坏
+injustice~n:不平,不义,冤屈|a:不平
+injustice to~n:误解
+injustices~n:冤案
+ink~n:墨水,油墨,墨,墨汁|v:签名
+ink bottle~n:墨水瓶
+ink box~n:墨盒
+ink cake~n:墨
+ink fish~n:墨斗鱼
+ink fountain~n:墨斗
+ink holder~n:墨水瓶
+ink mark~n:墨迹
+ink marks~n:墨迹
+ink pad~n:印泥
+ink paste~n:印泥
+ink sac~n:墨囊
+ink slinger~n:作家,办事员,记录员
+ink stick~n:墨
+ink stone~n:砚台
+inkbottle~n:墨水瓶
+inkfish~n:墨鱼,乌贼
+inkiness~n:漆黑,墨黑|a:墨黑
+inkling~n:暗示,端绪,端倪
+inkpad~n:印泥,印台
+inkpot~n:墨水瓶
+inkslab~n:砚台,砚池
+inkstone~n:砚,砚池,砚台
+inkwell~n:墨水池
+inland~n:国内,内陆,内地|a:内陆,内地
+inland river~n:内江,内河
+in-laws~n:姻亲
+inlay~v:镶,插入,嵌入,嵌镶,镶嵌
+inlaying gold~n:错金
+inlet~n:进口,湾,入口,输入,引入|v:引进,插入
+inly~d:暗中
+inmate~n:居民
+in-migrate~v:迁入
+inn~n:客栈,旅店,客店,客舍,住处,栈,下店,旅舍,逆旅,栈房,店|v:下店
+inn expense~n:店钱
+innards~n:内脏
+innate~a:固有,天生,天赋,先天性|n:先天,天
+innateness~n:先天性
+inner~n:内|a:里面
+inner angle~n:内角
+inner apartment~n:闺
+inner bar~n:隔板
+inner center~n:内心
+inner chamber~n:内室
+inner ear~n:迷路
+inner energy~n:内能
+inner feelings~n:衷情
+inner flame~n:内焰
+inner flask~n:胆瓶
+inner heart~n:心底
+inner man~n:精神,灵魂,内心,胃口
+inner mongolia~n:内蒙古
+inner room~n:套间
+inner secret~n:底蕴
+inner term~n:内项
+inner tire~n:里带
+inner tube~n:里带,内胎
+innermost being~n:内心,心底,心尖,心曲
+innermost beings~n:心髓
+innermost feelings~n:心髓,衷
+innervate~v:刺激
+innervation~n:支配
+innerve~v:鼓舞
+inness~n:学会,绝缘
+inning~n:回合,盘
+innings~n:局
+innocence~n:无罪,无辜,清白,天真,天真无邪,无知,单纯,良性
+innocent~a:清白,天真,单纯|v:无罪
+innocent child~n:稚子
+innocent heart~n:赤子之心
+innocuity~n:乏味,无毒,无害|v:无毒
+innocuous~v:无毒,无害|a:无害
+innominate bone~n:胯骨
+innovate~v:创新,改革,刷新,革新,创始
+innovation~n:革新,创新,改革|v:革新
+innuendo~n:影射,含沙射影|v:含沙射影
+innuendos~n:影射
+innumberable~a:恒河沙数
+innumerable~a:无数,不计其数,不可胜数|v:车载斗量,不可胜数,指不胜屈,更仆难数
+innumerable great achievements~n:硕果累累
+innumerable homes~n:千家万户
+innumerable words~n:千言万语
+inobservance~n:疏忽
+inoculate~v:接种,嫁接,注入,打针,灌输,播种,移植,预防注射
+inoculate with~v:预防注射
+inoculation~n:接种,孕育,灌输|v:孕育
+inordinate~a:紊乱,奢,熬夜,不规则
+inordinateness~n:紊乱
+inorganic~a:无机
+inorganic acid~n:无机酸
+inorganic fertilizer~n:无机肥料
+inorganic matter~n:无机物
+inorganic mineral~n:无机物
+inorganic salt~n:无机盐
+inosculate~v:接合
+inosculation~n:结合,交接
+inpouring~v:注入|n:注入
+input~n:投入|v:输入
+inquest~n:调查,验尸,审讯,判决,陪审团,查询|v:审讯
+inquietude~n:焦虑,不安|a:焦虑
+inquire~v:问,打听,询问,调查,问候,了解,查问,探问,查询,请问,探询,探讨,寻问,查究,问讯,探索,打探,盘问,会见,寻根究底,质问,打问,询,探
+inquire about~v:问,探询,打探,打听,查询,询问,了解
+inquire after~v:探问,候,问候
+inquire deeply into~v:寻根究底
+inquire for~v:会见,查询
+inquire into~v:查究,探讨,打听
+inquire of~v:问
+inquire thoroughly into~v:穷根究底
+inquiry~n:调查,询问,打听,查询|v:询问,预审
+inquiry into~n:访
+inquiry office~n:询问处
+inquisition~n:调查,审理,讯问,审查
+inquisition by torture~n:刑讯
+inquisitor~n:审问者
+inquistor~n:检察官
+inradius~n:内径
+inroad~n:损害,侵犯,袭击,进犯
+inrush~n:流入,闯入
+ins~n:输入
+ins and outs~n:本末
+insane~a:疯狂,疯,疯人院,癫狂,疯癫,痴,疯病|v:疯癫
+insane asylum~n:精神病院
+insanity~n:神经错乱|a:疯狂
+insatiable~a:贪心
+insatiable desire~n:贪心不足
+insatiable desires~n:无底洞
+insatiable requests~n:诛求无已
+inscenation~n:环境
+inscribe~v:刻,题写,登记,铭记,题赠,泐,勒,记,落款,铭,题字,雕,题,写,牢记
+inscribe in~v:刊刻
+inscribe one's name~v:题名
+inscribe to~v:题赠
+inscriber~n:记录器
+inscription~n:铭文,碑文,题词,题字,碑铭,登记,铭刻,注册,铭,署名
+inscription on bones~n:甲骨文
+inscriptional record~n:碑记
+inscrutability~n:不可思议
+inscrutable~a:神妙莫测|v:神妙莫测
+insect~n:昆虫,虫,虫子,蛊,小人
+insect attack~n:虫害
+insect pest situation~n:虫情
+insect powder~n:杀虫剂
+insect prevention~n:防虫
+insecticide~n:杀虫剂
+insecticide-spreading instruments~n:药械
+insectifuge~n:驱虫剂
+insectology~n:昆虫学
+insects~n:虫豸
+inseminate~v:播,播种,栽,受胎
+insemination~n:受孕,播种
+insensate~a:顽
+insensate stone~n:顽石
+insensibility~n:不在乎
+insensitive~a:麻木不仁,木人石心,麻木
+insensitivity~n:迟钝
+inseparable~a:不可分割,紧密
+inseparable friend~n:好友
+inseparable lovers~n:比翼双飞
+insert~v:插入,嵌入,插,刊登,镶|n:插页,衬垫
+insert distance piece~v:垫片
+insert map~v:附图
+inserted pin~n:插销
+insertion~n:插入,嵌入|v:附着,插入
+insertion ring~n:垫圈
+inset~n:插页,附图,水道,镶边,插图,流入|v:镶边,镶,插入,镶嵌,嵌入
+inshore~n:沿海|a:近海|d:沿海
+inside~n:里面,内部|p:中|a:在内,内幕,里面|d:在内|r:其中
+inside cavity~p:膛
+inside diameter~p:内径
+inside information~p:内情,底蕴|n:内情
+inside of~p:之内,在_之内
+inside shanghaiguan~p:关内
+inside shanhaiguan pass~n:关内
+inside story~p:秘史,底情,路数
+inside telephone connections~p:内线
+inside the city~p:城里
+inside-news~n:秘闻
+insider~n:知情人
+insides~n:内脏
+insidious~a:阴险,阴毒
+insidious move~n:蠢动
+insidious scheme~n:毒计
+insight~n:见识,洞察力,眼光,见地|v:顿悟
+insignia~n:符号,国徽,徽,勋章,徽章,帽章,章
+insignificance~n:不足道,低微
+insignificancy~n:不足道
+insignificant~a:微不足道,无关紧要,渺小,无关大局,藐小|v:无关紧要,无关大局,无关宏旨,微不足道,不足道
+insignificant skill~n:雕虫小技
+insignificant trifle~n:草刺儿
+insincere~a:二心,贰心|n:二心
+insincerity~n:贰心,假意,伪善
+insinuate~v:暗示,隐射,射,含沙射影,影射
+insinuate to~v:暗示
+insinuation~n:暗示,言外之意|v:暗示
+insipid~a:乏味,寡,索然,干巴巴,平淡,无味,索,平淡无奇
+insipidity~n:枯燥,无味,平淡
+insipience~n:愚蠢
+insist~v:坚持,咬定
+insist on~v:力持,强调,执
+insist upon~v:坚持,强调
+insistence~n:坚持,强调
+insistency~n:坚持
+insnare~v:陷害
+insobriety~n:酗酒
+insolate~v:曝晒,晒
+insolation~n:暴晒,日射病,中暑
+insole~n:鞋垫
+insolence~n:傲慢,横蛮
+insolent~a:目空一切,强横,张狂
+insolvency~n:破产
+insomnia~n:失眠,失眠症|v:失眠
+insomuch~d:因为
+insouciance~n:满不在乎,漫不经心
+inspect~v:检查,视察,检阅,徼,检,阅,鉴,视,检验,稽查,监,审查,考察,省视,校验,考
+inspect the sentries~v:查哨
+inspection~n:检查,视察,观察,检验,检阅,参观,校验,审查,验证|v:验证,观察
+inspector~n:检查员,监察员,稽查
+inspector general~n:总监,检察长
+inspiration~n:灵感,鼓舞,启示,吸气,鼓动,激励,灵机,感化,指示,授意|v:吸气
+inspirational~a:灵感
+inspirator~n:呼吸器,注射器
+inspire~v:鼓舞,激发,激励,授意,启发,振奋,灌注,吸气,激动,吸,指示,吸入,注入
+inspire in~v:鼓吹
+inspirer~n:鼓舞
+inspiring~a:振奋人心|v:振奋人心
+inspiring looks~n:气宇轩昂
+inspiring story~n:诗篇,诗章
+inspirit~v:激励,激发,振奋
+inspissate~v:沉重,浓缩
+instability~n:反复无常,三心二意
+install~v:安装,装,设置,装置,建立,安置,安上,安,安设
+install in series~v:串联
+installation~n:安装,设施,设备,装置,就职,设置,就任,安置
+installed capacity~v:装机容量
+installed capacity of~v:装机容量
+installment~n:分期付款
+installment payment~n:分期付款
+installment plan~n:分期付款
+instance~n:例子,例证,事例,场合,实例,起,例,要求,比方,建议,样本,范例
+instancy~n:急迫,紧急,临近,瞬间,坚持|v:临近
+instant~n:瞬间,时刻|a:即时|d:瞬间
+instantane~n:简报,快照
+instantaneous~a:瞬时|d:瞬间
+instantaneous changes~n:瞬息万变
+instantaneous photograph~n:快照
+instantaneous velocity~n:瞬时速度
+instantaneously~d:瞬时,瞬刻
+instant-boiled mutton~n:涮羊肉
+instanter~d:即刻,立刻,马上
+instantly~d:立即,连忙,顷刻,一霎那,一转眼,刹时,当下,即刻
+instate~v:担任,安置,任命,设置
+instauration~n:设立,衰败,修复,建立,更新,恢复|v:衰败
+instead~d:代替,反倒,反过来,顶替,反转来|c:反过来说
+instead of~p:代替,而不是
+instep~n:跗,脚背,跗面,脚面
+instigate~v:煽动,唆使,策动,鼓动,挑唆,打边鼓,调弄,竦,挑,挑拨,怂恿,嗾,调唆,煽,扇动,唆,指使,发动,挑起,主使,嗾使,策划,教唆,扇,撮弄
+instigation~n:鼓动,刺激,挑起,煽动
+instill into~v:灌输
+instillation~n:注入,滴剂,灌输
+instinct~n:本能,直觉,天性,天才,生性,才能
+institute~n:研究所,学院|v:创立,建立,创制,设
+institute an appeal~v:上诉
+institute legal proceedings~n:起诉
+institute of technology~n:工学院,理工学院
+instituted~v:设立
+institution~n:机构,制度,所,会,机关,学会,协会,惯例,设立,规定,制定,社,会址,院址,名人,校址,院,创设,馆
+institutions~n:典章
+instruct~v:指示,通知,教,指令,指导,吩咐,命令,教诲,教授,谕,教导,授,饬,傅,嘱咐,传授,导|n:教授
+instruct with authority~v:耳提面命
+instruct without fatigue~v:诲人不倦
+instructed~a:刊授
+instruction~n:指令,指示,说明,命令,教育,指导,指点,教导,训令,教训,教诲,细目
+instructions~n:指令,训令,批件,批示,训词,指示
+instructiveness~n:启发性
+instructor~n:教练,讲师,教员,教官,辅导员,傅
+instrument~n:仪器,乐器,工具,仪表,手段,器械,文件,械,证件,证券,仪
+instrument of ratification~n:批准书
+instrument of torture~n:刑具
+instrument shelter~n:百叶箱
+instrumental~a:仪器
+instrumental duet~n:二重奏
+instrumental ensemble~n:合奏
+instrumentality~n:工具,媒介,手段,帮助
+instrumentation~n:手段
+instrumentation panel~n:控制台
+instruments of torture~n:大刑,刑具
+insubordination~n:反抗
+insubstantial~a:单薄
+insufferably arrogant~a:骄横
+insufficiency~n:不足,不够,支绌,缺乏,缺口
+insufficient~a:不够,不足|v:缺乏,亏短
+insulant~n:绝缘体
+insular~a:岛
+insularity~n:岛国
+insulate~v:绝缘,隔离
+insulate body~v:绝缘体
+insulation~n:绝缘,绝热,隔离,孤立
+insulation work~n:保温
+insulator~n:绝缘体,绝缘子,瓷瓶,电介质
+insulim~n:胰岛素
+insulin~n:胰岛素
+insulinum~n:胰岛素
+insult~v:侮辱|n:袭击,凌辱,攻击
+insuperable~a:不可逾越|v:不可逾越
+insurance~n:保险,保险业|v:保险
+insurance industry~n:保险业
+insurance money~n:保险金
+insurance payment~n:保险费
+insurance policy~n:保单
+insurant~n:被保险人
+insure~v:保险,保证,投保,保障
+insured~n:被保险人
+insured letter~n:保价信
+insurer~n:保险人
+insurge~a:汹涌
+insurgence~n:暴动,起义,反叛,叛变|v:反叛
+insurgency~n:暴动,起义,叛变
+insurmountable~v:不可逾越|a:不可逾越
+insurrection~n:暴动,叛乱,起义,反叛,造反|v:起义,反叛,暴动
+insurrectionary army~n:起义军
+intact~a:完整,完好无损|v:完好无损,完,完好无缺
+intagliated characters~n:白文
+intaglio~n:凹版
+intake~n:摄取,吸入,进水闸,收纳|v:吸收,摄取
+intake gate~n:进水闸
+intake work~n:进水闸
+intangible~a:不可捉摸,无形|v:不可捉摸
+integer~n:整数,整体,整型
+integral~n:积分,整体|v:缺一不可|a:缺一不可
+integral calculation~n:积分
+integral calculus~n:积分,积分学
+integral number~n:实数,整数
+integrality~n:完全,完整性
+integrant~a:要素,成分,组成部分
+integraph~n:积分器
+integrate~v:结合,统一,积分,协调|n:积分
+integrated~a:完整,高风亮节
+integrated circuit~n:集成电路
+integrated memory~n:存储器
+integrated semiconductor~n:集成电路
+integrated-circuit~a:集成电路
+integration~n:积分,一体化,综合,整合,结合,集成,合并
+integration level~n:集成度
+integrator~n:积分器
+integrity~n:正直,完整性,诚实,完全,完整,气节,操守,健全,综合性,品节
+integument~n:果皮,外皮
+intellect~n:才智,智力,头脑,理智,理解力,智能
+intellection~n:理解
+intellectual~n:知识分子,文化人,书生,知识
+intellectual development~n:智育
+intellectual education~n:智育
+intellectuality~n:知识分子,理智,智能,智力
+intellectualize~v:思考,推理
+intelligence~n:智力,情报,智慧,聪明,消息,信号,才智,智能,信息,脑子,神智,谍报,智,资质,天使,心眼儿,心眼,灵,灵性,通知,资
+intelligence agent~n:谍报员,谍
+intelligence report~n:情报
+intelligence signal~n:信号,信息
+intelligencer~n:间谍,情报员,通信员
+intelligent~a:聪明,机灵,聪慧,聪颖,惺,颖慧,懂事|n:心灵
+intelligentsia~n:知识界,知识分子
+intelligentzia~n:知识分子
+intelligibility~n:明了,清晰度
+intemperance~n:酗酒,放纵,过度,激烈,过激,暴饮
+intemperate~a:荒唐
+intend~v:打算,想,拟,准备,企图
+intend for~v:打算
+intend to~v:有心
+intendance~n:管理,监督
+intendant~n:经理,州长
+intended~n:未婚夫,未婚妻|a:打算
+intended conception~n:笔意
+intended effect~n:效验
+intendment~n:含义,真意
+intense~a:强烈,紧张,激烈,激越,隆,尖锐,剧
+intense cold~n:严寒
+intense fall~n:暴雨
+intense heat~n:酷暑
+intense sorrow~n:悲痛欲绝
+intensely~d:强烈
+intensely hot~a:炽热
+intensification~n:强化,加强,加厚,加剧
+intensify~v:加紧,加强,加剧,激化,加厚,加温,增光,强化
+intensify one's efforts~v:变本加厉
+intensify trouble~v:推波助澜
+intension~n:紧张,内涵,专心致志,加强,强度
+intensity~n:强度,强烈,烈度|v:加剧
+intensity of sound~n:音势
+intensive~a:集约,密集
+intensivism~n:集约
+intent~n:意图,目的,意义,图,故意,含义
+intent on~n:热中
+intention~n:意图,打算,用意,意向,目的,用心,动机,念头,意旨,心意,心,意义,图,心眼儿,心肠,愈合,概念,心怀,心路,作用,心气,心术,心田,意
+intentional~a:故意,蓄意|d:蓄意
+intentionally~d:有意,故意,故,存心,明知故犯|c:故
+intently~d:密切
+intentness~n:热心
+inter~v:埋葬,葬,下葬,葬埋,安葬|p:互相
+inter continental~v:洲际
+interact~v:相互作用,互动,关联|n:相互作用
+interaction~n:相互作用,干扰,感应,关联,互动
+interactive~a:交互,会话型
+interactivity~n:相互作用
+interalia~d:尤其,首先
+interbed~n:夹层
+interblend~v:混合
+interbrain~n:间脑
+intercalary month~n:闰月
+intercalary strata~n:夹层
+intercalate~v:添加,插入,加入
+intercalated bed~n:夹层
+intercalation~n:插入,夹层,加入|v:插入
+intercede~v:求情,说情,调解,调停,讲情
+intercede for somebody~v:说情,缓颊,说项
+intercept~v:拦截,截取,截,阻截,截断,截击,迎击,相交,交叉,窃听,中止,阻止,邀|n:拦截,截断,截击,交叉点
+intercepter~n:窃听器
+interception~n:截取,阻止,截留,折射,遮断,窃听|v:截击,中断
+interceptor~n:截击机
+intercession~n:仲裁,说情,说项,调解
+interchange~v:互换,交流,替换|n:交替
+interchange current~v:环流
+intercom~n:对讲机
+intercommunicat~v:交流,互通
+intercommunicate~v:互通,交流
+intercommunicate with~v:联络
+intercommunication~v:连通|n:连通
+intercommunity~n:公用,共有
+interconnect~v:关联,互联
+interconnected system~n:统
+interconnection~n:连接,互连,互联|v:连接
+intercontinental~a:洲际
+intercontinental missile~n:洲际导弹
+interconversion~n:互换|v:互换
+intercorner~n:交角
+intercostal~n:肋间肌
+intercourse~v:来往,往还,性交,交媾,往复|n:来往,交际,神交,往来,往复
+intercourse friendly~n:酬酢
+intercourse socially~n:酬应
+intercrop~v:间作,间种
+intercropping~v:间作
+intercroppoing~n:间作
+intercross~v:交叉,杂交|n:杂种
+interdict~n:禁令|v:禁止,制止,阻断
+interdiction~n:阻断,拦阻,禁止,制止|v:拦阻
+interdisciplinary~a:跨学科
+interest~n:兴趣,利益,利息,爱好,利率,兴味,利润,利,影响,利害,有趣,股份,关注,趣味,情趣,权利,兴致,事业,重要性,乐趣,来头,味道,劲,势力,意思|v:致,聊,兴
+interest per annum~v:年息
+interested in charities~a:乐善好施
+interested parties~n:当事人
+interest-free loan~n:无息贷款
+interest-free mortgage~n:典借
+interesting~a:有趣,好看,带劲,好玩,好玩儿|v:有意思,入味
+interesting sidelights~n:花絮
+interesting story~n:趣谈,趣话
+interface~n:接口,界面|v:交流,交谈|a:临界
+interfacing~n:衬布
+interfere~v:干涉,干预,妨碍,干扰,管,打扰,抵触,挡横儿,排解,阻挡,冲突,打岔,调停
+interfere in~v:干涉
+interfere with~v:打岔,妨,打扰,干
+interference~n:干涉,干扰,干预,妨碍,打扰,冲突,抵触|v:干扰,干涉
+interferon~n:干扰素
+interflow~v:交流,互通,合流|n:互通,合流
+interfluve~n:河间,分野
+interfold~v:折叠
+interfuse~v:混合,融合
+interfusion~n:混合,渗入,融合,混入|v:混合
+intergrowth~n:共生|v:共生
+interim~n:期中,间歇,暂时,临时|a:暂时
+interim summary~n:小结
+interior~n:内部,内地,腹地,室内,里面|a:内陆
+interior lines~n:内线
+interior region~n:腹地
+interject~v:插入,插话
+interjection~n:插入,叹词,感叹词
+interlace~v:交织,编织,交错,夹杂
+interlacement~n:组合,交错,交叉,交织|v:交错,交叉
+interlacing~v:交织,交错
+interlard~v:混入
+interlayer~n:夹层
+interleaf~n:夹层,插页
+interleave~n:交错|v:交替
+interleaving paper~n:衬纸
+interlinear noted~v:夹注
+interlining~n:夹层
+interlink~v:连结,套,连环|n:连环
+interlinkage~v:连接
+interlock~v:交错,联结,连锁,连结,闭锁|n:连结,连锁
+interlocking~v:犬牙交错
+interlocution~n:对话,会话,交谈
+interlope~v:闯入,干涉
+interlude~n:插曲,穿插,间歇|v:穿插
+interlunation~n:空挡
+intermarry~v:通婚,结婚
+intermeddle~v:干涉,管闲事
+intermediary~n:媒介,中间人,中人,工具,中,手段,中介,窗口
+intermediary heat~n:复赛
+intermediate~n:中间,中间人,中介,中|a:中间,中级
+intermediate deck~n:中层
+intermediate range~n:中程
+intermediate section~n:中部
+intermediate waves~n:中短波
+intermediately~d:调解
+intermediate-range~a:中程
+intermediation~n:调解
+intermediator~n:中间人,中
+interment~n:埋葬,葬礼
+intermezzo~n:插曲,间奏曲
+interminable~a:没完没了
+intermingle~v:混合,混杂,掺杂
+intermingle with~v:混合,混杂
+intermission~n:中断,间隔,停顿,中止,间歇
+intermit~v:中止,间歇,间断
+intermittence~n:周期性,间歇,中止,中断,间断|v:中止
+intermittent fever~n:间歇热
+intermittent pulse~n:代脉
+intermittently~d:断断续续
+intermix~v:混杂,混合
+intermixture~n:混合物,混合
+intern~v:拘留,扣留,拘押,拘禁
+internal~a:内部,内脏,对内,家|n:国内,内部,家
+internal argument~n:内讧,内争
+internal code~n:机内码
+internal combustion~n:内燃机
+internal conflict~n:内讧
+internal diameter~n:内径
+internal disorder~n:内乱
+internal dispute~n:兄弟阋墙
+internal dissension~n:内讧
+internal feud~n:同室操戈
+internal friction~n:内耗,粘性
+internal heat~n:火
+internal hemorrhage~n:内出血
+internal hemorrhoid~n:内痔
+internal memory~n:内存
+internal organs~n:脏,脏腑,内脏
+internal reference~n:内参
+internal resistance~n:内阻
+internal room~n:内室
+internal secretion~n:内分泌
+internal side~n:内部
+internal strife~n:内讧,同室操戈
+internality~n:内在
+internally piloting~n:内控
+internally tangent circle~n:内切圆
+international~a:国际,公
+international exhibition~n:博览会
+international labour day~n:劳动节
+international phonetic alphabet~n:国际音标
+international public law~n:国际公法
+international waters~n:公海
+internationalise~v:国际化
+internationalism~n:国际主义
+internationalization~n:国际化
+internationalize~v:国际化
+internecine~a:自相残杀
+internecine fight~n:同室操戈,煮豆燃萁
+internet~n:因特网
+internment~n:拘留,扣留,收容
+internship~n:实习
+internuncio~n:中间人,使节,信使
+interoceptor~n:生理
+interosculate~v:接合
+interpellate~v:质问
+interpellation~n:质询
+interpenetrate~v:渗透,贯通
+interpersonal relation~n:人际关系
+interpersonal relationship~n:人际关系
+interphone~n:对讲机
+interplanetary~a:星际
+interplant~v:间作,套种
+interplay~v:相互作用|n:相互作用
+interpolate~v:插入,羼,窜改,增添
+interpolation~n:插入,窜改|v:插入
+interpolymer~n:共聚物
+interpose~v:插,插入,干预,提出,介入,调解,介,插嘴
+interposition~n:干涉,插入,调停|v:调停
+interpratation~n:翻译
+interpret~v:解释,翻译,说明,口译,讲,译,讲解,演奏,传译,阐释,解,笺
+interpret text crudely~v:生吞活剥
+interpretation~n:解释,说明,演奏,翻译,表演,译码
+interpreter~n:翻译,译员|v:口译
+interreaction~n:相互作用
+interregnum~n:间歇,中断
+interrogate~v:盘问,询问,审问,讯问,审讯,责,诘,质问,诘问,审,问,查问,鞫|n:讯
+interrogate with torture~v:拷问,打问
+interrogating~v:询问
+interrogation~n:讯问,审问,询问,质问,审讯|v:询问
+interrogation mark~n:问号
+interrogative~n:问句,疑问词,疑问句|a:提问
+interrogator~n:审问者
+interrogatory~n:质问,讯问,疑问,审问
+interrupt~v:打断,中断|n:中断
+interrupter~n:障碍物
+interruption~n:中断,打岔,打断,插话,间断,停止,中止|v:停止,中止
+interruption of circuit~n:断路
+intersect~v:相交,交叉,相切,交,交错
+intersecting surface~n:横截面
+intersection~n:交叉,路口,交点,相交,交叉点|v:交叉,相交
+intersection angle~n:夹角
+intersection point~n:交点,垂足,交叉点
+intersex~n:阴阳
+interspace~n:间隙,空间,中间,空隙,星际
+intersperse~v:散布,点缀,装饰,夹
+interspersion~n:点缀,装饰,散布
+interstellar~n:星际|a:星际
+interstice~n:间隙,空隙,裂缝
+intertexture~n:交织|v:交织
+intertillage~n:中耕,间作|v:中耕
+intertwine~v:交织,编织,缠绕
+intertwining~v:纵横交错
+interval~n:间隔,区间,间距,间歇,间断,间隙,空隙,音程,课间,空当儿,隙
+intervale~n:低地,河滩地
+intervalometer~n:定时器
+interven~v:间断
+intervene~v:调停,干预,介入,干涉,排解,干与,插入,介于
+intervene in~v:干涉
+intervention~n:干预,干涉,介入,调解,妨碍,调停,排解
+intervertebral disc~n:椎间盘
+interview~v:采访|n:面谈
+interviewer~n:访员
+intervolve~v:卷进,缠绕
+interweave~v:交织,混杂,穿插
+interwovenness~v:交织
+intestinal~a:肠
+intestinal fortitude~n:勇气,持久力
+intestinal gland~n:肠腺
+intestinal lavage~n:洗肠
+intestinal liquid~n:肠液
+intestinal obstruction~n:肠阻塞
+intestinal perforation~n:肠穿孔
+intestinal spasm~n:肠痉挛
+intestinal tuberculosis~n:肠结核
+intestinal villus~n:肠绒毛
+intestine~n:肠,肠儿,肠管,大肠
+intestines~n:肠,肠子
+intestinum~n:直肠
+inthral~v:俘虏,迷惑,迷
+inthrall~v:俘虏,迷惑
+intimacy~n:亲密,亲热,亲近,亲切感,密切,友好
+intimacy of childhood~n:两小无猜
+intimate~a:亲密,密切|v:宣布|n:知己,知心人
+intimate friend~n:至友,密友,相好,知交
+intimate friendship~n:刎颈之交
+intimate saying~n:知心话
+intimate talk~n:窃窃私语
+intimation~n:通知,暗示,告知,宣布|v:暗示
+intimidate~v:吓唬,压,恫吓,恐,威逼,吓,恫,恐吓,威吓
+intimidation~n:恐吓,恫吓,威胁
+intimity~n:秘密
+intinction~n:圣餐
+into~p:到,变成,进,迫使,里,劝说,之内,到_里|v:进
+into contact with~p:联系,联络,与_联络,与_联系
+into the bargain~p:外带
+intolerability~n:难受,难忍,不堪,难耐
+intolerable~a:难堪,要不得|v:要不得
+intolerance~n:固执
+intonate~v:吟咏
+intonation~n:语调,发音,音准,调门,抑扬顿挫,声调,转调,发声,吟诵,咏唱,腔调,调门儿
+intone~v:吟诵,咏,咏唱,吟咏,咏叹,讽,叹
+intorsion~n:弯曲
+intoxicant~n:麻醉品
+intoxicate~v:陶醉,沉醉
+intoxicated~v:醉
+intoxicated with oneself~a:自我陶醉
+intoxication~n:中毒
+intractable~a:任性
+intractable disease~n:痼疾
+intrada~n:引子
+intranquil~a:不安
+intravenous drip~n:点滴
+intravenous injection~n:静脉注射
+intrepid~a:强悍
+intricacy~n:错综,复杂,曲折
+intricate~a:复杂,曲折,错综,错
+intricately woven together~v:丝丝入扣
+intrigant~n:奸夫
+intriguant~n:奸夫
+intrigue~n:阴谋|v:筹谋,哄骗,私通
+intriguer~n:阴谋家
+intriguing~a:鬼祟,奇妙
+intrinsic~a:固有,内在,先天性
+intrinsic quality~n:本质
+introduce~v:介绍,引进,提出,引入,采用,开始,插入,推广,引见,引种,带领,引导,绍介
+introduce from elsewhere~v:引进
+introduce oneself to~v:自我介绍
+introducer~n:介绍人
+introducing~v:引入
+introduction~n:介绍,引进,采用,引入,前言,入门,导言,引言,引种,绪论,初步,导论,引子,抛砖引玉,序,序曲,引导,序言,简介,推广,发凡,概说,绪言,传入,讲话,总论,概论
+introductory~a:介绍,序|n:序
+introductory music~n:引子
+introductory remarks~n:引子,开场白,导言
+introjection~n:投入
+intromission~n:进入,插入|v:插入
+intromit~v:进入,送入
+introspect~v:反思,反省,内省
+introspection~n:内省,反省|v:反思
+introversion~n:内向,反省
+introverted~a:内向,内向型
+intruce~v:打扰
+intrude~v:打扰,入侵,侵越,闯入
+intrude into~v:窜犯,侵越,侵
+intruder~n:轰炸机
+intrusion~n:侵扰,侵入,入侵,闯入,打扰,干涉,妨碍
+intrusive~a:入侵
+intubation~n:插管
+intuition~n:直觉,直感
+intuitionism~n:直觉主义
+intuitive knowledge~n:良知
+intuitivism~n:直觉主义
+intumesce~v:膨胀,扩大
+intumescence~n:扩大,膨胀,肿大
+intumescentia~v:隆起
+intussusception~n:摄取,吸收,肠套叠,同化
+intussusceptum~n:肠套叠
+inundate~v:淹没,漫,滔,灭,滥,泛滥,淹,泛
+inundated~a:滥
+inundated area~n:泽国
+inundatedation~n:泛滥,洪水
+inundation~n:泛滥,水灾,淹没,水患
+inure~v:适用,生效,锻炼
+inurn~v:埋葬
+inutility~n:废物,无益,无用
+invade~v:侵入,入侵,侵袭,侵犯,侵略,来犯,进犯,挤满,寇,宰割,生效,凌,侵权,入寇,打扰,适用,窜犯,侵
+invade our territory~v:来犯
+invader~n:侵略者
+invaginate~v:陷入,吸取,凹入
+invagination~n:凹入,肠套叠|v:凹入
+invalid~n:病人,病号,病秧子|v:废,无效|a:废,病恹恹
+invalidated ballot~n:废票
+invalidation~n:失效,无效
+invalidism~n:虚弱,伤残|v:伤残
+invalidity~n:无效
+invaluable~a:价值连城,金不换
+invaluable asset~n:无价之宝
+invar~n:殷钢
+invariable~a:常,一成不变|n:常数|v:一成不变
+invariably~d:总是,总,常常,无不,不免
+invariant~n:标量
+invasion~n:侵略,侵犯,侵入,侵害
+invasion by wind~n:伤风
+invasion of weeds~n:杂草丛生
+invective~n:谩骂,抨击
+inveigh~v:痛骂
+inveigle~v:诱惑,诱骗
+invenit~v:创制
+invent~v:发明,编造,创造,捏造,虚构,编,创作,虚悬,假造
+invent an excuse~v:借端
+invented~a:虚妄|v:虚拟
+inventful~v:异想天开
+invention~n:发明,创造,发现,创造力,虚构,捏造
+inventiveness~n:独创性,发明,匠心
+inventor~n:发明家,发明者
+inventory~n:存货,清单,目录,盘存,清册|v:盘存
+inveracity~n:谎言,虚伪
+inverse~a:相反|v:倒,倒置,倒转|n:反向
+inverse back coupling~n:负反馈
+inverse feedback~n:负反馈
+inverse flow~n:回流
+inverse proportion~n:反比例
+inverse ratio~n:反比例
+inverse theorem~n:逆定理
+inverse transformation~n:逆变换
+inverse trigonometric function~n:反三角函数
+inversion~n:反向,颠倒,反转,倒置,转换|v:转化,倒置,倒转,交换
+inversion layer~n:逆温层
+invert~v:倒置,转化,反转,颠倒
+invert justice~v:颠倒是非,颠倒黑白
+inverted~v:倒
+inverted bell~n:磬
+inverted comma~n:引号
+inverted crawl~n:仰泳
+inverted valve~n:止回阀
+inverter~n:变频器,变流器
+invertibility~n:可逆性
+inverting~v:换向
+invest~v:投资,投入,赋予,买进
+invest in office~v:除
+investigate~v:调查,研究,审查,追查,探讨,考察,察访,侦查,查访|d:竟
+investigate in secret~v:暗访,暗探
+investigate the origins~v:追本穷源
+investigate thoroughly~v:探究,寻根究底,穷根究底
+investigation~n:调查,研究,审查,侦查|v:调查
+investigator~n:研究者,侦查员
+investiture~n:赋予,装饰,服装,授权
+investment~n:投资,投资额,投入,覆盖,封锁,授权
+investment in~n:投入
+investor~n:投资者
+inveteracy~n:根深蒂固
+inveterate~a:根深蒂固,痼
+inveterate habit~n:固习,痼癖
+inveterate weakness~n:痼癖
+invigilate~v:看守,监考
+invigilator~n:监视器
+invigorate~v:活跃,激励,提神,鼓舞,健,搞活
+invigoration~n:滋补,鼓舞
+invigorator~n:补药,强壮剂
+invincibility~n:无敌
+invincible~v:百战百胜,无敌,战无不胜|a:百战百胜
+invincible army~n:铁军
+inviolability~n:神圣
+inviolable rights~n:权益
+invisible~a:无形,隐形
+invisible mending~n:织补
+invisibly~d:无形中
+invitation~n:邀请,请帖,诱惑,招待,吸引,帖,敦请,帖子
+invitation card~n:礼帖
+invitation for bid~n:招标
+invitation ticket~n:红票
+invitation to bid~n:招标
+invitation to tender~n:招标
+invitational tournament~n:邀请赛
+invite~v:邀请,请,邀,让,引起,吸引,约请|n:招待
+invite bid~v:招标
+invite contempt~v:令人齿冷
+invite public biding~v:招标
+invite public contempt~v:自讨没趣
+invite ridicule~v:自讨没趣
+invite tenders~v:招标
+invite trouble~v:招事,招灾惹祸
+inviting suspicion~n:涉嫌
+invocation~n:祈求,行使,咒语,援引,祈祷,符咒,发动
+invoice~n:发票
+invoke~v:援引,援用,恳求,乞求,引起,实行,行使,产生
+invoking~v:调用
+involucre~n:外皮,花被
+involuntarily~d:不由自主,身不由己,不禁
+involuntary~a:身不由己
+involuntary muscle~n:不随意肌
+involute~v:消失,消散,卷起|n:渐开线
+involution~n:方,错综复杂,复归,退化,卷绕,乘方,纠缠,卷入,自乘,复旧,萎缩|v:复归,退化
+involve~v:涉及,包括,包含,牵涉,有关,涉,牵扯,牵连,波及,带累,引起,连累,牵,牵累,关,累,拉扯,自乘,牵缠,拖累,攀,累及
+involve in~v:婵媛
+involve oneself~v:自投罗网
+involved~v:绕脖子
+involvement~n:卷入,事,参与|v:参与
+invulnerable~a:无懈可击
+inward~n:进口货,内部,内心,里面,肠,胃|a:里面
+inward eye~n:心目
+inwardly~d:暗自,暗地,暗地里,内里,暗暗
+inwardness~n:本性,本质,真相
+inweave~v:交织
+iodin~n:碘
+iodine~n:碘,碘酊
+iodine plate~n:碘片
+iodine solution~n:碘酊
+iodine tincture~n:碘酊
+iodine-tungsten filament lamp~n:碘钨灯
+iodoform~n:碘仿
+iodoformum~n:碘仿
+ion~n:离子
+ionization~n:电离
+ionization energy~n:电离能
+ionize~v:电离
+ionized layer~n:电离层
+ionized stratum~n:电离层
+ionosphere~n:电离层
+iota~n:微小,一点|a:分毫
+iou~n:白条,欠条
+iowa~n:衣阿华
+ipa~n:国际音标
+ipecac~n:吐根
+ipecace~n:吐根
+ipecacuanha~n:吐根
+ipsation~n:手淫
+ipsism~n:手淫
+ipso facto~n:事实上
+iq~n:智商
+irak~n:伊拉克
+iran~n:伊朗
+iraq~n:伊拉克
+iraqi~n:伊拉克人
+irascibility~n:肝气,肝火
+irascible~a:急躁,暴躁,暴
+ire~n:忿怒,愤怒
+ireland~n:爱尔兰
+irides~n:虹膜
+iridescence~n:虹彩
+iridescent~a:服装|n:服装
+iridium~n:铱
+iridium-point pen~n:铱金笔
+iris~n:虹膜,蝴蝶花,光圈,虹,虹彩,隔膜
+irisation~n:虹彩
+irish~n:怒火
+irish potato~n:马铃薯
+iritis~n:虹膜炎
+iron~n:铁|v:消除
+iron age~n:末世
+iron alloy~n:铁合金
+iron army~n:铁军
+iron bar~n:梃
+iron bastions~n:铜墙铁壁
+iron black~n:铁黑
+iron bridge~n:铁桥
+iron casting~v:铸铁
+iron chain~n:铁链
+iron channel~n:槽钢
+iron chips~n:铁屑
+iron cock~n:铁公鸡
+iron core~n:铁心
+iron dust~n:铁屑
+iron filings~n:铁屑
+iron fillings~v:铁屑
+iron hoop~n:铁环,铁工,铁箍
+iron horse~n:机车
+iron man~n:银元,铁汉
+iron melt~n:铁水
+iron melting furnace~n:化铁炉
+iron meteorite~n:陨铁
+iron openwork~n:铁花
+iron out~v:消除
+iron ox~n:铁牛
+iron oxide black~n:铁黑
+iron pagoda~n:铁塔
+iron pan~n:铁锅
+iron rice bowl~n:铁饭碗
+iron rod~n:钢条,铁棍
+iron sand~n:铁砂
+iron scurf~n:铁屑
+iron smelting~v:炼铁
+iron soles~n:铁脚板
+iron tube~n:铁管
+iron wall~n:铜墙铁壁
+ironbark~n:桉树
+ironclad battleship~n:铁甲舰
+ironclad evidence~n:铁证如山
+ironclad proof~n:确证
+ironfist~n:铁拳
+iron-gray~a:灰白色
+ironhanded person~n:铁腕人物
+ironic~a:反语
+ironical~a:反语
+ironmaking~v:炼铁
+iron-melting furnace~n:化铁炉
+ironmold~v:生锈
+ironmongeny~n:铁器
+ironmongery~n:五金店
+ironmould~n:生锈
+ironsmith~n:锻工,铁匠
+ironware~n:铁器
+ironwork~n:铁工,铁活,锻铁
+ironworker~n:铁工
+irony~n:讽刺,讥讽,反话,反语
+irradiance~n:光辉,灿烂,发光
+irradiancy~n:发光
+irradiate~v:照射,辐照,照耀,焕发|n:辐照
+irradiation~n:照射,辐照,照耀,扩散,阐明,发光|v:扩散,照射
+irrational~a:无理数
+irrational equation~n:无理方程
+irrational expression~n:无理式
+irrational number~n:数
+irrationalism~n:无理
+irrawaddy~n:伊洛瓦底江
+irreclaimable~a:怙恶不悛
+irrefutable~a:颠扑不破,无可争辩,确凿|v:颠扑不破,无可争辩
+irrefutable argument~n:不易之论
+irrefutable evidence~n:铁证如山
+irrefutable proof~n:铁证如山
+irregular~a:不规则,邪,错落,花花搭搭,参差不齐,七扭八歪,参差|v:错落,舞弊|n:邪门儿
+irregularities~n:舞弊
+irregularity~n:不规则,例外,非正式,违法乱纪,邪门儿
+irregulars~n:次货
+irrelevance~n:不相干
+irrelevant~a:无关痛痒,不着边际,无关宏旨|v:无关宏旨,无关痛痒
+irremediable~v:不可收拾|a:不可收拾
+irreproachable~a:无可非议
+irresistible~a:势不可挡,势不可当
+irresistible proof~n:铁证
+irresolute~a:憧
+irresoluteness~n:临渊羡鱼
+irresolution~n:优柔寡断
+irrespective of~p:在所不计,不论,不顾
+irresponsible~n:溜肩膀|a:敷衍塞责
+irresponsible chat~n:信口开河
+irresponsibly~d:混|v:混
+irretention~n:失禁
+irretrievable~a:不可救药|v:不可救药
+irreverence~n:无礼,非礼
+irreversible~v:不可逆转|a:不可逆转
+irrevocable title deed~n:死契
+irrevocably committed~v:骑虎难下
+irrevocably lost~v:付诸东流
+irrigable~a:水浇地
+irrigate~v:灌溉,浇,浇灌,灌,沃,注,滋润,冲洗,溉
+irrigate in spring~v:春灌
+irrigated area~n:灌区
+irrigated field~n:水田,水浇地
+irrigated land~n:水地,水浇地
+irrigated soil~n:水浇地
+irrigating area~n:灌区
+irrigation~n:灌溉,灌,水利,冲洗|v:冲洗,灌,灌溉
+irrigation canal~n:灌渠
+irrigation ditch~n:渠道
+irrigation project~n:水利工程
+irrigation works~n:水利,水工,水利工程
+irritability~n:感应,过敏性,兴奋性,肝气|v:过敏
+irritable~a:烦躁,暴躁,急躁,暴,毛躁,火暴
+irritancy~n:刺激,烦闷,懊恼
+irritant~n:刺激
+irritate~v:激怒,刺激,生气,刺,蜇,撄,怄
+irritated~a:急,恼火,恼,烦燥|v:急
+irritating~a:恼人
+irritatingly slow~v:慢吞吞
+irritation~n:愤怒,刺激,发炎,生气,焦躁,疼痛,兴奋,烦扰,激怒
+irruption~n:闯进
+irruptive~a:是
+irving~n:欧文
+irwin~n:欧文
+is~v:现在时,单数
+is it worthwhile~v:犯得上
+isagoge~n:概论,序言
+isaiah~n:以赛亚
+ischium~n:坐骨
+ischnophonia~v:口吃
+i-shaped reel~n:拐子
+isinglass~n:鱼胶,鳔胶
+islam~n:伊斯兰教,伊斯兰,回教,穆斯林,清真教
+islamabad~n:伊斯兰堡
+islamic~a:清真
+islamism~n:清真教,回教
+islamite~n:穆斯林
+island~n:岛,岛屿,海岛,安全岛
+island reef~n:岛礁
+islands~n:群岛,岛屿
+islands of algerians~n:胰岛
+isle~n:岛
+islet~n:胰岛,孤岛,屿
+ism~n:学说,制度,主义
+isobar~n:等压线
+isobaric~a:等压|v:等压
+isobaric line~n:等压线
+isobath~n:等深线
+isogeny~n:同源
+isogonism~n:等角
+isogram~n:等值线
+isolate~v:分离,孤立,隔离,隔绝,绝缘,离析,割裂
+isolate oneself~v:离群索居,自封
+isolated~v:隔绝,隔离|a:孤立
+isolation~n:隔离,孤立,分离|v:隔离,分离,分隔,离析
+isolator~n:隔离器,绝缘体
+isoline~n:等值线
+isometric line~n:等角线
+isometry~n:等距
+isomorphism~n:同性,同形|a:同性
+isoniazid~n:异烟肼
+isonicid~n:异烟肼
+isonicotinyl hydrazine~n:异烟肼
+isonicotinylhydrazid~n:异烟肼
+isopiestic~n:等压线
+isopiestic line~n:等压线
+isopleth~n:等值线
+isosceles~a:等腰
+isosceles triangle~n:正三角形
+isostatics~n:等压线
+isotherm~n:等温线
+isothermal~n:等温线|a:等温
+isothermal layer~n:同温层
+isothermal line~n:等温线
+isotope~n:同位素
+isotopic carrier~n:载体
+isotrope~n:各向同性
+isotropism~n:各向同性
+isotropy~a:各向同性
+i-spy~n:捉迷藏
+israel~n:以色列,犹太人
+israeli~n:犹太人
+israelite~n:犹太人
+isreal~n:以色列
+issuance~n:颁布,发行,配给
+issue~v:发出,发布,发行,发,发表,发给|n:颁布,流出,商讨,涌出,出口,放出,成绩,河口
+issue as usual~v:照发
+issue forth from~v:跳出
+issue orders~n:诰
+issue pay~v:发饷
+issuer~n:出版者,发行者
+istanbul~n:伊斯坦布尔
+isthmus~n:地峡,峡
+it~r:它,其,it|n:傻瓜
+it appears~v:看来
+it doesn't matter~v:不要紧,没什么,没事
+it is heelry~v:特此
+it is said~v:传述,传说,传闻
+it is self-evident~v:不言而喻
+it is true~v:固然
+it looks like~v:似乎
+it seems~v:看来,似
+it won't pay~v:犯不着
+italian~n:意大利语
+italics~n:斜体字
+italy~n:意大利,意
+itch~n:热望|v:发痒,痒,痒痒,渴望|a:痒
+itch for action~n:蠢蠢欲动
+itch to~v:恨不得
+itchy~a:刺挠,痒痒,刺痒
+item~n:项目,项,节目,事项,条款,条,名堂,一则,个,件,节,细目|v:端|d:同上
+item of expenditure~n:款项
+item on display~n:展品
+itemize~v:分类,举出
+items~n:名目,品目
+items of taxation~n:税种
+iterance~n:反复,重复
+iterate~v:反复,重复
+iterateation~n:反复
+iteration~v:迭代|n:迭代
+itineracy~n:巡回
+itinerancy~n:巡回
+itinerant~a:游,巡游
+itinerant entertainers quacks~n:江湖
+itinerant exhibition~n:巡展
+itinerant merchant~n:行商
+itinerant pedlar~n:货郎
+itinerant trader~n:行商
+itinerary~n:路线,航线,旅程
+itinerate~v:巡回
+itineration~n:巡回
+i-told-you-so remark~n:马后炮
+its~a:厥|r:其
+it's a pity~v:可惜
+it's better to~v:倒不如
+it's justifiable to~v:作兴
+it's nothing~v:没事,没什么
+it's too bad~v:可惜
+it's too late~v:来不及
+itself~r:自身,自己,本身|n:本色
+ittiolo~n:鱼石脂
+ivory~n:象牙,牙,牙雕,弹子,獠牙,乳白色,牙齿,牙质,象牙质
+ivory chopsticks~n:牙筷
+ivory coast~n:象牙海岸
+ivory colour~n:牙色
+ivory tower~n:象牙塔
+ivory tusk~n:象牙
+ivory-inlaid bed~n:牙床
+ivy~n:常春藤
+iwis~d:当然
+izard~n:羚羊
+izvestia~n:审判员
+izzat~n:自大

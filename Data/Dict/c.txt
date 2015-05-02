@@ -1,0 +1,7450 @@
+c~n:丙
+c/o~p:转交,由_转交
+cab~n:马车,出租汽车,出租车,驾驶室,夹带|v:作弊
+cabal~n:阴谋,派系,朋党
+cabala~n:秘传
+caballer~n:阴谋家
+caballero~n:骑士,绅士
+cabana~n:小屋,浴室
+cabaret~n:夜总会,餐馆
+cabbage~n:卷心菜,白菜,包心菜,小白菜,甘蓝,洋白菜|v:偷
+cabbage aphid~n:菜蚜
+cabbage caterpillar~n:菜青虫
+cabbage mustard~n:芥蓝菜
+cabbagehead~n:笨蛋
+cabezon~n:大头鱼
+cabin~n:小屋,舱,木屋,船舱,客舱,机舱,座舱,舱室,卧室|v:隔开
+cabin door~n:舱门
+cabinet~n:内阁,柜子,柜,盒,陈列品,阁,橱,箱,柜橱|a:小巧
+cabinet minister~n:总长
+cabinet of government~n:内阁
+cabinet particular~n:雅座
+cable~n:电缆,电报,钢索,缆索,电,缆,缆绳,报,钢丝绳,铁索,索
+cable hoist~n:卷扬机
+cable length~n:链
+cable rope~n:缆索
+cable transfer~n:电汇
+cable winch~n:绞车
+cable wire~n:钢索
+cable-car~n:缆车
+cablet~n:周围
+cableway~n:索道
+cableway bucket~n:吊斗
+caboodle~n:捆,团,群,堆
+caboose~n:守车,厨房
+cacao~n:可可树
+cachalot~n:抹香鲸
+cache~v:隐藏,贮藏|n:地窖
+cachepot~n:花盆,花瓶
+cachet~n:称赞,胶囊,威信,身分
+cachinnate~v:哄笑,大笑
+cachinnation~n:大笑,哄笑
+cachou~n:口香糖
+cacique~n:黄鹂
+cackle~v:咯咯,狞笑|d:咯咯|n:废话
+cackler~n:鸡蛋,艺人,碎嘴子
+cacodaemon~n:恶鬼,梦魇,恶梦,恶人
+cacodemon~n:恶鬼,恶魔,恶人,梦魇,恶梦
+cacoethes~n:恶癖
+cacogenesis~n:畸形
+cacophony~n:噪音,杂音
+cacosmia~n:恶臭
+cactus~n:仙人掌,仙人球
+cacuminal~a:卷舌音,翘舌音
+cadaver~n:死尸,尸体
+caddice~n:毛线
+caddis~n:毛线
+caddy~n:箱,茶叶罐,盒,柜
+cadence~n:节奏,调子,拍子,音律|v:终止
+cadenza~n:终止
+cadet~n:次子,弟弟
+cadge~v:勒索,敲诈,行乞,乞讨
+cadger~n:二流子,寄生虫
+cadi~n:法官
+cadmium~n:镉
+cadre~n:干部,干,骨骼,架子,骨干
+cadre office~n:干部科
+caducity~n:短命,暂时,衰老|a:衰老
+caecitis~n:盲肠炎
+caecum~n:盲肠
+caeruleous~n:天蓝色
+caeruleus~n:天蓝色
+caesar~n:独裁者,皇帝,暴君,罗马帝国,政治家
+caesium~n:铯
+cafard~n:没精打采,忧郁,愁闷
+cafe~n:咖啡馆,餐馆,酒馆
+cafeteria~n:饭堂
+caffein~n:茶精
+caffeine~n:咖啡因,咖啡碱
+caffy~n:咖啡,咖啡馆
+cage~n:笼子,笼,鸟笼,罐笼,牢笼,外壳|v:罩
+cage conductor~n:罐笼
+cage fire~n:笼火
+caging~v:锁定
+cahoot~n:共谋,同伙,合伙
+cahoots~n:共谋,合伙
+cai~n:蔡
+caicha opera~n:采茶戏
+cailloutis~n:卵石
+cain~n:恶魔,凶手
+caird~n:流浪汉
+cairo~n:开罗
+caisson~n:弹药箱,沉箱,藻井
+caisson ceiling~n:藻井
+caitiff~n:胆小鬼
+cajole~v:哄骗,勾引,诱骗,引诱
+cajolement~n:笼络,诱骗
+cajoler~n:骗子
+cajolery~n:笼络,引诱,哄骗,诱骗
+cake~n:蛋糕,糕饼,饼,糕点,糕,饼饵,烧饼,饽饽
+caking~v:结块
+calabash~n:葫芦,葫,匏
+calaboose~n:监狱,拘留所
+caladium~n:贝母
+calafatite~n:明矾石
+calais~n:加来
+calamary~n:枪乌贼
+calamitous~a:惨重,多灾多难|v:多灾多难
+calamity~n:灾难,不幸,灾祸,大祸,灾,灾殃,祸殃,眚,危难,殃,遗祸,祸|v:劫
+calamus~n:芦苇,菖蒲
+calandria~n:加热器
+calash~n:车篷
+calcar~n:距
+calces~n:生石灰
+calciferol~n:生化
+calcification~n:钙化|v:钙化
+calcify~v:钙化,僵化,硬化
+calcination~n:煅烧
+calcine~v:煅烧,焙烧
+calcine gypsum~v:熟石膏
+calcite~n:方解石
+calcium~n:钙
+calcium carbide~n:碳化钙
+calcium carbonate~n:石灰质
+calcium fluoide~n:氟化钙
+calcium fluoride~n:萤石
+calcium magnesium phosphate~n:钙镁磷肥
+calcium oxide~n:氧化钙
+calcium tablet~n:钙片
+calcspar~n:方解石
+calculability~n:可靠性
+calculagraph~n:计时器
+calculate~v:计算,指望,估计,推算,打算,认为,考虑,盘算,想,计量,算,算计,计,演算,预测,筹划,核计,预料,依靠,以为,推测,猜想,揣,核算,打算盘,筹算,划算
+calculate in advance~v:预计
+calculate on~v:指望,依靠
+calculating machine~n:计算机,计数器,计算器
+calculating rule~n:计算尺
+calculating scale~n:计算尺
+calculation~n:计算,深思熟虑,算计,心计,精打细算,演算,打算,预测
+calculation by writing~n:笔算
+calculator~n:计算器,计算机,一览表
+calculus~n:微积分,演算,牙垢,石,运算,积石,结石
+calcutta~n:加尔哥达
+caldron~n:釜,镬
+calefy~v:发热
+calendar~n:日历,日程表,年历,历,历法,历书,月历,挂历,一览表
+calendar system~n:历法
+calendar year~n:历年
+calendared paper~n:蜡光纸
+calender~n:历法
+calendering~v:压制
+calendula~n:金盏花
+calentura~v:中暑
+calenture~n:中暑,热病|v:中暑
+calf~n:牛犊,犊,腿肚子,仔,牛犊子
+calf teeth~n:乳齿
+caliber~n:口径,孔径,直径,卡钳
+caliber gauge~n:厚薄规
+caliber ruler~n:卡尺
+calibrate~v:校准,校正,校对
+calibration~n:校准,标定,刻度,标准化|v:校准
+calibre~n:才干,卡钳,能力,等级,口径,水准,直径,规,内径
+calico~n:市布,印花布,洋布,白布
+calico printing~n:印花
+california~n:加利福尼亚
+californium~n:锎
+caliper~n:卡尺,卡规
+caliper gauge~n:卡规
+calipers~n:卡钳,卡规
+caliph~n:哈里发
+calisthenics~n:柔软体操
+calix~n:肾盂
+calk~v:临
+call~v:叫,叫做,称,到,打电话,拜访,看|n:义务
+call a meeting~v:开会
+call at~v:访问
+call attention to~v:注意,提醒
+call back~v:回电
+call back troops~v:班师
+call bell~v:电铃,警铃
+call black white~v:混淆黑白
+call board~n:告示版
+call directly~v:直拨
+call down~v:祈求,责骂
+call for~v:请求,需要
+call for bid~n:招标
+call for funds~n:集资
+call for tender~n:招标
+call forth~v:引起,唤起
+call in~v:召见,进见,聘请
+call in person~v:踵
+call in question~v:质疑,怀疑
+call in reinforcement~v:搬兵
+call in reinforcements~v:搬兵
+call into action~n:发动
+call into being~n:实现
+call into play~n:发挥
+call letters~v:呼号
+call names~v:咒骂,骂
+call number~v:书号
+call off~v:停止
+call on~v:拜,号召,拜访,拜客,见,晋见,走,拜会,看望,望,晋谒,看,找,访,谒,进见,探,诣,造访,拜望,探访,探望,谒见,顾,呼吁,上门
+call on friends~n:访友
+call on somebody~n:过访
+call oneself~v:自称
+call oneself king~n:称孤道寡
+call out~v:呼喊,召集,出动,号召
+call over~v:点
+call quit~v:罢休
+call sign~v:呼号
+call somebody names~v:辱骂
+call the role~v:点名
+call the roll~v:点卯
+call the tune~v:定调,发号施令,定调子
+call to account~v:质问,质
+call to mind~v:回首,想到,忆及,回忆,想起,勾
+call to office~n:辟
+call to remembrance~n:想起
+call together~v:邀集,集合,聚齐
+call up~v:召,召唤,打电话,征召,征集,挂
+call upon~v:省视,请求
+call white black~v:指鹿为马
+callan~n:少年
+callant~n:少年
+call-back~n:收回,召回
+callboy~n:侍者
+caller~n:客
+calligrapher~n:书法家
+calligraphic style~n:笔意
+calligraphist~n:书法家
+calligraphy~n:书法,篆体,篆书,笔迹
+calligraphy scroll~n:字幅
+calling~n:职业,愿望,到来,感召,呼,叫喊,名称,停靠|v:传唤,停靠
+calling card~n:指纹
+calliopsis~n:波斯菊
+calliper~n:两脚规,千分尺,千分表,厚度,卡尺,卡钳
+callipers~n:卡尺,卡钳
+callistephus chinensis~n:翠菊
+callisthenics~n:体操
+callorhinus curilensis~n:海狗
+callosity~n:麻木,硬结,胼胝,老茧,胼
+callous~a:冷酷,心硬
+callous to shame~v:恬不知耻
+call-over~n:点名
+callus~n:老茧,胼胝,茧子
+calm~a:平静,镇静,冷静,风平浪静|v:沉着,从容|n:铸型
+calm down~v:弛缓,定,塌,平,平息
+calm one's anger~v:息怒
+calm sea~n:风平浪静
+calm somebody's anger~v:压气
+calmative~n:镇静剂
+calmly~d:平心静气,从容不迫|v:从容不迫
+calmness~n:镇定,平静
+calocure~n:升汞
+calomel~n:甘汞
+caloric~n:热
+caloricity~n:热值
+calorie~n:卡,千卡,卡路里
+calories~v:卡路里
+calorific efficiency~n:热效率
+calorific power~n:热值
+calorifics~n:热学
+calorifier~n:加热器
+calorify~v:加热
+calorimeter~n:热量计
+calorstat~n:恒温器
+calotte~n:小帽
+caloyer~n:修士
+calque~n:重复,加倍
+caltrop~n:蒺藜,铁蒺藜
+calumniate~v:污蔑,陷害,诋毁,毁谤,诬蔑,谰,诬害,谮,诬栽,诽谤,訾
+calumniation~n:毁谤,诽谤,诬蔑,诬告
+calumny~n:诽谤,中伤,诼,谗言,谰言,谣诼,诬蔑
+calvary~n:苦恼
+calve~v:生,产,分离
+calx~n:生石灰
+calyces~n:花萼
+calyptra~n:根冠
+calyx~n:萼,花萼
+cam~n:凸轮,靠模
+cam pawl~n:棘爪
+camaraderie~n:友谊,友爱
+camarilla~n:奸党
+camber~n:弯度,曲面,弯曲
+cambia~n:形成层
+cambium~n:形成层
+cambodia~n:柬埔寨
+cambrian~n:寒武纪
+cambrian period~n:寒武纪
+cambric~n:麻纱
+cambridge~n:剑桥
+camcorder~n:摄像机
+camel~n:骆驼,驼色,驼背
+camel hair~n:驼毛
+camel hair cloth~n:驼绒
+camel hump~n:驼峰
+camelback~n:驼背,驼峰
+cameleer~n:驼员
+camellia~n:山茶,茶花,油茶
+camel's hair~n:骆驼绒,驼绒
+cameo~n:贝壳,贝雕,浮雕,片断
+camera~n:照相机,摄影机,相机,摄像机
+camera bag~n:暗袋
+camera bellows~n:暗箱
+camera man~n:摄影师
+camera obscura~n:暗箱
+camera obscure~n:暗箱
+camera shooting~n:摄像
+cameracature~n:动画
+cameralistics~n:财政学
+cameraman~n:摄影师
+cameroon~n:喀麦隆
+cameroun~n:喀麦隆
+camiknickers~n:紧身衣
+camlet~n:羽纱
+camouflage~n:伪装|v:掩饰,装扮,欺瞒
+camouflet~n:弹坑
+camp~n:营地|v:安营扎寨,手舞足蹈,住宿
+camp bed~n:帆布床
+camp circle~n:营盘
+camp fire party~n:营火会
+camp holder~n:灯头
+camp out~v:露营
+camp up~v:动作,手舞足蹈
+campaign~n:运动,战役,游说,炉龄
+campaign for~n:竞选
+campaign gown~n:战袍
+campaigner~n:老手,老兵
+campanile~n:钟楼
+campfire~n:营火,篝火,营火会
+camphire~n:棕色
+camphol~n:冰片
+camphor~n:樟脑,樟树,樟
+camphor silkworm~n:樟蚕
+camphor tree~n:樟
+camphorwood~n:樟木
+camping~v:露营,野营
+camping ground~n:营地
+campo~n:草原
+camponotus liguipardus~n:蚍蜉
+campsite~n:营地
+campstool~n:马扎
+camptocormia~n:驼背
+camptospasm~n:驼背
+campus~n:校园,大学
+campus upheaval~n:学潮
+camshaft~n:凸轮轴
+can~n:罐头|v:辞退,开除,罐头盒|d:好
+can be bullied~v:可欺
+can be compared~v:比
+can be cured~v:有救
+can bear~v:胜
+can but~n:只得
+can compare with~v:及,如
+can compete with~v:架不住
+can do with~v:将就
+can foretell things~v:未卜先知
+can get along~v:说得来
+can imagine~v:可想而知
+can manage~v:过来
+can not bear~v:受不了
+can not but~n:不由得
+can not help~v:禁不住
+can not tolerate~v:不容
+can scarcely wait~v:急不可待
+can sleep secure~v:高枕无忧
+can stand~v:架不住,受得了
+can sustain~v:架不住
+can whistle for~v:休想
+canaan~n:乐土
+canada~n:加拿大
+canadian canoe~n:划艇
+canaille~n:乌合之众
+canal~n:运河,水渠,渠,沟渠,渠道,水沟,水道,管,管路,道,沟,漕河
+canal mud~n:河泥
+canalage~n:水道,水路
+canalis~n:管道
+canalization~n:开导
+canard~n:谣言,鸭,误传
+canary~n:金丝雀
+canary bird~n:金丝雀,罪犯
+canaster~n:板烟
+canberra~n:堪培拉
+cancel~v:取消,抵消,撤销,删去,退,注销,勾销,解除,销,勾除,相约,作废,撤消,略去,吊销,推倒,推翻,打消|n:删略,消
+cancel a contract~v:解约
+cancel a tenancy~v:退佃
+cancel out~v:相约
+cancell~v:注销
+cancellation~n:取消,消,注销,对消|v:对消,熄灭
+cancer~n:癌症,癌,肿瘤,毒瘤,癌变
+cancer of stomach~n:胃癌
+cancer stick~n:香烟
+canceration~n:癌变
+cancerigenic~v:致癌
+cancerization~n:癌变
+cancerous~a:癌
+cancerous growth~n:恶性肿瘤
+cand~n:萤石
+candela~n:烛光
+candelabrum~n:烛台
+candescence~n:白热
+candid~a:坦白,坦率,直率,爽朗,直爽,率直,明,爽直,直心眼儿
+candid photo~n:快照
+candidate~n:候选人,考生|a:候选
+candidly admit defeat~v:甘拜下风
+candidly confess~v:供认不讳
+candied~a:甜蜜
+candied date~n:蜜枣
+candied fruit~n:脯
+candle~n:蜡烛,烛光,蜡,烛
+candle bomb~n:照明弹
+candle drippings~n:蜡渣子
+candle holder~n:蜡台
+candlelight~n:烛光,黄昏,烛花,灯火
+candlenut~n:石栗
+candlepower~n:烛光
+candlestick~n:烛台,蜡台
+candock~n:睡莲
+candor~n:坦率,公正,爽直,直率,率直,直爽,公平,光明
+candour~n:坦率,率直,公平,光明,正直
+candy~n:糖果,糖,冰糖,软糖,可卡因,砂糖,蜜饯,水果糖,古柯碱
+candy paper~n:糖纸
+candy stick~n:棒棒糖
+candy sugar~n:冰糖
+cane~n:手杖,藤条,杖,甘蔗,茎|v:拐
+cane shield~n:藤牌
+cangue~n:枷
+canicula~n:天狼星
+canine~n:犬,犬牙,犬齿|a:犬
+canine teeth~n:犬牙,犬齿
+canine tooth~n:犬牙
+canine tooth fang~n:犬牙
+caning~v:鞭打
+canions~n:护膝
+canis major~n:大犬座
+canister~n:罐,手枪
+canister shot~n:子母弹
+canker~n:溃疡,苦恼|v:腐败,腐蚀
+canker worm~n:尺蠖
+cann~n:萤石,酒杯
+canna~n:美人蕉
+cannabis~n:大麻
+cannabis sativa~n:大麻
+canned~a:听装
+cannelure~n:槽,沟槽
+cannibalism~n:残忍
+cannibalistic~a:灭绝人性
+cannibalize~v:吃
+canniness~n:精明
+cannon~n:大炮,火炮,机关炮,加农炮,炮,炮口,小偷,榴弹炮,手枪|v:炮轰,开炮
+cannon cracker~n:二踢脚
+cannon fire~n:炮火
+cannon fodder~n:炮灰
+cannon shot~n:射程,炮弹
+cannonade~v:炮击
+cannonball~n:炮弹
+cannoneer~n:炮手,炮兵
+cannonier~n:炮手
+cannonry~n:开炮
+cannon-shot~n:炮弹
+cannot~v:不可,未能,不得
+cannot be imagined~v:不堪设想
+cannot be improved~v:到顶
+cannot be trained~v:不堪造就
+cannot be withdrawn~v:驷马难追
+cannot bear~v:经不起,不忍,不胜
+cannot bear to~v:不忍
+cannot blame~v:怨不得
+cannot but~n:不由,不能不|c:不得不|d:不得已
+cannot choose but~n:不得不
+cannot compete with~v:架不住
+cannot cope~v:不迭
+cannot dispense with~v:少不得,少不了
+cannot do without~v:少不了,少不得
+cannot get along~v:说不来
+cannot get through~v:过不去
+cannot go so far~v:不至于
+cannot help~v:不由自主,情不自禁,由不得,不禁
+cannot help but~n:无奈
+cannot help doing~v:身不由己
+cannot help laughing~v:忍俊不禁
+cannot help shivering~v:不寒而栗
+cannot help smiling~v:忍俊不禁
+cannot rest~v:坐卧不安
+cannot stand~v:架不住
+cannot sustain~v:架不住
+cannot tell~v:说不上
+cannot yet~v:尚未
+cannula~n:套管,插管
+cannulation~n:管子
+canoe~n:独木舟,独木船,舟,轻舟,划艇
+canon~n:准则,规范,教规|p:经
+canoness~n:修女
+canonical~a:规范|n:法衣
+canonical form~n:范式
+canonicals~n:法衣
+canoodle~v:爱抚,搂抱
+canopy~n:冠,覆盖,盖,天空,幔帐,罩棚
+canst~v:能
+cant~n:黑话,口头禅|v:侈谈,投掷,倒转
+can't be found~v:石沉大海
+can't bear~v:吃不消,不堪
+can't endure~v:不堪,不忍
+can't go wrong~v:没错儿
+can't help~v:不由得,禁不住,不由,不由自主,不禁
+can't help but~n:不得不
+can't help chuckling~v:忍俊不禁
+can't help it~v:没法子
+can't help laughing~v:哑然失笑
+can't keep from~v:不得不
+can't refrain from~v:不禁,禁不住
+can't see nose~v:鼠目寸光
+can't see sense~v:一窍不通
+can't stand~v:不堪
+cantaloupe~n:甜瓜
+cantata~n:大合唱
+canteen~n:水壶,食堂,小卖部,饭堂,水罐,饭盒
+canter~n:慢跑,流浪者,流浪汉,小跑|v:慢跑,小跑
+canterbury~n:坎特伯雷
+cantharis~n:斑蝥
+canthus~n:眦,眼角
+canticle~n:赞歌,颂歌
+cantilever~n:悬臂,支架
+cantillate~v:吟唱
+cantillation~n:吟唱
+cantina~n:酒吧
+canting~v:倒转
+canto~n:歌,旋律,篇章
+canton~n:广州,州,镇,村
+cantonese~n:粤语
+cantonment~n:兵营
+cantrip~n:恶作剧,符咒
+cantus~n:旋律
+canula~n:套管
+canvas~n:帆布,画布,油画,帐篷,天幕,风帆
+canvas conveyer~n:传送带
+canvas top~n:车篷
+canvass~v:游说,拉,讨论|n:风帆,天幕
+canvasser~n:推销员
+canyon~n:峡谷,峡
+canzone~n:歌曲,抒情诗
+cao~n:曹,章
+cao county~n:巢县
+caoutchouc~n:生橡胶
+cap~n:帽子,盖,瓶盖,帽,盖子,军帽,头巾,罩子,便帽,会费,头儿,尖,冕,套,膝盖骨,鞘,柱头,根冠|v:凌驾,戴帽子,胜过
+cap all~v:卓尔不群,出类拔萃
+cap nut~n:螺母
+capabilities~n:能量
+capability~n:能力,性能,能,才能,容量,能耐,本领,本事,功率,生产率|v:能
+capable~a:能,能干,成,干,行|v:能
+capable brains~n:能人
+capable man~n:人才
+capable of fighting~a:能征惯战
+capable person~n:干才,能人,材,才
+capaciity~n:容量
+capacious~a:宽敞
+capacitance~n:电容,电容器
+capacitor~n:电容器,容电器
+capacity~n:能力,容量,身份,量,本领,容积,性能,产量,资格,功率,机能,权力,才干,装载,装载量,地位,身分,器,权能,能量,电容,力,生产额|v:装载
+capacity audience~n:满座
+capacity factor~n:功率
+capacity faculty~n:本领
+capacity for~n:能够
+capacity for eating~n:食量
+capacity house~n:客满,满座
+capacity load~n:满载
+capacity of production~n:生产能力
+capacity of reservoir~n:库容
+caparison~n:服装
+cape~n:斗篷,披肩,海角,岬,岬角,霞帔,大氅,角
+cape jasmine~n:栀子,栀
+cape town~n:开普敦
+caper~v:开玩笑,跳跃,嬉戏
+capercaillie~n:雷鸟,松鸡
+capercailzie~n:雷鸟,松鸡
+capeskin~n:羔羊皮
+capetown~n:开普敦
+capful~n:少许,少量
+capillament~n:花丝
+capillarity~n:毛细现象
+capillary~n:毛细管,微血管
+capillary artemisia~n:茵陈蒿
+capillary pipe~n:毛细管
+capillary tube~n:毛细管
+capilliaire~n:铁线蕨
+capital~n:首都,资本,资金,都,大写字母,会,大写,本,首府,资产,资源,老本,资方,资产阶级,基金,国都,柱头,本金,资本论|d:都
+capital asserts~n:固定资产
+capital assets~n:固定资产
+capital bonus~n:股息,红利
+capital construction~n:基建
+capital felony~n:重罪
+capital fund~n:资产
+capital goods~n:生产资料
+capital increase~n:增资
+capital letter~n:大写字母
+capital of china~n:盛京
+capital of estate~n:产业资本
+capital of property~n:产业资本
+capital offense~n:死罪
+capital overhaul~n:大修
+capital punishment~n:大辟
+capital stock~n:股本
+capital stock common~n:普通股
+capitalism~n:资本主义
+capitalist~n:资本家,财主
+capitalist class~n:资产阶级
+capitalist roader~n:走资派
+capitalization~n:大写,投资
+capitalize~v:大写,利用,牟利,利益,自恃,投机倒把
+capitalize on~v:牟利,自恃,投机倒把,利用
+capitalized cost~n:成本
+capitally~d:妙
+capitulate~v:投降,降
+capitulation~n:投降,条件,条款,协定
+capitulationism~n:投降主义
+capitulum~n:头状花序
+caplet~n:锭
+cap-like things~n:帽
+capo~n:头目
+capon~n:阉鸡
+caponizing~n:阉鸡
+capper~n:结局,封口机,高潮,结尾
+capping~v:表土
+capping mass~n:表土
+capriccio~n:恶作剧,狂喜,异想天开,狂想曲
+caprice~n:任性,冷热病,异想天开
+capricious~a:任性,反复无常,朝三暮四,变幻莫测
+capricorn~n:上校
+capriole~n:跳跃|v:跳跃
+capsicum~n:辣椒
+capsize~v:倾覆,翻身|n:翻船,翻车,翻身
+capsomere~n:子粒
+capstan~n:绞盘,绞车
+capstan engine~n:卷扬机
+capstone~n:顶部,顶点
+capsula~n:荚膜
+capsule~n:胶囊,荚膜,节略,摘要,传感器,提要|v:压缩
+capsulize~v:压缩
+captain~n:船长,上尉,队长,舰长,机长,头子,组长,管理员,魁首|v:统率,指挥
+captain of detachment~n:支队长
+caption~n:说明,标题,逮捕,题目,标示,提要,节目,字幕
+captions~n:字幕
+captious~a:吹毛求疵,意气用事|v:吹毛求疵
+captivate~v:迷住,征服,逮捕
+captivation~n:逮捕,迷惑
+captive~n:俘虏,俘,阶下囚|v:俘
+captivity~n:囚禁,俘虏,监禁,束缚,被俘
+capture~v:缴获,捕获,俘虏,俘获,占领|n:夺得,俘虏,掠夺,猎获,掳掠|d:略
+capture alive~v:生擒,活捉
+capture territory~v:攻城略地
+captured equipment~n:战利品
+captured personnel~n:俘虏
+capuchin~n:卷尾猴
+caput~n:头
+car~n:汽车,小汽车,车辆,轿车,车厢,电车,座车,沼泽,卧车
+car about~n:关心
+car axle~n:车轴
+car body~n:车身,车体
+car body coupler~n:车钩
+car coat~n:短大衣
+car compartment~n:车厢
+car coupler~n:车钩
+car fare~n:票价,交通费
+car hopper~n:车斗
+car light~n:车灯
+car park~n:停车场,车场
+car yard~n:车场
+carabao~n:水牛
+carabin~n:卡宾枪
+carabine~n:卡宾枪
+caracal~n:山猫,野猫
+caracas~n:加拉加斯
+carafe~n:玻璃瓶
+carambola~n:杨桃,羊桃
+caramel~n:焦糖,糖蜜,酱色
+carapace~n:甲壳,甲,壳
+carat~n:开,克拉
+carat fine~n:开金
+caravan~n:大篷车,马帮,商队,马队
+caravan leader~n:马锅头
+caravansary~n:旅馆,马店
+caravanserai~n:旅馆
+caraway~n:香菜
+carbamide~n:尿素
+carbarn~n:车库
+carbarsone~n:卡巴胂
+carbetapentane citrate~n:咳必清
+carbide~n:碳化物
+carbide alloy~n:硬质合金
+carbine~n:卡宾枪,马枪
+carbinol~n:甲醇
+carbinyl~n:甲基
+carbite~n:金刚石
+carbofos~n:马拉松
+carbofrax~n:碳化硅
+carbohydrase~n:糖酶
+carbohydrate~n:碳水化合物,糖类
+carbolic acid~n:苯酚
+carbolic soap~n:药皂
+carbolon~n:碳化硅
+carbon~n:碳,副本,碳精,复写纸,炭精,碳精棒
+carbon black~n:松烟
+carbon body~n:电刷
+carbon brush~n:碳刷
+carbon dioxide~n:碳酐
+carbon dioxide gas~n:碳酸气
+carbon paper~n:复写纸,复印纸
+carbon product~n:炭精
+carbon spot~n:黑斑
+carbon stick~n:炭精棒
+carbonado~v:烧,砍,烘
+carbonas~n:碳酸盐
+carbonate~n:碳酸盐
+carbonated drink~n:汽水
+carbon-copy~v:复制
+carbond~n:支脉
+carbondioxide~n:二氧化碳,碳酐
+carbon-dioxide~n:二氧化碳
+carboniferous~n:石炭纪
+carboniferous system~n:石炭系
+carbonitriding~v:氰化
+carbonize~v:焦化
+carbon-molybdenum steel~n:钼钢
+carbonyl~n:碳酰基
+carbonyl chloride~n:光气
+carborundum~n:金刚砂,碳化硅
+carboxyl~n:羧基,羧
+carboxyl group~n:羧基
+carboy~n:坛,玻璃罩
+carbuncle~n:痈,红宝石
+carburet~v:碳化物
+carburetor~n:化油器,汽化器
+carburetter~n:化油器
+carburettor~n:汽化器
+carcajou~n:狼獾
+carcanet~n:项链,项圈
+carcase~n:骨架,躯体,尸体,死尸,遗骸,身躯
+carcass~n:尸体,躯体,构架,身躯,遗骸,骨架,胴体
+carcinogen~n:致癌物
+carcinogenic~v:致癌|a:致癌
+carcinoma~n:癌
+carclazyte~n:高岭土,陶土
+card~n:卡片,纸牌,卡,明信片,名片,手段,怪人,请帖,证,请柬,梳理机,策略,节目单,帖子,戏单,菜单,广告,柬,事物,梳子,帖|v:梳,刷
+card punch~n:打卡机
+cardamon amomum~n:豆蔻
+cardboard~n:纸板,硬纸板
+cardia~n:贲门
+cardiac~n:心脏
+cardiac disease~n:心脏病
+cardiac muscle~n:心肌
+cardiac sounds~n:心音
+cardiac vesicle~n:心包
+cardigan~n:羊毛衫
+cardinal~n:红衣主教|a:主要
+cardinal point~n:基点
+cardinal principle~n:彝,大体
+cardinality~n:基数
+carding~v:梳理
+cardiogram~n:心电图
+cardiopalmus~v:心悸,心跳
+cardiopathy~n:心脏病
+cardiotonic~n:强心剂
+cardiovascular~a:心血管
+carditis~n:心肌炎
+cards in hand~v:底牌
+care~v:关心|n:思念,监督,维护,忧,忧思
+care about~v:注意,介意,考究,爱好
+care for~v:看顾,喜欢,照,照拂
+care for nobody~n:目中无人
+care for nothing~n:无关痛痒
+care for tenderly~v:惜
+care nothing about~v:漠不关心
+care nothing for~v:熟视无睹
+care of~p:转交,由_转交
+care to~v:喜欢
+career~n:职业,生涯,前途,前程,成功,经历,专业,遭遇,轨迹,履历|v:飞跑,猛冲
+career record~n:履历
+careering~v:全速
+careerism~n:野心
+careerist~n:野心家
+carefree~a:大咧咧,翛然,宽畅,乐天,逍遥自在,优游,恬,畅快
+careful~a:仔细,细心,谨慎,细致,慎重,周密,慎,细,精细,重视,仔仔细细,审慎,讲究,兢,昚|v:审|d:谨
+careful nursing~n:调理
+careful study~n:讲究
+carefully~d:小心,谨慎,密切,好生,悉心
+carefully chosen~a:精选
+carefully conceal mentioning~v:讳莫如深
+carefully framed-up argument~n:深文周纳
+carefully obey~v:恪守
+careless~a:粗心,粗心大意,大意,随便,不慎,漫不经心,马马虎虎,毛糙,马虎,疏阔,毛手毛脚,粗,失慎|v:失慎,疏忽|d:不慎|n:马大哈
+careless about~a:漠视
+careless omission~n:疏漏
+careless person~n:马大哈,粗人
+careless tattler~n:快嘴
+carelessly~d:不经意,草草,苟且|a:不经意
+cares at home~n:后顾之忧
+caress~v:爱抚,抚摩|n:拥抱,爱抚
+caressing~v:爱抚
+caretaker~n:看守
+caretaker cabinet~n:看守内阁
+carey~n:凯里
+cargo~n:货物,荷重,负荷
+cargo aircraft~n:货机
+cargo bay~n:货舱
+cargo bell~n:洪钟
+cargo box~n:货箱
+cargo carrier~n:货轮
+cargo crane~n:起重机
+cargo in bulk~n:散装
+cargo plane~n:货机
+cargo rice~n:糙米
+cargo ship~n:货轮
+caribbean~n:加勒比海
+caribbean sea~n:加勒比海
+caribou~n:驯鹿
+caricature~n:漫画,丑化
+caricaturist~n:漫画家
+caries~n:龋,龋齿
+carillon~n:编钟,钟琴
+carina~n:脊
+carious tooth~n:虫吃牙
+cark~n:烦恼,痛苦,焦急,焦虑|v:焦虑,烦恼
+carl~n:家伙
+carle~n:家伙
+carlet~n:小汽车
+carlin~n:巫婆,老太婆
+carline~n:巫婆,老太婆
+carmen~n:卡门
+carmine~n:洋红色
+carnage~n:残杀,大屠杀
+carnal appetite~n:性欲
+carnal desire~n:色情
+carnal desires~n:肉欲
+carnal knowledge~n:性关系
+carnal pleasures~n:声色犬马
+carnalism~n:好色,肉欲
+carnality~n:光卤石,好色,肉欲,性交,淫荡
+carnalize~v:好色
+carnallite~n:光卤石
+carnation~n:肉色
+carnelian~n:玛瑙
+carnet~n:通行证,执照
+carnival~n:狂欢节,狂欢,嘉年华会,竞赛,欢宴|v:狂欢
+carnivorous~a:肉食
+carny~n:哄骗
+caro~n:果肉
+caroche~n:花车
+carol~v:歌唱,欢唱|n:颂歌
+caroms~n:克郎球,康乐球
+carota~n:胡萝卜
+carotene~n:胡萝卜素,叶红素
+carotin~n:叶红素
+carouse~v:畅饮,酣饮|n:痛饮
+carp~v:吹毛求疵,找岔子,挑剔|n:心皮,鲤
+carp louse~v:鲺
+carpal~n:腕骨
+carpal bones~n:腕骨
+carpale~n:腕骨
+car-park~n:停车场
+carpel~n:心皮
+carpenter~n:木匠,木工,曲尺
+carpenter 's square~n:曲尺,角尺
+carpenter's ink marker~n:墨斗
+carpenter's line marker~n:绳墨
+carpenter's square~n:矩尺,曲尺,矩
+carpentry~n:木工
+carpet~n:地毯,绒毯,毛毯
+carpet of flowers~n:繁花似锦
+carpet strip~n:门槛
+carpophyte~n:显花植物
+carport~n:车棚
+carpus~n:手腕子,腕,膝头,腕骨
+carrefour~n:广场,十字路口
+carress~v:抚摸
+carriage~n:马车,车厢,举止,运费,车,车辆,风度,座位,姿态|v:运输
+carriage axle~n:车轴
+carriage by land~n:陆运
+carriage drive~n:车道
+carriage return key~n:回车键
+carriage weight~n:载货量
+carriage wheel~n:车轮
+carriageway~n:车道,车行道
+carried everything before~v:万事如意
+carrier~n:载波,载流子,航空母舰,载体,填料,带菌者,信差,货架,水管,运输机,信鸽,邮递员,吊架,搬运工
+carrier aircraft~n:客机,货机,母机
+carrier bag~n:拎包,提包
+carrier based~n:舰载
+carrier plate~n:顶板
+carrier ring~n:垫圈
+carrier rocket~n:运载火箭
+carrier's note~n:提单
+carrion~n:腐肉
+carronade~n:舰炮
+carrot~n:胡萝卜
+carry~v:进行,带,通过,携带,拿,继续,获得|n:载,云,空,移位
+carry a load~v:挑担
+carry along~v:卷
+carry away~v:带走
+carry bit~v:进位
+carry cargo~v:载货
+carry down~v:结转
+carry forward~v:发扬光大,恢宏,继承
+carry freight~v:载货
+carry from under~v:扶
+carry in breast~v:抱
+carry into effect~v:实行,实现
+carry into execution~v:实现,实行
+carry into practice~v:实行,实现
+carry loaded guns~v:荷枪实弹
+carry off~v:夺得,掳,获得,带走
+carry off easily~v:轻取
+carry on~v:承,发扬,绍,接着,抱,吊膀子,搞,继续,接班,因,承接,继承
+carry on agitation~v:闹风潮
+carry on misdeed~v:为非作歹
+carry on misdeeds~v:为非作歹
+carry on smoothly~v:顺当
+carry out~v:展开,付诸实施,推行,行,执,履,售,逞,开展,践,履行,施行,施
+carry out extortion~v:敲诈勒索
+carry over~v:保留,贮存,持续
+carry passengers~v:载客
+carry secretly~v:夹带
+carry somebody away~v:扣人心弦
+carry tales~v:调嘴学舌,搬弄是非
+carry the cause~v:胜诉
+carry the day~v:获胜
+carry through~v:帮助,维持,进行
+carry to~v:过帐
+carry together~v:抬,扛
+carry true~n:正中,奏效
+carry weight~v:举足轻重,算,重要
+carry with~v:带有
+carry with one~v:记得
+carryall~n:刮刀
+carrying~v:运输,运送
+carrying a smile~n:带笑
+carrying boat~n:载驳船
+carrying capacity~n:载重,吃重
+carrying case~n:工具箱
+carrying cost~n:运输费
+carrying idler~n:空载
+carrying off~n:带走
+carrying pole~n:扁担
+carryings-on~n:丑态,蠢事
+carry-over~n:滞销品,滚存,余量,结转
+carry-over bed~n:冷床
+car-sick~n:晕车
+carsickness~v:晕车|n:晕车
+cart~n:大车,马车,手推车|v:带走,拿走
+cart driver~n:掌鞭,车夫,马车夫
+cart screen~n:菔
+cart shafts~n:车辕
+cartage~n:运费
+cartdriver~n:车把式
+cartel~n:卡特尔,挑战书
+carter~n:卡特,车夫,车把式,车把势,掌鞭
+cartilage~n:软骨
+cartilago epiglottica~n:会厌软骨
+cartload~n:大量
+cartogram~n:统计图
+cartograph~n:地图
+cartographer~n:制图员
+cartography~n:制图学
+carton~n:纸板,纸匣
+cartoon~n:漫画,卡通,草图,连环画,动画
+cartoon film~n:卡通片
+cartoonist~n:漫画家
+cartouche~n:药筒
+cartridge~n:磁带盒,子弹,弹药,针头,软片,枪子儿,笔芯,胶卷,炮弹,暗盒,枪弹,胶片
+cartridge case~n:弹壳
+cartridge clip~n:弹夹,梭子
+cartridge tape~n:盒带
+cartwheel~n:车轮
+caruncle~n:肉瘤,息肉,肉冠
+carve~v:雕刻,刻,切开,雕,抠,锼,雕镌,镂刻,剜,雕琢,割裂,划分,契,锓,錾,创业,分割,勒,锲,琢,镂,切割,泐
+carve out~v:剜,创业,分割
+carve up~v:割裂,分割,划分
+carved figure~n:木偶
+carved lacquer ware~n:漆雕
+carved lacquerevare~n:雕漆
+carved lacquerware~n:漆雕,雕漆
+carved porcelain~n:瓷雕
+carver~n:雕刻师
+carving~n:雕刻,雕刻品,雕花,版刻
+carving copy~n:刻本
+caryon~n:细胞核
+caryopsis~n:颖果
+casaba~n:香瓜,甜瓜
+casablanca~n:卡萨布兰卡
+casbah~n:城堡,要塞
+cascabel~n:响尾蛇
+cascade~n:瀑布|v:串联
+cascophen~n:甲醛
+case~n:情况,案件,案,案子,箱子,病例,问题,案情,案例,事例,诉讼,患者,格,框架,怪人,外壳,实例,起,袋,箱,状况,判例,病症,套,盒子,块,真相,壳,框,例,盒,鞘,元,迷恋,容器,讼案,组,套子,罩|v:查看,窥探,包,围,观察
+case in court~n:讼案
+case in point~v:例证
+case law~n:判例
+case of injustice~n:冤案
+case of robbery~n:盗案
+case record~n:记录
+case study~n:专题
+casease~n:酵素
+casebook~n:记录
+case-dough~n:私房钱
+caseharden~v:淬火
+casein~n:酪素,干酪素
+casemate~n:掩蔽部,炮塔
+casement~n:窗户,窗扇,窗框
+casern~n:兵营
+cash~n:现金,现款,钱|v:兑付
+cash a check~v:兑现
+cash award~n:奖金
+cash commodity~n:现货
+cash crop~n:经济作物
+cash gift~n:礼金
+cash in~v:兑现
+cash indemnity~n:赔款
+cash pledge~n:押金
+cash strings~n:钱串子
+cashew~n:腰果
+cashier~v:解雇,抛弃|n:司库
+cashier's cheque~n:本票
+cashier's office~n:柜上,柜房
+cashmere~n:开司米,羊绒,织物,山羊绒
+casing~n:套管,围子,罩子,外胎,套,围墙,装箱|v:罩,包装
+casing pipe~n:套管
+casino~n:赌场,夜总会
+cask~n:桶
+casket~n:匣子,盒子,宝库,棺材
+caspian sea~n:里海
+casque~n:头盔,盔
+cassation~n:废除,撤销,毁弃
+cassava~n:木薯
+casserole~n:沙锅
+cassette~n:录音带,磁带盒,弹夹,暗盒,匣子
+cassette mechanism~n:机芯
+cassette tape~n:盒带
+cassia~n:桂,桂皮,桂皮树
+cassia-bark tree~n:肉桂
+cassimere~n:开司米
+cassiopeia~n:仙后座
+cassiterite~n:矿石
+cassock~n:法衣,教士,袈裟
+cassocks~n:法衣
+cassowary~n:鹤鸵,食火鸡
+cast~v:泄劲,废弃,换,排斥,抛射,唾弃,产,合计,甩掉,逐出,早产,左顾右盼,筹划,撂,抛掷,遗弃,占卜|n:模子,铅版,试,投,特征,种类,铸件
+cast a horoscope~v:占星
+cast a net~v:撒网
+cast a vote~v:投票
+cast about~v:左顾右盼
+cast about for~v:搜索,寻找
+cast account~n:计算
+cast aside~v:唾弃,摒,委,撇,屏,排除,扔,吐弃,扔掉,废弃,抛开,弃绝,撂,抛
+cast away~v:丢掉,摈弃,排斥
+cast back~v:回想,追溯
+cast beautiful reflections~v:相映成趣
+cast by~v:放弃,排除
+cast down~v:泄劲
+cast forth~v:排除
+cast in prison~n:幽囚
+cast ingot~n:铸锭
+cast into~v:铸成
+cast iron~n:铸铁,铣铁,生铁
+cast iron shot~n:铁砂
+cast light on~n:映照
+cast light upon~n:映射
+cast loose~n:解开
+cast lots~n:占卦
+cast net~v:撒网
+cast off~v:甩掉,脱,抛弃,遗弃
+cast out~v:逐出
+cast slur at~n:诋毁
+cast stone~n:铸石
+cast up~v:责备,计算
+castaway~n:光棍,流浪者
+caste~n:种姓,等级,阶级,品级
+castellan~n:寨主
+caster~n:铸工
+caster fiber~n:河狸
+castigate~v:痛责,惩戒,苛责,鞭挞,惩罚,修订,诟病
+castigation~n:鞭打
+casting~n:铸件,铸造|v:铸造,浇铸,熔铸
+casting form~n:铸模
+casting mold~n:铸型
+casting mould~n:铸型,铸模
+casting pig~n:铸铁
+casting sand~n:型砂
+cast-iron plant~n:蜘蛛抱蛋
+castle~n:城堡,建筑物,城,车
+castle in spain~n:海市蜃楼
+castoff~n:废弃物
+cast-on outwell~v:铸造
+castor~n:海狸
+castor bean~n:大麻子
+castor silkworm~n:蓖麻蚕
+castor-oil~n:蓖麻油
+castor-oil plant~n:大麻子,蓖麻
+castrate~v:去势,删改,阉割,割除,窜改,去雄,阉
+castrated bull~n:牯
+castrated ram~n:羯
+castration~n:去雄,窜改,阉割,宫刑|v:阉割
+castries~n:卡斯特里
+casual~a:随便,偶然,漫不经心,马虎,马马虎虎|n:零工,游民|v:漫
+casual clothes~n:便服
+casual laborer~n:短工,临时工,零工
+casual literary note~n:随笔
+casual literary notes~n:随笔
+casual meeting~n:巧遇
+casual remark~n:戏言
+casual talks~n:漫谈
+casual visitor~n:不速之客
+casually~d:偶然,胡乱,临时
+casualties~n:死伤,伤亡|v:伤亡
+casualty~n:事故,受害者,死伤,灾难,横祸,损坏
+casualty insurance~n:火险
+casuarina~n:木麻黄
+casuistry~n:诡辩术
+casus~n:案例
+cat~n:猫,人,可怜,猫睛石,遗憾,山猫,猫儿眼
+cat owl~n:猫头鹰
+catacausis~v:自燃
+cataclysm~n:洪水,天翻地覆,渗出|v:渗出
+catacomb~n:陵墓,酒窖
+catadrome~v:减退
+catagenesis~v:退化
+catalase~n:生化
+catalog~n:目录|v:编目
+catalogue~n:目录|v:编目
+catalpa~n:梓树,梓
+catalysator~n:催化剂
+catalysis~v:催化|n:催化
+catalysize~v:催化
+catalyst~n:催化剂,触媒,引线
+catalytic~n:催化剂|a:催化
+catalytic agent~n:触媒
+catalyzator~n:催化剂
+catalyze~v:催化,触发
+catalyzer~n:催化剂
+catamaran~n:筏,双体船
+catamenia~n:月经
+catamount~n:山猫,美洲狮,野猫
+catamountain~n:美洲狮,野猫,山猫
+cataphoresis~n:电泳
+cataplasia~n:退化
+cataplexy~n:昏倒
+catapult~v:弹,弹射|n:弹弓
+cataract~n:白内障,奔流,内障
+catastasi~n:高潮
+catastrophe~n:灾难,灾祸,大祸,突变,浩劫,祸殃,事故,虐,难
+catcall~n:集会,嘘声,倒好儿,倒彩
+catch~v:抓住,得,着,赶上,赶,捉,发现,捉住,看到,捕捉,抓,引起,接,逮住,传染,听到,获,患,理解,发觉,逮,烧,流行,了解,接球,吸引,捉拿,感染,接着|n:利益,门拉手,噎,陷阱,制动器,把握,捕捉,拉手,凸轮|a:警句
+catch a chill~v:吹风,受寒,着凉
+catch a cold~v:伤风,受寒
+catch a disease~v:染病
+catch alive~v:活捉
+catch an illness~v:染病
+catch at shadows~v:捕风捉影
+catch cold~n:受凉,感冒,受寒,伤风
+catch crop~n:间作
+catch everyone's eyes~v:引人注目
+catch fire~v:失火,走水,发火
+catch fish~v:渔,打鱼,捕鱼
+catch hold of~v:捉住
+catch it~v:挨骂
+catch on~v:理解
+catch on to~v:接受
+catch one unprepared~v:乘其不备
+catch out~v:发现,看出
+catch ray~v:晒太阳
+catch shadows~v:徒劳无功
+catch sight of~v:看出,看到,瞧见,见,发现,看见
+catch some z's~v:小睡
+catch somebody unawares~v:出其不意,攻其不备
+catch somebody's fancy~v:爱好
+catch someone napping~v:出其不意
+catch someone's eyes~v:引人注目
+catch the attention~v:引人注意
+catch the eye~v:醒目,醒眼,引人注目,打眼
+catch up~v:撵
+catch up forthwith~v:迎头赶上
+catch up with~v:追上,追
+catchall~n:手提包,垃圾箱
+catcher~n:接手,除尘器
+catching season~n:渔汛
+catchline~n:噱头
+catchment~n:流域,排水
+catchments area~n:流域
+catchpit~n:流域
+catchpole~n:法警
+catchpoll~n:法警
+catchup~n:果酱
+catchword~n:口号,标语,流行语
+cate~n:美食,美味,珍馐
+catechism~n:盘问,提问
+catechize~v:盘问
+catechumen~n:初学者
+categorical~a:斩钉截铁,无条件
+categorically~d:断然,概
+categories~n:派别
+categories of taxation~n:税目
+categorise~v:分类
+categorize~v:分类
+category~n:范畴,种类,类型,类别,类,部属,门类,属,部类,部门,门,品类
+category of ship~n:舰种
+catelectrode~n:负极
+catena~n:连锁,耦合,连续,链条|v:连锁
+catenarian~n:链
+catenary~n:链
+catenate~v:连锁
+catenation~n:连锁
+catene~n:链条
+cater~v:迎合,面向,投合,投
+cater for~v:阿
+cater to~v:投,面向,投合
+cateran~n:绿林好汉,草莽英雄
+catercorner~n:对角线
+cater-cousin~n:好友,密友
+caterpillar~n:毛虫,毛毛虫,履带
+caterpillar band~n:履带
+caterpillar track~n:链轨,履带
+caterpillar tread~n:履带
+catervatum~v:堆积
+caterwaul~v:尖叫,追求
+catfish~n:鲇鱼,鲇
+catgut~n:羊肠线,肠腺
+cathartic~n:泻药,打药
+cathartica~n:泻药
+cathartics~n:泻药
+cathay~n:中国
+cathedra~n:讲座,讲坛
+cathedral~n:教堂,天主堂
+catheter~n:导管
+catheterization~n:导尿
+cathode~n:阴极,负极,负电极
+cathode beam~n:电子束
+cathode-ray beam~n:电子束
+cathode-ray pencil~n:电子束
+catholic~n:天主教徒|a:一般
+catholic mass~n:弥撒
+catholicism~n:天主教
+catholicity~n:宽宏大量,普遍性
+cathouse~n:秦楼楚馆,妓院
+cathouses~n:秦楼楚馆
+catilinarian~n:阴谋家
+catination~v:连接,接合
+cation~n:阳离子,正离子
+catkin~n:柳絮
+catnap~v:假寐|n:打瞌睡
+catnip~n:荆芥
+cato~n:政治家
+cat-o'-nine'-tails~n:香蒲
+catoon~n:美术片
+catopter~n:反射面
+cat's eye~n:猫儿眼,猫眼
+cat's paw~n:微风
+catsup~n:番茄酱
+cat's-whisker~n:触须
+cattail~n:蒲,香蒲
+cattell~n:卡特尔
+cattish~a:狡猾
+cattle~n:牛,牲口,家畜,黄牛
+cattle grid~n:牛栏
+cattle manure~n:牛粪
+cattle ranch~n:牧场
+cattle shed~n:牛棚
+cattlehide~n:牛皮
+caucasian~n:白人
+caucasus~n:高加索
+caudillo~n:领导人
+cauf~n:吊桶
+caul~n:胎膜,发网
+cauldron~n:鼎
+cauliflower~n:菜花,花菜,花椰菜
+cauli-flower~n:花椰菜
+caulis~n:茎
+caulk~v:堵
+causal~a:原因
+causality~n:因果性
+causation~n:引导,引起,导致
+cause~n:问题,动机,事件|v:致使,惹,招致|p:因,由|c:故
+cause an accident~v:肇祸
+cause complications~n:节外生枝
+cause damage to~n:损害
+cause degeneration~n:蜕化变质
+cause disadvantage to~n:误
+cause disorder~n:汨
+cause excitement~n:振奋人心
+cause extreme worry~v:牵肠挂肚
+cause for suspicion~n:疑窦
+cause havoc with~n:扰乱
+cause loss to~n:损伤
+cause mental fatigue~n:费神
+cause of action~n:案由
+cause of death~n:死因
+cause of disease~n:病因,病根
+cause somebody suffering~v:苦
+cause somebody trouble~n:找麻烦
+cause to become~v:搞
+cause to happen~v:诱发
+cause to prosper~v:振兴
+cause to surge~v:掀起
+cause to trip~n:绊
+cause to weep~v:泣
+cause trouble~n:滋事,作祟
+cause trouble to~n:贻害,害
+causer~n:根由
+causerie~n:随笔,漫谈
+causeway~n:公路,人行道
+causey~n:公路,土坝,人行道
+causing~v:产生
+causing death~n:致死,致命
+causing internal injury~n:点穴
+caustic~n:苛性钠,苛性碱|a:腐蚀剂,尖刻
+caustic line~n:火线
+caustic potash~n:氢氧化钾
+caustic soda~n:烧碱,苛性钠,苛性碱,氢氧化钠,火碱
+caustic soda (~n:火碱
+causticity~n:腐蚀性
+cauterant~n:烙铁
+cauterization~n:烧灼,麻木|v:烧灼
+cauterize~v:烧灼,腐蚀,灸,烙
+cautery~n:烧灼,腐蚀,烙
+caution~n:小心,谨慎|v:告诫,警告
+caution area~n:危险区
+cautious~a:谨慎,小心,持重,仔细|v:慎|d:谨
+cautious about speech~a:嘴严
+cautiously~d:小心翼翼
+cautiousness~n:谨慎
+cavalcade~n:车队,船队
+cavalier~v:护送|n:骑士
+cavalla~n:马鲛鱼
+cavalry~n:骑兵,马队,骑,马,铁骑,铁马
+cavalryman~n:骑兵,骑
+cave~n:洞穴,山洞,洞|v:翻转
+cave dwelling~v:窑,窑洞,硐
+cave in~v:下陷,凹,陷,塌陷,下沉,陷落,倒塌,坍方,屈服,塌,坍塌
+caveat~n:告诫,警告
+cave-in~n:塌方,堕落,失败,下陷,陷落,投降
+cavel~n:羊角
+cave-man stuff~n:强奸
+cavendish~n:板烟
+cavern~n:山洞,洞穴,硐,洞窟,龙洞
+caviar~n:鱼子酱,美味
+caviare~n:鱼子酱,美味
+cavil~v:吹毛求疵|n:吹毛求疵
+cavil at~v:吹毛求疵
+caving~v:窟窿|n:窟窿
+cavings~n:谷壳,谷糠
+cavity~n:腔,洞,空洞,空穴,中空,窟窿,窝,穴,孔穴
+cavort~v:跳跃,腾跃,欢跃
+cavum abdominis~n:腹腔
+cavum tympani~n:鼓室
+cavy~n:豚鼠,天竺鼠
+caw~d:哑哑|n:呱呱|v:啼
+cawk~n:重晶石
+cay~n:沙洲,珊瑚礁
+cayenne~n:辣椒,辣椒粉
+cayenne pepper~n:辣子,辣椒
+cayuse~n:马
+cazique~n:黄鹂
+cd~n:光盘
+cease~v:停止,已,停,结束,终止,停息,休止,停歇,住,罢,休|n:终止,停止|d:已|f:为止
+cease all activities~v:偃师
+cease fire~n:偃旗息鼓,停战
+cease from~v:停止
+cease to be~v:死亡
+cease trade~v:罢市
+cease war~v:罢兵
+ceasefire~n:停火
+cease-fire~n:停火
+ceaseless~a:不断,不停
+ceaselessly~d:不住,不休,不断
+ceaselessly to intrigue~p:处心积虑
+ceasing~v:终止,间断,停止
+cecidien~n:五倍子
+cecum~n:盲肠
+cedar~n:雪松,杉树,柏,柏树
+cedar wood~n:杉木
+cedarwood~n:柏木
+cede~v:割让,放弃
+cedrala~n:臭椿
+cedula~n:执照,证件,证明书
+ceiba~n:木棉
+ceiling~n:天花板,顶棚,天棚,生气,升限,隔板,顶板
+ceiling lamp~n:吊灯
+celadon~n:青瓷
+celatom~n:硅藻土
+celeb~n:要人,名人
+celebrate~v:庆祝,举行,歌颂,庆贺,欢庆,赞美,过,庆,喜庆,做,发表,表扬,公布,祝贺
+celebrate a festival~v:过节
+celebrate festivities~v:过节
+celebrate in song~v:讴歌
+celebrate joyously~v:欢庆
+celebrated~a:著名,有名|v:鼎鼎大名,大名鼎鼎,著称
+celebrated dictum~n:至理名言,名言
+celebration~n:庆祝,庆典,仪式,称赞,典礼,赞美
+celebrities~n:名流
+celebrity~n:名人,闻人,名流,名声,著名,扬名,风云人物
+celerity~n:敏捷,迅速,神速
+celery~n:芹菜,芹,旱芹
+celeste~n:天蓝色
+celestial~n:天神,神仙
+celestial axis~n:天轴
+celestial beauty~n:国色天姿
+celestial being~n:仙人,仙子,仙,神仙
+celestial bodies~n:辰
+celestial body~n:光,星球,星体
+celestial burial~n:天葬
+celestial globe~n:浑天仪,浑象
+celestial phenomena~n:天象
+celestial sphere~n:天球,天体,天球仪
+celestine~n:天青石
+celestite~n:天青石
+celibacy~n:独身,禁欲,贞洁
+celioscope~n:腹腔镜
+cell~n:细胞,牢房,电池,单元,管,容器,单体,元件,槽,蜂房,气囊,小组,格子,花粉囊,舱,隔板,手机,蜂窝,盒
+cell nucleus~n:窝
+cella~n:细胞
+cellar~n:地窖,地下室,酒窖,地窟,地窨子,菜窖,窖
+cellarage~n:地窖
+cello~n:大提琴
+cellophane~n:玻璃纸,赛璐玢
+cellular~a:细胞
+cellular phone~n:大哥大,手机
+cellule~n:细胞
+celluloid~n:赛璐珞,电影,假象牙
+cellulose~n:纤维素
+celom~n:体腔
+celoscope~n:腹腔镜
+celsius scale~n:摄氏温度计
+celsius temperature scale~n:摄氏温标
+celsius thermometer~n:摄氏温度计
+cement~v:凝结,胶合,加强,胶结,巩固,强化,接合,粘结,结|n:洋灰,士敏土,胶泥,水门汀
+cement head~n:傻瓜
+cement paste~n:水泥浆
+cementation~n:胶结,胶合,硬化,接合,烧结,粘结
+cemented~v:胶结
+cemented carbide~n:硬质合金
+cementum~n:水泥
+cemetery~n:墓地,公墓,坟茔,陵园,坟地,墓茔
+cenacle~n:小组,结社
+cenobite~n:修道士
+cenotaph~n:衣冠冢,纪念碑
+cenote~n:竖井
+cenozoic~n:新生界
+cense~v:焚香
+censer~n:香炉
+censor~n:审查,检查员|v:审查,检查,删改
+censorship~n:检查,审查,关卡
+censure~v:责难,批评|n:指责
+census~n:调查,统计|v:统计
+census register~n:户籍
+cent~n:零钱,分,百,分币
+centare~n:平方米
+centaury~n:矢车菊
+centavo~n:分
+center~n:中心,中间,中央,心,圆心,中枢,中,核心,中锋,根源,震源,焦点,顶针,大本营,起源,基点,正中|v:居中
+center door~n:正门
+center forward~v:水球
+center of gravity~n:重心
+center of the street~n:街心
+center on~n:围绕
+center upon~n:属
+centesimal~a:百分
+centigrade~n:摄氏
+centigrade temperature scale~n:摄氏温标
+centigrade thermometer~n:摄氏温度计
+centimeter~n:厘米,公分
+centimeter wave~n:厘米波
+centimetre~n:厘
+centimetreter~n:公分,厘米
+centimetric waves~n:厘米波
+centimillimetre~n:忽米
+centipede~n:蜈蚣
+cento~n:大杂烩,组曲
+central~a:中心|n:接线员
+central administration~n:枢要
+central administrative unit~n:枢要
+central america~n:中美洲
+central angle~n:圆心角,中心角
+central authorities~n:中央
+central china~n:华中
+central current~n:大溜
+central department~n:本部
+central force~n:向心力
+central issue~n:焦点
+central nervous system~n:中枢神经
+central pivot~n:中枢
+central plains~n:中原
+central provident fund~n:公积金
+central region~n:腹地
+central room~n:堂屋
+central seam~n:中缝
+central section~n:中部
+central section of~n:中部
+central system~n:集中制
+central valley~n:裂谷
+centralism~n:集中制
+centrality~n:中心
+centralization~n:集中,中央集权
+centralize~v:集中,一元化
+centralized~a:统一,一元化|v:一元化,统一
+centre~n:心,中间,站,中|v:居中
+centre forward~v:中锋
+centre halfback~v:中卫
+centre joint~v:中缝
+centre line~v:中线
+centre of operation~n:主脑
+centre of sphere~n:球心
+centricity~n:中心
+centrifugal~a:离心|n:离心机
+centrifugal impeller~n:叶轮
+centrifugal machine~n:离心机
+centrifugal pull~n:离心力
+centrifugal pump~n:离心泵
+centrifugation~n:离心
+centrifuge~n:离心机
+centrifuger~n:离心机
+centrist~n:稳健派,温和派,中间派
+centron~n:原子核
+centrosphere~n:地核
+centrum~n:中心,中枢
+centuple~n:百倍
+centuplicate~n:百倍
+centuries~n:千秋
+century~n:世纪,百年,百
+cepa~n:洋葱
+cephalalgia~n:头痛
+cephalanthium~n:头状花序
+cephalomeningitis~n:脑膜炎
+cephalophorum~n:花托
+cephalosome~n:头部
+cephalothorax~n:头胸部
+ceramal~n:金属陶瓷
+ceramet~n:金属陶瓷
+ceramic~n:陶器|a:陶瓷
+ceramic aggregate~n:陶粒
+ceramic glaze~n:瓷釉
+ceramics~n:陶瓷
+ceramsite~n:陶粒
+ceratine~n:角质
+ceraunite~n:陨石
+cercaria~n:尾蚴
+cercis~n:紫荆
+cereal~n:谷类,谷物
+cereal crops~n:粮食作物,谷类作物
+cereals~n:稼,粮食作物,粮食
+cereals food~n:粮食
+cerebel~n:小脑
+cerebellum~n:小脑
+cerebral apoplexy~n:脑溢血
+cerebral concussion~n:脑震荡
+cerebral ganglion~n:丘脑
+cerebral hemorrhage~n:脑出血,脑溢血
+cerebrate~v:思索,思考
+cerebration~n:思考
+cerebritis~n:脑炎,大脑炎
+cerebroma~n:脑瘤
+cerebrospinal fluid~n:脑脊液
+cerebrum~n:脑,大脑
+cerement~n:寿衣
+cerements~n:寿衣
+ceremonial~a:礼仪
+ceremonial attire~n:盛服
+ceremonial dress~n:大礼服
+ceremonial jade~n:瑁
+ceremonial occasion~n:大典
+ceremonial offering~n:贽
+ceremonialism~n:形式主义
+ceremonious~a:隆重
+ceremony~n:仪式,典礼,礼节,礼仪,礼,式,典,仪节,虚礼,仪
+ceresin wax~n:石蜡
+cereus~n:仙人掌
+cerise~n:粉红色|a:水红
+cerium~n:铈
+cermet~n:金属陶瓷
+cero~n:马鲛鱼
+certain~a:某些,一定,肯定,某种,一些,某,确定,有把握,必然|r:某些,某个|n:准儿
+certain chemicals~n:药
+certain natural phenomena~n:文
+certain year~n:年间
+certainly~d:当然,肯定,一定,无疑,的确,准,保管,决计,必,定然,固,管保,决|v:管保
+certainly need~v:必要
+certainly not~d:决不
+certainly will succeed~v:稳操左券
+certainty~n:肯定,把握,必然,确实,确定性,必然性,准谱,确信,准谱儿
+certes~d:必然,的确,诚然
+certificate~n:证书,证明,证件,证明书,文凭,凭证,证券,证,证明信,执照,据,凭照,照,单据,明证,状|v:鉴定,照
+certificate of approval~n:合格证
+certificate of deposit~n:存单
+certificate of guarantee~n:保票
+certificate of indebtedness~n:借据
+certificate of merit~n:奖状
+certification~n:证明书,鉴定,证明
+certified goods~n:正品
+certified product~n:正品
+certified products~n:正品
+certify~v:证明,批准,宣布,宣称
+certitude~n:确定,必然性,确实,确信
+cerulean~n:天蓝色
+cerumen~n:耳垢
+ceruse~n:铅粉
+cervical muscle~n:颈肌
+cervicitis~n:子宫颈炎
+cervix~n:颈,颈部
+cervix uteri~n:宫颈
+cesium~n:铯
+cessation~n:停止,休止,取消
+cessation of hostilities~n:停战,休战
+cesser~n:中止,结束
+cession~n:割让,转让
+cesspit~n:粪坑
+cesspool~n:粪坑,粪池,潴
+cestode~n:绦虫
+cestus~n:带
+cetacean~n:鲸
+ceylon~n:锡兰
+ceyssatite~n:硅藻土
+cf.~v:参见,参看
+cha~n:查
+chad~n:乍得
+chaeta~n:刚毛,毫毛
+chafe~v:擦伤,焦躁,摩擦,恼怒,发怒,着急,冲洗|n:发火,擦伤,急躁
+chafer~n:火炉,金龟子
+chaff~n:戏弄|v:打趣
+chaff oil~n:糠油
+chaffer~v:交换,聊天,交谈,讨价还价,闲谈|n:讲价
+chaffinch~n:花鸡
+chaffy dish~n:火锅
+chagrin~n:悔恨,懊恼,委屈
+chahar~n:察哈尔
+chain~n:链,链条,链子,锁链,一连串,表链,一系列,连续,项圈,脉|v:把,绵联,连锁
+chain bridge~n:铁索桥
+chain debt~n:三角债
+chain gear~n:链轮
+chain hoist~n:吊链
+chain hydrocarbon~n:链烃
+chain lock~n:链锁
+chain of rings~n:连环
+chain reaction~n:连锁反应,链式反应
+chain wheel~n:飞轮
+chaine~n:经纱
+chaining~v:丈量
+chain-reaction~n:连锁反应,链式反应
+chains~n:枷锁,锁链
+chainsmoker~n:烟鬼
+chain-store~a:连锁商店
+chair~n:椅子,椅,主席|v:主持
+chair cover~n:椅套
+chair-back~n:椅背
+chairman~n:主席,主任委员,主任,议长,委员长,会长
+chairmen~n:主席
+chairone~n:主任
+chairperson~n:主席
+chalcanthite~n:硫酸铜,蓝矾
+chalchiguite~n:硬玉
+chalcid~n:寄生蜂
+chalcocite~n:辉铜矿
+chalcopyrite~n:黄铜矿
+chalet~n:小屋
+chalice~n:酒杯
+chalk~v:记账,记分|n:粉笔,白垩
+chalk line~v:划线
+chalk up~v:记分,记账
+chalkboard~n:黑板
+chalkiness~n:白垩
+chalkstone~n:石灰岩
+challenge~n:挑战|v:引起,怀疑,需要
+challenge the marshal~v:太岁头上动土
+challenge to battle~n:挑战
+challenging signal~n:询问
+chamaerops excelsa~n:棕榈
+chamber~n:室,房间,卧室,腔,寝室,心室,穴,会所,套房,箱,矿车,会议室|a:室内|v:装
+chamber counsel~n:鉴定
+chamber of deputies~n:众议院
+chamber pot~n:尿盆
+chambering~v:上膛
+chamberlain~n:侍从,管家,收款员
+chambermaid~n:侍女,女仆,使女
+chameleon~n:变色龙,石龙子
+chamfer~n:斜面,棱角,斜切,槽|v:斜切
+chamfered~n:斜边|v:斜边
+chammy~n:麂皮
+chamois~n:麂皮
+chamois leather~n:麂皮
+champ~v:不耐烦,咬牙切齿,焦急,嚼|n:嚼
+champagne~n:香槟酒,香槟,平野
+champaign~n:平原,原野
+champignon~n:香蕈
+champion~v:拥护,主持,主张|n:优胜者
+champion the people~v:除暴安良
+championship~n:冠军,锦标赛,提倡,拥护,优胜,冠军赛,锦标,支持
+championships~n:锦标赛
+chan master~n:禅师
+chance~n:机会,希望,偶然,可能性,时机,冒险,许多,运气,碰巧,命运,危险,良机,时间,机,侥幸,机缘,机率,形势,偶然性,时,赌博,概率,幸运|v:不期而遇,抓住,发生,遇|a:偶发,侥幸,偶然
+chance comer~n:不速之客
+chance encounter~n:巧遇
+chance on~v:不期而遇
+chance the consequence~v:听其自然
+chance to~n:正好,正巧,偶然
+chance upon~n:碰见
+chancel~n:圣坛
+chancellery~n:官邸
+chancellor~n:大臣,宰相,总理,校长
+chanciness~n:危险性
+chancre~n:下疳
+chancy~a:危险
+chandar~n:棉布
+chandler~n:零售商
+chang~n:常
+changan~n:长安
+chang-an~n:长安
+changan street~n:长安街
+changchun~n:长春
+change~v:改变|n:反向,交换,交替,零头,转调,更迭,无常
+change about~v:见异思迁
+change appearance~n:改头换面
+change attitudes constantly~n:翻云覆雨
+change camp overnight~v:摇身一变
+change color~n:变色
+change colour~n:变色
+change direction~n:调头,折,转向,掉头
+change dresses~v:更衣
+change dynasties~n:改朝换代
+change fee~n:手续费
+change for~v:转车,转向
+change gear~n:换档
+change hands~n:倒换
+change in temperature~n:炎凉
+change into~v:变,让位,转为
+change irregularly~v:变幻
+change its course~v:改道
+change mind~n:转念
+change money~n:换钱
+change of air~n:换气
+change of crops~n:换茬
+change of dynasty~n:鼎革
+change of loyalty~n:变节
+change of positions~n:换位
+change of seasons~n:物换星移,寒来暑往
+change of weather~n:变天
+change one's clothes~v:更衣
+change one's countenance~v:变色
+change one's course~v:改弦更张,改弦易辙
+change one's direction~v:改弦易辙
+change one's major~v:转科
+change one's mind~v:变卦
+change ones profession~v:改行
+change one's profession~v:改行
+change one's residence~v:迁徙
+change one's route~v:改道
+change one's tune~v:变卦
+change over~v:改变,转入
+change over to~v:转入
+change products~n:转产
+change profession~v:改行
+change progressively~v:递变
+change qualitatively~v:蜕变
+change rapidly~v:日新月异
+change residence~n:迁居
+change room~n:更衣室
+change shift~n:倒班
+change shifts~n:倒班,换班|v:换班
+change speed~n:变速
+change suddenly~v:骤变,突变
+change the date~v:改期
+change the laws~v:改弦更张
+change to~v:变成
+change train~n:倒车
+change trains~n:中转
+change unpredictably~v:变幻莫测
+change weather~n:变天
+change with~v:变化
+changeability~n:易变,可变性
+changeable~a:多变,变化无常,反复无常,反复,无常,可变,变幻莫测,幻,变
+changeableness~n:易变
+changeful~a:变幻无常,多变
+changeless~v:一成不变|a:一成不变
+changeling~n:低能儿
+changeover~n:变更,改变,转变,转换
+changeover lever~n:操纵杆
+change-over switch~n:转换开关
+changes~v:变迁
+changes in temperature~n:冷暖
+changing bag~n:暗袋
+changjiang~n:昌江
+changle~n:昌乐
+changsha~n:长沙
+changshu~n:常熟
+changzhi~n:长治
+changzhou~n:常州
+channel~n:信道,通道,渠道,航道,海峡,水道,频道,系统,途径,沟,道,沟渠,河槽,河床,管道,电路|v:开,开辟
+channel beam~n:槽钢
+channel segment~n:河段
+channel steel~n:槽钢
+channel wave guide~n:波导管
+channels~v:经
+chant~v:唱,吟唱|n:赞美诗
+chant bombastic words~v:唱高调
+chant loudly~v:唪
+chantage~n:讹诈
+chantey~n:船歌
+chanticleer~n:雄鸡
+chanty~n:船歌
+chao~n:曹
+chaos~n:混乱,乱,混沌,浑沌,一团糟|a:紊乱,乱,混乱
+chaotic~a:紊乱,扰扰,浊,纷乱,洪荒,乱纷纷,乱糟糟,乱蓬蓬
+chap~n:家伙,小伙子,小子|v:皲裂,裂开,龟裂,开口子,小伙子
+chapada~n:台地
+chaparral~n:树丛
+chapel~n:教堂,礼拜
+chaperon~v:护送,伴随,陪伴
+chaperonage~n:伴随
+chaperone~v:伴随,陪伴,护送|n:女伴
+chapiter~n:柱头
+chaplain~n:牧师
+chaplet~n:花冠,项圈
+chapman~n:行商
+chappie~n:花花公子,小伙子,家伙
+chappy~n:小伙子,花花公子,家伙
+chapter~n:章,部分,数字,分会,符号,回
+chapter heading~n:篇目
+char~n:炭,沙洲,木炭|v:打杂,炭化
+character~n:字符,性格,人,人物,字,字母,人格,数字,品格,符号,特征,性质,性状,特性,角色,人品,品质,文字,名声,地位,品,脚,性,资格,奇人,字儿,记号,人头,声望,质地,角,怪人,脾性,质,骨头,鉴定,身分,秉性,性行|v:画,刻
+character code~n:字码
+character font~n:字体
+character frequency~n:字频
+character of person~n:品格
+character style~n:字体
+characteristic~n:特性,特征,特点,性能|a:特有
+characteristic property~n:特性
+characteristics~n:特性
+characteristics of spread~n:延展性
+characterization~n:表征,鉴定
+characterize~v:刻画,描绘,形容,鉴定
+characters~n:文字
+charactery~n:文字
+charactron~n:显像管
+charbon~n:炭疽
+charcoal~n:木炭,炭,炭画,炭笔,木炭画
+charcoal brazier~n:炭盆
+charcoal crayon~n:炭笔
+charcoal forest~n:薪炭林
+charcoal gray~n:深灰色
+charcoal pencil~n:炭笔
+chard~n:牛皮菜
+chare~v:打杂,修理|n:家务,打杂
+charge~n:电荷|v:猛攻,冲杀,促,赊购,职掌,充
+charge card~n:信用卡
+charge d'affaires~v:临时代办
+charge duty~n:课税
+charge forward~v:冲锋陷阵,打冲锋
+charge into~n:突入
+charge mixture~n:配料
+charge of electricity~n:电荷
+charge of registration~n:注册
+charge off~v:注销
+charge sales~n:赊销
+charged~v:带电
+chargehand~n:队长
+chargeman~n:队长
+charger~n:充电器,战马
+charges~n:费用
+charges for medicine~n:药费
+charging~v:充电,加料,增长|n:进料,炉料
+charging material~n:炉料
+charging spout~n:料斗
+charging stock~n:炉料
+chariness~n:吝啬,谨慎,节俭,小心
+chariot~n:战车
+charisma~n:魅力
+charitable~a:慈善,慈悲
+charitable person~n:善人
+charitarian~n:慈善家
+charity~n:慈善,施舍,仁爱,博爱,仁慈,恩赐,慈爱,捐助,抚恤金,善事,宽容,宽大
+charity bazaar~n:义卖
+charity performance~n:义演
+charity show~n:义演
+charlatan~n:骗子,江湖骗子,庸医
+charlatanry~a:欺骗
+charm~n:魅力,魔力|v:迷,诱惑
+charm by flattery~n:狐媚
+charm of stroke~n:笔意
+charmer~n:魔术师
+charming~a:迷人,妩媚,娇
+charming in manner~n:风姿绰约
+charmingly delicate~a:绰约多姿
+charred~v:焦|a:焦
+charred coal~n:焦煤
+charring~v:炭化
+charry~a:焦化
+chart~n:图,图表,地图,表,海图,航海图,表格,地形图,曲线图|v:制图
+chart board~n:图板
+chart desk~n:图板
+charter~n:宪章|v:雇
+charter hire~n:租金
+charter money~n:租金
+chartered airplane~n:包机
+chartered bus~n:包车
+chartered right~a:特许权
+chary~a:吝啬
+chase~v:追逐,追赶,追,追求,追捕|n:沟,槽
+chase after~v:追逐,追,追赶
+chase away~v:赶走
+chase each other~v:你追我赶
+chase gun~n:舰炮
+chaser~n:猎人,战斗机,板牙,歼击机
+chasing~v:抛光
+chasm~n:断层,鸿沟,深渊,分歧,堑,峡谷,陷坑,裂口,空隙,隔阂
+chassis~n:底盘,机架,框,体态,拖车,机箱,身段
+chassis base~n:底板
+chaste~a:贞洁,纯洁,贞
+chaste tree~n:蓁
+chasten~v:惩戒,磨炼,惩罚,推敲,精练,遏制,责罚
+chasteness~n:贞节
+chastify~n:童贞
+chastise~v:惩罚,严惩,谴责,打败,惩戒,净化,惩办
+chastisement~n:惩罚|v:惩办
+chastity~n:贞操,纯洁,贞节,朴素,童贞,操守,贞,节,简洁
+chat~v:聊天,闲聊,闲谈,聊|n:闲话,鸣禽
+chat about~v:闲话
+chat aimlessly~v:瞎扯
+chateau~n:城堡,公馆
+chatoyant~n:闪光
+chats~n:碎石
+chattel~n:动产,物,奴隶
+chattels personality~n:动产
+chatter~v:唠叨,震动|n:碎嘴子|d:喳喳
+chatter away~v:嘁嘁喳喳,嚼舌,叨唠,叨叨
+chatter incessantly~v:叨念
+chatter without stop~n:喋喋不休,刺刺不休
+chatterbox~n:话匣子
+chatterer~n:画眉
+chatty~a:闲
+chatwood~n:灌木
+chauffer~n:手炉
+chauffeur~v:开|n:司机
+chaunt~n:赞美诗,歌
+chaussure~n:履,拖鞋
+chauvinism~n:沙文主义
+chaw~v:咀嚼,嚼
+chaw-round~v:谈话,会话
+chayote~n:佛手瓜
+che~n:车
+cheap~a:便宜,廉价,低廉,蹩脚,粗劣,贱
+cheap but excellent~a:价廉物美
+cheap skate~n:小气鬼,吝啬鬼
+cheap trick~n:把戏
+cheapen~v:跌价,贬损,减价,便宜
+cheapie~n:便宜货
+cheap-jack~a:小贩
+cheaply~d:便宜,廉价
+cheapness~n:便宜,廉价
+cheapskate~n:小气鬼,守财奴
+cheat~v:作弊,欺骗,骗,欺诈,行骗|n:骗子
+cheat others~v:骗人
+cheat the world~v:欺世惑众
+cheater~n:骗子,眼镜
+chech~n:捷克
+chechako~n:生手
+check~v:检查|n:同意,屋檐,校,校对,斥责,将军,阻止,妨碍,格,答应
+check accounts~v:查账
+check achievement~v:考绩
+check against~v:对照
+check before acceptance~n:验收
+check book~n:支票簿
+check computation~v:核算
+check goods~v:验货
+check in~v:登记,签到
+check irrigation~v:畦灌
+check mark~v:对号
+check numbers~v:对号
+check off~v:查讫
+check on~v:把关
+check on strictly~v:把关
+check out~v:离开
+check over~v:检视,检查
+check point~n:控制点,关
+check price~v:限价
+check room~n:衣帽间
+check stub~v:存根
+check the number~v:点数,对号|n:对号
+check through~v:核对
+check tickets~v:查票
+check up~v:清理,核对
+check up on~v:查清,检查,核对
+check upon delivery~n:验收
+checkbook~n:支票簿
+check-book~n:支票簿,存折
+checked~v:查讫
+checked syllable~n:闭音节
+checker board~n:棋谱
+checkerboard~n:棋盘
+checking~v:阻截,检验,验证,核对,校验
+checking calculation~n:验算
+checking-room~n:衣帽间
+checkless~a:畅行
+checklist~n:清单,名单,目录,调查表
+checkmate~v:打败,将军,失败,挫折,击破
+checkout~v:测试,检验,检测|n:检验,结账
+checkpoint~n:检查站
+check-point~n:关卡
+checkpost~n:卡子,卡
+checkrein~n:控制
+checkroom~n:衣帽间
+checkup~n:检查,核对,查对,对照,检验
+check-up~n:检查
+check-valve mounting bracket~n:止回阀
+cheek~n:颊,面颊,脸,脸蛋,脸皮,厚脸皮,腮帮子,厚颜无耻,腮颊,边框,腮,面皮
+cheek pouch~n:肷
+cheek tooth~n:臼齿
+cheekbone~n:颧骨,颊骨,颧
+cheekiness~n:厚脸皮
+cheeks~n:脸蛋儿
+cheeky~a:不要脸,厚脸皮|v:涎皮赖脸
+cheep~v:吱声
+cheeper~n:幼儿
+cheer~v:欢呼,高兴|n:心情,振奋,欢声,款待,菜肴
+cheer section~n:啦啦队
+cheer up~v:打气,鼓舞
+cheerful~a:愉快,高兴,快乐,快活,快快乐乐,融融,愉悦,宽畅,乐,怡,愉,乐陶陶
+cheerful amiable manners~n:和颜悦色
+cheerful looking~n:春色
+cheerful talk~n:笑语
+cheerfulness~n:愉快,高兴,快活,爽快
+cheering~v:鼓励,安慰,喝彩,欢呼
+cheering squard~n:啦啦队,拉拉队
+cheering words~n:欢歌笑语
+cheerio~i:再会,回见,干杯
+cheerless~a:怏怏不乐,冷淡
+cheerly~d:欣然
+cheers~n:谢谢,欢呼声|v:干杯
+cheery~a:喜气洋洋
+cheese~n:乳酪,干酪,奶酪,上品,珍品
+cheese cutter~n:自行车
+cheeseparing~n:吝啬
+cheetah~n:猎豹
+chef~n:厨师,炊事员,大师傅,主厨
+chef in chief~n:主厨
+chela~n:门徒,徒弟
+chelonian~n:海龟|a:海龟
+chemform~n:链霉素
+chemical~a:化学|n:药品
+chemical bond~n:化学键
+chemical change~n:化学变化
+chemical combination~n:化合
+chemical energy~n:化学能
+chemical equivalent~n:化学当量
+chemical examination~n:化验
+chemical fertilizer~n:化学肥料
+chemical fiber~n:化学纤维
+chemical formula~n:化学式
+chemical industry~n:化学工业
+chemical injury~n:药害
+chemical plating~n:化学镀
+chemical proof soldier~n:防化兵
+chemical proof warfare corps~n:防化学兵
+chemical reaction~n:化学反应
+chemical warfare~n:化学战
+chemical weapons~n:化学武器
+chemicals~n:化学药品
+chemicophysics~n:物理化学
+chemist~n:化学家,药剂师,司药
+chemistry~n:化学,化
+chemist's shop~n:药房,药店
+chemosphere~n:臭氧层
+chemotherapy~n:化疗|v:化疗
+chen~n:陈
+chen county~n:郴县
+chen zhou~n:郴州
+cheng~n:程
+chengde~n:承德
+chengdu~n:成都
+cheongsam~n:旗袍
+cheong-sam~n:旗袍
+cheque~n:支票
+cheque-book~n:支票簿
+chequer~n:格子
+cherish~v:怀着,抱,珍视,存,珍爱,钟爱,爱,怀,珍惜,爱护,爱惜,心怀,怀抱,赍,含,抚育,惜
+cherish an undying~n:深恶痛绝
+cherish bitter hatred~v:恨之入骨
+cherish certain intentions~v:安心,存心
+cherish dark designs~v:居心叵测
+cherish hatred~v:抱恨
+cherish high aspirations~v:壮志凌云
+cherish the past~v:怀古
+cherished heritage~n:传家宝
+cherished tradition~n:传家宝
+chernozem~n:黑钙土,黑土
+cherry~n:樱桃,处女膜,樱,童贞
+cherry bay~n:月桂
+cherry-apple tree~n:海棠
+cherry-pick~v:挑选
+chert~n:燧石
+chess~n:国际象棋,棋,象棋
+chess board~n:棋谱
+chess circle~n:棋坛
+chess game~n:棋局,棋类
+chess manual~n:棋谱
+chess pieces~n:棋子
+chessboard~n:棋盘,枰,局
+chessman~n:棋子
+chessmate~n:棋友
+chest~n:胸部,胸,胸膛,胸脯,胸腔,箱子,胸口,肺,箱,匣,函,脯,躺柜,笼子,臆,膛,资金,柜子,金库,卧柜,柜,匈
+chest developer~n:扩胸器
+chest muscle~n:胸肌
+chest of drawers~n:五斗橱
+chest plate~n:护胸
+chesterfield~n:睡椅
+chestnut~n:栗子,板栗,褐色,栗色,滥调
+chestnut colour~n:栗色
+chestnut soil~n:栗钙土
+chestnut tree~n:栗
+chest-protector~n:护胸
+cheval-glass~n:穿衣镜
+chevalier~n:骑士,爵士,勇士,武士,义士
+chevron~n:袖章
+chevrotain~n:鼷鼠
+chevy~v:追赶|n:追赶
+chew~v:嚼,咀嚼,思考,想,吃,谈话,沉思,咬嚼,讲|n:咀嚼
+chew over~v:思考,想
+chew something over~v:寻味
+chew the cud~v:深思熟虑,反刍,咀嚼,倒噍
+chew upon~v:深思
+chewing gum~n:口香糖,橡皮糖
+chewing-gum~n:口香糖
+chewy candy~n:口香糖,橡皮糖
+chez~p:家里,在家,于,在_家里
+chi~n:市尺
+chi kung~n:气功
+chian~n:沥青,柏油
+chiarnlurng~n:乾隆
+chiasma~n:交叉
+chiasma node~n:交叉
+chic~a:别致,漂亮|n:时髦
+chicago~n:芝加哥
+chicane~n:诡辩,狡辩,诈骗|v:诈骗
+chicanery~n:诈骗,诡计,狡辩,诡辩
+chick~n:雏鸡,鸡雏,小鸟,子鸡,少妇,仔鸡
+chickadee~n:山雀
+chicken~n:鸡,鸡肉,鸡雏,懦夫,童子鸡,娃娃,油鸡,雏鸡,胆小鬼
+chicken broth~n:鸡汤
+chicken cholera~n:鸡瘟
+chicken eggs~n:卵用鸡
+chicken head~n:蠢货,笨蛋
+chicken heart~n:胆小鬼
+chicken pest~n:鸡瘟
+chicken soup~n:鸡汤
+chicken tracks~n:涂鸦
+chickenhearted~a:畏怯
+chickenpest~n:鸡瘟
+chickenpox~n:水花
+chicklet~n:少女
+chicklette~n:少女
+chicks for meat~n:肉用鸡
+chicory~n:苣荬菜
+chide~v:责备,责骂,呲,教训,呵叱,昧,咆哮
+chief~n:酋长,首领,长,领袖|a:首
+chief axis~n:主轴
+chief city~n:会
+chief commentator~n:主笔
+chief compiler~n:主编
+chief crewman~n:船老大
+chief criminal~n:罪魁,元恶,罪魁祸首,首恶
+chief editor~n:总编,总编辑,主编
+chief engineer~n:大车,总工程师
+chief examiner~n:主考
+chief executive~n:元首
+chief inspector~n:总监
+chief instigator~n:主谋
+chief justice~n:审判长
+chief of brigands~n:寨主
+chief of children~n:孩子头,孩子王
+chief of state~n:元首
+chief offender~n:祸首
+chief officer~n:大副
+chief prosecutor~n:检察长
+chief robber~n:盗魁
+chief stoker~n:司炉
+chiefly~d:主要,首先
+chiefmate~n:大副
+chief-of staff~n:社长
+chieftain~n:头目,头子,酋长,土司,族长,地位,队长,首领,酋
+chiet~n:负责人
+chifeng~n:赤峰
+chigger~n:恙虫
+chigger mite~n:恙虫
+chignon~n:鬏,髽,髽髻,发髻
+chigoe~n:跳蚤
+chilblain~n:冻疮,冻瘃,瘃
+child~n:孩子,儿童,小孩,子女,小儿,小孩儿,婴儿,幼儿,孩童,童,子孙,娃娃,产物,后裔,儿,胎儿,娃,孩子家,孩儿,追随者,孩,小朋友,子弟,稚子,娃子,孺子,弟子,伢,囡,孺,少爷
+child care~n:保育
+child cowherd~n:放牛郎,放牛娃
+child labourer~n:童工
+child star~n:童星
+child welfare~n:保育
+childbearing~n:分娩,生产
+childbed~n:分娩
+childbirth~v:分娩,生产|n:分娩,生产
+child-care center~n:托儿所
+childe~n:贵胄
+childhood~n:童年,儿时,幼年
+childhood name~n:小名
+childish~a:幼稚,孩子,稚
+childish enthusiasm~n:傻劲儿
+childish ignorance~n:童蒙
+childish manner~n:稚气
+childishness~n:童心,稚气,孩子气
+childlike innocence~n:童心
+children~n:小儿,孩子,小朋友,少儿,儿女,囝,儿童,孥,幼,子弟,子女
+children of bureaucrat~n:衙内
+children with tuberculosis~n:童子痨
+children-care worker~v:保育员
+children's bangs~n:髦
+children's clothes~n:小衣裳
+children's folk rhymes~n:童谣
+children's garments~n:童装
+children's slide~n:滑梯
+children's song~n:儿歌
+children's stories~n:童话
+child's pet name~n:乳名
+child's voice~n:童声
+chile~n:智利
+chili~n:辣椒
+chili sauce~n:辣酱
+chiliast~n:信徒
+chill~n:扫兴,寒气|v:发冷,冰冻,冷藏|a:寒冷,凉飕飕,寒
+chill autumn~v:寒秋
+chill cold~n:风寒
+chill fall~v:寒秋
+chilled steel shot~n:钢砂
+chilled with fear~a:胆战心惊
+chiller~n:冷却器
+chilli~n:辣椒,辣子
+chilliness~n:疏远,严寒,寒气,冷淡,寒冷
+chilling~a:冷森森,冷飕飕|v:淬火
+chillness~n:寒冷
+chilly~a:冷飕飕,凉飕飕,辣丝丝,冷森森,料峭,清冷,凄,泠
+chilly night~n:寒夜
+chilly wind~n:阴风
+chimatlon~n:冻疮
+chime~n:钟声,调和,一致,单调,沟,韵律|v:打,调和,附和,同意,鸣,赞成
+chime clock~v:自鸣钟|n:自鸣钟
+chime in~v:插嘴,赞成
+chime in easily~v:一拍即合
+chime in with~v:遥相呼应,附和
+chime stone~v:磬
+chimera~n:怪物,妄想,幻想,奇想
+chimerical~a:幻想
+chimney~n:烟囱,烟筒,烟尘,灯罩,囱,突
+chimney neck~n:烟道
+chimney rock~n:石塔
+chimney shaft~n:烟囱
+chimonanthus~n:腊梅
+chimp~n:黑猩猩
+chimpanzee~n:黑猩猩
+chin~v:谈话,讲,闲聊,说,聊天|n:聊天
+chin kale~v:芥蓝菜
+chin music~v:责骂,口才,空谈,闲谈
+chin turret~v:炮塔
+china~n:瓷器,瓷,中,磁,支那,中方,华
+china aster~n:翠菊
+china bottle~n:瓷瓶
+china bowl~n:瓷瓶
+china clay~n:瓷土,陶瓷
+china fir~n:杉木,杉树
+china grass~n:线麻
+china ink~n:墨
+china oil corporation~n:中油
+china sea~n:中国海
+china tree~n:苦楝,楝树
+china wood oil~n:桐油
+chinaberry~n:楠木,楝树
+china-made goods~n:国货
+chinar~n:法国梧桐
+chinatown~n:唐人街
+chinaware~n:瓷器
+chinch~n:臭虫
+chinchilla~n:灰鼠,银灰色
+chinchin~n:客套话
+chincough~n:百日咳
+chine~n:幽谷,山脊,脊骨,裂纹
+chinese~n:中文,国,华,华文,国文,汉文
+chinese alligator~n:鼍
+chinese alpine rush~n:龙须菜
+chinese anise~n:八角茴香
+chinese arbor-vitae~n:侧柏
+chinese art paper~n:宣纸
+chinese artichoke~n:宝塔菜
+chinese azalea~n:羊踯躅
+chinese bamboo~n:楠竹
+chinese banana~n:芭蕉
+chinese boxing~n:拳棒
+chinese bulbul~n:白头翁
+chinese bush cherry~n:棠棣
+chinese cabbage~n:白菜,菘,青菜
+chinese catalpa~n:楸
+chinese caterpillar fungus~n:虫草
+chinese character component~n:偏旁
+chinese characters~n:中国字,汉字
+chinese checkers~n:跳棋
+chinese chestnut~n:板栗
+chinese cinnamon~n:桂
+chinese clothing~n:中服
+chinese costumes~n:唐装
+chinese cypress~n:水松
+chinese date~n:枣
+chinese descent~n:华裔
+chinese dinner~n:中餐
+chinese dove tree~n:珙桐
+chinese draughts~n:跳棋
+chinese elder~n:芨
+chinese flowering quince~n:木瓜
+chinese flowing crabapple~n:海棠
+chinese food~n:中餐
+chinese forest frog~n:哈什蚂
+chinese francolin~n:鹧鸪
+chinese gall~n:五倍子
+chinese gall gallant~n:五倍子
+chinese goldthread~n:黄连
+chinese gooseberry~n:猕猴桃
+chinese hackberry~n:朴
+chinese herbaceous peony~n:芍药
+chinese herbal medicine~n:中草药
+chinese herring~n:白鳞鱼,鲙鱼,鳓
+chinese horsechestnut~n:七叶树
+chinese ideograph~n:汉字
+chinese ilex~n:冬青
+chinese ink~n:墨汁
+chinese juniper~n:桧
+chinese laborers abroad~n:华工
+chinese language~n:汉语
+chinese larch~n:红杉
+chinese learning~n:中学
+chinese lobelia~n:半边莲
+chinese mahogany~n:香椿
+chinese mallow~n:锦葵
+chinese meal~n:中餐
+chinese medicinal herb~n:中草药
+chinese medicine~n:中成药,中医
+chinese medicine hospital~n:中医院
+chinese milk vetch~n:紫云英
+chinese monochromes~n:水墨画
+chinese mugwort~n:艾
+chinese nation~n:中华民族
+chinese national language~n:国语
+chinese olive~n:橄榄
+chinese onion~n:薤
+chinese paddlefish~n:白鲟
+chinese pagoda tree~n:龙爪槐
+chinese painting~n:国画
+chinese parasol~n:梧桐,荣,梧
+chinese patent drug~n:中成药
+chinese pear~n:鸭儿梨
+chinese pear-leaved crabapple~n:花红
+chinese pennisetum~n:狼尾草
+chinese penni-setum~n:稂
+chinese people~n:中国人,炎黄子孙,华胄
+chinese percussion instrument~n:响器
+chinese percussion instruments~n:响器
+chinese pistache~n:黄连木
+chinese red~n:朱红,大红
+chinese revolutionary league~n:同盟会
+chinese rhubarb~n:大黄
+chinese rose~n:月季
+chinese sauerkraut~n:菹,酸菜
+chinese scholar tree~n:槐树,槐
+chinese script~n:楷,古文
+chinese sea~n:中国海
+chinese silver grass~n:芒
+chinese small iris~n:马蔺,蔺
+chinese sorghum~n:高粱
+chinese study~n:国学
+chinese sweet gum~n:枫
+chinese tallow tree~n:桕,乌柏
+chinese toon~n:椿
+chinese torreya~n:榧,榧子
+chinese torreya nut~n:榧子
+chinese trumpet creeper~n:苕子,苕
+chinese vetch~n:红花草
+chinese wafers~n:云片糕
+chinese water chestnut~n:马蹄
+chinese weasel~n:黄鼠狼
+chinese white~n:锌白
+chinese white poplar~n:响杨
+chinese wild ginger~n:莘
+chinese wine~n:大曲
+chinese wolfberry~n:杞
+chinese writing brush~n:墨笔
+chinese yeast~n:酒药
+chinese zither~n:古筝
+chinese-style shirt~n:小褂
+chinfest~n:争论,茶话会
+chink~n:裂缝,弱点,现款,漏洞,裂口,罅隙,隙|v:开裂,破裂
+chinquapin~n:锥栗,板栗
+chin-wag~n:闲谈
+chip~v:凿,捐助|n:筹,码子,薄片
+chip away~v:毁损
+chip in~v:捐献,插话,插口,凑钱,捐助,赞助
+chip of silicon~n:硅片
+chipboard~n:刨花板,硬纸板
+chipper~a:快乐
+chipping~n:碎片,薄片
+chippy~n:妓女
+chirismus~n:手法
+chirn dynasty~n:秦朝
+chirographer~n:书法家
+chirography~n:书法,笔迹
+chiropractic massage~n:推拿
+chiroptera~n:翼手目
+chirp~n:哨,叽叽喳喳,吱|d:吱,唧唧|v:鸣叫
+chirping sound~n:呖呖,呖
+chirps~v:啾啾
+chisel~v:刻,欺诈,琢,雕凿,雕刻,雕,錾,镌|n:凿
+chisel incessantly~v:锲而不舍
+chisel tool steel~v:工具钢
+chishui~n:赤水
+chit~n:黄毛丫头,少女,幼儿,小孩,小孩子,幼芽,账单,收条
+chitchat~n:闲话|v:聊天,拉扯,闲谈,攀谈,叙谈
+chitin~n:壳质
+chittagong~n:吉大港
+chivalrous~a:侠义,侠
+chivalrous deed~n:义举
+chivalrous expert~n:侠客
+chivalrous person~n:侠客
+chivalrous swordsman~n:侠
+chivalry~n:豪侠
+chive~n:小刀,韭菜
+chives flower~n:菁
+chixiang~n:赤县
+chizhou~n:池州
+chloasma~n:褐黄斑,黄褐斑
+chloral~n:小球藻
+chloramphenicol~n:氯霉素
+chlorate of potash~n:氯酸钾
+chlordiazepoxide~n:利眠宁
+chlorella~n:绿藻,小球藻
+chloric acid~n:氯酸
+chlorid~n:氯化物
+chloride~n:氯化物|a:氯化
+chloridimeter~n:氯化物
+chloridize~v:氯化
+chloridometer~n:氯化物
+chloridum~n:氯化物
+chlorinate~v:氯化
+chlorinated lime~n:漂白粉
+chlorinating~v:氯化
+chlorination~n:氯化
+chlorine~n:氯,氯气
+chlorite~n:绿泥石
+chlorobenzene~n:氯苯
+chlorodyne~n:利眠宁
+chloroflo~n:石蜡
+chloroform~n:氯仿
+chloroformyl chloride~n:光气
+chloromycetin~n:氯霉素
+chloronorgutta~n:氯丁橡胶
+chlorophyl~n:叶绿素
+chlorophyll~n:叶绿素
+chloroplast~n:叶绿体,叶绿素
+chloroplastid~n:叶绿体
+chlorotetracycline~n:金霉素
+chlorpheniramine~n:扑尔敏
+chlorphomazine~n:冬眠灵
+chlorpromazine~n:氯丙嗪
+chlortetracycline~n:金霉素
+chock~n:楔子|d:完全
+chock gauge~v:塞规
+chocolate~n:巧克力,可可,朱古力
+choice~n:选择,审慎,挑三窝四,精华|a:精,珍视|v:选择
+choice of person~n:人选
+choice of persons~n:人选
+choice of words~n:用语
+choice question~n:选择题
+choiceness~n:优良,精巧,精选
+choir~n:合唱团,队,组,群
+choke~v:窒息,堵住,呛,哽,阻塞,堵塞,扼,绞死,抑止,阻止,节流,摆脱,背气,减,噎,抑制|n:噎,喉管,拥塞
+choke off~v:摆脱
+choke up~v:堵住
+choke with resentment~v:憋气
+choked~v:淤滞
+chokedamp~n:二氧化碳
+choker~n:领带,钳子,夹具
+choking~v:堵塞,阻塞|n:闷气
+choky~n:关卡,监狱
+cholecyst~n:胆囊
+cholecystitis~n:胆囊炎
+cholelithiasis~n:胆石病
+choleplania~n:黄疸
+choler~n:胆汁
+cholera~n:霍乱
+choleric acid~n:氯酸
+cholesterin~n:胆固醇
+cholesterol~n:胆固醇
+choline~n:胆碱,生化
+cholochrome~n:胆色素
+chomp~n:嚼
+chongqin~n:重庆
+choochoo~n:火车
+chook~n:鸡
+choose~v:选择,选,挑选,挑,决定,喜欢,想,选拔,选用,抉择,择,点,取,选取,推举,宁愿,推选,拔取,拣,举,涓,简,遴,物色,抡,推,选购,欲,拣选,看中,别择,卜,评选
+choose a friend~v:择友
+choose a name~v:取名
+choose friends~v:择友
+choose name for~v:定名
+choose the best~v:择优
+choose the word~v:遣词
+choosey~a:挑三窝四
+choosy~a:挑三拣四
+chop~v:砍,劈|n:裂口
+chop in~v:多嘴,插嘴
+chop in two~n:斩断
+chop logic~n:强词夺理,咬文嚼字
+chop off~v:刽,切,斩断
+chop out~v:删节
+chop round~v:突变
+chop up~v:割断,切开,菹
+chop-chop~d:快快,赶快
+chophouse~n:海关
+chopin~n:肖邦
+chopped cooked entails~n:杂碎
+chopped cooked entrails~n:杂碎
+chopped meat~n:肉馅
+chopper~n:斤,斧头,屠刀,柴刀,斧子,劈刀,砍刀,直升机
+chopper saber fighting~n:劈刀
+chopping~n:剁,伐,砍|v:斩断,削球
+chopping block~n:俎
+chopping board~n:案板,菜板,菜墩子
+choppy~v:生涩|a:生涩
+chopstick~n:筷子
+chopsticks~n:筷,筷子
+choragus~n:合唱队
+choral~n:赞美诗
+choral group~n:合唱团
+chorale~n:赞美诗
+chord~n:弦,和弦,和谐,带|v:弹奏,调和
+chorda~n:带
+chordate~n:脊索动物
+chore~n:杂务,杂事,零活儿
+chorea~n:舞蹈病
+choreograph~v:设计,筹划
+chores~n:零活儿
+chorion~n:浆膜
+chorography~n:地志,地方志
+choroid~n:脉络膜
+chortle~v:哈哈大笑|n:哈哈大笑
+chorus~n:合唱,合唱团,大合唱,合唱队|v:合唱
+chose~n:动产,物
+chough~n:山鸦
+chouse~v:欺骗,诈骗
+chow~n:州,吃饭
+chow mein~n:炒面
+chowchow~n:酱菜
+chow-chow~n:杂
+chowder~n:杂烩
+chowderhead~n:傻瓜,呆子
+chowrie~n:拂尘
+chrestomathy~n:选集
+chrisom~n:幼儿,婴儿
+christ~n:基督
+christcross-row~n:字母表
+christen~v:洗礼,命名
+christendom~n:基督教徒
+christian~n:基督教徒,信徒,正派人,人类
+christian era~n:公元
+christian missionary~n:教士
+christianity~n:基督教,天主教
+christmas~n:圣诞节
+christmas card~n:圣诞卡
+christmas flower~n:一品红
+christmas holidays~n:寒假
+christopher~n:克里斯托弗
+chroma~n:色度
+chromate treatment~n:镀铬
+chromatic~a:色散|v:套色
+chromatic colour~n:彩色
+chromatically~d:上色
+chromaticically~d:套色,上色
+chromaticity~n:色度
+chromatism~n:色差,变色
+chromatograph~n:色谱仪,色谱,套色版
+chromatography~n:套色版,套色,套印
+chrome~n:铬,黄色
+chrome-plated steel~n:镀铬钢
+chrominance~n:色度
+chroming~v:镀铬|a:镀铬
+chromite~n:铬铁矿,铬铁
+chromium~n:铬
+chromium iron~n:铬铁
+chromium-plated steel~n:镀铬钢
+chromosome~n:染色体
+chromosphere~n:色球
+chronic~a:慢性,长期,痼,锢
+chronic complaint~n:宿疾
+chronic disease~n:固疾
+chronic illness~n:疚
+chronic invalid~n:药罐子
+chronicity~n:慢性,长期性
+chronicle~n:编年史,记录,纪事|v:记录
+chronicle of event~n:大事记
+chronicle of events~n:大事记
+chronicle play~n:历史剧
+chronicles~n:汗青,记事,编年史|v:记事
+chronograph~n:停表,计时器,秒表
+chronography~v:计时
+chronological history~n:编年史
+chronology~n:年表,年代学
+chronometer~n:天文钟
+chronoscope~n:计时器
+chrysalid~n:蝶蛹
+chrysalis~n:蝶蛹
+chrysanthemum~n:菊花,墨菊,菊,黄花,秋菊
+chrysanthemum show~n:菊展
+chu~n:楚
+chu county~n:滁县
+chu opera~n:楚剧
+chub mackerel~n:鲐,鲐鱼
+chubby~a:胖乎乎
+chuck~v:扔,抛,辞职,丢弃,停止,浪费,失去,抚摸,逐出|n:爱抚,辞退,放弃,封罐机,伙食,粮食|i:亲爱的
+chuck away~v:浪费
+chuck away on~v:划不来
+chuck off~v:甩掉
+chuck over~v:驱逐
+chuck up~v:停止,放弃
+chucker-out~n:保镖
+chucking~v:夹具|n:夹具
+chucking appliance~n:夹具
+chuckle~v:暗笑,哈哈大笑|d:咯咯
+chuckle over something~n:一笑置之
+chuckle to oneself~n:哑然失笑
+chuckle with pride~n:自鸣得意
+chucklehead~n:傻瓜,笨蛋
+chug-a-lug~v:狼吞虎咽,痛饮
+chuhe river~n:沭河
+chum~n:密友,鱼饵,同事
+chummy~n:密友|a:热乎
+chump~n:发狂,木块
+chunam~n:石灰,胶泥
+chunk~n:块,大量,块儿|v:截
+chunnel~n:隧道
+church~n:教堂,教会,教派,礼拜堂
+church service~n:礼拜
+churchill~n:邱吉尔
+churchman~n:教士,牧师
+church-man~n:教士,牧师
+churchyard~n:墓地,境内
+churinga~n:护身符
+churl~n:吝啬鬼,守财奴
+churn~v:翻腾,搅拌|n:搅拌
+churning~v:搅拌
+chute~n:滑道,急流,瀑布,奔流
+chute board~n:滑板
+chutty~n:口香糖
+chutzpa~n:厚颜无耻,胆大妄为
+chutzpah~n:胆大妄为,厚颜无耻
+chuzhou~n:滁州
+chyle~n:乳糜
+chyme~n:生理
+cibazol~n:磺胺噻唑
+cicada~n:蝉,知了,蜩
+cicada slough~n:蝉蜕
+cicada's wings~n:蝉翼
+cicala~n:蝉
+cicatrice~n:疤痕,斑痕
+cicatrization~n:愈合
+cicatrize~v:愈合
+cicerone~n:向导
+cidarid~n:头帕
+cigala~n:蝉
+cigale~n:蝉
+cigar~n:雪茄,雪茄烟,卷烟
+cigar-box~n:香烟盒
+cigar-box wood~n:红木
+cigaret~n:卷烟
+cigarette~n:香烟,烟,吸烟,纸烟,烟卷,卷烟,烟卷儿
+cigarette case~n:烟盒
+cigarette end~n:烟屁股,烟蒂,烟头
+cigarette ends~n:烟头,烟蒂
+cigarette holder~n:烟嘴
+cigarillo~n:香烟
+ciggeratte~n:香烟
+cilia~n:睫毛,纤毛,细毛,睫
+ciliate~n:纤毛虫
+ciliate body~n:睫状体
+ciliation~n:纤毛
+cilium~n:纤毛
+cill~n:基石,窗台,门槛
+cimex~n:臭虫
+cinch~n:绳结,紧握|v:确保,确定
+cinchona~n:金鸡纳霜,奎宁,金鸡纳树
+cinchonine~n:金鸡纳素
+cincinnati~n:辛辛那提
+cincture~n:环带,围绕
+cinder~n:煤渣,灰烬,骨灰,炉渣
+cine~n:电影
+cinema~n:电影,电影院,影院,影片,电影厅
+cinema addict~n:影迷
+cinema-goer~n:影迷
+cinematograph~n:电影
+cinephile~n:电影迷
+cineraria~n:菊
+cinerator~n:火葬炉
+cinereous vulture~n:秃鹫,坐山雕
+cingulum~n:带
+cinnabar~n:丹,辰砂,朱砂,丹砂,银朱
+cinnamene~n:苯乙烯
+cinnamon~n:肉桂,桂皮
+cinnamon soil~n:褐土
+cinq~n:五
+cinque~n:五
+cion~n:接穗,悬雍垂
+cipher~n:密码,小人物,数码,暗码|v:计算
+cipher code~n:密码
+circa~p:大约|d:大约
+circe~n:女巫
+circle~n:圆,圈子|v:旋,环行,旋转
+circle around~v:盘旋
+circle of science~n:科学界
+circle round~n:回翔,打圈子,周旋
+circles~n:界,林,坛
+circs~n:事情
+circuit~n:电路,线路,回路,巡回,环路,周,周游,健身操,通路,流程|v:环行
+circuit break~n:断路
+circuit changer~n:开关
+circuit controller~n:控制器
+circuit network~n:网路
+circuit tester~n:万用表
+circuitous~a:迂回,迂曲|v:迂回
+circuitry~n:电路,电路图
+circuits~n:电路
+circuity~n:转弯抹角,迂回,迂曲
+circular~n:通知,通告,传单,圆形,通报,团|a:迂回
+circular arc~n:圆弧
+circular column~n:圆柱
+circular current~n:环流
+circular disc~n:圆盘
+circular division~n:刻度盘
+circular engraving~n:圆雕
+circular fan~n:团扇
+circular functions~n:三角函数
+circular measure~n:弧度
+circular note~n:通谍,通告
+circular place~n:端面
+circular rim~n:轮辋
+circular telegram~n:通电
+circularity~n:圆,环状,圆形
+circularize~v:分发,公布,传递,传阅
+circulate~v:循环,流传,流通,散布,传播,传阅,流行,环流,散播,行,流动,流转,运行,周转,巡回
+circulate a notice~v:通报
+circulate erroneous reports~v:以讹传讹
+circulating~v:循环
+circulating current~n:环流
+circulating decimal~n:循环小数
+circulating real capital~n:动产
+circulation~n:循环,流通,发行量,发行,环流,货币,传播,运行,旋转,销路|v:循环,旋转
+circulation of commodities~n:商品流通
+circulation of goods~n:商品流通
+circumambience~n:围绕
+circumambient~a:环绕,围绕
+circumambulate~v:巡行,转弯抹角,巡逻,运行
+circumcenter~n:外心
+circumcentre~n:外心
+circumcircle~n:外接圆
+circumcision~n:割礼,净化
+circumference~n:周长,圆周,周围,四周,匝,周,方圆
+circumferential angle~n:圆周角
+circumferential motion~n:环流
+circumfluence~n:环流,回流
+circumfuse~v:缠绕,围绕
+circumfusion~n:围绕
+circumgyrate~v:旋转,回转
+circumgyration~v:旋转,回转|n:旋转
+circumlocute~v:转弯抹角
+circumlocution~n:躲闪,偏锋
+circumnavigation~v:环行|n:环行
+circumpolar latitude~n:高纬度
+circumrotate~v:循环,旋转
+circumscribe~v:限制,限定,约束,框
+circumscribed angle~n:外接圆
+circumscribed circle~n:外接圆
+circumscription~n:区域,花边,限制,范围,定义,界线,限界
+circumspect~a:谨,审慎,谨慎|v:小心谨慎|d:谨
+circumspection~n:慎重
+circumstance~n:情况,环境,情形,形势,境况,事情,机会,命运,详情,情势,事实,事态,细节,情景,境遇,仪式,境,境地,形式,事故,原委,情境
+circumstances~n:光景,阵势,境域,事机,景况,情境,情形,环境,景遇,情景,情况,形势,境地,情节,情事,遭际,阵脚,状,境况,情,情势,场景,境遇
+circumstantial~a:详细
+circumstantiality~n:详情,偶然性
+circumstantiate~v:证实,证明
+circumvallation~n:城墙,壁垒
+circumvent~v:围困,包围,围绕
+circumvention~n:欺骗,计谋,围困,防止
+circumvolute~v:卷绕,缠绕
+circumvolution~n:旋转
+circumvolve~v:缠绕,旋转
+circus~n:马戏团,马戏,竞技场,杂技团
+circus troupe~n:马戏团
+cirmp~v:挤压
+cirque~n:圆圈
+cirrhosis~n:肝硬变,肝硬化
+cirrostratus~n:卷层云
+cirrus~n:触须,卷须,阴茎
+cisdene~n:顺丁橡胶
+cista rica~n:哥斯达黎加
+cistern~n:水槽,水缸,蓄水池,水池,水塔,水塘
+cisterna~n:池
+cit~n:老百姓,城里人,便服
+citadel~n:城堡,要塞,大本营,根据地,避难所
+citation~n:例证,引文,引证,援引,引语,表扬,引用,传讯,奖品,列举,传票,引述,奖状
+cite~v:引用,引证,表扬,列举,援引,举,表彰,嘉奖,援用,显扬,召集,罗列,引|n:嘉奖,例证,引文
+cite an instance~v:举例
+cite posthumously~v:追记
+cite various authorities~v:旁征博引
+citizen~n:公民,市民,居民,国民,平民,老百姓
+citizenhood~n:公民权,公民,国籍,平民
+citric acid~n:柠檬酸
+citrin~n:柠檬酸,柠檬素
+citrine~n:茶晶,柠檬色
+citron~n:柠檬色,香橼,枸橼
+citron fruit~n:枳实,枳壳,香橼
+citron lemon~n:柠檬
+citronella~n:香茅
+citrus~n:柑橘
+citrus reticulata~n:柑
+city~n:城市,城,市,城里,市内,都市,城池,都会,垣,邑
+city bum~n:瘪三
+city dwellers~n:城里人
+city flower~n:市花
+city gate~n:城门
+city hall~n:市政府
+city man~n:资本家,实业家
+city moat~n:堑
+city poor~n:城市贫民
+city slum~n:贫民窟
+city wall~n:城郭,城墙,墉,城
+city walls~n:城郭
+city water~n:自来水
+cityscape~n:市容
+civet~n:灵猫
+civet cat~n:灵猫
+civic~a:城市
+civic ethics~n:文明礼貌
+civic rights~n:公民权
+civies~n:便服
+civil~a:民事,公民,民用,民|n:公民,民
+civil air defense~n:人防
+civil and military governors~n:督抚
+civil corps~n:民团,团练
+civil death~n:无期徒刑,放逐,褫夺公权
+civil engineering~n:土建
+civil examination~n:科第
+civil industrial products~n:民品
+civil occasion~n:诱惑,犯罪,过失
+civil power~n:政权,统治权
+civil rights~n:公民权
+civil servant~n:公务员,文官
+civil service~n:文职
+civil year~n:历年
+civilian~n:老百姓,平民,文官,民,市民
+civilian clothes~n:便装
+civilians~n:老百姓
+civilisation~n:开化
+civilise~v:教化,开化
+civility~n:客气,礼仪,礼貌,文化,文明
+civilization~n:文明,文化,开化,教化,文
+civilizationsation~n:文化,教育,文明
+civilize~v:教化,开化
+civilized~a:文明,开化
+civilizelise~v:教育
+civvy~n:便服,便衣
+clack valve~n:止回阀
+cladding~n:镀|v:封装
+cladding material~n:镀层
+claim~v:声称,要求|n:断言
+claim arbitrarily~v:擅
+claim attention~n:分心
+claim for~v:要求
+claim indemnity~n:索赔
+claim infallibility presumptuously~v:自以为是
+claim on~v:要求
+claim settlement~n:索赔
+claim to be~v:号称,自称
+claimant~n:债权人,索赔,原告
+claimer~n:索赔,债权人
+clairaudience~n:顺风耳
+clairaudient~n:顺风耳
+clairvoyance~n:洞察力,千里眼
+clairvoyant~n:火眼金睛
+clam~n:蛤蜊,蛤,河蚌,夹子,蚌,一元,夹具,文蛤,银币|v:三缄其口,嘴紧
+clam up~v:三缄其口
+clam worm~n:沙蚕
+clamber~v:爬,攀登,攀援,攀缘
+clamminess~n:粘性
+clammy~a:潮呼呼
+clamor~v:叫嚣,吵嚷,哗,叫喊,叫嚷,鼓噪,喧嚷|n:叫喊,声浪,鼎沸,哗然
+clamor down~v:奚落
+clamord~v:喧闹|n:喧闹
+clamoring for food~n:嗷嗷待哺
+clamorous~a:聒噪,闹嚷嚷,闹哄哄
+clamour~v:叫嚣,哗|n:鼎沸,哗然,叫喊,哗,喧嚷
+clamour down~v:奚落
+clamours of comments~n:议论纷纷
+clamp~n:夹具|v:钳制
+clamp apparatus~v:夹具
+clamp down~v:钳制
+clamp strap~v:夹带
+clampdown~n:取缔,压制
+clamper~n:夹子
+clamping apparatus~n:卡具
+clamping fixture~n:夹具
+clamping yokes~n:夹具
+clamshell~n:蚌壳
+clan~n:氏族,家族,部族,党派,系,队,集群,小集团,亲属,宗,族
+clan elder~n:族长
+clan hall~n:祠堂,宗祠
+clan pedigree~n:族谱
+clan power~n:族权
+clandestine~a:秘密
+clandestine actions~n:暗事
+clang~n:铿锵,当啷,音调,音色,锒铛,叮当,音质|d:当啷|v:当
+clanger~n:过失
+clank~v:当啷|n:当啷,叮当|d:当啷
+clannish~a:氏族
+clansman~n:同宗,族人,宗族|v:同宗
+clap~v:鼓掌,拍,拍手|n:淋病|d:啪
+clap eyes on~v:注视
+clap hands~v:拍手
+clap one's hands~v:鼓掌,拍手,拍掌
+clapboard~n:隔板
+clapnet~n:网
+clapper~n:拍板
+clapper talk~n:快板儿
+clapperclaw~v:痛骂
+clappers~n:拍板,板,鼓板
+clapping~v:掌声|n:掌声
+claret~a:枣红|n:血
+clarification~n:澄清|v:澄清
+clarified~a:清|v:清
+clarify~v:澄清,阐明,弄清,说明,解释,净化,明了,澄
+clarify one's position~v:表态
+clarinet~n:黑管,单簧管
+clarion~n:号角
+clarity~n:清晰,明确,清晰度,明了,清澈,透明
+clash~v:冲突|n:抵触
+clasp~n:扣子,拥抱,紧握,握手,钩,别针,搂抱|v:紧握
+clasp hands~n:合掌,握手
+clasp knife~n:折刀
+clasper~n:扣,钩
+class~n:班,阶级,班级,阶层,课,类,优秀,组,等级,等,纲,级,类别,门类,讲习班,路|v:归类,分类
+class a~n:一级|v:甲级
+class character~n:阶级性
+class dismiss~v:下课
+class enemies~n:牛鬼蛇神
+class meeting~n:班会
+class monitor~n:班长
+class origin~n:出身
+class period~n:课时
+class stuggle~n:阶级斗争
+class teacher~n:班主任
+class-break setting-up exercise~v:课间操
+classes~n:班次|v:百
+classes are over~v:放学
+class-for-itself~n:自为阶级
+classic~n:名著,典范,古典文学,文豪|a:一流
+classic beauty~n:古色古香
+classic elegance~n:古雅
+classical~a:古典,经典|n:经典
+classical allusion~n:古典
+classical allusions~n:典故
+classical expressions~n:之乎者也
+classical literature~n:古典文学
+classical poetry~n:旧诗
+classicalism~n:古典文学,古典主义
+classicality~n:优雅,优美,古典
+classicism~n:古典主义
+classics~n:经传,经典|p:经
+classification~n:分类,等级,分级,别|d:分级|v:分类
+classification competition~n:等级赛
+classification of language~n:语种
+classified~a:机密
+classified material~n:密件
+classified matter~n:密件
+classifier~n:量词
+classify~v:分类,归入,归类,排队,区,分等|d:分级
+classmate~n:同学,同班
+classroom~n:教室,课堂,讲堂
+clathrate~n:络合物
+clatter~n:哗啦啦,骚动,喧嚷|v:哗啦啦,嘚|d:丁当,叮当
+claugh~n:水门
+clause~n:条款,从句,分句,条文,项目,条,子句,款项,项
+claver~n:闲谈,闲话
+clavicalis~n:锁骨
+clavicle~n:卷须,锁骨
+claviculate~a:锁骨
+clavier~n:键盘,键盘乐器
+clavus~n:鸡眼
+claw~n:爪子,爪,脚爪,钳,魔爪,钩|v:搜刮,逮捕
+claw hammer~n:钉锤
+claw-back~v:弥补,欠缺,不利
+claws~n:魔爪
+clay~n:粘土,泥土,天性,胶泥
+clay doll~n:泥人
+clay figure~n:泥塑
+clay model~n:土模
+clay pigeon~n:飞碟
+clayey soil~n:埴
+clayite~n:高岭石
+claymore~n:剑
+clean~v:打扫,擦|a:净|d:完全
+clean copy~n:清稿
+clean enough~v:干干净净
+clean gone~v:无影无踪
+clean out~v:淘,打扫
+clean out completely~v:一干二净
+clean proof~n:清样
+clean up~v:荡涤,廓清,肃清,清,梳洗,理,清除,扫除
+clean water~n:清水,白水
+cleaner~n:清洁工,洗衣店
+cleaning~n:清洗,洗涤,扫除,垃圾,输光|v:扫除,清扫|a:清洁
+cleanlily~d:干净
+cleanliness~n:清洁
+cleanly~d:统统,完全|a:清白
+cleanness~n:清洁
+clean-out~n:清除
+cleanse~v:清洗,洗涤,净化,涤,湔,净,溉,涤荡,消毒,擦拭,洁,蠲,澄清,荡涤
+cleanse away~v:祓
+cleanser~n:去污粉,去污剂,清洁剂
+cleansing~v:垃圾,净化
+cleanup~n:澄清,净化,精炼,提纯,扫除,清除
+clean-up~n:大扫除
+clear~v:收拾,晴,清除,消除|a:清亮,较,澄澈,分明,粼粼,明,明晰,清朗,一清二白,真确,白,敞亮,脆,溜光,亮堂,通畅,真切,澈,澄彻,昭著,朗朗,醒豁|n:堤,间隙,空隙,洞|d:较
+clear a port~v:出港,结关
+clear as day~v:一清二楚
+clear as daylight~v:昭然若揭
+clear as noonday~v:一清二楚
+clear away~v:扫除,荡,收拾,扫,粪,洗
+clear currents~n:清流
+clear height~n:净高
+clear mines~n:起雷
+clear off~v:一扫而光,摆脱,溜走,清理,清偿,走开
+clear oneself of~n:洗刷
+clear out~v:丢弃,腾,离开,逃离
+clear to all~v:众目昭彰
+clear up~v:放晴,释,整顿,开朗,消除,清,澄清,涣然冰释,白,消释,结束,完成
+clear up doubts~v:释疑
+clear up thoroughly~v:一干二净
+clear water~n:清水
+clear width~n:净宽
+clearage~n:清除,清理
+clearance~n:清除,空隙,净空,间隙,结关,结算,解除,清理,清算,除去,扫除|v:结关
+clearance gauge~n:塞尺
+clearance of goods~n:报关
+clearance sale~n:贱卖
+clearance through customs~n:结关
+clear-cut~a:明确
+clearheaded~a:惺惺
+clearing~n:清除,除去,扫除,雪冤,清算,昭雪|v:解扣,释放,拆线
+clearing luminary~n:照明
+clearly~d:真,分明,显而易见|a:逼真
+clearly demarcated~v:分明
+clearly discerning swift-handed~n:眼明手快
+clearly show~v:显而易见
+clearly understand~v:明了
+clearness~n:澄清
+clearstory~n:气窗
+cleat~n:楔子,羊角,夹板
+cleavage~n:分裂,开裂,劈开|v:分裂,开裂
+cleave~v:劈开,忠于,裂开,坚持,坚守,破,开,劈
+cleave the water~v:破浪前进
+cleave to~v:坚持,忠于
+cleaver~n:瓦刀
+cleek~n:挂钩
+clef~n:谱号
+cleft~n:裂缝,裂口,裂片,裂痕,沟纹
+cleft lip~n:兔唇,唇裂
+cleftiness~n:节理,裂隙
+cleg~n:马蝇
+clemency~n:仁慈,宽厚,温和,温暖
+clench~v:握紧,决定,解决
+clench one's fist~v:握拳
+clench one's teeth~v:咬紧牙关
+clench the teeth~v:啮合
+clenching~v:咬牙切齿,咬紧牙关
+clepe~v:命名
+clepsydra~n:漏刻,水泻,漏壶|v:漏
+clerestory~n:天窗,长廊,气楼
+clergy~n:牧师,神职人员,教士,僧侣
+clergyman~n:教士,牧师
+cleric~n:教士,牧师
+clerical~n:教士
+clerical mistake~n:笔误
+clerical staff~n:职员,文书,办事员
+clerical work~n:事务,杂务
+clerihew~n:打油诗
+clerk~n:职员,书记,办事员,店员,秘书,书记员,教士,营业员,执事,学者,管理员,牧师
+clerkship~n:博学
+clever~a:聪明,巧妙,伶俐,机灵,精,鬼,聪颖,巧|n:心灵,神
+clever artisan~n:巧匠
+clever housewife~n:巧妇
+clever man~n:聪明人
+clever move~n:高招
+clever remark~n:妙语
+clever way~n:巧劲儿
+cleverly~d:灵巧,机敏,伶俐,能干,聪明
+cleverness~n:聪明,心眼儿
+clew~n:线索,线团,暗示|v:提示
+cliche~n:陈词滥调,口头禅
+click~v:成功,情投意合,吧嗒,单击,一拍即合|n:棘爪,咯噔,插销,门闩,点击|i:吧哒,吧嗒
+clickwork~n:棘轮
+client~n:委托人,当事人,顾客,客户,主顾,顾主,附庸国,客人
+clientele~n:追随者,常客,委托人,顾客
+cliff~n:悬崖,峭壁,山崖,崖,断崖,绝壁,削壁,岩,石壁
+cliff carving~n:崖刻
+cliff of displacement~n:断崖
+cliff painting~n:岩画
+cliff-hanging win~n:险胜
+cliffside spring~n:飞泉
+cliffy~a:陡峭
+climacteric~n:绝经期,更年期,转折点,关口
+climacterium~n:更年期
+climate~n:气候,风气,地带,趋势,倾向,思潮,风土,水土,天时
+climatic bubo~n:鱼口
+climax~n:高潮,顶峰,高峰,顶点,极点,最高峰
+climb~v:爬|n:爬高,山坡
+climb a mountain~v:上山
+climb aboard~v:搭乘
+climb down~v:认错
+climb mountains~v:爬山
+climb over~v:翻越,翻
+climb up~v:攀登,攀越,攀援,缘
+climb-down~n:退让,服输
+climbers~n:脚扣
+climbing~v:爬升,攀登
+climbing groundless~n:千里光
+climbing groundsel~n:千里光
+climbing pole~n:爬竿
+climbing rose~n:野蔷薇
+clime~n:气候
+clinch~n:绳结,铆钉,夹子
+clinch a deal~v:成交
+clinch a seal~v:交白卷
+clinch bolt~v:铆钉
+clincher~n:定论,夹子
+cline~n:倾斜
+cling~v:紧贴,粘着,依恋,坚持,巴,依靠,紧握,依附,扒
+cling to~v:巴,扒,坚持,固执,依附
+clinic~n:诊所,会诊,卫生站,卫生所,门诊部,诊室
+clinical~a:临床
+clinical thermometer~n:体温计
+clink~n:监狱,裂缝,现金
+clinker~n:熟料,硬币,现金,饼干,缸砖,炉渣,煤渣,猛击
+clinking~v:极
+clinquant~a:金光闪闪|n:箔
+clinton~n:克林顿
+clip~n:修剪,卡子,钳,梭子,卡,曲别针|v:飞跑
+clipboard~n:剪贴板
+clipper~n:剪子
+clippers~n:剪子,推子,剪,钳子|v:剪
+clipping~n:剪报,剪辑,剪裁
+clique~n:小集团,集团,私党,派,帮,党,朋党,帮会,派别,派系
+cliquish~v:小集团|n:小集团
+cliquism~n:宗派主义,派性
+clitellum~n:环带
+clitoris~n:阴蒂
+cliver~n:吊环,吊钩
+clivus~n:斜坡
+cloaca~n:暗渠,泄殖腔,下水道
+cloacae~n:厕所,泄殖腔,阴沟,下水道
+cloak~n:斗篷,外衣,大氅,伪装,借口,外套,幌子,口实,托辞|v:包庇,盖,遮掩,覆
+cloakroom~n:衣帽间
+cloak-room~n:衣帽间
+clobber~v:打破|n:衣服
+cloche~n:玻璃罩
+clock~n:钟,时钟,座钟|v:达到
+clock gauge~n:千分表
+clock synchronizer~n:母钟
+clock up~v:记录,达到
+clocker~n:计时员
+clockwork spring~n:发条
+clod~n:土块,块,傻瓜,乡下人,呆子,老粗
+clodhopper~n:土包子,粗人,泥腿子
+clodpate~n:呆子
+clog~v:妨碍,塞满,阻塞|n:阻碍,制动器,阻塞,木屐,枷,坠子
+clog up~v:湮
+clogged~v:淤滞
+clogged up~a:壅塞
+clogs~n:木屐,呱嗒板儿
+cloisonne~n:景泰蓝
+cloister~n:修道院,寺庙,隐居,回廊,走廊
+clon~n:复制品,机器人
+clone~n:机器人,复制品
+clonicity~n:阵挛性
+close~v:关闭|a:紧身,窒闷,细密,拢,深,贴心,严紧,亲,小气,严实|n:结束|d:接近
+close a bargain~v:成交
+close a case~v:结案
+close a deal~v:成交
+close about~v:围住,包围
+close an account~v:结算
+close application~n:专心一意
+close at hand~v:指日可待,近在眉睫,近便,近在眼前,迫近
+close book~n:结账
+close by~v:边,肘腋
+close call~n:千钧一发
+close circuit~n:通路
+close cut~n:近路
+close down~v:封闭,查封,关,停业,关张
+close eye~n:瞑目
+close fitting~v:紧身
+close friend~n:至好,友好,神交,老朋友
+close in~v:逼近
+close in on~v:逼,逼近
+close in upon~v:围住,逼近,兜抄
+close interdependence~n:唇齿相依
+close kin~n:至亲
+close lightly~v:抿
+close neighbor~n:紧邻,近邻
+close neighbors~n:近邻
+close neighbour~n:比邻
+close on~v:接近,紧接着
+close one's doors~v:谢绝
+close over~v:淹没
+close paternal relations~n:嫡亲
+close planting~v:密植
+close quarter~n:肉搏战
+close quarter fighting~v:肉搏
+close round~v:包围
+close shot~n:近景
+close sown~v:关张
+close succession~n:联翩
+close the border~v:闭关
+close the country~v:闭关
+close the eyes~v:瞑
+close the rear~v:殿后
+close to~p:附近,将近,近乎,守,跟前,靠近,促,仅,近,接近,临近,阽,邻近,在_附近|d:将近|v:巴
+close to death~p:垂危
+close together~v:紧密,比,密集
+close up~v:封闭,关闭,靠拢,收口,闭塞,促
+close upon death~n:垂危
+close vowel~n:闭元音
+closed~a:死,封闭式,放学
+closed angle~n:锐角
+closed canal~n:通路
+closed car~n:轿车
+closed circuit~n:通路,闭路
+closed circuit television~n:闭路电视
+closed cycle~n:闭环
+closed forest~n:封山育林
+closed loop~n:闭环
+closed sea~n:领海
+closed stack system~n:闭架式
+closed syllable~n:闭音节
+closed type~n:封闭式
+closed-circuit~a:闭路
+closed-circuit television~n:闭路电视
+closed-loop circuit~n:闭路
+close-door policy~n:闭关锁国
+closedown~n:关闭,歇业
+close-down~n:降临,停歇,关闭,封闭
+closefisted~v:手紧|a:手紧
+close-fitting undergarment~n:紧身儿,紧身
+close-fitting vest~n:紧身儿
+close-lipped~a:嘴紧
+closely~d:密切,紧紧
+closely observe~v:严守
+closely question~v:诘问,诘
+closely related~v:自己,呼吸相通,近,嫡
+closely united~v:亲密无间
+closemouthed~a:嘴紧,口紧
+close-mouthed~a:嘴紧
+closeness~n:亲密,严密,吝啬,狭窄,精密,密闭,接近,环境
+close-quarter fighting~n:短兵相接
+closestool~n:恭桶,马桶
+closet~n:壁橱,衣橱,橱,壁柜,密室,碗橱,厕所
+closet stall~n:马桶
+close-up~n:特写,详图
+closing~n:结束,结账,接点|a:闭路|v:收盘
+closing address~n:闭幕词
+closing in~v:收口
+closing quotation~n:收盘
+closure~n:关闭,闭合,停业,合龙,结束,隔板,截止,围墙,关,末尾|v:合龙,截流,合拢,结束,截止,闭合
+closure rail~n:导轨
+clot~v:凝固,拥塞,凝结|n:聚集
+cloth~n:布,布料,桌布,棉布,布匹,织物,教士,制服,帆,毛织品,呢绒,衣料
+cloth button~n:钮扣
+cloth coupon~n:布票
+cloth cover~n:幂
+cloth diaper~n:尿布
+cloth ears~n:重听
+cloth for foot-binding~n:裹脚
+cloth gown~n:布衣
+cloth shoe~n:袼褙
+cloth shoes~n:便鞋
+cloth store~n:布店
+cloth width~n:布面
+cloth-bag~n:背搭子
+clothbound~a:精装
+clothe~v:衣服
+clothes~n:衣服,衣衫,衣裳,服,衣,被褥
+clothes closet~n:立柜
+clothes hood~n:衣钩,衣勾
+clothes hook~n:衣钩
+clothes plain~n:便衣
+clothes press~n:衣橱
+clothes rack~n:衣钩
+clothes rail~n:衣架
+clothes stand~n:衣架
+clothes tree~n:衣架
+clothespin~n:衣夹
+clothespress~n:衣橱
+clothier~n:裁缝
+clothing~n:衣服,衣,服装,衣裳,穿戴|v:装
+clothing coupon~n:布票
+clothing material~n:衣料
+clothing store~n:服装店
+clotted nonsense~n:无稽之谈
+clotting~v:结块,凝结,烧结,凝固
+cloud~n:云,乌云,云彩,阴影,浮云,朦胧|v:损伤
+cloud amount~n:云量
+cloud burst~n:倾盆大雨,暴雨
+cloud castle~n:幻梦,空中楼阁,空想
+cloud chart~n:云图
+cloud cluster~n:云团
+cloud drift~n:浮云
+cloud land~n:仙境,幻境
+cloud line~n:兴高采烈
+cloud pattern~n:云头儿
+cloud picture~n:云图
+cloud rack~n:浮云
+cloud veil~n:云层
+cloudage~n:云量
+cloudburst~n:倾盆,大暴雨,倾盆大雨
+cloud-castle~n:空想
+cloudiness~n:阴暗,云量
+clouding~n:模糊
+cloudless~v:万里无云|a:万里无云
+cloudless day~n:晴天
+cloudlet~n:微云
+clouds~n:云层
+clouds mass~n:云头
+cloudy~a:多云,阴,阴天,阴沉,涔涔,叆叇|v:噎
+cloudy obscured haze~n:云气
+clough~n:水闸,闸门,深谷,峡谷,进水闸,水门
+clout~n:影响力,势力,击球,衣服|v:猛击,敲打,击打
+clove~n:丁香,峡,山路
+cloven hoof~n:狐狸尾巴
+clover~n:三叶草,苜蓿,草木犀
+clover fern~n:田字草
+clown~n:小丑,丑角,守财奴,小气鬼|v:闹笑话,说笑话,逗趣
+clownery~n:粗鲁,可笑,滑稽
+clownism~n:丑态
+cloy~v:倒胃口
+club~n:俱乐部,会,夜总会,梅花,会所,社,棒,棍棒|v:凑集,贡献,联合
+club moss~n:石松
+club together~v:凑份子
+clubman~n:花花公子
+cluck~n:咯咯,咕|v:咕咕,咕|d:咯咯
+clue~n:线索,头绪,线团,迹象,头脑,端绪,线|v:提示
+clue on~n:提供
+clump~n:丛,树丛,根基,一块|v:丛生
+clumsily~d:笨拙,拙劣,粗俗,粗陋
+clumsiness~n:笨拙
+clumsy~a:笨拙,拙劣,笨,拙笨,粗笨,蠢,愚笨,力巴,拙,蠢笨
+clumsy fellow~n:笨伯
+clumsy of speech~a:嘴笨
+cluster~n:簇|v:连缀
+cluster bomb~n:榴霰弹,子母弹
+cluster of stars~n:星团
+clustering~v:成群
+clusters of~n:累累
+clutch~v:抓住,抓|n:钩爪
+clutch coupling~v:离合器
+clutch fast~v:抓住
+clutch gold~n:铜箔
+clutter~n:喧闹,喧嚷|v:搅乱
+cluttered~a:乱糟糟
+cmos chip~n:芯片
+cnrrent money~n:通货
+co~n:共同,浓缩
+coacervation~n:凝聚
+coach~n:教练,马车,长途汽车|v:教练
+coach fellow~n:伴侣,伙伴
+coach whip~n:马鞭
+coachee~n:车夫
+coacher~n:教练,马车,辅导员
+coaching~v:补习
+coachman~n:马车夫,车把式
+coact~v:协力,协作
+coaction~n:相互作用,协力
+coactions~n:相互作用
+coadjutant~n:合作者,帮手
+coadjutor~n:助手,副手
+coagent~n:伙伴,帮手,合作者
+coagulant~n:混凝剂
+coagulate~v:凝结,凝固,凝聚,结,凝
+coagulating~v:凝聚
+coagulation~n:凝聚,凝固
+coahuilite~n:陨铁
+coal~n:煤,煤炭,煤块,炭,木炭,石炭,块煤,粉煤,煤碳,乌金
+coal ash~n:煤灰
+coal balls~n:煤球
+coal bed~n:煤层
+coal bucket~n:煤斗
+coal carbonization~n:焦化
+coal cinder~n:乏煤,煤核儿
+coal consumption~n:煤耗
+coal cutter~n:采煤机
+coal cutting~v:采煤
+coal dust~n:煤屑,煤尘,煤末
+coal extraction~n:采煤
+coal factory~n:煤厂
+coal mining~n:采煤|v:采煤
+coal oil~n:原油,石油,煤油
+coal pit~n:竖井,炭窑,煤窑
+coal quality~n:煤质
+coal rake~n:煤层
+coal scuttle~n:煤斗
+coal seam~n:煤层
+coal tar~n:煤焦油,煤黑油
+coal tub~n:罐,斗子
+coal washing~v:洗煤
+coal yard~n:煤场
+coal-black~a:漆黑
+coalbreaker~n:采煤机
+coalcutter~n:截煤机
+coaler~n:煤车
+coalesce~v:联合,合并,融合,愈合,合作,接合,合口,结合
+coalescence~n:合并,结合,聚积,联合,愈合|v:愈合,结合,胶着,聚积
+coal-face~n:采矿
+coalfield~n:煤田
+coalition~n:联盟,联合,结合,合并|v:联合,结合
+coalmine~n:煤矿
+coalpit~n:煤窑,煤坑,煤矿
+coangle~n:余角
+coapt~v:接
+coaptation~n:接合|v:接合
+coarse~a:粗,粗俗,粗糙,粗鄙,麻,奘,难听|v:粗糙
+coarse calico~n:毛布
+coarse cotton~n:毛布
+coarse cotton cloth~n:毛布
+coarse cotton thread~n:线坯子
+coarse fodder~n:粗饲料
+coarse food~n:粗茶淡饭
+coarse food grain~n:糙粮,粗粮
+coarse language~n:粗话
+coarse paper~n:草纸
+coarse rice~n:黄米,糙米
+coarse textile~n:粗纺
+coarse wool~n:粗毛羊
+coarseness~n:粗糙,劣等
+coast~n:海岸,沿海,海边,海滨,岸,下坡,边疆,滨海,滑坡|v:滑行,一帆风顺
+coast defense~n:海防
+coast defense area~n:海防区
+coast line~n:海岸线
+coastal~a:沿岸|n:沿海
+coastal beach~n:海滩
+coastal defense~n:岸防
+coastal levee~n:海堤
+coastal open regions~n:开发区
+coaster~n:滑翔机,滑板,垫子
+coasting~v:海岸线
+coastline~n:海岸线
+coastwise~d:沿岸
+coat~n:大衣,上衣,外衣,外套,毛皮,皮毛,短大衣,涂层,被覆,表皮,膜,袄
+coat armor~n:徽章
+coat fibre~n:刚毛
+coat for convicts~n:囚衣
+coat rack~n:衣帽架
+coat with lacquer~n:髹,漆
+coated abrasive~n:砂布,砂纸,纱布
+coated tongue~n:舌苔
+coat-hanger~n:衣架
+coating~n:涂层,糖衣,涂料,被覆,表皮,花呢
+coating material~n:涂料
+coatline~n:海岸线
+coatroom~n:衣帽间
+coat-stand~n:衣帽架
+coattail~n:附骥尾
+coauthor~n:合作者|v:合著
+coax~v:哄,哄骗,劝诱,哄劝,花言巧语|n:同轴电缆
+coaxial~a:同轴
+coaxial transmission line~n:同轴电缆
+coaxing~v:哄骗
+cob~v:打碎,捣碎,打|n:穗轴
+cob money~n:银角子
+cob wall~n:土墙
+cobalt~n:钴
+cobalt blue~n:深蓝
+cobaltite~n:辉钴矿
+cobber~n:合伙人,伙伴
+cobble~n:鹅卵石,石头子儿,石子,卵石|v:修补,粗制滥造
+cobbler~n:鞋匠,皮匠,胡说
+cobblestone~n:石子,鹅卵石,石子儿
+cobden~n:商人
+cobelligerent~n:友邦
+cobra~n:眼镜蛇
+cobweb~n:蜘蛛网,混乱,蛛网,陈腐
+coca~n:古柯
+coca cola~n:可口可乐,可乐
+coca-cola~n:可口可乐
+cocaine~n:可卡因,古柯碱
+cocarde~n:帽章
+cocci~n:球菌
+coccid~n:蚧虫,介壳虫
+coccus~n:球菌
+coccyx~n:尾骨
+cochineal~n:胭脂
+cochlea~n:耳蜗,蜗
+cock~n:公鸡|v:竖起
+cock at~v:轻蔑
+cock tap~n:龙头
+cockade~n:帽章
+cock-a-doodle-doos~n:鸡鸣
+cockalorum~n:大话,吹牛
+cock-and-bull~n:无稽之谈
+cockatrice~n:毒蛇
+cockchafer~n:金龟,金龟子
+cockcrow~n:黎明,日出
+cock-crowing~n:清晨
+cocke~n:科克
+cocker~v:放纵,娇养
+cockeyed~a:睐
+cockfight~n:斗鸡|v:斗鸡
+cockfighting~n:斗鸡|v:斗鸡
+cockiness~n:趾高气扬,自大
+cockle~n:火炉
+cockles~n:波纹
+cockleshell~n:小艇
+cockloft~n:阁楼,顶楼,顶层
+cockpit~n:战场,座舱
+cockroach~n:蟑螂,蜚蠊,蜚
+cocks comb~n:鸡冠
+cock's crow~n:喔
+cockscomb~n:鸡冠子,鸡冠,鸡冠花
+cock-spur~n:距
+cocktail~n:鸡尾酒
+cocktail party~n:鸡尾酒,酒会,鸡尾酒会
+cocky~v:趾高气扬,翘尾巴|a:神气
+coco~n:椰树,椰子,椰子树
+cocoa~n:可可,可可粉,可可茶,可可树,深褐色
+cocoa butter~n:药用
+cocoa tea~n:可可茶
+cocoanut~n:椰子
+coconut~n:椰子,椰树,脑袋
+coconut butter~n:椰油
+coconut milk~n:椰子汁
+coconut oil~n:椰子油
+coconut palm~n:椰子树,椰树,椰
+coconut tree~n:椰树,椰
+cocoon~n:茧,子囊
+cocoonery~n:蚕房
+cocotte~n:妓女
+cocozelle~n:西葫芦
+coctail party~n:酒会
+coction~v:煮沸
+cod~n:鳕鱼,阴囊,壳,鳕|v:愚弄
+coda~n:尾声,结尾
+coddle~v:娇养,煮,娇惯,溺爱
+code~n:代码,码|v:译
+code book~n:电码本
+code of brotherhood~n:义气
+code signal~n:暗号
+code translating~n:译码
+code translator~n:译码器
+coded~v:编码
+codein~n:可待因
+codeine~n:可待因
+code-name~v:代号
+coder~n:编码器
+codes~n:码
+codex~n:报,抄本,法典,药典
+codfish~n:鳕
+codger~n:怪人,家伙
+codicil~n:附录,备考,附注
+codify~v:整理,编纂
+coding~n:编码,译码|v:编码
+cod-liver~n:鱼肝油
+codonopsis pilosula~n:党参
+coed~n:树林
+co-ed~n:女生
+coefficient~n:系数,程度,率
+coefficient of expansion~n:体胀系数,膨胀系数
+coefficient of utilization~n:利用率
+coelenterate~n:腔肠动物
+coelia~n:体腔
+coelialgia wind colic~n:腹痛
+coelom~n:体腔
+coelome~n:体腔
+coemption~n:囤积
+coenobium~n:组合
+coequality~n:同等
+coerce~v:强制,胁迫,压服,要,劫,迫使,裹,威逼,挟,拶,勒逼,要挟,裹胁,逼迫,胁,压制,裹挟,勒,强迫
+coercion~n:强迫,压制,胁迫
+coeruleous~n:天蓝色
+coeruleus~n:天蓝色
+coexist~v:并存,共存,共处
+co-exist~v:共存
+coexist with~v:并存
+coexistence~n:共处,共存
+co-existence~n:共存
+coexistence of~n:并存
+coffee~n:咖啡,咖啡色
+coffee bar~n:小吃店
+coffee house~n:咖啡馆
+coffee shop~n:咖啡店
+coffee tea~n:咖啡茶
+coffeehouse~n:咖啡馆
+coffer~n:国库,金库,镶板,藻井,资产,隔离舱|v:贮藏
+cofferdam~n:沉箱,围堰
+coffers~n:金库
+coffin~n:灵柩,棺材,棺,寿材,棺木,陵寝,材|v:收藏
+coffin chamber~n:寝
+coffin nail~n:烟卷儿
+cog~v:行贿,诈骗
+cogency~n:中肯,恳切,说服力
+cogging~v:接头
+cogitate~v:深思|n:深思,思考
+cogitation~n:考虑,计划,设计,思考
+cognate~n:外戚,亲族
+cognation~n:同族,外戚
+cognition~n:认识,认知,知识
+cognitive science~n:认知科学
+cognizance~n:审理,记号,监督,认识,观察,承认,管辖,标记
+cognizant~a:知道,认识
+cognize~v:认知,知道,认识
+cognomen~n:别名,绰号,姓
+cognoscenti~n:行家
+cogongrass~n:白茅
+cogradient~n:同步
+cohabit~v:同居,姘居
+cohabitation~n:同居
+cohen~n:科恩
+cohere~v:凝聚,粘合,拼合,粘结,紧密,团结,一致,粘着
+cohere with~v:协调
+coherence~n:同调,仑,凝聚,一致,连贯性,内聚力,拼合,联接,伦次,统一|v:联接
+coherency~n:统一,凝聚,同调,内聚力
+coherent~a:连贯,相干,接气|v:相干
+cohesion~n:团结,内聚力,结合,连着,凝聚|v:结合
+cohesive force~n:凝聚力,内聚力
+cohort~n:共犯,区,助手,同伴,追随者,队,股
+coif~n:头巾
+coiffure~n:发型,发式
+coign~n:楔
+coigne~n:楔
+coil~n:线圈|v:绕,盘,蜷曲,卷
+coil base~n:炉台
+coil buckling~v:死扣,死扣儿
+coil out~n:出线
+coil up~n:挽,绾,缭绕
+coilia mystus~n:凤尾鱼
+coiling~a:卷绕
+coiling block~n:卷筒
+coin~v:铸造,铸,铸币,制造|n:硬币,钱币,铸币
+coinage~n:货币,铸币
+coincide~v:一致,重合,巧合,吻合,如出一辙,符合,暗合,相符|a:一致
+coincide with~v:如出一辙
+coincidence~n:巧合,一致,偶合,符合,碰巧,暗合,重合,巧事|v:符合,重合
+coincidental~a:偏巧,巧,刚巧
+coincidentally~d:偏巧,正巧
+coincidently~d:可巧
+coined money~n:铸币
+coining~v:铸币
+coinstantaneous~a:同时
+coinsure~v:分保
+coir~n:棕
+coir raincoat~n:蓑衣
+coistrel~n:流氓,恶棍,无赖
+coistril~n:恶棍,流氓,无赖
+coition~n:交尾,交配,性交,交媾|v:交尾
+coitus~n:交媾,交配,交尾,性交|v:交尾,性交
+coke~n:焦炭,可口可乐,可乐|v:结焦,炼焦|a:焦
+coke making~n:炼焦
+coke rating~n:焦化
+coke tar~n:焦油
+coking~v:结焦,焦化,炼焦
+coking coal~n:焦煤,主焦煤
+col~n:唣,山坳,山口,坳,山坞
+colander~n:漏勺,滤器,筛网
+colating~v:过滤
+colation~v:过滤
+colatuie~n:滤液
+cold~a:冷|n:风寒
+cold abscess~n:骨髓炎
+cold air~n:冷空气,凉气,冷气团
+cold air blast~n:冷风
+cold as charity~n:冷若冰霜
+cold bed~n:冷床,阳畦
+cold buffet~n:冷荤
+cold colour~n:冷色
+cold compress~n:冷敷
+cold cream~n:冷霜
+cold cuts~n:冷盘
+cold damage~n:冻害,冷害
+cold dew~n:寒露
+cold dish~n:小吃,凉碟
+cold feet~n:胆小,害怕
+cold frame~n:阳畦,冷床
+cold front~n:冷锋
+cold frost~n:严霜
+cold hearted~v:心狠手辣
+cold in manner~n:冷
+cold injury~n:冻伤
+cold light~n:寒光,冷光
+cold meat~n:冷荤,死尸
+cold night~n:寒夜
+cold palace~n:冷宫
+cold pig~n:尸体
+cold process~n:冷加工,冷处理
+cold purse~n:贫穷
+cold receptioin~n:冷遇
+cold reception~n:冷遇
+cold rectifying~n:冷轧
+cold reduction~n:冷轧
+cold remark~n:冷语
+cold shoulder~n:藐视,冷遇,碰一鼻子灰
+cold storage~n:冷库
+cold store~n:冷藏库
+cold treatment~n:冷处理
+cold turkey~n:即席,莽撞,突然
+cold water~n:冷水
+cold weather~n:冷天,霜天
+cold welding~n:冷焊
+cold wind~n:凉风,冷风
+cold words~n:冷言冷语
+cold work~v:冷加工
+cold working~n:冷加工
+cold zone~n:寒带
+cold-air outbreak~n:寒潮
+cold-blast air~n:冷风
+cold-blood creature~n:冷血动物
+cold-blooded animal~n:冷血动物
+cold-hearted person~n:冷血动物
+cold-meat party~n:丧事,守夜
+cold-resistant~a:耐寒
+cold-roll~v:冷轧
+coldshoulder~v:疏远
+cold-shoulder treatment~v:闭门羹
+cold-storage~n:冷藏
+cole~n:科尔,油菜
+coleopter~n:直升飞机
+coles~n:阴茎
+coleseed~n:油菜
+colewort~n:油菜
+colibacillus~n:大肠杆菌
+colic~n:绞痛,腹痛
+colic pain~n:绞痛
+colica~v:绞痛
+coliseum~n:体育馆,戏院,体育场,音乐厅
+colitis~n:结肠炎
+collaborate~v:合作,勾结,通敌,提携,私通,协调,协作,串通,串通一气,合流
+collaborate in evildoing~v:沆瀣一气
+collaborate in villainy~v:朋比为奸
+collaborate on~v:合作
+collaborate with~v:勾结,私通
+collaboration~n:合作,勾结,协作,通敌,合著,合作化
+collaborationism~n:通敌
+collaborationist~n:卖国贼
+collaborator~n:合作者,卖国贼
+collage~n:大杂烩
+collapsar~n:黑洞
+collapse~v:倒塌,塌|n:虚脱,暴跌,衰弱|a:衰弱
+collapse completely~v:一败涂地
+collapse in disorder~n:溃散
+collapse therapy~n:萎陷疗法
+collapse under pressure~n:压垮
+collapsed~a:虚脱
+collapsible tube~n:软管
+collar~n:领子,衣领,项圈|v:领,捉,捕
+collar band~n:领口
+collar flash~v:领章
+collarbone~n:锁骨
+collate~v:整理,对照,校对,校,校勘,配页,核对,检查,勘
+collateral~n:旁系亲属,抵押品|a:抵押,并行|v:抵押
+collateral branch~n:旁支
+collateral for loan~n:抵押品
+collateral relative~n:旁系亲属
+collaterality~v:附属
+collateralize~v:抵押
+collating~v:核对
+collation~n:茶点,整理,对照,核对,校勘,校对|v:对照
+colleage~n:伙伴
+colleague~n:同事,同僚,同行,伙伴,同人
+collect~v:收集,搜集,聚集,采集,收,集中,镇定,集,领取,收取,收藏,募集,采,汇集,聚积,提取,堆积,整理,捡,征集,征收,募捐,推测,屯,拾取,搜,搜罗,召集,募,收款,凑合,集聚,辑,罗致,齐集,汇总,征发,汇聚,收罗|n:辑
+collect alms~v:募化,劝化
+collect books~v:藏书
+collect donations~v:募捐
+collect fees~v:收费
+collect firewood~v:打柴
+collect folk songs~v:采风
+collect funds~v:筹募
+collect manure~v:积肥
+collect money~v:醵
+collect one's thoughts~v:定神
+collect oneself~v:定神
+collect seeds~v:采种
+collect soldiers~v:募兵
+collect tax~v:征税
+collect taxes~v:收税
+collect ticket~v:检票
+collect together~v:攒
+collectability~n:收集
+collectanea~n:选集
+collected biographies~n:列传
+collected papers~n:集刊
+collected works~n:全集,集子
+collected writings~n:钞
+collectedly~d:泰然
+collectedness~n:镇定
+collecting anode~n:集电极
+collecting electrode~n:集电极
+collection~n:集合,收集,募捐,采集,美术馆,珍藏,捐款,托收,文集,集|v:录,汇
+collection of poem~n:诗选
+collection of poems~n:诗集
+collection of tunes~n:词谱
+collection works~n:集子
+collections~n:收集
+collective~n:大我|a:公
+collective economy~n:集体经济
+collective effort~n:协力
+collective household~n:集体户
+collectivism~v:集体化|n:集体主义
+collectivity~n:集团,集体主义,集体,全体,总体
+collectivization~n:集体化
+collectivize~v:集体化
+collector~n:收藏家,集电极,收票员,收款员,集流环
+collector electrode~n:集电极
+collector ring~n:集流环
+collectorship~n:收集
+colleen~n:少女,姑娘
+college~n:大学,学院,学,院校,高等学校,学会,院,感化院,宿舍,校舍,团体,收容所,黉
+college entrance examination~n:高考
+college of arts~n:文学院
+college of science~n:理学院
+colleger~n:学生
+collegiate system~n:合议制
+collegium~n:学院
+collide~v:相撞,碰撞,冲突,撞,抵触,冲撞,碰头,冲,磕碰,撞车
+collide with~v:磕碰,碰撞
+collider~n:对撞机
+collier~n:矿工
+colliery~n:煤矿
+colligate~v:总括,综合
+colligation~n:绑扎
+collimate~v:校准,瞄准,照准
+collimating~v:校正
+collimation~n:校准,瞄准,光学
+collision~n:碰撞,冲突,抵触,碰头,倾轧|v:打击,截击
+collocate~v:并列,布置,搭配,排列
+collocate with~v:布置,配置
+collocation~n:搭配,并列,排列,布置,配置
+collocystis~n:胶囊
+colloform~n:胶体
+collogue~v:密谈
+colloid~n:胶体|a:胶质,胶体
+colloidal particle~n:胶粒
+colloidal sol~n:溶胶
+colloidal substance~n:胶体
+collophony~n:松香
+colloquial language~n:口语
+colloquialism~n:口语
+colloquilism~n:口语
+colloquium~n:讨论会
+colloquy~n:会话,谈话,讨论,会谈
+collotype~n:珂罗版
+collude~v:共谋,沟通,串通一气,穿连裆裤,勾,串通,通同,拉扯
+collude with~v:勾,拉扯,沟通
+collum femoris~n:股骨颈
+collusion~n:串通|v:共谋
+colly~n:煤灰
+colmatage~v:放淤
+colmation~v:放淤
+coloclysis~v:灌肠
+coloclyster~v:灌肠
+cologne~n:科隆,花露水
+colombia~n:哥伦比亚
+colombo~n:科伦坡
+colon~n:结肠,冒号
+colon sigmoideum~n:乙状结肠
+colonel~n:上校
+colonial slave~n:亡国奴
+colonialism~n:殖民主义
+colonitis~n:结肠炎
+colonization~n:移植,殖民,占据|v:占据
+colonize~v:殖民,移植,打入
+colony~n:殖民地,菌落,集群,群体,属地,集团,群
+colophon~n:版权页
+colophong~n:松香
+colophonium~n:松脂
+colophony~n:松香,树脂,松脂
+color~n:颜色,色彩,彩色,肤色,色,色调,颜料,色素,血色,情调,染料,格调|v:彩色,设色
+color crayon~n:彩笔
+color of skin~n:肤色
+color scanning mirror~v:分色镜
+colorado~n:科罗拉多
+colorant~n:着色剂,颜料,染料
+coloration~n:染色,着色,色彩|v:染色
+coloratura~n:花腔
+colorature~n:花腔
+colored~a:有色,花
+colored flag~n:彩旗
+colored glaze factory~n:琉璃厂
+colored lamp~n:彩灯
+colored lanterns~n:灯彩
+colored light~n:色光
+colored paper~n:色纸
+colored ribbon~n:彩带
+colored shirt~n:花衫
+colorful~a:多彩,蔚,五颜六色,五彩,花花绿绿,艳,五彩缤纷
+colorfully decorated lantern~v:华灯
+colorimeter~n:比色计
+coloring~n:伪装,染料,颜料|v:染色
+coloring material~n:着色剂,色素
+colorless~a:无色
+colorlessness~n:无色
+colors~n:军旗,旗帜
+color-television~n:彩色电视
+colossal~a:巨大,庞大
+colossian~n:歌罗西人
+colossus~n:庞然大物,巨人
+colour~n:脸色,气色,染料,格调,色调,着色|v:染色|a:彩色
+colour aberration~v:色差
+colour bar~n:彩带,色带
+colour blindness~v:色盲|n:色盲
+colour chips~v:漆片
+colour combination~v:配色
+colour decoration~v:彩绘
+colour difference~v:色差
+colour discrimination~v:种族歧视
+colour fading~v:褪色
+colour festoons~v:彩
+colour film~v:彩色片,彩卷
+colour matching~v:配色
+colour news~v:花边新闻
+colour of face~n:面色
+colour of loess~n:土黄
+colour of silver~n:银白
+colour of skin~n:肤色
+colour painting~v:彩画
+colour photo~v:彩照
+colour printing~v:套色版
+colour process~v:套色
+colour register~v:套色
+colour spectrum~v:色谱
+colour television~v:彩色电视
+colour temperature~v:色温
+colour tv~n:彩电
+colour up~v:脸红
+colour vision~v:色觉
+colourant~n:染料,颜料
+colouration~n:色彩,染色
+coloured~a:有色,黑人,花
+coloured drawing~n:彩绘
+coloured lanterns~n:灯彩
+coloured paper~n:潢
+coloured people~n:有色人种
+coloured race~n:有色人种
+coloured sculpture~n:彩塑
+coloured silk~n:彩
+coloured stone~n:宝石
+coloured-lantern making~n:灯彩
+colourful~a:五颜六色,艳,花花绿绿|v:五彩缤纷
+colourful clouds~n:彩云
+colouring~n:色彩,着色,特色,外观,伪装,倾向,外貌,血色
+colourless~a:无色|v:无色
+colours~n:军旗
+colpitis~n:阴道炎
+colt~n:马驹,驹,生手
+colter~n:犁头
+coltsfoot~n:款冬
+columber~n:哥伦布
+columbia~n:哥伦比亚
+columbian spirits~n:甲醇
+columbus~n:哥伦布
+column~n:列,行,栏,专栏,柱,纵队,立柱,塔,支柱,床身,栏目,连杆
+column after column~n:连篇累牍
+column cap~n:柱头
+column capital~n:柱头
+column number~n:区号
+column of fire~n:火柱
+column-shaped things~n:柱
+colvin~n:委员会
+colza~n:菜种,菜籽
+coma~n:昏迷,怠惰,麻木
+comandante~n:司令官
+comate~n:伙伴
+comb~v:梳头,梳,梳理|n:梳,鸡冠,冠,肉冠,蜂房,冠子
+comb out~v:淘汰,搜寻,清洗,清查
+combat~n:搏斗,格斗,肉搏|v:反对,抗,防止,反
+combat drought~v:抗旱
+combat earthquakes~v:抗震
+combat effectiveness~v:战斗力
+combat gains~v:战绩
+combat in street~v:巷战
+combat nature~v:战天斗地
+combat success~v:战果
+combat zone~v:战地
+combatant~n:战士,战斗员,队员|a:战斗员
+combe~n:峡谷
+combination~n:组合,结合,联合,混合,合并,配合,共谋,化合,总合,同谋,合作
+combination marrying~n:合成
+combination pliers~n:克丝钳子
+combine~v:结合,合并,联合,化合,合,兼备,并|n:联合
+combine harmoniously~v:合璧
+combine into one~v:合而为一,合一
+combined~v:联合
+combined cabinet~v:组合柜
+combined efforts~n:协作
+combined issue~n:合刊
+combined recorder~n:组合音响
+combined transport~n:联运
+combining~v:合成|n:组合
+comb-out~n:搜集,搜罗,清除
+combust ability~n:可燃性
+combustibility~n:可燃性
+combustible~a:易燃,可燃
+combustibles~n:易燃物
+combustion~n:燃烧,氧化|v:燃烧
+combustion chamber~n:炉膛
+combustion engine~n:内燃机
+combustion initiation~n:点火
+combustion motor~n:内燃机
+combustion turbine~n:燃气轮机
+combustion-supporting~v:助燃
+combustor~n:燃烧室
+come~v:来,是,到,出来,进来,来到,过来,去,开始,来自,下来,发生,上,传来,出现,得到,出,做,跑,上来,到来,离开,来临,获得,降临,改变,提出,接,前来,落,走近,开来,变成,想起,取,赶来,醒,出版,达到,碰见,清醒,前进,装,上演,真相大白,加入,下降,交,打击,携,降落,总计,传出,离间,撞,败落,遇见,降,脱险,崩溃,旋,出苗,赴,出土,归入,不期而遇,脱出,打照面儿,退步,松开,退烧,脱开,出面,逢,遭逢,照面儿,出线,从中作梗,发源,过访,出头,绕道,得手,没落
+come a cropper~v:摔跟头,栽跟头,摔交
+come a fly~v:飞来
+come across~v:不期而遇,迕,遭逢,照面儿,打照面儿,撞,碰见,遇见
+come across with~v:吐露真情
+come alive~v:活现
+come along with~v:随同
+come amiss~v:出错
+come apart~v:崩溃
+come around~v:过访,绕道
+come ashore~v:登陆
+come at~v:得到,达到
+come away~v:离开
+come back~v:再,旋
+come back to~v:重返
+come back victorious~v:凯旋归来
+come between~v:离间,从中作梗
+come by~v:得到,获得
+come close to~v:接
+come crowding in~v:一拥而入
+come down~v:落魄,下来,下降,降,落,没落,退步,退烧,降落,败落,降临
+come down on~v:惩罚,斥责
+come down to~v:变为
+come down with~v:得到,染上
+come endlessly~v:源源不绝
+come for~v:取,接,携
+come forth~v:出来,涌现,出笼
+come forward~v:出面,前进,出头
+come forward courageously~v:挺身而出
+come from~v:发源,起源,来自
+come from above~v:从天而降,自上而下
+come from below~v:自下而上
+come full circle~v:周而复始
+come here~v:至此
+come home~v:击中要害
+come home to~v:感动
+come in~v:进来
+come in for~v:接受,受到
+come in from~v:进来
+come in pat~v:脱口而出
+come in sight~v:出现,看见
+come into~v:得到,加入
+come into being~v:诞生,长,产生,出世
+come into bloom~v:开放
+come into collision~v:相撞
+come into contact~v:搭
+come into effect~v:行之有效
+come into existence~v:成立,出生,发
+come into flower~v:开花
+come into force~v:生效
+come into luck~v:福星高照
+come into possession~v:获得,占有
+come into power~v:上台,得势
+come into question~v:成问题
+come into sight~v:看见,出现
+come into vogue~v:蔚然成风
+come late~v:迟到
+come loose~v:开,散
+come near~v:差点儿,就,临到,几乎
+come next~v:跟随
+come of~v:是,来自
+come of age~v:成年
+come off~v:发生,变成,得手,松开,脱开,脱出
+come off duty~v:下班
+come off guard~v:下班
+come off well~v:实现
+come on~v:提出,来,上演
+come out~v:出现,达到,出线,出苗,传出,真相大白,出版,出来
+come out as~v:来得
+come out boldly~v:挺身而出
+come out empty-handed~v:鸡飞蛋打
+come out first~v:首屈一指,独占鳌头
+come out of~v:结果,出自
+come out pugnaciously~v:赤膊上阵
+come out strong~v:大显身手
+come out with~v:发表,出版,公布
+come over~v:改变,过来
+come right out~v:直截了当
+come roughly to~v:约计
+come round~n:拜访,清醒,恢复
+come singly~v:单行
+come straight~v:单刀直入
+come swaggeringly~v:大摇大摆
+come through~v:传来,来,脱险
+come to~v:稣,清醒,苏,总计,底,醒,缓
+come to be~v:变成
+come to blows~v:大打出手,打架,厮打,干架
+come to business~v:言归正传
+come to call~v:来访
+come to deadline~v:满期
+come to grief~v:吃亏
+come to grips~v:交手
+come to know~v:尝,发觉
+come to light~v:东窗事发,显露,出现
+come to naught~v:破产,付诸东流,化为乌有,徒劳无功,徒劳无益,一场空,失败,落空
+come to nothing~v:化为乌有,失败,落空
+come to pass~v:实现
+come to pieces~v:粉碎,四分五裂
+come to power~v:上台
+come to see~v:上门
+come to terms~v:妥协
+come to understand~v:醒,觉悟
+come to use~v:得用
+come to visit~v:登门
+come together~v:汇集,聚合,萃,会面,归
+come under~v:归入,蒙
+come under attack~v:挨打
+come unexpectedly~v:突如其来
+come unstuck~v:脱胶
+come up~v:提出,出土,走近,来,上来,发生,过来
+come up against~v:遇到
+come up to~v:符合,及
+come up with~v:赶上
+come upon~v:逢,碰见,打击,值
+come very naturally~v:自然而然
+come what may~v:发生
+come-and-go~n:交通,往来,来回
+comeback~n:恢复,重整旗鼓
+comedian~n:丑角
+comedo~n:粉刷
+comedown~n:败落,没落
+comedy~n:喜剧,喜剧片
+come-hither~a:挑逗,诱惑
+comeliness~n:清秀,合宜,适当,美丽
+comely~a:标致,明眸皓齿
+come-on~n:引诱,诱惑
+comes~n:伴星
+comestible~v:食物|n:食物
+comet~n:彗星,彗,孛,扫帚星
+comether~n:事件,友谊,事情
+comeuppance~n:因果报应
+comfit~n:糖果|v:解劝
+comfort~v:安慰|n:愉快,援助,慰劳品,写意,甜水|a:舒适
+comfort room~n:洗手间
+comfort station~n:洗手间
+comfort woman~n:慰安妇
+comfortable~a:舒适,舒服,舒舒服服,自在,适意,爽快,小康,自由自在,舒坦,甜美,伏贴,闲适,宽慰|n:小康,快意|v:自由自在
+comfortable seats~n:雅座
+comfortably~d:愉快,安乐
+comfortably off~v:宽裕,宽,宽绰,小康,宽余
+comfortably warm~v:暖烘烘
+comforter~n:鸭绒被
+comic~a:喜剧,俳谐
+comic stories~n:笑谈
+comic talk~n:滑稽
+comical~a:滑稽,俳,哏
+comicality~n:滑稽
+coming~a:下|n:未来,到达,萌芽
+coming directly towards~n:顶头
+coming in succession~n:鱼贯而入
+coming late~n:晚
+coming-of-age~n:成年,成熟
+comintern~n:共产国际
+comitia~n:议会
+comity~n:礼让,礼貌
+comm~n:通信
+comma~n:逗号,逗点
+command~v:命令,指挥|n:信号,展望|a:伪
+command an order~v:喝令
+command module~n:驾驶舱
+command post~v:指挥部
+command troops~n:用兵
+commandant~n:司令官,指挥官,校长
+commandeer~v:征用,征发
+commander~n:指挥官,司令官,指挥员,司令,司令员,统帅,船长,指挥,麾下,将领,主将
+commander in chief~n:总司令,帅,大帅,统帅
+commander-in-chief~n:总司令,统帅
+commanding elevation~n:制高点
+commanding general~n:主将
+commanding height~n:制高点
+commanding officer~n:司令,舰长,司令员,长官
+commandism~n:命令主义
+commandment~n:戒律,戒条,诫
+commando~n:突击队,别动队
+commando unit~n:突击队
+commands~n:命令|v:命令
+commemorate~v:纪念,庆祝
+commemoration~n:纪念
+commemorative~a:纪念|v:纪念|n:纪念物
+commemorative album~n:纪念册
+commence~v:开始,肇,着手,肇始
+commence an undertaking~v:发轫
+commencement~n:开始,发端
+commencing speed~n:初速
+commend~v:称赞,赞扬,表扬,推荐,委托,托付,称道,哿,奖,彰,褒奖,褒扬,赞许,称,显扬,夸奖,委任,赞,称许,夸赞|n:嘉奖
+commendation~n:奖品,称许,赞美,推荐,赞赏|v:称许
+commendatory~a:解说词,褒义
+commendatory term~n:褒义词
+commensalism~n:共栖,共生
+commensurability~n:相应,相称
+commensuration~n:相应,相称
+comment~n:评论,意见,批评|v:评说,解说,论说,评注,议论,注释
+comment on~n:评说
+comment on film~n:影评
+commentaries on classics~n:传
+commentary~n:评论,解说,评注,批评,按语,疏,述评,注释,笺
+commentate~v:评注,注释,评论,释义
+commentator~n:评论员,政论家
+comments~n:按语
+commerce~n:商业,贸易,商务,交际,商,社交,交流,性交,应酬
+commercial~v:商用|a:商用
+commercial act~n:商法
+commercial agent~n:代理商
+commercial articles~n:商品
+commercial building~n:商品房
+commercial fertilizer~n:商品肥料
+commercial firm~n:商店,商行
+commercial house~n:商行
+commercial intercourse~n:通商
+commercial law~n:商法
+commercial net~n:商业网
+commercial operation~n:交易
+commercial painter~n:画工
+commercial port~n:商港,埠
+commercial racketeer~n:奸商
+commercial war~n:商战
+commercial world~n:商界
+commie~n:共产党员
+comminate~v:威吓
+commination~n:威吓
+commingle~v:混合
+comminute~v:分割
+comminuting machine~n:粉碎机
+comminution~n:磨损,粉碎
+comminutor~n:粉碎机
+commiserate~v:同情,哀怜,哀悼,怜悯,悯
+commiserate with~v:同情,怜悯
+commiseration~n:同情,怜悯
+commissar~n:政委
+commissariat~n:给养,军粮
+commissary~n:代理人,代表
+commission~n:委员会,佣金|v:启动,代办
+commission agent~n:代销店,批发商
+commission on sales~n:回扣
+commissionaire~n:门警
+commissioner~n:长官,专员,特派员,督察
+commissioning~v:开工,投产,启动
+commit~v:犯,干,承担,做,托,委托,交付,判处,收,委任,累及,提,委,下,付,损坏
+commit a crime~v:作案,犯罪
+commit a howler~v:铸成大错
+commit a sin~v:造孽,作孽
+commit adultery~v:偷人,通奸
+commit arson~v:放火
+commit briberies undisguisedly~v:贿赂公行
+commit evil acts~v:胡作非为
+commit foolish acts~v:胡作非为
+commit hara-kiri~v:剖腹
+commit high treason~v:大逆不道
+commit highway robbery~v:拦路抢劫
+commit misdemeanor~v:惹事生非
+commit suicide~v:寻短见,抹脖子,自杀
+commit the crime~v:作案
+commit to~v:付
+commit to memory~v:记住,记,识,熟记
+commit to oblivion~v:置之脑后
+commit treason~v:叛国,卖国
+commitment~n:义务,诺言,委托,许诺,债务,犯罪,关押,交托,托付,买卖,信仰,约束,委任,拘留,提交,投入,赞助,作为
+committed to prison~a:收监
+committee~n:委员会,监护人,委
+committee member~n:委
+committee of resident~n:居委会
+committee of science~n:科委
+committeeman~n:委员
+commixture~v:混合|n:混合
+commmence~v:入手
+commode~n:马桶,便桶,桶,衣柜,恭桶
+commodious~a:宽敞,宽绰
+commodities inspection~n:商检
+commodity~n:商品,农产品,货物,利益,货,日用品
+commodity economy~n:商品经济
+commodity price~n:货价
+common~a:共同,常见,普通,普遍,一般,公共,常,平常,平凡|n:通,紫罗兰|v:共有,盛
+common accumulation fund~n:公积金
+common bathing pool~n:浴池,澡塘
+common beam~n:标准
+common beet~n:糖萝卜
+common cold~n:伤风,感冒
+common crane~n:灰鹤
+common denominator~n:公分母
+common dishes~n:小菜
+common doings~n:粗食
+common enemy~n:公敌
+common etiquette~n:戛
+common factor~n:公因式
+common failing~n:通病
+common fault~n:通病
+common fraction~n:简分数
+common fuse~n:导火线
+common good~n:克己奉公,公益
+common ground~n:共同点
+common house centipede~n:蚰蜒
+common housefly~n:麻蝇
+common knowledge~n:常理,常识
+common language~n:共同语
+common law~n:不成文法
+common man~n:平民,白丁
+common market~n:共同市场
+common measure~n:公约数
+common name~n:通称
+common nepenthes~n:猪笼草
+common obligation~n:公债
+common occurrence~n:常事,数见不鲜
+common one~n:卒子
+common people~n:平民,生角,常人
+common peril~n:白苏
+common perilla~n:荏
+common perpendicular line~n:公垂线
+common point~n:共同点
+common pond frog~n:青蛙
+common practice~n:习尚,通例,常规,常例
+common property~n:共产
+common quality~n:一般性
+common ratio~n:公比
+common reserve funds~n:公积金
+common rush~n:灯心草
+common salt~n:盐巴,氯化钠,石盐
+common saying~n:俗语,口头禅,谚语
+common seal~n:公章
+common sense~n:常情,通情达理
+common sight~n:屡见不鲜
+common speech~n:普通话
+common stock~n:普通股
+common thief~n:惯盗
+common turmeric~n:郁金
+common vetch~n:薇
+common view~n:共识
+common year~n:平年
+commonage~n:老百姓
+commonality~n:通用性,老百姓,共性,民众
+commonalty~n:团体,民众,平民,老百姓
+commoner~n:平民,白丁,布衣
+commoners~n:布衣
+commonly seen~a:习见
+commonly used words~v:常用字
+commonness~n:普通
+commonplace~a:平凡,平庸,如常,简单|n:常事,凡响,凡俗|v:如常
+commonplace book~n:备忘录,笔记本
+commonplace remark~n:老调
+commonplace sayings~n:口头禅
+commons~n:平民,民众,食物,化合物,众议院
+common-stock~a:普通股
+commonweal~n:公益,共和国,国家
+commonwealth~n:联邦,公民,团体,共和国,国家
+commotio~v:震荡
+commotion~n:混乱,动乱,骚动,暴动,骚扰
+commove~v:搅乱
+communal~a:公共|v:公用
+commune~v:谈心,内省,商量,交谈|n:沉思
+commune hospital~n:卫生院
+commune member~n:社员
+communicable subtropical diseases~n:瘴疠
+communicate~v:通信,传染,表达,相通,交际,联络,转告,转达,沟通,传达,传送,达,通,传,传授,交通,照会
+communicate by letter~v:通信
+communicate by tele-equipment~v:喊话
+communicate by telephone~v:通话
+communicate to~v:照会
+communicate with~v:联络
+communicating vessels~n:连通器
+communication~n:通信,信息,通讯,联系,交通,交际,交换,通讯网,传达,传播,通报,口信,书信,通知,传染,传授|v:通信
+communication center~n:要冲
+communication network~n:交通网
+communication satellite~n:通讯卫星,通信卫星
+communications~n:交通
+communications centre~n:要冲
+communications hub~n:要冲
+communicator~n:通信员
+communion~n:共享,交流,共有
+communique~n:公报
+communism~n:共产主义
+communist~n:共产党员,共产党
+communist party~n:共产党
+communist youth league~n:青年团
+community~n:社区,社会,群落,共同体,团体,公社,圈子,大家庭,村落,集体,联营,共性,共有,一致,乡镇
+community chest~n:公益金
+communize~v:公有化
+commutate~v:换位,换向,变换
+commutation~n:减刑,换算,划拨,换向,交换,整流,抵偿,变换|v:交换,整流
+commutator~n:整流器,交换台,交换机,集电极
+commute~v:改判,减刑,变换,互换,划拨,减免,整流,交换,折算,抵偿,兑换
+commute a sentence~v:减刑
+commy~n:共产党人
+comp~n:招待券,恭维话
+compact~n:协议,契约|a:紧密,紧凑,严谨,凝练|v:简化
+compact disc~n:光盘
+compact of~v:构成
+compact planting~v:密植
+compact type~n:小型
+compactedness~a:稠密
+compacting~v:镇压
+compaction~n:压缩,紧密,致密|v:压缩
+compactness~n:精致
+compadre~n:伙伴,至交
+compages~n:结构,骨架
+companero~n:伙伴
+companion~n:同伴,伙伴,伴侣,朋友,伴儿,伴星,伴,侣伴,手册,侣|v:交往,同行
+companion in adversity~n:患难之交
+companion in youth~n:竹马青梅
+companion star~n:伴星
+companionate marriage~n:同居
+company~n:公司,朋友,连,作伴,连队,交往,群,聚会,交际,商号,伴侣,队,消防队,伙,商务,商社,来客,一行,伍,行会,中队|a:伍
+company act~n:公司法
+company head~n:连部
+company quartermaster~n:司务长
+company with~n:交往,奉陪
+comparative degree~n:比较级
+comparative law~n:比较法
+comparative literature~n:比较文学
+comparative price~n:比较价格
+comparatively~d:比较,较,相对,较比,较之,差
+comparatively speaking~n:相对而言
+comparatively well-off~a:小康
+comparator~n:比色计
+compare~v:比较,相比,比,对|n:校,形
+compare favorably~v:媲美
+compare favourably with~v:媲美
+compare to~v:比
+compare unrealistically~v:攀比
+compare with~v:相比,比较
+comparing rule~n:比例尺
+comparison~n:比较,对比,比,比喻|v:对比
+comparison expression~n:关系式
+comparison method~n:比较法
+compart~v:隔开,分割
+compartition~v:公布
+compartment~n:车厢,间隔,室,舱,船舱
+compartmentalise~v:划分
+compartmentalize~v:划分
+compass~n:罗盘,指南针,圆规|v:了解,计划,图谋,领悟,完成,围绕
+compassed tea~n:紧压茶
+compasses~n:规,圆规,两脚规
+compassess~n:圆规
+compassion~n:同情,怜悯,恻隐之心
+compassionate~v:同情,体恤|a:怜悯
+compatability~n:相似
+compatibility~n:协调,兼容,适应,适合,一致
+compatibility of medicines~n:配伍
+compatible~a:兼容,相容|v:兼容,相容
+compatibly~d:和气
+compatriot~n:同胞,胞,国人
+compatriots~n:国人
+compeer~n:同辈,伙伴
+compel~v:迫使,强迫,不得不,逼,迫,强制,逼迫,强逼,拶,劫,勒,勒令,推动,驱迫,强使,驱使
+compellation~n:姓名,称呼,头衔,呼唤
+compelled by circumstances~v:迫不得已
+compelled to~v:不等
+compendious~a:言简意赅,简括
+compendiously~d:简括
+compendium~n:大纲,梗概,一览表,纲要,概略,摘要,概论,纲领
+compensate~v:补偿,赔偿,酬劳,抵,抵补,抵偿,赔,赓,赔钱,取偿,恤
+compensate for~v:补偿,抵,取偿,赔偿,偿,抵补
+compensation~n:赔偿,补偿,赔偿费,报酬,薪水|v:补偿
+compensatory~v:代偿|a:代偿
+compere~v:指挥|n:司仪
+compete~v:竞争,比赛,争,比,争胜,匹敌,赛,抗衡,对抗,竞赛
+compete against~v:竞争
+compete for~v:夺
+compete in~v:竞争
+compete medicines~v:配伍
+compete with~v:竞争
+competence~n:能力,胜任,才干,权限,资格,权能
+competency~n:权限,资格,能力,权能,胜任
+competent~a:能干,称职,行,得力,得用
+competent people~n:人才
+competition~n:竞争,比赛,竞赛,赛,生存竞争
+competitive bidding~n:竞标
+competitive election~n:差额选举
+competitive gym~n:竞技体操
+competitive tender~n:竞标
+competitiveness~n:竞争,竞争性
+competitor~n:竞争者,选手,敌手
+compilation~n:编辑,汇编,汇集
+compile~v:编,编纂,编写,编制,汇编,搜集,纂,汇集,辑录,编选,辑,编著,著述,编订,编辑,编造,编撰|n:辑
+compile programme~v:编译程序
+compiler~n:编译程序,编者,编译器,编辑
+compiler language~n:编译语言
+complacence~n:满足,自满,骄傲自满,自得
+complacency~n:自满,满足,骄傲自满,自得
+complacent~a:自满,得意,自鸣得意,踌躇满志,飘飘然,志得意满,得,满|v:志得意满
+complain~v:抱怨,发牢骚,埋怨,投诉,申诉,诉苦,控告,控诉,牢骚,怨,叫屈,鸣冤,抗议|n:牢骚
+complain about~v:埋怨
+complain incessantly~v:叫苦不迭
+complain of~v:叫屈,抱怨,嫌
+complainant~n:原告
+complainment~n:牢骚
+complaint~n:投诉,抱怨,意见,怨言,牢骚,申诉,控诉,指控,怪话,疾患,不平,陈诉|a:不平
+complaisance~n:讨好,恳切,殷勤
+complaisant~a:婉顺
+complect~v:交织
+complement~n:补码,补充,补语,互补|v:补充,补助,填,互补,补足
+complement angle~n:余角
+complement each other~v:相成,相得益彰,相辅相成
+complemental colour~n:补色
+complementarity~n:补充,互补
+complementary~a:互补,补充|v:补充
+complementary angle~n:余角
+complementary colour~n:补色
+complementation~n:互补
+complete~a:完全|v:完,落成
+complete a project~v:完工
+complete alternation~n:周期
+complete annihilation~n:灭顶之灾
+complete apathy~n:槁木死灰
+complete collapse~n:覆灭
+complete darkness~n:漆黑
+complete devastation~n:寸草不留
+complete elementary school~v:完小
+complete harmony~n:一团和气
+complete leaf~n:完全叶
+complete machine~n:整机
+complete primary school~v:完全小学
+complete set~n:全套,成套
+complete set of~n:整套
+complete vanish~n:烟消云散
+complete victory~n:全胜
+complete with everything~v:一应俱全
+complete works of~n:大全
+completed circuit~n:通路
+completely~d:完全,全,十分,全然,清,满,截然,全都,一干二净,根本,透,根,一股脑儿,干净|n:浑然,根|a:完全
+completely accept~v:信服
+completely annihilate~v:全军覆没
+completely annihilated~v:全军覆没
+completely cut off~v:隔绝
+completely different~a:判若鸿沟,截然不同
+completely discredited~v:威风扫地
+completely eradicate~v:杜绝
+completely illiterate~a:胸无点墨,不识一丁,目不识丁
+completely informal~a:旁若无人
+completely insignificant~a:一钱不值
+completely irrelevant~a:毫不相干
+completely loyal~a:忠心耿耿
+completely mashed~v:稀烂
+completely mistaken~a:大错特错
+completely naive~a:浑浑噩噩
+completely natural~a:浑金璞玉
+completely negate~v:一棍子打死
+completely new~a:崭新
+completely recovered~v:大好
+completely uninjured~a:安然无恙
+completely unmasked~a:原形毕露,暴露无遗
+completely unperturbed~a:毫不在乎
+completely wash-up~a:一刀两断
+completely without conscience~p:狼心狗肺
+completely wrong~a:一无是处
+completeness~n:完全,完整性,十全,全面
+completion~n:完成,结束,实现,毕业,落成,期满,成就
+complex~n:复合句|a:错综
+complex compound~n:络合物
+complex concrete number~n:复名数
+complex font~n:繁体
+complex line~n:复线
+complex number~n:复数
+complex tone~n:复音
+complexion~n:肤色,面色,脸色,气色,采,情况|v:采
+complexion colour~n:气色
+complexity~n:复杂性,复杂,复合物
+complexity of things~n:天高地厚
+compliance~n:服从,答应,依从,顺从,温和,和蔼,应允,盲从
+compliancy~n:盲从,温和,顺从,应允,答应,服从,和蔼
+compliant~a:依从
+complicacy~n:复杂性
+complicate matters~v:节外生枝
+complicated~a:复杂,曲折
+complicated labor~n:复杂劳动
+complication~n:并发症,复杂,合并症,纠纷,纠葛,枝节,错杂,周折
+complications~n:葛藤,并发症|a:曲折
+complice~n:同伙
+complicity~n:同谋,共犯,共谋,牵连
+compliment~n:恭维话,问候,敬意|v:恭维,夸奖,夸赞,恭惟
+complimentary copy~n:赠阅本
+complimentary ticket~n:优待券
+complot~n:共谋,密谋|v:共谋
+comply~v:答应,同意,遵照,依从,应允
+comply with~v:照办,遵从,绰,随,徇,答应,应,从,听从,遵照,依,顺应
+comply with convention~v:随俗
+compo~n:组成,混合,灰沙,组合|v:组成
+component~n:部件,分量,成分,元件,组成部分,部分,组件,组分,零件,分,成份,器件,元器件,分力,元,构件
+component force~n:分力
+component of force~n:分力
+component part~n:成分
+component product~n:分量
+components~n:部件
+comport~v:相称,表现,举动,行为
+comport oneself decently~v:举止大方
+comportment~n:举动
+compose~v:组成,构成,写,创作,作,谱写,组织,编写,排版,安顿,作曲,编,做,组合,撰述,赋,合成,起草,排字,著,撰著,缀,构,撰,调停,配合,设计,整顿,构想,镇,撰写
+compose an essay~v:缀文
+compose music~v:谱曲,度曲
+compose one's countenance~v:泰然自若
+compose oneself~v:定神
+compose type~v:排版
+composed~a:安详,自若,沉毅,泰然,镇静,安宁|v:从容自若
+composedness~n:镇定
+composer~n:作曲家,设计者,作者
+composing~v:排版,排字
+composite~n:混合物|a:综合
+composite family~n:菊科
+composite force~n:合力
+composite material~n:复合材料
+composition~n:作文,成分,组成,成份,结构,文章,构图,复合,构成,作品,和解,性格,合成,协议,组织,作曲,构造,配合|v:组成,合成
+compost~n:堆肥,混合物
+composure~n:镇静,沉着,泰然自若
+compote~n:蜜饯
+compound~v:合成,混合|n:院落,大院,村寨,复方,院|a:复合
+compound color~v:复色光
+compound consonant~v:复辅音
+compound eye~n:复眼
+compound fertilizer~v:复合肥料
+compound metal~v:合金
+compound number~v:复名数
+compound qualifier~v:复合量词
+compound radical~v:复根
+compound rate~v:复利率
+compound ratio~v:复比
+compound sentence~n:复合句
+compound speed~v:合速度
+compound tone word~v:复音词
+compound vocal~v:复合元音
+compound with~v:和解
+compound word~n:复合词|v:复合词
+compounding~v:混合,私了
+compounding in private~n:私了
+comprador~n:买办
+comprehend~v:理解,包括,了解,认识,领悟,包含,明,理会,照,领,领会,解
+comprehend own story~v:不言而喻
+comprehending all nature~n:包罗万象
+comprehension~n:理解,理解力,包含,包括,悟性
+comprehensive~a:综合,全面,周全|d:通盘,全盘
+comprehensive chart~n:详图
+comprehensive history~n:通史
+comprehensiveness~n:宽广,综合性
+compress~v:压缩,加压|n:敷,打包机
+compressed water pump~n:水泵
+compressibility~n:压缩性
+compression~n:压缩,加压,紧缩,压抑|v:压缩
+compression bumper~n:缓冲器
+compression engine~n:压缩机
+compression leak~n:漏气
+compression release valve~n:减压阀
+compressive resistance~n:抗压强度
+compressive strength~n:抗压强度
+compressor~n:压缩机
+comprisal~n:大要,梗概,包含
+comprise~v:包括,包含
+comprizal~n:包含,大要,梗概
+comprize~v:包含
+compromise~v:调和,泄露|n:危及,连累
+compromise with~n:妥协
+comptocormy~n:驼背
+comptometer~n:计算器
+comptroller~n:审计员
+compulsion~n:强迫,强制
+compulsorily~d:强迫,强制
+compulsory course~n:必修课
+compulsory education~n:义务教育
+compulsory service~n:征兵
+compulsory serviceman~n:义务兵
+compunction~n:后悔,内疚,悔恨,懊悔
+compunctious~a:惭愧
+computation~n:计算,估计,得数,估算
+computational problem~n:算题
+computator~n:计算机
+compute~v:计算,估计,算|n:估计
+computer~n:计算机,电脑
+computer memory~n:存储器
+computing~v:计算
+computing machinery~n:计算机
+computor~n:电脑
+comrade~n:同志,战友,伙伴,同事
+comrade-in-arms~n:战友
+comradeship~n:友谊
+comsat~n:通信卫星,通讯卫星
+comsomol~n:共青团
+comte~n:伯爵
+comtism~n:实证主义
+comus~n:山茱萸
+con~v:欺骗|n:反对,反对票|p:用,反对|d:反对
+con over~v:研究,记诵
+conation~n:企求
+conatus~n:尽力,企图
+concatenate~v:连结,连接
+concatenating~v:连环
+concatenation~n:并列,串联,连锁,连续,连接|v:串联,连接
+concave~a:凹|n:凹面,凹
+concave lens~n:凹透镜
+concave mirror~n:回光镜,凹面镜
+concave surface~n:凹面
+concavity~n:凹面
+conceal~v:隐瞒,掩盖,隐藏,掩饰,藏,遮掩,遮,遮盖,掩藏,隐蔽,埋藏,瞒,隐秘,藏匿,匿,隐,戢,隐私,暗藏,昧,韬,隐没,庇荫,荫蔽,遮藏,包藏,隐匿|n:隐秘
+conceal one's disgrace~v:遮羞
+conceal one's faults~v:护短
+conceal one's identity~v:匿影藏形,隐姓埋名
+conceal one's sorrows~v:饮泣吞声
+conceal oneself~v:藏踪
+conceal will~v:声东击西
+concealed~v:隐
+concealed character~n:马脚
+concealed hinge~n:埋头
+concealed weapons~n:暗器
+concealment~n:隐瞒,隐藏,隐蔽,隐蔽所,潜伏,隐匿
+concede~v:承认,让步,批准
+concede to~v:让步
+conceit~n:自负,自大,幻想,自满|v:夸赞,理解
+conceit various pretext~n:巧立名目
+conceited~a:骄傲,自负,自大,满,扬扬得意|v:自作聪明
+conceivability~n:想得到
+conceive~v:想象,设想,想像,想到,怀孕,怀胎,以为,怀,构想,萌生,妊娠,受胎,蓄,陈述
+conceive of~v:设想,构想
+concent~n:协调,和谐,一致
+concenter~v:集中,会聚
+concentrate~v:集中,专心,集结,浓缩|n:浓缩物
+concentrate efforts on~v:致力
+concentrate funds~v:集资
+concentrate on~v:留,注
+concentrate on details~n:掂斤播两
+concentrate one's attention~v:专心,定神
+concentrate one's efforts~v:下功夫
+concentrate one's forces~v:收缩
+concentrated~a:集中,浓,一,专,专一,密集|v:专
+concentrated transportation~n:集运
+concentration~n:浓度,集中,浓缩,专心,集聚,精选,专一性|v:集聚
+concentration lens~n:会聚透镜
+concentration of power~n:集权
+concentrator~n:集线器
+concentre~v:会聚
+concentric~a:同心,同轴|v:同心
+concentric cable~n:同轴电缆
+concentric circle~n:同心圆
+concentric line~n:同轴电缆
+concentric transmission line~n:同轴电缆
+concept~n:概念,观念,思想|v:构想
+conception~n:概念,构想,看法,设想,怀孕,构思,见解,妊娠,机杼,胎儿,心裁,立意|v:构思,怀孕
+concern~n:关心,担心|v:参加,忧
+concern about~n:挂念,关心
+concern oneself with~v:过问
+concern over~n:关切
+concerned~v:忧虑
+concerning~p:关于,论及,至于,对于,有关|v:就
+concerning foreign affairs~n:涉外
+concernment~n:挂念,重要性,关系,参与,事务
+concerns~n:关注,关切,关心,关系|v:涉及
+concert~n:音乐会,协奏曲|v:协作
+concerted~a:一致
+concerted effort~n:通力
+concerto~n:协奏曲
+concession~n:让步,特许权,特许,租界,租借地,迁就,核准|v:特许
+conch~n:海螺,甲,螺号,螺,外耳,法螺,贝壳
+concha~n:外耳
+conchoid~n:螺线管,螺旋线
+conchy~n:逃兵
+concierge~n:门警,门卫,门房,管理员,接待员
+conciliate~v:和解,调停,劝慰,说服,安抚,抚慰,赢得,调解
+conciliation~n:调解,安抚,妥协|v:调解
+concinnity~n:和谐,优美,优雅
+concise~a:简明,简洁,精炼,简练,精练,凝练,简约
+concise edition~n:简编
+concision~n:简明,简练,简洁
+conclude~v:结束,断定,决定,缔结,断言,推断,订立,闭幕,结,达成,立,告终,终了,订,归纳,议定,终止,毕
+conclude a bargain~v:订约
+conclude a transaction~v:成交
+conclude a treaty~v:缔,缔约
+conclude by~v:结尾
+conclude with~v:结束
+concluding remarks~n:结语
+concluding set~n:结幕
+conclusion~n:结论,结局,断定,决定,缔结,定论,商定,议定,断语,终结,终了
+conclusion of peace~n:媾和
+conclusive~a:确凿
+conclusive evidence~n:信据
+conclusive proof~n:真凭实据
+concoct~v:虚构,策划,编造,调制,捏造,调合,图谋,炮制,造,计划
+concoct a plot~v:图谋不轨
+concoct various pretexts~v:巧立名目
+concoction~n:混合,捏造,配制|v:配制,调制
+concomitance~n:相伴,共存|v:共存
+concomitancy~n:相伴,共存
+concord~n:和睦,谐声,和声,一致,和谐,协定,协和,谐音,协约|a:和睦
+concordance~n:协和,和谐,索引,调和,一致,整合
+concordant~a:谐和
+concordat~n:协定,协约,协议
+concourse~n:汇聚,集合,总汇,合流,马路
+concrescence~n:聚集,接合,愈合,增生,增殖,会合,结合,凝结|v:结合,聚集
+concrescent~a:接合|v:接合
+concrete~a:具体|n:混凝土|v:结合
+concrete iron~n:钢筋
+concrete number~n:名数
+concrete reinforcing bars~n:钢筋
+concretely speaking~c:具体说来,具体地说
+concretion~n:结石,结核,凝结,凝固
+concretize~v:凝固
+concubinage~n:纳妾
+concubine~n:妾,情妇,姨太太,姨奶奶,媵,侧室|a:小
+concubine-mother~n:庶母
+concupiscence~n:性欲,贪欲
+concur~v:一致,同意,并行,并发,合作
+concurrence~n:同意,联合,一致,并发,并行,共有,交点,合作
+concurrent~n:竞争者
+concurrent post~n:兼差
+concurrently~d:同时,兼
+concuss~v:恐吓
+concussion~n:震动,冲击,震荡,撞击,胁迫|v:震荡
+concussion of brain~n:脑震荡
+condemn~v:谴责,判,责备,定罪,判处,判罪,判刑,处刑,讨,宣告,声讨,谴,问罪,骂
+condemn oneself~v:自责
+condemnation~n:谴责,判罪,定罪,征用,非难,没收
+condemned prisoner~n:死囚
+condemned stores~n:废品
+condensate~n:冷凝,冷凝物,浓缩物
+condensation~n:凝结,凝聚,浓缩,冷凝,节本,紧缩,压缩|v:紧缩
+condensation point~n:凝固点
+condensation polymerization~n:缩聚
+condense~v:凝结,压缩,冷凝,缩短,凝聚,冱,删繁就简,加强,浓缩,聚集
+condensed~v:凝练
+condensed milk~n:炼乳
+condensed planting~a:密植
+condenser~n:冷凝器,电容器,容电器
+condescend~v:俯就,垂
+condescend to~v:俯
+condescend to live~v:屈居
+condescend to teach~v:赐教
+condiment~n:调味品,佐料,调料,香料
+condiments~n:佐料,香料,作料
+condition~n:条件,情况,状态,状况,情形,境况,境地|v:检验,候
+condition of earthquake~n:震情
+condition of fire~n:火色
+conditional release~n:假释
+conditioned reflex~n:条件反射
+conditioned stimulus~n:条件刺激
+conditioner~n:检查员,教练员,调节器
+conditioning~n:调节,整修|v:调节
+conditions~n:光景,商情
+conditions change quickly~v:瞬息万变
+condole~v:哀悼,吊丧,吊唁,慰问,吊,吊慰
+condole with~v:哀悼,吊唁,吊慰
+condolence~n:吊慰,吊唁,悼词
+condom~n:避孕套
+condominium~v:共管|n:共管
+condonable~n:宽恕
+condonation~n:宽恕,赦免
+condone~v:宽恕,容忍
+condor~n:秃鹰,秃鹫,兀鹫
+conduce~v:导致
+conducive to~a:有助于
+conduct~n:行为|v:实施,为人
+conduct a class~v:上课
+conduct desperate struggles~v:垂死挣扎
+conduct financial transactions~v:理财
+conduct illegal transactions~v:营私舞弊
+conduct oneself~v:为人,做人
+conduct oneself nobly~v:举止大方
+conduct oneself well~v:善处
+conduct operations~v:作战
+conduct peace negotiations~v:议和
+conduct propaganda~v:宣传
+conduct reconnaissance~v:巡哨
+conduct vigorous propaganda~v:大喊大叫
+conductance~n:导电性,传导
+conductibility~n:导电性
+conducting body~n:导体
+conducting wire~n:导线
+conduction~n:传导,导电,引流|v:传导
+conduction of heat~n:热传导
+conductive body~n:导体
+conductor~n:导体,指挥,导线,售票员,列车员,避雷针,导管
+conduit~n:管道,导管,沟渠,水管,水道,暗渠
+conduit pipe~n:导管,管道
+condyle~n:髁,骨节
+cone~n:球果,圆锥,圆锥体,锥形,锥面,锥体|a:锥形
+cone pulley~n:塔轮
+conea~n:角膜
+coney~n:狗鱼,兔
+confabulate~v:谈心,闲谈
+confabulation~n:交谈
+confect~v:制造,蜜饯,调制|n:糖果
+confection~n:制造,调制,糖食,蜜饯,糖果|v:调制
+confectionary~n:糖果店
+confectionery~n:蜜饯,糖果
+confederacy~n:联盟,帮派,共谋,联邦,同盟
+confederate~n:同谋,党羽|v:结盟
+confederate rose~n:芙蓉
+confederation~n:联盟,同盟,邦联
+confer~v:授予,商议,授,给予,商讨,协商,颁发,商谈,对照,谈判,颁,赉,谋,畀,赐
+confer favours~v:宠
+confer in writing~v:笔谈
+confer medals~v:授勋
+confer upon~v:封
+conference~n:会议,大会,会,协商,商谈,讨论会,谈判,会谈,商议,联合会
+conference hall~n:分会场
+conferment~n:给与
+confess~v:承认,忏悔,供认,坦白,招供,供,供认不讳,招,交代,自白,表白,录供,自供,证明|n:交待
+confess after tortures~v:屈打成招
+confess everything~v:供认不讳
+confess one's crime~v:自首
+confess oneself vanquished~v:甘拜下风
+confess to~v:承认
+confession~n:招供,坦白,供认,供词,供,承认,交待,口供,自白|v:供
+confetti~n:糖果
+confidant~n:密友,知心人,知己
+confide~v:吐露,信赖,信任,倾述,委托,信托,交托
+confide in~v:信任
+confide in somebody~v:推心置腹
+confide to~v:倾述
+confidence~n:信心,信任,自信,秘密,信赖,自信心,信,确信,胆量,信任感|v:置信
+confidence man~n:骗子
+confident~a:自信,确信,深信|n:知己
+confident of success~a:有把握
+confidential~a:机密|n:私房
+confidential paper~n:密件
+confidentials~n:私房话
+configuration~n:结构,配置,排列,组合,构造,外形,地形|v:组成
+configure~v:配置
+configuring~v:架构
+confine~v:限于,局限,限制|n:限度
+confine oneself~v:自封
+confine to~v:限于
+confinement~n:分娩,监禁,拘留,界限,拘束,幽禁,月子,制约,密封|v:制约
+confinement in childbirth~n:坐蓐
+confines~n:界限,范围,境界
+confining bed~n:隔水层
+confirm~v:证实,批准,肯定,确认,印证,巩固,认可
+confirmation~n:确认,证实,批准,认可,验证,确实,确定,确证|v:验证
+confirmed~v:惯|a:坚定
+confirmed thief~n:惯偷
+confiscate~v:没收,征用,充公,抄收,抄查,没,查抄
+confiscate his property~v:抄家
+confiscation~n:没收
+confiscatory~a:没收
+confiture~n:蜜饯,糖果
+conflagration~n:火灾,战火,大火
+conflate~v:合并
+conflation~n:合成,熔合
+conflict~v:矛盾,抵牾,争斗,倾轧,斗争,摩擦,战斗,碰头|n:争端,争斗
+confliscate~v:没收
+confluence~n:总汇,汇流,汇聚,会合|v:合流
+confluent~n:支流|a:汇流
+conflux~n:集中,汇流
+conform~v:符合,遵守,一致,遵从,遵照,顺应,入,依据,合,依照,印,契合,合乎,绰
+conform to~v:顺应,合乎,遵守,入,绰,契合,符合,合,遵从
+conform to conventions~v:从俗
+conform with~v:合乎,符合
+conformability~n:一致,适合,顺应,相似,顺从
+conformable~a:适合,一致,相似
+conformance~n:相似,一致,相符
+conformation~n:组成,结构,符合,构造,形态,一致,适应,相应
+conformity~n:整合,符合,顺从,适合,遵从,遵照,一致,顺应,相似
+confound~v:混淆,混乱,颠倒,挫败,反驳,可恶
+confoundedly~d:非常,极度,特别,要命
+confounding~v:混杂
+confraternity~n:团体,协会,公会
+confrere~n:同事,会友
+confront~v:面对,面临,对付,遭遇,对照
+confront at court~v:对簿公堂
+confrontation~n:对抗,对质,面对|v:对抗
+confucian~n:儒家
+confucian canon~n:经传
+confucian classical~n:经传
+confucian classics~n:经书,经
+confucian orthodoxy~n:道统
+confucian scholar~n:儒士
+confucian school~n:理学
+confucianism~n:儒教,儒学,儒,儒家
+confucianist~n:儒者,儒
+confucius~n:孔子,孔夫子
+confuse~v:混淆,混,迷惑,搅乱,弄错,淆,淆乱,乱了营,混同,淆惑,荧惑,乱,绕,纷扰,迷,迷离扑朔,淆杂|n:乱,荧惑
+confuse public opinion~v:蛊惑人心,混淆视听
+confuse something with something else~v:混为一谈
+confuse the public~v:混淆视听
+confuse things~v:张冠李戴
+confuse with~v:混淆
+confused~a:混乱,糊涂,乱,昏头昏脑,紊乱,颠三倒四,胡涂,乱腾腾,惝怳,乱杂,迷茫,糊里糊涂,缭乱|v:颠倒,昏,迷糊
+confused fighting~v:混战
+confused noise~n:喧哗
+confusing~v:扑朔迷离
+confusing the eye~n:扑朔迷离
+confusion~n:混乱,混淆,慌乱,狼狈,混同,骚乱,紊乱,弥散|a:混乱
+confusions~a:浑沌
+confutation~n:反证,驳倒
+confute~v:驳倒,反驳
+congeal~v:凝结,凝固,凝,结,冻结,狞笑
+congealed fat~n:凝脂
+congealed ground~n:冻土
+congealer~n:冷藏箱,冷冻机,冷却器
+congealing~v:凝固
+congealment~n:冻结,凝结|v:冻结
+congee~n:稀饭,辞行,糜,粥,告别,米粥|v:告别
+congelation~n:冻结,冻疮,冻伤
+congenial~a:意气相投,投契,投机,投缘|v:意气相投
+congeniality~n:合适,适意,意气相投
+congenital~a:先天性|n:先天
+congenital deficiency~n:先天不足
+congenital disease~n:胎毒
+conger~n:海鳗
+conger eel~n:海鳗
+congeries~n:堆,聚集,堆积|v:堆积
+congest~v:充血,充满,充斥,汇集,拥塞
+congested~v:壅塞
+congestion~n:充血,拥挤,拥塞,充满,聚集,稠密,充斥,过剩|v:聚集,充血,堆积
+conglomerate~n:砾岩,集团,砂礓|v:凝聚,堆集,团
+conglomerate rock~n:砾岩
+conglomeration~n:堆集,集团,砾岩,凝聚
+conglutinate~v:粘住,愈合
+conglutination~n:愈合,黏着
+congo~n:刚果
+congo red~n:刚果红
+congratulate~v:祝贺,庆幸,恭贺,庆贺,敬贺,道贺,祝,庆
+congratulate by telegraph~v:电贺
+congratulation~n:祝贺,贺辞,祝词
+congratulation ceremony~n:贺仪
+congratulations~n:恭喜,祝词,贺词|v:恭喜
+congratulatory~a:祝贺
+congratulatory letter~n:贺函
+congratulatory message~n:献词
+congregate~v:聚集,集合
+congregation~n:会众,教区,集会,听众,行政区,聚集,农庄,集合
+congress~n:国会,代表大会,集会,众议院,协会,交际,大会|v:道喜,集合,开会
+congressman~n:众议员
+congruence~n:和谐,一致,适合
+congruency~n:适合
+congruity~n:一致,适合,调和
+conic~n:圆锥
+conic section~n:圆锥曲线
+conical degree~n:锥度
+conical section~n:圆锥曲线
+conicoid~n:双曲面
+conifer~n:针叶树
+coniferous tree~n:针叶树
+coniferous wood~n:针叶林
+coning~v:整形
+conjecture~v:猜测,推测|n:设想
+conjoin~v:结合,连接,联合
+conjoint~a:夫妇
+conjugal bliss~n:燕尔新婚
+conjugal love~n:恩爱
+conjugality~n:夫妇
+conjugate~v:变化,连接,成对,成婚,交尾,结合,伴随
+conjugate point~v:共轭点
+conjugation~n:接合,联合,配合,拼合,结合
+conjunction~n:结合,连词,连接,联系,合,连|v:合,会合,连接
+conjunctiva~n:结膜
+conjunctival~a:结膜
+conjunctive~n:连词|a:连接
+conjunctivia~n:结膜
+conjunctivitis~n:结膜炎
+conjunctly~d:接合
+conjuncture~n:场合,地步,结合,紧要关头,连接,局面,商情
+conjuration~n:祈求,咒语,恳求
+conjure~v:变戏法,祈求
+conjurer~n:魔术师
+conjuring~v:魔术
+conjuror~n:魔术师
+conk~n:鼻子,故障,头|v:出毛病
+conkout~v:损坏|n:故障
+conmanship~n:骗术
+conn~v:船
+connect~v:连接,接通,衔接,接,连,联想,连通,接头,连结,通,连续,联合,交接,接合,结,沟通,毗,关
+connect in parallel~v:并联
+connect in series~v:串联
+connect up~v:接上
+connected~v:连通
+connecticut~n:康涅狄格
+connecting~v:连接
+connecting bar~n:连杆
+connecting ring~n:连环
+connecting terminal~n:夹具
+connecting vessels~n:连通器
+connection~n:连接,关系,联系,接线,结合,客户,套管,瓜葛|v:结合,连接,连通
+connection box~n:连接器
+connection point~n:接点
+connections~n:来头
+connections through marriages~n:联姻
+connective~n:连词|a:连接
+connective tissue~n:结缔组织
+connector~n:连接器,插头,接头
+connector box~n:连接器
+connexion~n:联想|v:连接
+conniption~n:歇斯底里,激怒
+connivance~n:默许,纵容,放任
+connive~v:纵容,默许,同谋,打佯儿,私通,共谋,放纵,开绿灯,放任
+connive at~v:放纵,纵容,打佯儿,默许
+connoisseur~n:鉴赏家,行家,权威,内行
+connotation~n:涵义,内涵,言外之意,含蓄
+connote~v:意味着,包含,含蓄,暗示,指点,意味,内涵
+connubiality~n:结婚
+conoid~n:圆锥体
+conquer~v:征服,克服,攻克,打败,制服,抑制,打下,改正,攻陷,刘,得胜,亡,占领
+conquer all obstacles~v:排除万难
+conquer the country~v:打天下
+conquered people~n:亡国奴
+conqueror~n:胜利者
+conquest~n:征服,赢得,战胜,攻克,获得
+consanguinity~n:血亲,亲族,血缘
+conscience~n:良心,道德,天良,心肝,本心
+conscienceless~a:丧尽天良|v:丧尽天良
+conscientious~a:认真,负责,经心,正大光明,老老实实,自觉,切实
+conscientiously~d:切实,老老实实
+conscious~a:自觉
+consciousness~n:意识,知觉,感觉,觉悟,精神,神志,自觉,自觉性
+conscribe~v:招募,征募,征用
+conscript~v:征募,征召,征兵
+conscript labor~n:兵差
+conscript labour~n:徭役,兵差,徭
+conscription~n:征兵,征发,征集,征募,征用
+conscription system~n:征兵制
+consecrate~v:奉献,尊崇,供奉,献给
+consecration~n:献身,供献,奉献
+consecution~n:连续,连贯,一致,顺序
+consenescence~n:衰老
+consenescency~n:衰老
+consensus~n:一致,舆论,同意,同感,合意
+consent~v:同意,答应|n:承诺,谐调
+consent to~v:赞成,同意
+consentience~n:一致
+conseqently~c:故
+consequence~n:后果,结果,重要,影响,成果,结论,痛痒,果
+consequent~n:结果,结论,后项
+consequently~d:因此,结果,因而,所以,以致|c:于是,以致,故,于是乎,因此
+conservancy~n:保护,管理,管理局,保存,保管,水土保持
+conservation~n:保护,守恒,保守,保存,维持
+conservatism~n:保守主义,守旧
+conservative~n:保守派,守旧派,防腐剂,稳健派|a:古雅,古板
+conservative party~n:保守党
+conservatives~n:保守派
+conservator~n:监督,监护人
+conservatory~n:防腐剂,暖房,库房,温室
+conserve~v:守恒,保存|n:果酱,涵养,蜜饯
+conserve one's health~v:摄生
+conserves~n:蜜饯
+consider~v:考虑,认为,研究,想,看,以为,给,算,审议,着想,思考,思量,体谅,论,斟酌,寻思,估量,算计|d:酌量
+consider as~v:看成
+consider carefully~v:思虑,熟思
+consider it shameful~v:引以为耻
+consider oneself~v:自忖,自视
+consider oneself clever~v:自作聪明
+consider oneself superior~v:高高在上
+consider something difficult~v:犯难
+consider the circumstances~v:酌情
+consider the situation~v:审时度势
+consider unimportant~v:漠视
+considerable~a:可观,大大|v:少不了
+considerably~d:相当,颇
+considerate~a:周到,体谅,周至,慎重,到
+consideration~n:考虑,讨论,体谅,审议,理由,关心,思考,原因,尊敬,敬意,报酬,度,照顾,补偿,商量,体恤,打算|v:计算
+considering~p:考虑到,顾及,对于,鉴于|d:委实
+considering everything~n:总算
+consign~v:托运,寄售,委托,交付,寄寓,交货,托付,用作,寄存,存,发货,当作
+consign for sale~v:寄售
+consign for shipment~v:托运
+consign to oblivion~v:置之脑后
+consignation~n:寄存,交付,委托
+consignee~n:收件人
+consigner~n:货主
+consignment~n:寄售,托运,发货,寄存,交货,交付,委托
+consignment sales~n:寄售
+consilience~n:一致,符合
+consist~v:包括,构成,在于,包含,一致,在内,生存,适合,共存,并存,并立
+consist in~v:在内,在于
+consist of~v:包括,构成
+consist with~v:符合,一致
+consistence~n:稳定,结实,稠度,坚固,坚强,浓度,坚定,相容,一致,调和
+consistency~n:一致,浓度,稠度,调和,坚定,结实,稳定,质地,密度,相容,坚固
+consistent~a:一致,一贯,相容,连贯|v:身体力行,相容,始终不渝
+consistently~d:总,一向
+consistently use~v:惯用
+consistory~n:集会
+consociate~v:结合,联合
+consociation~n:联合,组合
+consolation~n:安慰,慰问,抚恤,慰藉,安抚,抚恤金
+consolation group~n:慰问团
+consolation money~n:抚恤金
+consolatory word~n:宽心丸儿
+console~v:安慰|n:操纵台,悬臂
+console desk~n:控制台
+console operator~n:操作员
+consolidate~v:合并,巩固,整顿,统一,整理,加固,强化,巩,愈合,固,加强,整饬
+consolidate one's position~v:站住,站住脚
+consolidated~a:巩固
+consolidation~n:合并,凝固,巩固,愈合|v:结合,固化
+consomme~n:清汤
+consonance~n:一致,和谐,调和,协和,共鸣|v:共鸣
+consonancy~n:一致,协和,协调
+consonant~n:辅音,子音
+consort~n:合作,伙伴,配偶,协力,会员,协同|v:相称,调和,一致
+consortia~n:联合
+consortium~n:财团,共同体,协会,组合
+conspectus~n:大纲,概念,一览,大要,纲要,梗概
+conspicuity~n:能见度
+conspicuous~a:引人注目,显眼|v:引人注目
+conspiracy~n:阴谋,密谋,共谋,反叛,合谋|v:合谋
+conspirator~n:阴谋家,奸贼,同谋
+conspire~v:密谋,巧合,串通一气,阴谋,串通,合谋,图谋,协同,同谋,串,协力,共谋
+conspire together~v:同谋
+conspire with~v:串通,串通一气
+conspue~v:唾弃
+constable~n:警察,警官,巡警
+constablewick~n:警区
+constabulary~n:警察
+constancy~n:坚贞,恒久,恒心,不屈不挠,坚定,坚忍不拔,忠实
+constant~n:常数|a:常,一定|p:经
+constant capital~n:不变资本
+constant current~n:直流
+constant division~n:除数
+constant pressure line~n:等压线
+constant price~n:可比价格,不变价格
+constant speed~n:等速
+constant temperature line~n:等温线
+constant velocity~n:等速
+constantan~n:康铜
+constantly~d:不断,经常,时刻,一直,老是,时时,历来,长川,常川
+constantly changing~n:变幻无常
+constantly complain~v:叫苦不迭
+constants~n:常数
+constellation~n:星座,型,配合,星宿,座,丛
+constellatory~a:星座
+consternate~v:惊愕
+consternation~n:惊愕,恐怖,惊惶失措
+constipate~v:便秘
+constipation~n:便秘
+constituency~n:选区,选民,订户
+constituent~n:成分
+constituent company~n:子公司
+constituent corporation~n:子公司
+constituents~n:组分
+constitute~v:构成,组成,引起,任命,占,设立,制定,指定,等于,组合
+constitution~n:宪法,制定,体质,体格,章程,组织,法规,构成,构造,结构,设立,章,宪,政体,成分,素质
+constitutional~n:宪制
+constitutional formula~n:结构式
+constitutional government~n:宪制
+constitutional infirmity~n:先天不足
+constitutional monarchy~n:君主立宪
+constitutionalism~n:立宪,宪政
+constitutionalist~n:立宪派
+constitutionality~n:法治,立宪,合法性
+constitutional-law~n:宪法
+constrain~v:约束,强逼,强迫,束缚,压抑,拘,监禁,逼迫,强制
+constrained~a:拘束
+constraint~n:约束,制约,强制,压抑,强迫,拘泥|v:约束,制约,拘束
+constrict~v:收缩,阻碍,收敛,压缩,妨害,压迫,缩小
+constriction~n:收缩,收敛,收紧,狭窄,压缩,分割|v:分割
+constrictor~n:括约肌
+constringe~v:压缩
+constringency~n:压缩,收缩
+construct~v:构成,建造,构造,造,建设,建筑,建,修建|n:构想
+construct a canal~v:开河
+construct a dam~v:筑堤
+construct road~v:筑路
+construction~n:建筑,建设,结构,建造,施工,工程,解释,构造,设计,建筑物,作图,编排,土木,架设,铺设,布景
+construction industry~n:建筑业
+construction member~n:构件
+construction period~n:施工期
+construction plant~n:工地
+constructional detail~n:构造
+constructional drawing~n:结构图
+constructional element~n:构件
+constructional steel~n:结构钢
+constructionism~n:美术
+constructive~a:建设性
+constructivism~n:美术
+constructor~n:建设者
+construe~v:解释,分析,串讲|n:解释,直译
+consuetude~n:惯例,习惯,习俗
+consul~n:领事
+consulate~n:领事馆,馆
+consulation~n:领事
+consul-general~n:总领事
+consult~v:商量,请教,查,征询,查阅,看,考虑,参考,磋商,咨询,参照,协商,参阅,相商,参看,接洽,合计,会诊,筹商,计议,讲,参见,查考,商榷,谋|n:商
+consult a doctor~v:看病,瞧病
+consult personally~v:面商
+consult together~v:会商
+consult with~v:请教,相商,接洽
+consultant~n:顾问,医生
+consultation~n:磋商,协商,商量,会诊,参考,会议,查阅,鉴定|v:会诊
+consultation of doctors~n:会诊
+consultative~a:商议
+consulting room~n:诊室
+consultor~n:顾问
+consumable~n:消费品
+consume~v:消耗,烧毁,吃光,耗费,消费,毁灭,浪费,空耗,枯萎,耗,消灭,耗损,消磨
+consume for nothing~v:空耗
+consume without producing~v:坐吃山空
+consumed by ambition~a:野心勃勃
+consumer~n:消费者,用户
+consumer equipment~n:家用电器
+consumer-goods~n:消费品
+consumerism~n:消费,销售
+consuming too much~n:费
+consummate~v:完成,作成,圆房|a:完美,精湛
+consummate craftsman~n:巨匠
+consummate skill~n:绝技
+consummation~n:终结,完成,终极,完备,顶点,完全,成就,极端
+consummator~n:能手,专家
+consumption~n:消费,消耗|v:耗尽,消费
+consumption duty~n:消费税
+consumption goods~n:消费品
+consumption of coal~n:煤耗
+consumption of water~n:用水量
+consumption tax~n:消费税
+contabescence~n:萎缩
+contact~v:联系,接触|n:交涉,相切,合同,接点,门路,熟人,交道
+contact lens~n:隐形眼镜
+contact man~n:跑街
+contact roller~n:滚轮
+contact with~v:打交道
+contactor~n:开关
+contacts~n:门道
+contagion~n:蔓延,传染,传染病,流行,歪风邪气|v:传染
+contagious disease~n:传染病
+contagious infection~n:传染
+contagiousness~n:传染
+contain~v:含有,包含,包括,含,装有,包,牵制,遏制,克制,容纳,等于,忍耐,蕴含,盛,包藏,蕴涵,含蓄,娠,韫,蕴藏,涵,寓于,涵盖,拦截,牵掣,容,寓,自制,包容,蕴
+contain completely~v:涵盖
+contain oneself~v:禁
+container~n:容器,集装箱,货柜,货箱,笼子,匣,箱
+containerboard~n:硬纸板
+containment~n:容积
+contaminant~n:污染物
+contaminate~v:污染,沾染,染,毒害,染毒,沾污,损害
+contamination~n:污染,污物,染毒,污秽,混合
+contemn~v:藐视,蔑视
+contemplate~v:打算,沉思,注视,期待,玩味,企图,思虑,默想,预期,深思,熟思
+contemplate deeply~v:冥思苦索
+contemplation~n:沉思,凝视,注视,打算,静观,计划,默祷,默想,企图,预期,期待
+contemporaries~n:时人
+contemporary~n:同龄人,今人,现代|a:当代,现代
+contemporary age~n:当代
+contemporary history~n:现代史
+contempt~n:轻蔑,轻视,鄙视,不顾,藐视,不管,屈辱,耻辱|v:鄙夷,鄙视
+contemptibility~n:可鄙
+contemptible~a:可鄙,卑鄙,卑鄙无耻
+contemptible scoundrel~n:跳梁小丑
+contemptible ugly fellow~n:獐头鼠目
+contemptible wretch~n:贱骨头
+contemptuous~a:轻蔑|v:轻蔑
+contemptuous look~n:白眼
+contend~v:斗争,争夺,争,抗争,争论,竞争,争辩,主张,周旋,角逐,战斗,夺,博取,争鸣|n:角
+contend for~v:夺,博取
+contend for championship~v:夺魁
+contend for power~v:争权
+contend vigorously~v:力争
+contend with~v:抗,抗衡,争执,斗,周旋
+contender~n:竞争者
+content~n:内容,含量|a:甘心,满,喜欢
+contented~a:满足,乐滋滋|v:陶
+contention~n:论点,争论,主张,竞争,斗争|v:争论
+contentment~n:满足,满意,知足,陶
+contents~n:目次,篇目,目录
+contest~v:争夺,竞争|n:争论
+contest with~n:斗
+contestant~n:选手,竞争者
+contestation~n:论战,论点,论争,争论
+contestee~n:竞争者
+context~n:上下文,条件,范围,来龙去脉,场合,组织,语境,关节,处境
+contexture~n:交织,结构,织造,组织,构造,上下文|v:织造
+contiguity~n:接近,邻接,接触
+contiguous~a:连接,邻接,接近|v:相邻
+contiguous angle~n:邻角
+continence~n:克制,自制,禁欲|v:节制,节欲
+continency~n:节制
+continent~n:大陆,洲,陆地,大洲
+continent making movement~n:造陆运动
+continental deposit~n:陆相沉积
+continental plateau~n:高原
+continental sea~n:内海
+continental shelf~n:大陆架,陆架,陆棚
+continental slope~n:大陆坡
+continentalize~v:同化
+contingence~n:接触
+contingency~n:偶然,万一|a:不测
+contingent~n:部分,份额|a:不虞
+contingently~d:偶然,意外
+continual~a:不断,连续
+continual flow~n:涟洏
+continually flowing~n:涟
+continually flowing out~n:川流不息
+continually going on~n:川流不息
+continuance~n:持续,继续,连续,连续性,续篇
+continuation~n:继续,延续,持续,续篇,延长,连续|a:连续|v:继续
+continue~v:连亘,承接,续|p:继|d:再|a:连续
+continue as before~v:一如既往
+continue to be~v:仍旧
+continue to employ~v:留用
+continue to fight~v:恋战
+continue to have~v:保留
+continue to increase~v:有增无已
+continued~v:持续
+continued fever~n:稽留热
+continued ratio~n:连比
+continuing~a:连续
+continuity~n:连续性,连续,连贯性,继续,连锁,剪辑|a:连续
+continuous~a:连续,不断,继续,连绵,绵绵,连亘,联绵,绵,绵联,累,续
+continuous cropping~n:连种,连作,重茬
+continuous current~n:直流,直流电
+continuous firing~n:连珠,连珠炮
+continuous heavy rain~n:霖
+continuous rain~n:苦雨
+continuous self-renewal~n:自强不息
+continuous theatrical performance~n:连台本戏
+continuously~d:不断,一直,接连不断,一个劲,直,接二连三,连,连着,马不停蹄,源源,源源不绝|v:接连不断,源源不绝,无间|a:缕缕
+continuum~n:连续
+contline~n:空隙
+contort~v:扭曲,扭,曲解
+contort one's features~v:愁眉不展
+contortion~n:曲解,脱节
+contour~n:轮廓,等高线,环路,略图,形势,外形,大要,概略,回路
+contour profile~n:轮廓
+contraband~n:走私,黑货,违禁品,禁运品,私货
+contraband goods~n:私货,违禁品
+contrabandist~n:走私者
+contraception~n:节育,避孕|v:避孕
+contraceptive~n:避孕药
+contract~v:收缩|n:聘书,契,契文,契据,契纸,文契
+contract a friendship~v:缔交
+contract for~n:承揽
+contract labor~n:合同工
+contract seasonal illness~n:犯节气
+contract system~n:合同制
+contract to build~v:承建
+contract worker~n:合同工
+contracted payment~v:包银
+contracted responsibility field~v:责任田
+contractibility~n:收缩
+contracting out system~n:承包制
+contraction~n:收缩,压缩,缩短,萎缩,缩减,狭窄,挛缩,缩小,挛,收敛|v:缩短,收缩,缩小,压缩,萎缩
+contraction rule~n:缩尺
+contractor~n:承包商,承包人,包工,承包方,承包户
+contracture~n:挛缩|v:挛缩
+contradict~v:矛盾,反驳,驳斥,抵触,否认,顶撞,顶嘴,驳,反对,诡,抗辩,抵牾,相斥
+contradict defiantly~v:顶撞
+contradict oneself~v:自相矛盾,出尔反尔
+contradiction~n:矛盾,相反,驳斥,反驳,抗辩,否认,否定,茅盾,抵触
+contradictious~a:矛盾
+contradictorily~d:相反,反驳,矛盾
+contradictory~n:矛盾
+contradistinction~n:对比
+contradistinguish~v:对比
+contraindicate~v:禁忌
+contraindication~n:禁忌症,禁忌
+contralto~n:女低音
+contraposition~n:对照
+contrariety~n:对立面,反对,矛盾
+contrarily~d:恰恰相反,反之,逆|c:相对而言
+contrariness~n:别扭,反对,乖张,对立,相反
+contrariwise~d:反之
+contrary~n:对立物|a:左,反|v:相反
+contrary to~p:与_相反,悖,相反
+contrary to expectation~p:出乎意料
+contrary to reason~p:乖
+contrast~v:对照|n:对比度
+contrast ratio~n:对比度
+contrast sharply with~n:针锋相对
+contrast with~n:相映
+contrasting~v:对立
+contrasting color~n:对比色
+contravallation~n:对垒
+contravene~v:违反,触犯,反驳,抵触,犯,推翻,违背,否定
+contravention~n:违反,反驳,否定,违背
+contribute~v:贡献,捐献,捐助,捐款,投稿,捐,捐赠,出力,醵,补助,建树,捐输,捐资
+contribute money~v:输,捐款
+contributed article~v:来稿
+contributing~a:特约
+contribution~n:贡献,捐款,稿件,捐助,捐赠,捐献,投稿,赠送,功绩,分担,稿子,功劳,建树,来稿
+contribution fee~n:稿费
+contributory~a:有助于
+contrite~a:悔罪
+contrition~n:悔改,悔恨,悔罪,悔悟
+contrivance~n:设计,奸计,计策,装置,发明,诡计,计划,设备
+contrivances~v:枉费心机
+contrive~v:设法,发明,设计,计划,挖空心思,枉费心机,企图,图谋,创制
+contrive with difficulty~v:勉为其难
+contriver~n:发明者,设计者
+control~v:控制|n:压制,克,留底,束,统制,手心,存根,驾驶,核对,对照
+control board~n:控制台
+control booth~n:控制台
+control center~n:主脑
+control centre~n:主脑
+control check~n:检验
+control device~n:控制器
+control exclusively~v:一手包办
+control figures~n:控制数字
+control flood~n:防洪
+control handle~n:操纵杆
+control lever~n:操纵杆
+control one's tongue~v:一言不发
+control point~n:控制点
+control post~n:控制点
+control program~n:控制程序
+control pulpit~n:控制台
+control rack~n:控制台
+control reception~n:验收
+control rod~n:操纵杆,控制棒
+control room~n:调度室
+control station~n:控制台,控制点
+control stick~n:控制棒
+control theory~n:控制论
+control tower~n:塔台
+control unit~n:控制器
+control valve~n:控制阀
+control wheel~n:导轮
+controller~n:控制器,调节器,管理员,操纵杆,检查员,整流器|v:提调
+controlling apparatus~n:控制器
+controlling box~n:操纵箱
+controlling stand~n:控制台
+controlling stick~n:控制棒
+controlling valve~n:控制阀
+controversy~n:争论,争议,论战,辩论|v:争论
+controversy in writing~n:笔墨官司
+controvert~v:攻击,争论,反驳,辩驳
+contumacy~n:抗拒
+contumely~n:侮辱,谩骂
+contuse~v:挫伤,殴打
+contused wound~n:挫伤
+contusion~n:挫伤,擦伤|v:挫伤
+conule~n:锥体
+conundrum~n:谜,谜语
+conus~n:圆锥
+convalesce~v:养病,康复,休养,疗养,复元,静养,养,瘳,恢复
+convalescence~n:恢复期,恢复,康复
+convalescent hospital~n:疗养院
+convection~n:对流,环流,传送
+convenance~n:礼仪,仪式,得体,惯例,礼节
+convene~v:召开,召集,召,召唤,集会,集合,聚集
+convene a meeting~v:开会
+convener~n:召集人
+convenience~n:方便,便利,便,厕所,适合,方便之门,顺便
+conveniency~n:便利
+convenient~a:方便,便,便利,利,便当,手|n:手
+convenient for~a:便于
+convenient ways~n:方便之门
+conveniently~d:顺便,便,顺手,随手,信手
+convent~n:修道院
+conventicle~n:集会
+convention~n:会议,习俗,公约,大会,传统,协定,惯例,习惯,约定,常规,俗套,集会,常理,俗,老规矩,向例,旧框框,框框|v:约定|a:俗
+conventional~a:惯例
+conventional arms~n:常规武器
+conventional expressions~n:口头禅
+conventional remark~n:套子
+conventional signs~n:图例
+conventional verbal exchange~n:套话
+conventional verbal exchanges~n:套话
+conventional war~n:常规战争
+conventional warfare~n:常规战争
+conventionalism~n:惯例
+conventionalities~n:虚套子
+conventionality~n:传统,惯例,照例,习俗,因袭,套子
+conventioneer~n:到会者
+conventions~n:条条框框
+conventual~n:修女
+converge~v:集中,收敛,汇集,会聚,汇聚,汇流,归,丛集,酋,会合,会集,沓,云集,汇
+convergence~n:收敛,聚合,汇合,会聚|v:会聚
+convergency~n:汇合,会聚,聚合|v:会聚
+converging~v:会聚
+converging attack~n:夹攻,夹击
+conversance~n:熟悉,通晓,精通,亲近,接近
+conversancy~n:熟悉,接近,精通,亲近,通晓
+conversant~a:精
+conversant with~a:精通,内行
+conversation~n:谈话,谈,会话,对话,交往,交际,性交|v:谈,谈话,对话
+conversation by writing~n:笔谈
+conversational~a:会话式
+conversazione~n:座谈会
+converse~v:交谈,谈话|a:相反|n:逆命题
+conversely~c:反之|d:反过来
+conversion~n:转换,转变,转化,变换,改造,换算,兑换,变更,调换,改装,更换|v:兑换,调换,换位,转化
+conversion rate~n:汇价
+conversion table~n:换算表
+convert~v:转换,转变,转化,变成,变换,兑换,换算,改装,改造,改变,折,化,兑,更改,折兑,换位,更换,折算,改制,改编
+convert foreign exchange~v:结汇
+convert into~v:折
+convert into money~v:折价
+convert to~v:变成
+converter~n:变频器,转炉,变压器,变流器
+convertibility~v:兑换|n:兑换
+converting~v:再生
+converting station~n:变电站
+convertor~n:变流器
+convex~a:凸|n:凸面
+convex glass~n:凸透镜
+convex lens~n:凸镜,火镜,凸透镜
+convex polygon~n:凸多边形
+convex surface~n:凸面
+convexity~n:凸面
+convexlens~n:火镜
+convey~v:输送,表达,转达,传达,运送,传递,通知,传送,传导,通报,传,转运,抒,输,传播,偷,运输,搬运
+convey by vehicles~v:拉
+convey greetings to~v:慰问
+convey one's ideas~v:达意
+convey thanks~v:致谢
+conveyance~n:运送,运输,输送带|v:运输
+conveyer band~n:传送带
+conveyer belt~n:输送带
+conveying~v:传输
+conveyor~n:运输机,输送带
+conveyor belt~n:输送带
+convict~n:囚犯,犯人,罪犯,囚徒|v:判刑,判罪
+convict somebody~v:定罪
+conviction~n:信念,定罪,确信,信仰,悔罪,服罪,坚信
+convince~v:说服,服
+convinced~a:服服帖帖
+convincing~a:平服
+convincing argument~n:雄辩
+convincing discourse~n:妙论
+convincingness~n:说服力
+conviviality~n:欢宴
+convocation~n:集会,召集
+convoke~v:召,召开,召集
+convoke a meeting~v:开会
+convolute~v:盘旋,卷绕,旋绕
+convolution~n:回转,回旋,盘旋,旋绕,涡流
+convolve~v:卷绕,缠绕,盘旋
+convoy~v:引导|n:护航
+convulse~v:震撼,摇动,抽风
+convulsed with fear~a:惊恐万状
+convulsion~n:动乱,痉挛,震动,激动,搐搦,抽搐|v:抽搐
+convulsions~v:惊厥
+convulsive seizures~n:抽风
+cony~n:狗鱼,兔
+coo~v:咕|n:咕
+coo cocaine~v:古柯碱
+cooer~n:鸽
+cook~v:做饭,做,烹调,烹饪,烧,煮,做菜|n:库克,炊事员,大师傅
+cook a meal~v:炊
+cook book~n:食谱
+cook chopper~v:菜刀
+cook for~v:煮
+cook in water~n:熬
+cook meals~v:煮饭,起火
+cook off~v:走火
+cook rice~v:煮饭
+cook up~v:胡诌,炮制,伪造,造,编造,诌,编,虚构
+cook up charges~v:罗织罪名
+cook-and-bull story~n:不经之谈
+cookbook~n:菜谱,食谱
+cooked~a:熟
+cooked cereals~n:饭
+cooked food~n:烟火食,饔,菜肴
+cooked glutinous rice~n:糍粑
+cooked opium~n:烟泡儿
+cooked up story~n:无稽之谈
+cooked-rice~n:饭
+cooker~n:炊具,炉,饭锅
+cookery~n:烹饪法,厨房,烹调法
+cookhouse~n:厨房,野营
+cookhouse squad~n:炊事班
+cookie~n:饼干,亲爱的,糕点
+cooking~n:炊事,做菜,烹调,中馈|v:中馈,烹饪
+cooking coal~n:焦煤
+cooking range~n:炉灶
+cooking starch~n:团粉
+cooking stove~n:灶,炉灶
+cooking utensil~n:炊具
+cooking utensils~n:灶具,炊具
+cooking-pot~n:锅
+cooking-starch residue~n:麻豆腐
+cook's apron~n:油裙
+cooky~n:饼干
+cool~a:淡然,风凉|v:散热|n:镇定,平静
+cool air~n:冷气
+cool boiled water~n:凉白开
+cool character~n:冒失鬼
+cool cheek~n:厚脸皮
+cool detachment~n:冷眼
+cool down~v:冷却,降温
+cool hand~n:冒失鬼
+cool it~v:心平气和
+cool off~v:凉快
+cool one's heels~v:坐冷板凳
+cool oneself~v:凉快
+cool place~n:阴凉
+cool remarks~n:冷言冷语
+coolant~n:冷却剂,冷冻剂
+cooler~n:冷却器,冷却剂,冷饮,散热器,监狱,冰箱
+cooler body~n:冷却器
+cool-headed~a:沉毅
+coolie~n:苦力
+coolie toiler~n:苦力
+cooling~v:散热,降温,冷却|n:冷却|a:降温
+cooling action~n:冷却
+cooling agency~n:冷却剂
+cooling bank~n:冷床
+cooling bed~n:冷床
+cooling material~n:冷却剂
+cooling oil~n:清凉油
+cooling unit~n:冷却器
+coolish~a:凉丝丝,凉溲溲,凉飕飕,凉苏苏,凉津津
+coolly~d:冷,冷淡,冷静,沉着
+coolness~n:冷静,清凉,爽气
+cooly~n:苦力
+coom~n:煤烟,煤灰,烟煤
+coomb~n:深谷
+coombe~n:深谷
+coon~n:浣熊,机灵鬼
+coop~n:笼,笼子,罩,牢狱,棚|v:罩,禁闭
+co-op~n:合作社
+cooper~v:修理
+cooperate~v:合作,配合,协作,搭档
+co-operate~v:合作,互助,协作
+cooperate with~v:协作
+cooperation~n:合作,协作,互助|v:协作
+cooperative~n:合作社
+cooperatively~d:联手
+cooperator~n:合作者
+coopt~v:任命,选用
+co-optation~n:选举
+coordinate~v:调整,照应,配合,相辅而行,接应|n:坐标,坐标系
+coordinate axis~v:坐标轴
+coordinate with~v:接应
+coordinates~n:套装
+coordination~n:协调,协作,配合|v:协作
+coot~n:傻瓜
+coot with tin~n:镀锡
+cootie~n:虱子
+cop~v:认罪,偷,赢得,抓住,捕捉,招认,逮捕|n:捕捉
+cop a heel~v:逃跑
+cop out~v:认罪
+cop shop~v:派出所,警察局
+copartner~n:合伙人,合作者
+copartnership~n:合作,合伙人
+cope~v:应付,对付,克服,应,对抗|n:罩袍
+cope with~v:对,顶,应
+copenhagen~n:哥本哈根
+copernicus~n:哥白尼
+copier~n:复印机
+co-pilot~n:驾驶员
+coping~n:顶盖
+copious~a:沛,洋洋
+copolymer~n:共聚物
+copolymerization~n:共聚
+cop-out~n:逃避,躲避,退避
+copper~n:铜|a:铜
+copper clappers~n:铜板
+copper coin~n:子,钱
+copper coins~n:小钱
+copper glance~n:辉铜矿
+copper hammer~n:铜锤
+copper medal~n:铜牌
+copper mine~v:铜矿
+copper mould~n:铜模
+copper nose~n:酒渣鼻
+copper oxychoride~n:王铜
+copper plate~n:旋子
+copper vitriol~n:硫酸铜
+copper wire~n:铜丝
+copperas~n:绿矾
+copper-nickel alloy~n:白铜,鋈
+copperplate~n:铜板,铜版
+coppersmith~n:铜匠
+copper-smith~n:铜匠
+coppersulphate~n:硫酸铜
+copra~n:椰干
+co-prime numbers~v:互质数
+coproduct~n:副产品
+co-product~n:副产物
+coprology~n:污物
+copse~n:丛林
+copter~n:直升飞机
+coptis~n:黄连
+copula~n:系词,交媾
+copulae~n:接合部
+copulate~v:交尾,交媾,结合,连接,性交,交配
+copulation~n:交尾,交配,联系|v:性交
+copulative~a:交媾|n:连词
+copulative verb~n:系词
+copy~v:复制|n:正片
+copy after~v:模仿,仿照
+copy another's plan~v:依样画葫芦
+copy blindly~v:生搬硬套
+copy by carving~n:摹刻
+copy clerk~n:文书
+copy down~v:记录
+copy editor~n:编审
+copy for use~n:抄用
+copy from~v:临摹
+copy from life~n:写生
+copy in~v:填写
+copy machine~n:复印机
+copy mechanically~v:搬
+copy mechanically in~v:生搬硬套
+copy out~v:誊清,誊录,照抄,誊,抄写
+copy right page~n:版权页
+copy slavishly~v:照猫画虎
+copy too slavishly~v:依样画葫芦
+copybook~n:习字帖,字帖,字帖儿
+copygraph~n:油印机
+copying~n:复写,誊写|v:抄写,复印
+copying ribbon~n:色带
+copyist~n:抄手
+copyright~n:版权,著作权
+copyright page~n:版权页
+coquet~v:卖俏,玩弄
+coquet with somebody~v:打情骂俏
+coquet with someone~v:搔首弄姿
+coquetry~n:媚态,卖俏,撒娇,玩弄,妖娆
+coquette~n:卖俏,蜂鸟
+coquettish~a:妖,娇媚,轻佻,骚,扭扭捏捏,风骚
+coral~n:珊瑚,珊瑚虫,瑚
+coral island~n:珊瑚岛
+coral snake~n:银环蛇
+coralline~n:珊瑚
+corban~n:古尔邦节,宰牲节
+corban festival~n:古尔邦节
+corbel out~n:挑头
+corbie~n:候鸟
+corchorus~n:黄麻
+cord~n:绳子,索|v:累,堆积
+cordage~n:绳索
+cordial~a:热诚,亲切|n:补药,补品|v:倾心
+cordiality~n:热诚|a:热诚
+cording~n:花边,绳索|v:花边
+cordite~n:无烟火药
+cordon~n:警戒线,封锁线
+corduroy~n:灯芯绒,条绒,灯心绒
+core~n:核心,中心,芯,芯子,地核,心,岩心,精髓|v:铁心
+core miss~n:牵念
+core wire~n:焊芯
+coreopsis~n:波斯菊
+corfe~n:山口
+corgi~n:狗
+coriander~n:芫荽,香菜
+corindon~n:刚玉
+corinthian~a:花花公子
+corium~n:真皮
+corivendum~n:刚玉
+corivindum~n:刚玉
+cork~n:瓶塞,软木,软木塞,栓皮,塞子|v:制止
+cork tree~n:黄檗
+cork up~v:抑制
+cork wood~n:软木
+corker~n:定局
+corking~d:非常,极
+corkscrewspin~n:螺旋
+corm~n:球茎
+cormorant~n:墨鸦,鱼鹰,鸬鹚,水老鸦
+corn~n:玉米,谷物,小麦,玉蜀黍,谷粒,鸡眼,谷类,玉米粒,苞米,子|v:成熟
+corn flour~n:棒子面
+corn oil~n:玉米油
+corncob~n:棒子
+corncrake~n:秧鸡
+cornea~n:角膜
+cornel~n:山茱萸,茱萸
+corner~n:角落,角,拐角,墙角,困境|v:囤积居奇,拐,紧逼
+corner angle~n:顶角
+corner gate~n:角门
+corner iron~n:角铁
+corner kick~n:角球
+corner of street~n:巷口
+corner of wall~n:墙角
+corner pockets~n:死角
+cornerboy~n:游民
+corners of the mouth~n:嘴角
+cornerstone~n:基石,基础,柱石
+cornerwise~d:斜
+cornet~n:短号
+cornette~n:短号
+cornfield~n:稻田,麦田
+cornflower~n:矢车菊
+cornice~n:飞檐
+corniness~n:谷类
+cornmeal~n:玉米面
+cornopean~n:短号
+corns~n:五谷
+cornstalk~n:高个子,麦秸
+cornu~n:鸡眼
+cornucopia~n:丰盛,聚宝盆,丰富,丰饶
+corny~a:老掉牙
+corolla~n:花冠
+corolla well~n:好使
+corollary~v:推论|n:推论
+corona~n:日冕,电晕,谷,冠,花冠,华,光环
+coronach~n:哀乐,挽歌
+coronagraph~n:日冕仪
+coronal~n:花冠,冠
+coronary disease~n:冠心病
+coronation~n:加冕礼|v:加冕
+coronet~n:花冠
+corotation~n:运行
+corp~n:公司
+corporal~n:下士,班长|a:肉体
+corporal punishment~n:刑法,刑
+corporality~n:肉体,身体,物质,体格
+corporate~a:社团
+corporate name~n:商号
+corporation~n:公司,企业,商行,社团,法人,团体,公会,协会
+corporator~n:成员
+corporeal punishment~n:体罚
+corporeality~n:肉身,物质性
+corporeity~n:体格
+corps~n:团体,兵团,校友会
+corps of engineers~n:工程兵
+corpse~n:尸体,死尸,遗骸,尸首,僵尸,尸,行尸走肉,尸身,骨
+corpulence~n:肥胖
+corpulency~n:肥大,肥胖
+corpulent~a:胖,肥大,肥胖
+corpus~n:汇编,基金,集成,本钱,体,躯体,身体,语料,文集,主体,资本,全集,资料
+corpus luteum~n:黄体
+corpuscle~n:微粒,粒子,细胞,血球
+corpuscule~n:粒子,细胞,微粒
+corral~v:围,围捕,捕获,获得,取得|n:栅栏
+corrcet~v:改过迁善
+corrct~v:订正
+correct~v:纠正,校正,改正|a:不错,对头|n:纲
+correct errors~n:正误
+correct explanation~n:真释
+correct one's conduct~v:弃邪归正
+correct one's errors~v:痛改前非
+correct one's mistake~v:改错
+correct one's mistakes~v:改过
+correct one's pronunciation~v:正音
+correct oneself~v:改口
+correct the mistakes~v:指正
+correct view~n:真知
+correcting~v:校正
+correction~n:修正,校正,改正,矫正,勘误表,纠正,补正,教养,惩罚,刊误|v:校正,订正,修正
+correction fluid~n:修正液
+correction table~n:刊误表,勘误表
+correctitude~n:正确,端正
+correctness~n:正确性
+corrector~n:校对
+correlate~v:相关,关联,照应
+correlation~n:相关,对比,关联
+correlative~n:伙伴
+correlative with~n:相依
+correlativity~n:相关
+corresponclent~n:记者
+correspond~v:相当,对应,相应,通信,一致,相符,符合,等于,切合,配合,合乎
+correspond to~v:相符,合乎,等于,相当,副,符合,切
+correspond with~v:切合,相当
+correspondence~n:信件,通信,一致,对应,函件,通讯,件,书简,函电,书札,符合,相当
+correspondence college~n:函授大学,函大
+correspondence department~n:函授部
+correspondence students~n:函授生
+correspondency~n:类似,相当,符合,一致
+correspondent~n:记者,通讯员
+corresponding~v:对应,相应
+corresponding angles~n:同位角
+corrida~n:斗牛
+corridor~n:走廊,过道,楼道,廊,甬道,穿廊,廊子,通路
+corrigenda~n:正误表
+corrigendum~n:勘误,更正,勘误表|v:更正
+corroborate~v:证实,确定,印证,确认
+corroboration~n:证实,坚定,验证,确定,加强,坚固|v:验证
+corrode~v:腐蚀,磨蚀,侵蚀,销蚀,蚀,剥蚀,腐化
+corroded~v:腐
+corroding~v:腐蚀
+corrosion~n:腐蚀,侵蚀,溶蚀,铁锈|v:生锈,锈蚀,腐蚀,溶蚀
+corrosion prevention~n:防腐
+corrosion resistant~a:防腐
+corrosive~n:腐蚀剂
+corrosivity~n:腐蚀性
+corrugated~v:瓦楞
+corrugated paper~n:瓦楞纸
+corrugated pipe~n:波纹管
+corrugation~n:皱纹,皱褶,波纹,沟纹,棱,起皱
+corrupt~v:腐化,贪,恶化|a:墨
+corrupt customs~n:陋习
+corrupt officials~v:贪官污吏,贪官
+corrupt practice~v:弊,藏掖
+corrupt practices~v:流弊,私弊,病
+corrupt rules~n:陋规
+corrupted~v:糜烂
+corruption~n:腐败,贪污,腐化,堕落,舞弊,败坏,贿赂,墨,讹误|v:贪污
+corruption in government~n:营私舞弊
+corruptness~n:腐败
+corsage~n:胸部,腰身
+corsair~n:海盗
+corselet~n:甲胄,盔甲
+corsetry~n:紧身儿
+corsica~n:科西嘉
+corslet~n:甲胄
+cortege~n:行列
+cortes~n:议会,国会
+cortex~n:皮层,皮质,皮,外皮
+cortisone~n:可的松
+corundite~n:刚玉
+corundum~n:金刚砂,刚石,刚玉
+coruscate~v:焕发,闪烁
+coruscation~n:焕发,闪光
+corvee~n:劳役
+corydalis~n:紫堇
+corydalis tuber~n:延胡索
+coryphaeus~n:领袖,领导人
+coryza~n:鼻炎
+cose~v:聊天
+cosecant~n:余割
+cosh~n:棍棒
+cosher~v:娇宠,娇养
+cosign~v:联署
+cosine~n:余弦
+cosiness~n:安乐,舒适,适意
+cosmetic~n:化妆品,美容术
+cosmeticize~v:粉饰
+cosmetics~n:脂粉,化妆品
+cosmetology~n:美容术,美容|v:美容
+cosmic dust~n:宇宙尘
+cosmic speed~n:宇宙速度
+cosmodrome~n:航天站
+cosmoline~n:凡士林
+cosmonaut~n:太空人,宇航员
+cosmopolitanism~n:世界主义
+cosmopolitism~n:世界主义
+cosmos~n:宇宙,和谐,秩序
+cosmosphere~n:天球仪
+cossack~n:哥萨克人,骑警
+cosset~n:宠儿|v:宠爱
+cost~n:费用,成本,价格|v:耗
+cost a lot~v:费钱
+cost accounting~v:成本会计
+cost estimate~n:估价
+cost free~n:免费
+cost of building~n:造价
+cost of construction~n:造价
+cost of lodging~n:店钱
+cost of manufacture~n:造价
+cost price~n:原价
+costa~n:肋骨
+costa rica~n:哥斯达黎加
+costal region~n:肋
+costar~v:合演|n:配角
+co-star~n:配角
+costermonger~n:小贩
+costliness~n:奢华,昂贵,高价
+costly~a:贵,昂贵,值钱,华贵,费钱,讲究,高昂
+costs~n:诉讼费
+costume~n:服装,戏装,衣服,服饰,装束,女装,女服
+costume tweed~n:粗花呢
+costumes~n:衣饰
+cosy~v:哄骗,奉承,讨好|a:伏贴
+cot~n:帆布床,套子,吊床,余切,吊铺,槛,舍,小屋,罩子
+cotangent~n:余切
+cote~n:槛,笼,栏
+coteau~n:高原,分水岭,高地
+cotele~n:罗缎
+coterie~n:圈子,同行,小集团,小圈子
+cothead~n:套管
+cotta~n:外衣,短袖|a:短袖
+cottage~n:村舍,农舍,别墅,小屋,茅舍,庐
+cottage hospital~n:诊疗所
+cottar~n:制销
+cotter~n:销,制销|v:制销
+cotterel~n:销
+cottier~n:小农
+cotton~n:棉花,棉,棉布,棉线,花,脱脂棉|v:欢迎,交好
+cotton aphid~n:棉蚜
+cotton boil~n:棉铃
+cotton boll~n:棉铃
+cotton coat~n:棉衣
+cotton crepe~n:绉布
+cotton fabrics~n:棉织品
+cotton fibre~n:棉絮
+cotton flock~n:棉绒
+cotton for wadding~n:絮棉
+cotton for washing~n:絮棉
+cotton gin~n:轧花机
+cotton ginning~v:轧花
+cotton goods~n:棉织品
+cotton grass~n:羊胡子草
+cotton jersey~n:棉毛衫
+cotton knitwear~n:线衣
+cotton mill~n:棉纺厂
+cotton padding~v:套子
+cotton plant~n:草棉
+cotton planter~n:棉农
+cotton print~n:花布
+cotton rose~n:木芙蓉
+cotton rose hibiscus~v:芙蓉
+cotton sliver~n:棉条
+cotton suiting~v:线呢
+cotton textile mill~n:棉织品
+cotton thread~n:棉线,棉纱
+cotton to~n:喜欢,赞成|v:交好
+cotton together with~n:和谐
+cotton tree~n:木棉
+cotton trousers~n:棉毛裤
+cotton up to~v:拉关系,拉交情
+cotton wadded gown~n:棉袍子
+cotton wadding~v:芮
+cotton weed~n:鼠曲草
+cotton wool~n:棉绒,棉絮
+cotton yarn~n:棉纱
+cotton-covered wire~n:纱包线
+cotton-padded cap~n:棉帽
+cotton-padded clothes~n:棉衣
+cotton-padded mattress~n:褥子
+cotton-padded shoes~n:棉鞋
+cotton-print~n:花布
+cottonseed~n:棉籽
+cottonseed oil~n:棉子油
+cotton-thread~n:棉线
+cotyledon~n:子叶
+couch~n:睡椅,窝,躺椅,卧榻,床,底子,巢穴|v:隐伏,表述,睡,埋伏,躺
+couch grass~v:茅草|n:茅草
+couchette~n:卧铺
+cougar~n:美洲豹,美洲狮
+cough~v:嗽,提供,吐|n:咳
+cough up~v:吐,提供
+cough up phlegm~v:咯痰
+could~v:可以,想,能,要
+could not but~n:不得不
+could not help~v:不得不
+coulee~n:低地,深谷
+coulisse~n:滑板,后台,游标
+couloir~n:管道,峡谷,通道
+coulomb~n:库仑
+coulomb law~n:库仑定律
+coulomb meter~n:电量计,库仑计
+coulometer~n:库仑计,电量计
+coulter~n:犁头
+council~n:议会,委员会,理事会,讨论,协商,参议,忠告,参议会,公会,劝告,计议
+council board~n:会议,会议桌
+council house~n:会堂
+council-chamber~n:会议室
+councillor~n:顾问,议员,委员,理事
+councilman~n:议员
+councilor~n:议员,参赞,顾问,委员,参议员
+counsel~n:辩护人,忠告|v:告诫,商榷
+counsellor~n:领队,顾问,谋士
+counsellorship~n:顾问
+counselor~n:顾问,参赞,律师,参事,辅导员
+count~v:数,重要,算,指望,计数,认为|n:总计
+count as~v:算
+count backwards~v:倒数
+count every penny~v:打小算盘
+count for little~n:无关紧要,无足轻重
+count in~v:包括
+count off~v:编号
+count on~v:信赖,倚,自恃,倚赖,依仗,指,指靠,负,依靠
+count the ballots~v:开票
+count upon~v:指望,仰赖
+count verdict~v:判词
+countable~a:屈指可数
+countdown~n:读数
+count-down~n:倒数
+countenance~n:脸,表情,面容,容貌,脸色,支持|v:鼓动,默认
+counter~n:计数器,柜台|v:筹,反,反抗,逆转,反击
+counter appeal~n:抗诉
+counter charge~n:反诉
+counter check~n:提款单
+counter electrode~n:极板
+counter for gambling~n:赌注
+counter mark~n:标签
+counter measurer~n:计算机
+counter offer~n:还价
+counter plead~v:抗辩
+counter revolution~n:反转
+counter to~n:相反
+counteract~v:抵消,抵制,抵抗,中和,反作用,败,抵销,杀,解,阻碍,打破
+counteract bad luck~v:冲
+counteract evil force~v:辟邪
+counteraction~n:抵消,对抗,反动,反作用,中和
+counteractive~a:反对
+counterappeal~n:抗诉|v:抗诉
+counterargument~n:抗辩
+counterattack~v:回击,反攻,反击,还击|n:反攻
+counterattack in revenge~n:反攻倒算
+counterbalance~v:抵消|n:抗衡
+counterblast~n:逆风
+counterblow~n:反击,反攻|v:反攻
+counterbuff~n:反击,挫败,缓冲器,击退
+counterchange~n:掉换,交错,交替,交换|v:互换,交换
+countercharge~v:反诉,反击|n:反诉,反攻
+counter-charge~n:反诉
+countercheck~n:阻挡,反驳,制止,对抗,核对,回嘴|v:防止,核对,复查,制止
+counterclaim~v:反诉,索赔|n:反诉
+countercurrent~n:逆流,对流
+counterdraw~v:描图
+counterevidence~n:反证|v:反证
+counter-evidence~n:反证
+counterfeit~v:伪造|n:赝品,画像|a:伪造
+counterfeit article~v:假货
+counterfeit bank note~v:伪币,伪钞
+counterfeit coin~v:赝币
+counterfeit money~v:假币,赝币,伪钞
+counterfire~v:反击
+counterflow~n:逆流
+counterfoil~n:票根,存执,存根
+counterforce~n:反作用力
+counterfort~n:拱柱
+counterinvestment~a:反感
+counterjumper~n:店员
+countermand~v:收回,召回,取消,撤回
+countermarch~v:后退|n:倒退
+countermark~n:刻印,戳记
+countermeasure~n:对策,干扰
+countermine~v:将计就计
+countermove~n:对策
+counteroffensive~n:反击,反攻|v:反攻
+counterpane~n:床罩
+counterpart~n:对手,副本,对方,复本
+counterplan~n:对策
+counterplea~n:抗辩,反驳|v:反驳,抗辩
+counterplead~v:抗辩
+counterplot~v:将计就计
+counterpoint~n:对偶,对比,对照
+counterpoise~n:均衡,秤锤|v:均衡,抵补,补偿
+counterpose~v:对立
+counterpressure~n:反作用
+counterpunch~v:反击|n:反击
+counter-question~v:反问
+counterrevolution~n:反革命
+counterrevolutionary~n:反革命
+counterrevolutionist~n:反革命
+countersign~v:承认,会签,同意|n:暗号,会签,口令
+countersignature~n:会签
+countersink~v:钻孔
+counterstroke~n:还击,回击,反击
+countersunk head~n:埋头
+countertrend~v:反潮流
+countervail~v:抵消,补偿,抵销,对抗
+counterview~n:对质
+counterweigh~v:抵消
+counterweight~n:砝码,抗衡
+counterwork~v:对抗,阻碍|n:对抗
+counting~v:计数|n:计算
+counting cup~n:量杯
+counting device~n:计数器
+counting frame~n:算盘
+counting house~n:会计室
+counting mechanism~n:计算机
+countinghouse~n:柜
+countless~a:无数,不计其数,累累|v:更仆难数,不可胜数,数不胜数,车载斗量,指不胜屈
+countless hardships~n:千辛万苦
+countless rich fruits~n:硕果累累
+countrarotation~v:反转
+countrattack~v:反攻
+countries~n:国家
+countrified~a:土头土脑,土里土气,土气
+country~n:国家,国,乡下,乡村,乡间,地方,地区,祖国,农村,土地,国土,国度,范围,国民,家乡,故乡,乡,民众,邦,领域,平野,室,江山
+country bumpkin~n:乡巴佬
+country cousin~n:乡巴佬
+country fair~n:场,圩场,圩,集,集市,街
+country folk~n:同胞
+country house~n:别墅
+country of origin~n:原产地
+country of residence~n:驻在国
+country villa~n:别墅
+country-dance~n:土风舞
+countryman~n:同胞,乡下人,同乡,乡巴佬
+countryman residing abroad~n:侨胞
+countrymen~n:同乡,同胞,国人
+countrymen residing abroad~d:侨胞
+countryside~n:农村,乡村,乡下,田园,地方,村野,乡
+countrywide~a:全国,全国性|n:全国性
+country-wide~n:全国性|a:全国
+county~n:县,县份
+county chronicle~n:县志
+county commissioner~n:县长
+county government office~n:知府
+county magistrate~n:知事,县令,县官
+county official~n:县官
+county-court~v:控告
+coup~n:政变|v:政变
+coup d'état~n:政变
+couple~v:连接,结合,交尾,结婚,交配,搂抱,配合,拥抱|n:两口子,偶合,交媾
+couple back~n:反馈
+couple in~n:耦合
+couple of forces~n:力偶
+couple with~n:连接,结合
+coupled~v:结合
+coupler~n:车钩
+couplet~n:对联,对
+coupling~n:联结,车钩,挂钩|v:联接,交尾,结合,耦合
+coupling crank~n:接头
+coupling gear~n:车钩
+coupling head~n:铰链
+coupon~n:赠券,票,优待券,通票,副券,试件,试样
+courage~n:勇气,精神,胆量,胆子,胆,魄力,胆力,气魄,肝胆
+courage without discipline~n:匹夫之勇
+courageous~a:勇敢,英勇,勐,敢,勇|v:敢
+courier~n:信使,跑腿儿
+courier route~n:驿道
+courier station~n:驿站
+course~n:课程,航线,航向,课,方针,过程,航道,行动,路线,教程,疗程,进程,经过,科目,轨道,程序,方法,道,球场,航迹,行为,历程,经历,走向,里程|v:移动,赶
+course line~n:航线
+course of action~n:作法
+course of development~n:里程
+course of study~n:业,教程
+course of treatment~n:疗程
+course reversal~n:返航
+courser~n:猎狗,骏马,军马
+coursing~n:运行,奔驰,追赶
+court~n:法庭,法院,法官,宫廷,球场,院子,朝廷,庭院|v:夺取
+court decision~n:判决
+court disaster~n:招灾惹祸,惹火烧身,招灾,招祸
+court doctor~n:法医
+court house~n:法院
+court lady~n:宫女
+court martial~v:军事法庭
+court of honor~n:纪念馆
+court publicity~n:沽名钓誉
+court verdict~n:判词
+courteous~a:客气,客客气气
+courteously stand possible~v:敬而远之
+courtesan~n:花
+courtesy~n:礼貌,礼,礼节,行礼,礼数,亲切,请安,好意
+courtesy of~p:因为,由于
+courthouse~n:法院
+courting~v:求爱
+courtliness~n:殷勤,周到,谦恭,礼让
+court-martial~n:军事法庭
+courtroom~n:法庭,堂
+courtship~n:求婚,求爱,求偶,奉承,讨好
+courtyard~n:院子,庭院,院落,门庭,庭,大院,庭除,天井,院
+cousin~n:表妹,堂兄弟,表弟,表兄弟,表姐,堂兄,表亲,表哥,亲戚,中表,同辈,伙伴,叔伯,表姐妹,远亲,老表,堂姊妹
+cousinhood~n:中表
+cousins~n:叔伯
+cousinship~n:表亲,姨表
+cove~n:湾,拱,河湾
+cove deeply~v:厚爱
+coven~n:集会
+covenant~n:契约,协议书|v:缔结,契约
+cover~v:覆盖,被|n:隐蔽
+cover a retreat~v:断后
+cover all over~v:遮天盖地
+cover densely~v:密布
+cover lessons for~v:代课
+cover nut~v:螺母
+cover of cloud~n:云量
+cover one's mistakes~v:护短
+cover plate~v:盖板
+cover the retreat~v:断后
+cover the waterfront~v:详述
+cover tightly~v:闷
+cover tire~v:外胎
+cover up~v:饰,韬,隐讳,掩盖,遮藏,遮掩,遮盖,埋,埋没,掩饰,文,隐匿
+cover up mistakes~v:弥缝
+cover with chalk~n:垩
+cover with cloth~n:幂
+cover with paint~n:油漆
+cover with tiles~n:瓦
+cover with words~n:文饰
+coverage~n:报导,覆盖,范围,总额|v:覆盖
+coverage rate~n:覆盖率
+coverall~n:罩衣
+coverchief~n:头巾
+covered berth~n:船台
+covered drain~n:阴沟
+covered gutter~n:暗沟
+covered truck~n:篷车,棚车
+covered wagon~n:棚车,闷子车,航空母舰
+covered with confusion~a:慌慌张张
+covering~n:外壳,蒙皮,被覆,篷,外胎|v:覆盖
+coverlet~n:被单,床罩,盖子,桌布,罩子,床单
+coverlid~n:被单,床罩
+coverlit~n:床单
+coverplate~n:盖板
+coverslut~n:罩衣
+covert~a:变相,偷偷摸摸,隐藏|v:变相
+covert gender~n:隐性
+covertly~d:偷,偷偷,偷偷摸摸
+coverture~n:被覆,保护
+coverup~n:隐讳,掩盖
+cover-up~n:掩盖,障眼法,掩眼法
+covet~v:垂涎,觊觎,贪图,贪求,眼红,图,妄想,眼馋|a:眼热
+covetous~a:饕,眼红,馋
+coving~n:河湾,湾,拱
+covulsion~n:抽风
+cow~n:奶牛|v:威吓
+cow dung~n:牛粪
+cow leather~n:牛皮
+cow manure~n:牛粪
+cow skin~n:牛皮
+cow stall~n:牛栏
+coward~n:胆小鬼,懦夫,孱头,胆小如鼠,狗熊,孬种
+cowardice~n:怯懦,胆怯,懦弱,胆小
+cowardliness~n:怯懦,懦弱,胆小
+cowardly~a:懦怯,懦弱,胆小,胆怯|d:懦怯,胆小怕事,胆怯|n:鼠胆|v:贪生怕死
+cowardly person~n:懦夫
+cowberry~n:越橘
+cowberry blueberry~n:越橘
+cow-bezoar~n:牛黄
+cowboy~n:牛仔,牧童
+cow-carbon steel~n:低碳钢
+cower~v:畏缩,退缩,瑟缩
+cower berth~v:下铺
+cowfish~n:海牛
+cowhair~n:牛毛
+cowherb~n:莪
+cowherd~n:牛倌,牛郎,牧童
+cowhide~n:牛皮
+cow-hide~n:牛皮
+cowhouse~n:牛舍
+cowl~n:睡帽,僧袍
+cowling~n:外壳,帽,盖
+coworker~n:合作者,同事
+co-worker~n:同事,帮手,合作者
+co-worker in shop~n:伙伴
+cowpea~n:豇豆
+cowpox~n:牛痘
+cowpuncher~n:牛郎
+cowrie~n:宝贝
+cowry~n:宝贝,贝
+cow's milk~n:牛乳
+cowshed~n:牛棚,牛舍,牛房
+cowskin~n:牛皮
+cox~n:艇长,舵手
+coxcomb~n:花花公子,鸡冠花
+coxswain~n:舵手,艇长
+coy~a:怕羞,扭扭捏捏,不好意思,羞答答,忸怩
+coyote~n:恶棍
+coypu~n:海狸鼠
+coze~v:聊天,谈心
+cozen~v:蒙
+cozenage~n:欺骗
+coziness~n:舒适
+cozy~a:舒适
+cozy chair~n:安乐椅
+cozy nest~n:安乐窝
+cozy up to~v:拉拢
+cp~n:共产党
+crab~n:螃蟹,蟹,蟹肉|v:贬损,干涉,挑剔,发牢骚,抱怨,苛责
+crab louse~n:阴虱
+crabapple~n:山楂,沙果
+crabfest~n:诉苦,牢骚
+crack~v:裂|n:警句,缺点,罅隙,一会儿,自夸,打击,缝子,罅漏,裂化,俏皮话,挖苦话,夹缝|d:啪,劈啪,喀嚓,嘎|a:精锐,特等,精干|i:吧
+crack a joke~v:打哈哈,开玩笑,谑,调谑
+crack a whip~v:劈啪
+crack down~v:打击,镇压
+crack down pornography~v:扫黄
+crack force~v:劲旅
+crack jokes~n:戏谑
+crack of dawn~n:大清早
+crack of lips~n:裂唇
+crack oneself up~v:自夸,自诩
+crack the hardnuts~v:碰硬
+crack troop~v:劲旅
+crack troops~v:精兵
+crack up~v:垮,吹捧,夸奖
+crack wise~v:说破
+crackajack~n:能手,能干|a:能手
+crackdown~n:取缔,猛击,制裁,镇压|v:痛击
+cracked~a:钻石
+cracked grain~n:碎米
+cracker~n:饼干,鞭炮,爆竹
+crackerjack~a:能手,专家,能干
+cracking~v:裂开,裂化,开裂|n:裂化
+crackle~v:劈里啪啦,生气勃勃|d:劈里啪啦|n:裂纹
+crackpot~n:疯子,怪人|a:疯子
+cracksman~n:盗贼
+crackup~n:相撞,坠毁,崩溃
+crack-up~n:衰弱|a:精神衰弱
+cradle~n:摇篮,发源地,吊架|v:抚养
+cradlesong~n:摇篮曲
+cradling~v:摇篮,抚育
+craft~n:船,手艺,飞机,技巧,诡计,工艺,飞船,手腕,技术,行业,艺术,专业,驳船,技能,同业,同行,手工业
+craftiness~n:狡猾,权诈,诡计多端
+craftman~n:手艺人
+craftmanship~n:工艺
+craftsman~n:手艺人,工匠,匠人,巧匠,技工,匠
+craftsmanship~n:手艺,技艺,工,工力,工艺,匠心,功,技术
+craftsmen~n:工匠
+crafty~a:狡猾,狡黠,狡诈,奸诈,阴险,滑头滑脑,佼,鬼,滑,猾,奸猾|n:贼
+crafty and fawning~a:奸佞
+crafty idea~n:鬼主意
+crafty planning~n:神机妙算
+crafty scoundrel~n:老狐狸
+crafty sycophant~n:奸佞
+crafty trick~n:狡计
+crag~n:岩,喉咙
+crag-fast~a:进退两难
+craggy~a:嶙峋
+crake~n:秧鸡|v:叫
+cram~v:塞满,挤,死记硬背,塞入,充塞,填入,死记
+cram up~v:死记硬背
+cramming~v:塞满
+cramp~n:约束|v:禁闭,痉挛
+cramp iron~n:夹子
+cramped~a:局促,狭窄|v:逼
+crampfish~n:电鳐
+cramping apparatus~n:夹具
+cramping arrangement~n:夹具
+cramps~v:抽风
+crane~n:吊车,起重机,鹤|v:伸,吊
+crane crab~n:绞车
+crane ship~n:起重船
+crane's-bill~n:天竺葵,钳子
+craniacea~n:头盔
+cranium~n:头骨,头颅,颅,脑颅,脑壳
+crank~n:曲柄,怪人,弯曲,幻想
+crank axle~v:曲轴
+crank in~v:开拍
+crank point~v:顶点
+crankery~a:怪僻
+crankiness~n:狂妄
+crankle~n:弯曲|a:弯曲|v:弯曲
+crankshaft~n:曲轴
+cranky~a:古怪
+cranny~n:裂缝,裂口
+crap~n:垃圾,粪便,吹牛,废料|v:出岔
+crap up~v:出岔
+crape~n:绉布,黑纱,绉纱
+crartsmanship~n:技巧
+crash~v:坠毁,失事|n:毁坏,破产,失败,粉碎,瓦解,粗布|d:哐啷
+crash down~v:下坠
+crash into~v:撞入
+crash land~v:迫降
+crasher~n:不速之客,痛击
+crass cloth~n:夏布
+crassitude~a:愚钝,粗糙,粗大
+crate~n:柳条箱,筐子|v:装箱
+crater~n:火山口,弹坑,陨石坑
+cravat~n:领带,围巾
+crave~v:渴望,需要,恳求,恳请,要求,热中,乞求,热望
+crave for~v:希冀
+craven~n:胆小鬼,懦夫|a:懦怯
+craving~n:渴望,恳求,热望,恳请,烟瘾
+craving for knowledge~n:求知欲
+craw~n:喉咙,胃,嗉囊,嗉子
+crawfish~v:退却,后退,退缩|n:后退,退却
+crawl~v:爬,爬行|n:爬泳,围栏,爬行
+crawl along~v:爬行
+crawl backstroke~v:仰泳
+crawl stroke~n:爬泳|v:爬泳
+crawler~n:爬行动物,虱子,懒汉,罩衣
+crawler belt~n:履带
+crawling~v:折皱
+crayfish~n:龙虾
+crayon~n:蜡笔,碳精棒,粉笔
+craze~n:裂纹,热|v:狂妄
+craziness~n:发狂
+crazing~v:裂纹,开裂|n:裂纹
+crazy~a:疯,怪诞不经,狂|v:痴迷,怪诞不经
+crazy about~n:痴
+crazy cat~n:笨蛋,傻瓜
+crazy remarks~n:狂言
+crazy talk~n:狂言,不经之谈
+creak~d:吱,咯吱,嘎|v:嘎|i:呀
+cream~n:奶油,雪花膏,乳脂,乳酪,精华,香脂,奶油色,华,精英,妙处,乳剂,膏,菁华|v:去掉,提取
+cream cheese~n:乳酪
+cream colour~n:乳白
+cream of latex~n:胶乳
+cream off~v:提取,去掉
+cream-color~n:米色
+cream-colored~a:米黄
+creaming~v:乳化
+creamy white~n:牙色
+crease~n:折痕,皱纹,皱褶|v:挼,皱,擦伤
+creased~a:皱皱巴巴,纵
+creasy~a:皱皱巴巴
+create~v:创造,产生,造成,引起,制造,创作,生成,设立,创设,造,缔造,创制,建造,创,发牢骚,封爵,编造,建设,滋生,掀起
+create a disturbance~v:闹腾,肇事,捣乱,生事
+create a nuisance~v:兴风作浪
+create an impression~v:放空气
+create confusion~v:扰乱
+create difficulties~v:刁难,作梗,从中作梗
+create disturbances~v:蠢动,放火
+create groundless rumors~v:无中生有,凭空捏造,向壁虚造
+create income~v:创收
+create new styles~v:别出心裁,独出心裁
+create profit~v:创利
+create side issues~v:节外生枝
+create something new~v:创新
+create trouble~v:惹事,酿祸,滋事
+created by nature~a:天造地设
+creation~n:创造,创作,宇宙,发生,建设,创设
+creations~n:创作
+creative~v:独创|a:独创
+creative power~n:创造力
+creative viewpoint~n:创见
+creative work~n:创作
+creativeness~n:创造性,才思
+creativity~n:创造性,创造力
+creator~n:创世主,上帝
+creature~n:动物,生物,家伙,东西,工具,家畜,走狗,奴才
+creatures~n:众生,牛马
+credence~n:供桌,凭证,国书,信任,信用|v:信任
+credenda~n:信条,教条
+credential~n:凭证,证件,国书,文凭
+credentials~n:证件,国书,证书,凭证
+credibility~n:可靠性,可信性
+credible~a:可信
+credibly~d:确实
+credit~n:信贷,信用,贷款,荣誉|v:归,信用,信,信任,放款|a:光荣
+credit balance~n:结欠,存项
+credit business~n:赊售
+credit buying~n:赊购
+credit card~n:信用卡
+credit cooperative~n:信用社
+credit funds~n:信贷资金
+credit sale~n:赊销,赊售
+credit side~n:付方
+creditability~n:可信性
+creditable~a:体面
+creditably~d:不愧
+creditor~n:债主,债权人,债权,贷方
+creditor nation~n:债权国
+creditor's rights~n:债权
+credo~n:信条,教义
+credulity~n:轻信
+credulous~a:见风是雨
+creed~n:信条,教义,教条,宗派,主义,纲领
+creek~n:支流
+creep~v:爬,出现,爬行,产生,蔓延,蠕动,发痒|n:蠕动
+creep hole~v:借口
+creep into~v:产生,出现
+creepage~n:漏电,蠕动,渗水
+creeper~n:爬山虎,爬虫,蠕虫,马屁精,啄木鸟
+creeper gear~n:减速器
+creepers~n:爬山虎
+creeping~a:蜿蜒,悄悄的|v:漂移,蠕动
+creeping motion~n:蠕动
+creeping plant~n:蔓生植物
+creeping vine~n:瓜葛
+creeping weed~n:蔓
+creese~n:短剑
+cremains~n:骨灰
+cremate~v:火化,烧化,焚化,火葬
+cremation~n:火葬,烧化|v:火葬,火化
+crematory~n:火葬场
+crenel~n:垛口,城垛
+crenellation~n:箭垛子
+crenelle~n:城垛
+creolization~v:混合
+crepe~n:绉布,皱,绉
+crepe georgette~n:乔其纱
+crepuscule~n:黄昏
+crescendo~n:进展,渐进
+crescent~n:月牙,新月,弦月,伊斯兰教,娥眉月
+cresol~n:甲酚
+cresols~n:甲酚
+cress~n:水芹
+cresset~n:标灯
+crest~n:峰,山顶,脊,浪头,山脊,冠子,鸡冠,峰值,分水岭,冠,羽冠|v:冠
+crest slab~n:顶板
+crest value~n:峰值
+crested myna~n:八哥
+crestfallen~a:灰溜溜,丧家之犬,颓靡
+cresylic acid~n:甲酚
+creta~n:白垩
+cretaceous~n:白垩
+cretaceous period~n:白垩纪
+crete~n:克里特岛
+cretinism~n:呆小症
+crevasse~n:决口,裂口,裂隙
+crevice~n:缝,裂缝,裂隙,隙,夹缝
+crevice between teeth~n:牙缝
+crew~n:船员,水手,机组,乘务员,群,组,班,队,包乘组,船夫
+crew commander~n:机长
+crew member~n:乘务警,乘务员,乘员
+crewcut~n:平头
+crewman~n:船员,乘务员
+crew-man~n:乘务员
+crewmember~n:乘务员,船员
+crib~n:仓库,小屋,脚手架,酒吧,框,食槽,山顶|v:拘禁
+cribbing~v:作弊
+cribble~v:筛
+cricket~n:板球,蟋蟀,光明正大,蛐蛐儿,促织
+crier~n:法警
+crile~n:侏儒
+crime~n:犯罪,罪行,罪,罪恶,辜,罪戾,戾,蠢事
+crime culprit~n:元凶
+crime rate~n:犯罪率
+crimea~n:克里米亚
+crimean~n:克里米亚
+criminal~n:罪犯,犯人|a:刑事
+criminal actions~n:胡作非为
+criminal chieftains~n:罪魁祸首
+criminal code~n:刑法
+criminal law~n:刑律
+criminal penalty~n:刑罚
+criminal record~n:前科
+criminal syndicate~n:黑社会
+criminality~n:罪行,犯罪,罪恶
+criminally~d:犯罪
+criminate~v:责备,定罪
+crimination~n:定罪,控告,责备
+criminology~n:犯罪学
+crimp~v:阻碍,妨碍,卷,卷曲,诱骗|n:障碍
+crimped hair~n:卷发
+crimped lock~n:夹具
+crimple~v:皱,缩
+crimson~n:紫红色,深红|a:绯红,赤红
+cringe~v:卑躬屈节|n:畏缩
+cringing~v:卑躬屈节,低三下四|a:低三下四
+crinkle~v:起皱,皱|n:皱纹,折痕
+crinkum-crankum~n:弯曲
+crinoid~n:海百合
+cripling~v:隆起,凸出
+cripple~n:瘸子,残废|v:致残
+crippled~a:残废,废|v:废
+crippledom~n:残废
+cripplehood~n:残废
+crisis~n:危机,紧要关头,危险期,难关,节骨眼,转折点,临界,恐慌|a:临界
+crisp~a:脆,脆生,酥脆,油酥,酥|v:卷曲,起皱|n:脆
+crisp candy~n:酥糖
+crisp fritter~n:薄脆
+crispation~v:卷曲|n:挛缩
+crisscross~v:纵横交错,交错|n:抵触,混乱,字母
+crisscross footpath~v:阡陌
+crisscross streets~v:十字街头
+crisscrossing~v:纵横交错
+crisscross-row~n:字母
+crista~n:脊
+criteria~n:标准
+criterion~n:标准,准则,准绳,基准,准,臬,判定,艺,判别式,圭臬,轨范,则
+critical~a:危急,临界,批评,严重,紧急,吃紧,革,生死存亡,紧要,打紧,凶险,危重,中肯,沉重,笃
+critical condition~n:临界状态
+critical juncture~n:紧要关头,关,节骨眼
+critical point~n:紧要关头
+critical shortage of~n:奇缺
+criticality~n:临界|a:临界
+critically ill~a:危笃
+criticise~v:批评
+criticism~n:批评,评论,批判,非难,鉴定,审定,校勘
+criticize~v:批评,说,评论,挑剔,批判,指责,非难,批斗,非议,批驳,批,评,揭批,鉴定,贬责,刺,校勘
+criticize mentally~v:皮里阳秋
+criticize oneself~v:自我批评
+criticize severely~v:苛责
+criticize unfairly~v:吹毛求疵
+critique~n:批评,批判,评论,鉴定,检阅|v:批判
+croak~v:抱怨,发牢骚,死|n:牢骚,怨言|d:呱呱
+croaker~n:医生
+croakers~n:石首鱼
+croatia~n:克罗地亚
+crochet~n:钩
+crock~n:缸,坛子,废物,胡说,罐|v:衰竭,掉色
+crock up~v:衰竭
+crockery~n:陶器,瓦器,瓦罐
+crocket~n:浮雕
+crocodile~n:鳄鱼,鳄
+crocodile tears~n:鳄鱼眼泪
+crocus~n:藏红花,庸医
+croft~n:宅地
+crone~n:干瘪
+crony~n:老友,密友
+cronyism~n:友谊
+crook~n:骗子,坏蛋,恶棍|v:弯曲
+crookback~n:驼背
+crooked~a:歪,弯,卑鄙,弯曲|v:贼,歪七扭八,曲,歪斜|d:歪七扭八|n:贼
+crooked means~n:邪门儿,邪门歪道
+crooked way~n:歪路,歪门邪道
+crooked ways~n:邪门歪道,歪门邪道
+crookery~n:欺诈
+croon~v:哼,哼唱
+crop~n:庄稼,作物,农作物,产量,收成,收获|v:发芽
+crop failure~n:荒,饥,凶,荒歉,歉,歉收
+crop out~v:露出
+crop protection~n:植保
+crop rotation~n:轮种
+crop up~v:出现,发生,来
+croping~n:收成
+cropland~n:农田,田
+cropout~v:露头
+cropper~n:庄稼,佃农,割草机,收割机,作物
+cropping~v:剪切,栽培
+crops~n:庄稼,农作物,稼
+crosier~n:拐杖
+cross~v:过,穿过|n:不幸,挫折,骗局|a:十字
+cross a river~v:济
+cross action~v:反诉
+cross bar~n:横杆
+cross breed~p:杂交种
+cross breeding~v:杂交育种,杂交
+cross collateral~v:对保
+cross connection~v:交叉
+cross gap~v:间隙
+cross girder~v:横梁
+cross member~v:横梁
+cross mountains~v:跋
+cross one's legs~v:盘膝,盘腿
+cross one's mind~v:想起
+cross out~v:删除,杠,涂,一笔抹煞,勾,勾除,抹
+cross over~n:跨越|v:横贯
+cross point~v:交叉点
+cross product~n:矢量积
+cross range~v:侧向
+cross reference~p:对照
+cross section~v:截面,抽样,样品,剖面
+cross several oceans~v:远涉重洋
+cross spreader~v:横梁
+cross stitch~p:挑
+cross swords~v:交锋
+cross swords with~v:兵戎相见
+cross talk~v:斗嘴,争论,串话,口角
+cross the border~v:越界
+cross the rubicon~v:有去无回
+cross the stage~v:过场
+cross the threshold~v:入门
+cross trade~v:买空卖空
+cross under~v:交叠
+cross verbal sword~v:唇枪舌剑
+cross verbal swords~v:唇枪舌剑
+cross wall~v:石坎
+crossbar~n:裳,闩
+cross-bar~n:横杆
+crossbeam~n:横梁,大梁
+crossbow~n:弩弓,弩
+crossbowman~n:弓弩手
+crossbred~n:杂种
+crossbreed~n:杂种|v:杂交
+cross-country~a:越野
+cross-country race~n:越野赛跑,越野赛
+cross-coupling~n:相互作用
+cross-cousin~n:姑表
+crosscurrent~n:逆流,横流
+crosscut~n:捷径,石门
+cross-examination~n:盘问
+cross-examine~v:盘问,盘诘
+cross-eye~n:斗眼
+crossfire~v:干扰|n:干扰
+crossgirder~n:横梁
+crosshead~n:小标题
+crossheading~n:石门
+crossing~n:交叉,横渡,渡口,杂交,挫折,阻碍,阻挠,划线,路口,相交,交叉点|v:交叉,相交
+crossing off~n:删去
+crossing over~n:交换
+crossing-over~n:交换,互换
+cross-legged~n:二郎腿|d:盘膝
+crossly~d:横,斜
+crossness~n:别扭
+crossover~n:截面,天桥,交叠,交叉,交换,岔道,相交,交叉点|v:相交,交叉
+crossover point~n:交点
+cross-over point~n:交叉点
+crosspiece~n:档儿
+cross-pollination~n:异花传粉
+cross-purposes~n:答非所问
+cross-question~v:盘问
+crossrange~n:横向
+cross-refer~v:对照,参照
+crossroad~n:十字路口,立交桥
+crossroads~n:歧路,十字街头,十字路口
+cross-roads~n:十字街头
+cross-shaped like letter“+”~n:十字
+crosssill~n:横梁
+cross-street~n:横街
+crosstalk~n:串话|v:串话
+crosstie~n:枕木
+cross-under~v:交叠,交叉
+crosswalk~n:斑马线
+crosswise~d:交叉,横向|n:横向
+crotalid~n:响尾蛇
+crotch~n:裤裆,裆,胯,丫杈,桠杈,岔口,树杈
+crotched~a:丫杈|n:丫杈
+crotchet~n:怪癖
+crotcheteer~n:怪人
+crotchety~a:生气
+croton~n:巴豆
+croton seed~n:巴豆
+crouch~v:蹲,蹲伏|n:蹲
+crouch down~v:趴下
+croup~n:臀部
+croupe~n:臀部
+crow~v:啼|n:老鸦,老鸹,鸦
+crow over~v:得意
+crowbar~n:撬棍,撬棒,短路器,断裂,撬杠
+crowd~n:人群,群众|v:拥挤,塞满
+crowd into~n:拥入
+crowd on~n:逼近
+crowd out~v:排挤,挤出
+crowd together~v:辏,丛集,丛,簇
+crowd with~n:充满
+crowded~v:肩摩踵接|a:拥挤
+crowded together~v:密集
+crowfoot~n:撬棍,吊索
+crowing~v:加冕
+crown~n:王冠|v:戴,酬劳
+crown block~n:定滑轮
+crown imperial~n:皇冠
+crown of laurels~n:桂冠
+crown plate~n:顶板
+crown prince~n:东宫
+crown sheet~n:顶板
+crown with~n:冠
+crowner~n:倒栽葱
+crowning~n:终结,加冕|a:登峰造极,至高无上|v:至高无上
+crownpiece~n:顶部
+crow's-foot~n:鱼尾
+crozier~n:拐杖
+crrupt~v:腐化
+cru~n:葡萄园
+crucial~a:紧要
+crucial juncture~n:坎儿
+crucial moment~n:关头,紧要关头
+crucial point~n:机
+crucial reason~n:症结
+crucial symptom~n:险症
+crucian~n:鲫鱼
+crucian carp~n:鲋
+crucible~n:坩埚,熔炉
+crucifix~n:十字架
+crucifixion~n:刑罚
+cruciform joint~n:十字街头
+crucify~v:折磨
+crude~a:粗,粗糙,粗暴|n:原油
+crude imitation~n:东施效颦
+crude material~n:原料
+crude oil engine~n:柴油机
+crudely made~v:粗制滥造
+crudeness~n:芜杂
+crude-oil~n:原油
+crudity~n:生,生硬
+cruel~a:残忍,残酷,狠心,凶狠,残暴,心狠,惨无人道,野蛮,厉害,暴虐,心毒|d:非常
+cruel bloodsucking exploitation~n:敲骨吸髓
+cruel corporal punishment~n:毒刑
+cruel official~n:酷吏
+cruel punishment~n:大刑
+cruelty~n:残忍,残酷,虐待,残暴,刻毒,冷酷
+cruise~v:巡逻,巡游,巡航|n:游览,旅行,巡游,周游,巡逻
+cruise missile~n:巡航导弹
+cruiser~n:巡洋舰,游艇
+crumb~n:面包屑,团粒,少许,碎片,点滴
+crumble~v:崩溃,崩塌,破碎,倒塌,瓦解,土崩瓦解,粉碎,崩,灭亡,溃散,消灭,坍塌
+crumble down~v:坍
+crumble to dust~v:化为乌有,化为灰烬
+crumbling~v:摇摇欲坠
+crumbs~n:屑,渣
+crumby~a:肮脏,低廉,劣等
+crummy~a:丰满
+crumple~v:崩溃,皱,起皱,打皱,击溃
+crumpled~a:皱皱巴巴,纵|v:皱皱巴巴
+crunch~n:咬|v:咬
+crunchy candy~n:酥糖
+crunode~n:结点,交叉点
+cruor~n:血块
+cruorin~n:血红蛋白
+crus~n:小腿
+crusade~n:十字军,讨伐|v:开战,讨伐
+crusade against~n:讨伐
+cruse~n:壶,瓦罐,坛子
+crush~v:粉碎|n:迷恋
+crush down~v:碾碎,打倒
+crush to powder~n:粉
+crush up~v:碾碎,粉碎
+crushed rice~n:粞
+crusher~n:破碎机
+crushing~a:粉碎|v:粉碎
+crush-room~n:休息室
+crust~n:地壳,外壳,外表,表面,外皮,厚颜无耻,老面皮|v:结痂
+crust like formation~n:巴
+crustacean~n:甲壳动物
+crusted~v:陈年
+crustiness~n:顽固,硬壳,倔强,执拗
+crusty~a:乖戾
+crutch~n:拐杖,依靠,支柱|v:拐,支撑
+crux~n:关键,要点,难题,症结,难处,难点,坩埚
+cry~v:哭,叫|n:谣传,运动,口号,呐喊,哀求,呼吁|d:哇哇
+cry about~v:哭诉
+cry bitterly~v:痛哭,痛哭流涕
+cry down~v:褒贬,贬低,诋毁
+cry for~v:请求,恳求
+cry for bitterness~n:叫苦连天
+cry for help~n:呼救,求救
+cry loudly~v:嚎哭,大声疾呼,嚎叫,嚎啕,号哭,号啕,号啕大哭,啕
+cry off~v:撤回,取消
+cry one's wares~v:叫卖,吆喝
+cry out~v:叫唤,大叫,吆喝,喊,喊叫,呼,呐喊
+cry out for~v:急需
+cry out involuntarily~v:失声
+cry out loudly~v:呐喊
+cry outright~v:放声大哭
+cry over~v:悲伤
+cry piteously~v:哀号,哭天抹泪
+cry sadly~v:哀叫
+cry to heaven~n:叫苦连天
+cry up~v:称赞,推崇
+cry without restraint~n:放声大哭
+crying~v:哭声
+crying with hunger~n:嗷嗷待哺
+crylic acid~n:丙烯酸
+cryogen~n:冷冻剂,冷却剂
+cryogenic conductor~n:超导
+cryogenics~n:低温学
+cryogenin~n:冷却剂
+cryolite~n:冰晶石,冰晶
+crypt~n:地窖,地穴
+cryptogam~n:隐花植物
+cryptogamia~n:隐花植物
+cryptogram~n:密码,暗号,隐花植物
+cryptograph~n:密码
+cryptographer~n:密码员
+cryptology~n:隐语
+cryptomeria~n:柳杉
+cryptonym~n:假名,匿名
+cryptorchidism~n:隐睾症
+crystal~n:晶体,水晶,结晶,石英,结晶体,厕所,晶粒,预言,占卜
+crystal ball~n:玻璃球
+crystal body~n:晶体
+crystal clear~a:湛,滢,清澈,鲜明
+crystal lattice~n:晶体点阵
+crystal particle~n:晶粒
+crystal sugar~n:冰糖
+crystal valve~n:晶体管
+crystal-ball~v:占卜
+crystal-lattice~n:晶体点阵
+crystalli~n:水痘
+crystalline~a:粼粼,结晶体|n:水晶体
+crystalline lens~n:水晶体,晶状体
+crystallite~n:晶粒
+crystallization~n:结晶,结晶体,明朗化
+crystallize~v:结晶|n:结晶
+crystallography~n:结晶学,晶体学
+crystalloid~n:分,晶体,郡
+crystalon~n:碳化硅
+cub~n:仔畜,仔,生手,子畜,幼畜
+cuba~a:古
+cubage~n:容积,体积
+cubature~n:体积
+cube~n:立方体,立方,四面体
+cube meter~n:立方米
+cube root~n:立方根
+cubic~n:四方
+cubic content~n:体积,容积
+cubic dilatation~n:体膨胀
+cubic measure~n:容积,容量
+cubic meter~n:立方
+cubic niter~n:硝酸钠
+cubic sugar~n:方糖
+cubical dilatation~n:体膨胀
+cubicle~n:室,部分,段
+cubism~n:立体派
+cubitus~n:尺骨,前臂,肘
+cuboid~n:长方体
+cuckold~n:王八,乌龟|v:戴绿帽子
+cuckoldry~n:通奸,私通
+cuckoo~n:杜鹃,布谷鸟|a:笨,傻
+cucumbe~n:胡瓜
+cucumber~n:黄瓜,胡瓜
+cucurbit~n:葫芦
+cucurbitaceae~n:葫芦科
+cuddle~v:搂|n:搂抱,拥抱
+cuddy~n:餐厅,傻瓜,厨房,杠杆
+cudgel~n:棍棒,棒,棒子,木棒,哨棒
+cudgel one's brains~v:费尽心机,煞费苦心
+cudgel play~n:棍术
+cudweed~n:鼠曲草
+cue~n:暗示,指示,线索,发辫,提示,暗号,刺激,角色,心情
+cuff~n:袖口,手铐,打,袖头,罗口
+cui~n:崔
+cuirass~n:装甲,鳞甲
+cuisine~n:菜肴,厨房,烹调法,烹饪
+cuit~n:熟丝
+culch~n:废物
+cul-de-sac~n:死胡同,绝路,盲肠,困境
+cul-de-sacs~n:死胡同
+culex~n:家蚊
+culicid~n:蚊子
+culinary art~n:烹饪
+cull~v:采,选拔,摘,拣|n:等外品
+cullender~n:滤器
+culling~v:精选,选择
+cullis~n:沟
+cully~n:家伙,傻瓜
+culm~n:竹竿,茎,杆
+culmen~n:高潮
+culminating point~n:极点
+culmination~n:高潮,极度,绝顶,成就,顶点,极点,完成
+culottes~n:裙裤
+culottes divided skirt~n:裙裤
+culpable of punishment~a:罪有应得
+culprit~n:罪犯,犯人,未决犯,嫌疑犯,犯罪
+cult~n:崇拜,信徒,祭礼,信仰,迷信,异教,礼拜,邪教
+cult of gold-worship~n:拜金主义
+cultivable land~n:可耕地
+cultivate~v:培育,耕种,培养,种,养成,耕作,开垦,种植,养,培植,垦,莳,树,陶,栽培,中耕,护养,耪,修,追求,培,磨炼,养殖,谋求,教化,垦殖,培训,发展,耕,植
+cultivate virgin land~v:开荒
+cultivated field~n:畲
+cultivated land~n:耕地
+cultivated varieties~n:品种
+cultivation~n:栽培,耕种,耕作,开垦,修养,养殖,农垦,教养,培养,造林|v:耕耘,耕作
+cultivation land~n:耕地
+cultivation of crops~n:农作
+cultural center~n:文化馆
+cultural life~n:精神文明
+cultural palace~n:文化宫
+cultural relics~n:吉光片羽
+cultural troupe~n:文工团
+culturati~n:文化人
+culture~n:文化,修养,文明,栽培,养殖,教养|v:培养,养殖
+culture dish~n:培养皿
+culture medium~n:培养基
+cultured~a:斯文,文雅
+cultured in manners~a:温文尔雅
+culverin~n:火枪
+culvert~n:涵洞,暗渠,涵,阴沟
+culvert pipe~n:涵管
+cum~p:兼,和,附属,与|v:附有
+cumber~v:妨碍,拖累,妨害,阻碍,阻塞|n:妨碍
+cumberland~n:坎伯兰
+cumbersome~a:笨重,笨,滴里嘟噜,缛,粗笨,冗长
+cumin~n:小茴香
+cummerbund~n:腰带,腰围
+cumquat~n:金橘
+cumshaw~n:酒钱
+cumstance~n:境界
+cumulate~v:积累,累积,堆积,蓄积
+cumulation~n:重叠,累积,积累,累加,堆积,蓄积
+cumulative~a:滚存
+cumulonimbus~n:积雨云
+cumulus~n:积云,堆
+cumulus cloud~n:积云
+cumulus congests~v:浓积云
+cunctation~n:迟延
+cuneate~a:楔形
+cuneatus~n:楔形
+cuneiform~n:楔形,楔形文字
+cunning~a:狡猾|n:诡诈,贼,巧妙
+cunning man~n:九头鸟
+cunnus~n:阴门
+cunt~n:女人
+cup~n:杯子,杯,茶杯,银杯,奖杯,酒,酒杯,冷饮,饮酒|v:拔罐子
+cup of~n:杯
+cupboard~n:柜橱,柜子,橱柜,柜,碗柜,餐具柜
+cupid~n:爱神
+cupidity~n:贪婪,贪欲,贪心
+cupola~n:化铁炉
+cupping glass~n:拔火罐,火罐
+cupping jar~n:火罐
+cupric sulphate~n:硫酸铜
+cuprite~n:赤铜矿
+cupronickel~n:白铜
+cuprous oxide~n:氧化亚铜
+cuprum~n:铜
+cupule~n:吸盘
+cupus erythematosus~n:红斑狼疮
+cur~n:恶狗
+curative~n:药品,医药
+curative effect~n:疗效
+curative ratio~n:治愈率
+curator~n:馆长,监护人,保管员,学监
+curb~n:制止,路肩,镶边|v:制止,束缚
+curb chain~n:锁链
+curbside~n:街道
+curculio~n:象鼻虫
+curcuma~n:姜黄
+curcumin~n:姜黄
+curdle~v:凝结,凝固,狞笑,凝|n:结块
+cure~v:治疗,治愈,治,医治|n:疗程,补救,处治,对策,疗养
+cure of~v:治愈
+cure rate~n:治愈率
+cure the sickness~v:治病
+cure with medicine~n:药
+cured hay~n:干草
+cured meat~n:腊肉
+cured meat fish~n:腊味
+curfew~n:宵禁|v:宵禁
+curie~n:居里
+curing~v:养护,硬化,治疗|n:治愈
+curio~n:古玩,骨董,古董
+curiosa~n:珍品
+curiosity~n:好奇心,好奇,珍品,古董,奇人
+curious~a:奇怪,奇异,稀奇古怪,希奇
+curiously~d:很,非常
+curium~n:锔
+curl~v:卷曲,蜷曲|n:拳
+curl around~v:缠绕
+curl hair~v:卷发
+curl one's lip~v:撇嘴
+curl over~v:卷曲
+curl up~v:旋绕,翘,蜷缩
+curl upwards~v:袅绕
+curler~n:卷发夹
+curlicue~n:花饰
+curliness~n:卷曲,旋涡
+curling~v:卷曲|n:卷曲
+curling factor~n:灰黄霉素
+curling irons~n:火剪
+curling tongs~n:火剪
+curly~a:卷,鬈
+curly beard~n:虬髯
+curn~n:谷物,少量
+curr~v:低语
+curragh~n:沼泽地
+currency~n:货币,通货,通用,流通,传播,流传,行情,币,钱钞,宝,钿
+currency arbitrage~n:套汇
+currency inflation~n:通货膨胀
+current~n:电流|a:现,流,通行|v:通用,通行,融
+current assets~n:流动资金
+current bias~n:偏流
+current carrier~n:载流子
+current condenser~n:电容器
+current fashion~n:流俗
+current fashions~n:俗尚
+current gauge~n:流量计,流速计,电流表
+current intensity~n:电流强度
+current lead~n:电线
+current malpractice~n:时弊
+current meter~n:电流计
+current money~n:通货
+current period~n:当代
+current post~n:现职
+current price~n:盘,现价
+current situation~n:现局,现状
+current source~n:电源
+current speed~n:流速
+current supply~n:供电
+current transformer~n:变流器
+currently~d:现在,通常,这会儿,流畅,现,一般
+currently effective~a:现行
+currently in effect~p:现行
+currently in office~p:现任
+curricula~n:课程
+curriculum~n:课程
+curriculum schedule~n:课程表
+curriculum vitae~n:履历,履历表
+curry~v:鞭笞,打|n:咖喱,咖哩
+curry favor~v:钻营
+curry favor with~v:卖好
+curry favour with~v:巴结,谄媚,讨好,献媚,卖好,阿谀,逢迎,阿谀奉承,媚
+curse~v:诅咒,咒骂,骂|n:祸乱
+curse in rage~n:怒骂
+curse roundly~v:臭骂,痛骂
+cursed~v:狗|n:狗
+curses~n:咒语
+cursive~n:草书|a:草书
+cursive hand~n:草写
+cursive handwriting~n:行书
+cursive script~n:草书
+cursor~n:指示器,游标
+cursores~n:走禽
+cursorial birds~n:走禽
+cursoriness~n:粗率
+cursory~a:浮光掠影,肤皮潦草|v:浮光掠影
+curtail~v:缩减,削减,缩短,节减,省略,剥夺,褫夺
+curtailing~v:缩短
+curtailment~n:削减
+curtain~n:窗帘,幕,帘子,幕布,门帘,帘,围子,垂帘,幔帐,隔壁|v:遮蔽,剧终,隐藏
+curtain call~n:谢幕
+curtain fall~n:结尾,大团圆,闭幕
+curtain for ceremonies~n:围桌
+curtain raiser~n:小事
+curtch~n:拐杖
+curtilage~n:庭园,宅地
+curtness~n:草率,简略
+curvature~n:曲率,弯曲
+curve~n:曲线,弯,弯曲,弧形|v:弯
+curve gain regulation~n:曲调
+curve ruler~n:曲线板
+curved~v:弓形,弯|a:弯曲|n:弓形
+curved-fire gun~n:曲射炮
+curvet~v:腾跃|n:腾跃
+curvilinear regulation~n:曲调
+curvity~n:曲率
+cush~n:薪水
+cushaw~n:倭瓜,南瓜
+cushawfff~n:南瓜
+cushion~n:垫子,靠垫|v:掩饰
+cushion craft~n:气垫船,气垫
+cushion ring~n:垫圈
+cusp~n:牙齿,波峰,交点,尖头,尖端
+cuspid~n:犬齿
+cuspidor~n:痰盂
+cuspidore~n:痰盂
+cuss~n:咒骂,粗话,坏话,诅咒|v:咒骂,诅咒
+cuss it~v:他妈的
+cussedness~n:乖戾
+custard~n:蛋羹
+custodian~n:监护人,保管人,门卫,管理员
+custody~n:拘留,保管,监护,看守,管理,监禁,收容
+custom~n:风俗,海关,习惯,习俗,惯例,关税,习惯法,规矩,常规,风,遗俗,流俗|a:俗|v:定制
+custom made~n:定制,定做
+customarily~d:通常,素来,照例
+customary~a:惯用,惯|v:惯
+customary practice~n:惯例
+customary rule~n:惯例
+customary tactic~n:惯技
+customer~n:顾客,客户,主顾,人,家伙,买主,观众,店客,顾主,听众,客
+customhouse~n:海关,关
+customize~v:定制,定做
+customs~n:关税,海关,进口税
+customs administration~n:税务
+customs clearance~n:结关,报关
+customs declaration~n:报单
+customs duty~n:关税
+customs house~n:海关
+customs officer~n:稽查
+customs pass~n:关卡
+customtailor~v:定做
+custom-tailor~v:定制
+cut~v:切|n:插画
+cut a caper~v:手舞足蹈
+cut a figure~v:露头角,出风头
+cut a hole~v:凿
+cut a mountain~v:开山
+cut a road~v:开路
+cut a swath~v:招摇过市
+cut about~v:奔走
+cut across~v:穿越,跨,跨越
+cut angle~v:交角
+cut apart~v:割裂,湔,切开
+cut at~v:猛击
+cut away~v:逃走
+cut back~v:削减,修剪,减少
+cut bay~v:跨度
+cut blocks~v:刊刻
+cut both way~v:依违两可
+cut class~v:赖学,逃课,逃学
+cut classes~v:旷课
+cut down~v:伐,刈,斩断,减削,芟除,缩短,压缩,裁,紧缩,削减,裁减
+cut down on~v:节省
+cut firewood~v:荛
+cut flat~v:削平
+cut flush~v:一刀切
+cut grass~n:刍
+cut in~v:插嘴,打岔
+cut in two~v:一分为二
+cut into parts~v:裁
+cut into slices~v:切片,片
+cut it fine~v:精打细算
+cut loose~v:割断,逃跑,断绝
+cut loose from~v:摆脱
+cut no figure~v:默默无闻,微不足道
+cut noodles~v:切面
+cut of~v:殊
+cut off~v:湔,戬,删除,割断,绝,刽,断开,割切,断,关闭,祝,阻隔
+cut off evildoers~v:为民除害
+cut off from~v:阂
+cut one's stick~v:逃跑
+cut one's throat~v:刎,自刎
+cut open~v:刳,掊
+cut out~v:断开,收起,止,剪裁,截取,删除,删削,剜
+cut over~v:采伐
+cut price~n:降价
+cut school~v:旷课
+cut short~v:打断,截断
+cut somebody dead~v:视同陌路
+cut somebody's hair~v:推头
+cut the face~v:抓破脸
+cut the ground~v:拆台
+cut the knot~v:快刀斩乱麻,一刀两断
+cut the throat~v:刭
+cut throat~n:刭
+cut to pieces~v:剐
+cut up rough~v:发脾气,生气
+cut with scissors~v:铰
+cut with sickle~v:钐
+cut-and-come-again~n:丰饶,丰富
+cutaway view~n:剖视图
+cutback~n:减产,剪枝,倒叙
+cutcherry~n:法院
+cutchery~n:法院
+cute~a:哏,乖巧|v:讨人喜欢
+cuticle~n:表皮,皮面
+cutie~n:美人,情人,尤物
+cutin~n:角质
+cut-in~n:接通,开动
+cutis~n:表皮
+cutlas~n:短剑
+cutlass~n:短剑
+cutlery~n:刀具
+cutlet~n:肉排,肉片
+cutline~n:图例
+cutoff~n:断开,运河,捷径,近路,中止,停车,切断,熄火|v:断开,熄火
+cutout~n:排气阀,保险装置,断开,剪纸
+cutpurse~n:小偷
+cut-rate price~n:折价
+cuttage~n:扦插|v:扦插
+cutter~n:刀具,门牙,截煤机,切割机
+cutter blade~n:刀片
+cutter edge~n:刀刃
+cutter frame~n:刀架
+cutter point~n:刀锋,刀口
+cutter saddle~n:刀架
+cutthroat~n:凶手|a:凶残
+cutting~n:扦插,插条,加工,切断,路堑,剪辑|v:刻,切割,开凿,采掘,切削,伐木,剪辑,削球|a:厉害,尖利
+cutting angle~n:切削角
+cutting die~n:板牙
+cutting edge~n:尖端,前沿
+cutting face~n:切削面
+cutting in speech~n:嘴尖
+cutting out~v:剪贴
+cutting pliers~n:克丝钳子
+cutting remarks~n:冷嘲热讽
+cutting tool~n:刀具
+cutting up~v:采伐
+cutting-off~n:切断
+cuttle~v:折叠
+cuttlebone~n:海螵蛸
+cuttlefish~n:乌贼,墨鱼,鲗
+cut-tobacco drier~n:烘丝机
+cutty~n:兔子
+cutup~n:痛骂,打击
+cutworm~n:地蚕,毛虫,地老虎
+cuvette~n:电池
+cuz~c:因为
+cyan~n:青色
+cyanide~v:氰化
+cyanide carburizing~v:氰化
+cyaniding~v:氰化
+cyanogen~n:氰
+cyanosis~n:黄萎病,青紫
+cybernate~v:控制
+cybernaut~n:网民
+cybernetics~n:控制论
+cycas~n:铁树,苏铁
+cyclamate~n:糖精
+cyclamen~n:仙客来
+cycle~n:循环,周期,摩托车,自行车,周|v:轮转
+cycle racing~v:赛车
+cycle time~n:时序
+cycles per second~n:赫兹
+cyclic annular~n:环状
+cycling~v:循环
+cycloalkanes~n:环烷
+cyclometer~n:里程表,计程表
+cyclomycin~n:四环素
+cyclone~n:旋风,气旋,羊角,扶摇
+cyclopaedia~n:百科全书
+cycloparaffin~n:环烷
+cyclopean~a:庞大
+cyclopedia~n:百科全书
+cyclopentadiene~a:茂
+cygnus~n:天鹅
+cygon~n:乐果
+cylinder~n:汽缸,气缸,圆柱,圆筒,圆柱体,滚筒,钢瓶,柱,量筒
+cylinder stator~n:汽缸
+cylindrical spiral~n:螺旋线
+cymbidium~n:兰花
+cyme~n:聚伞花序
+cymoscope~n:检波器
+cynical~a:冷嘲热讽|v:冷嘲热讽
+cynicism~n:玩世不恭,愤世嫉俗,讥诮,冷言冷语,冷笑
+cynolyssa~n:狂犬病
+cynomania~n:狂犬病
+cynosure~n:北极星,指针
+cypher~n:密码
+cyphosis~n:驼背
+cypress~n:柏树,扁柏,柏木,刺柏,柏
+cyprinoid~n:鲤鱼
+cypripedium~n:凤仙花
+cyprite~n:辉铜矿
+cyprus~n:塞浦路斯
+cyrrhus~n:卷须
+cyst~n:囊肿,囊,膀胱,胞
+cysticercus~n:囊虫
+cystitis~n:膀胱炎
+cyteblast~n:细胞核
+cythion~n:马拉松
+cytology~n:细胞学
+cytomembrane~n:细胞膜
+cytoplasm~n:细胞质
+czar~n:沙皇
+czech~n:捷克
+czechoslovakia~n:捷克斯洛伐克
+czekh~n:捷克

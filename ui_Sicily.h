@@ -41,7 +41,7 @@ public:
         Sicily->setMinimumSize(QSize(300, 450));
         Sicily->setMaximumSize(QSize(300, 450));
         QIcon icon;
-        icon.addFile(QStringLiteral("sicily.ico"), QSize(), QIcon::Normal, QIcon::Off);
+        icon.addFile(QStringLiteral("Sicily.ico"), QSize(), QIcon::Normal, QIcon::Off);
         Sicily->setWindowIcon(icon);
         Sicily->setWindowOpacity(1);
         Sicily->setToolTipDuration(-1);
