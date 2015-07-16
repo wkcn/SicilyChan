@@ -7,6 +7,7 @@
 QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
+QMAKE_CXXFLAGS += -std=c++11
 
 TARGET = SicilyChan
 TEMPLATE = app
@@ -26,13 +27,13 @@ HEADERS  += \
 FORMS    += \
     Sicily.ui
 
-win32: LIBS += -L$$PWD/../../App/Python27/libs/ -lpython27
+#win32: LIBS += -L$$PWD/../../App/Python27/libs/ -lpython27
 
-win32: INCLUDEPATH += $$PWD/../../App/Python27/include
-win32: DEPENDPATH += $$PWD/../../App/Python27/include
+#win32: INCLUDEPATH += $$PWD/../../App/Python27/include
+#win32: DEPENDPATH += $$PWD/../../App/Python27/include
 
-linux: INCLUDEPATH += -I /usr/include/python2.7/
-linux: LIBS += -L /usr/lib/python2.7/ -lpython2.7
+#linux: INCLUDEPATH += -I /usr/include/python2.7/
+#linux: LIBS += -L /usr/lib/python2.7/ -lpython2.7
 
 RC_FILE += ico.rc
 

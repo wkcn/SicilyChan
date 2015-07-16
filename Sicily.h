@@ -31,19 +31,15 @@ private:
 
     int deskWidth,deskHeight;
 
+    //聊天窗口
     int boxLife;
-    string sText;
+    string boxText;
+    bool cancover;//可覆盖
 
     int sicilyPosY;
 
     int lastTime;
     int playTime;
-
-    int freezeTime;
-
-    //int comboRightButton;
-    //int comboLeftButton;
-    //int comboMiddleButton;
 
     float wingID;
 
@@ -89,13 +85,13 @@ private:
     void UpdateAnimation();
     void UpdateButton();
 private:
-    PyObject *pDragModule;
-    PyObject *Drag;
+    //PyObject *pDragModule;
+    //PyObject *Drag;
 
     bool haveError;
     string errorMsg;
 private:
-    void SicilySay(string text,int time,int freeze = 0);
+    void SicilySay(string text,int time = 0);//time = 0的为优先级最低的语句，可以覆盖
 };
 #endif // MAINWINDOW_H
 //#include "trans.moc"

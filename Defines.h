@@ -16,7 +16,7 @@
 #include <QThread>
 #include <QBitmap>
 
-#include <Python.h>
+//#include <Python.h>
 
 #include <sys/timeb.h>
 #if defined(WIN32)
@@ -47,6 +47,7 @@ struct SicilyConnect{
 QDir directoryOf(const QString &subdir);
 QString GetQDir(QString file);
 string GetDataDir(string file);
+QString GetFileDir(QString file);
 
 bool IsLeapYear(int year);
 int YearHaveDay(int year);

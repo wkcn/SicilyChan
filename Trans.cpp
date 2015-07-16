@@ -61,12 +61,13 @@ Trans::Trans(){
         string name = "Data\\Dict\\";
         name += char(i+'a');
         name += ".txt";
-        ifstream fin(GetDataDir(name));
-        //qDebug("%c===",name.c_str());
-        getline(fin,buf,'\n');
+        ifstream fin(GetDataDir(name).c_str());
+        //qDebug("%s===",GetDataDir(name).c_str());
+        if(fin.fail())break;
+        getline(fin,buf);
         while(!fin.eof()){
             //qDebug("--%s",buf.c_str());
-            int q;
+            size_t q;
             string word;
             for(q=0;q<buf.size();q++){
                 if(buf[q]=='~')break;
@@ -74,13 +75,13 @@ Trans::Trans(){
             }
             //string content = buf.substr(q+1);
             string content;
-            for(int u=q+1;u<buf.size();u++){
+            for(size_t u=q+1;u<buf.size();u++){
                 if(buf[u]=='|')content += '\n';
                 else content += buf[u];
             }
             //qDebug("%s -- %s",word.c_str(),content.c_str());
             trieTree.insert(word,content);
-            getline(fin,buf,'\n');
+            getline(fin,buf);
         }
         fin.close();
     }
@@ -119,6 +120,7 @@ Trans::~Trans(){
 }
 
 void Trans::PyTrans(string text){
+    text = "";
     /*
     finished = false;
     ing = true;
@@ -285,4 +287,3 @@ void Trans::run(){
     }
     */
 }
-

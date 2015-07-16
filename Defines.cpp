@@ -20,17 +20,23 @@ QDir directoryOf(const QString &subdir)
     return dir;
 }
 
-/*
+
 QString GetFileDir(QString file){
+#if !defined(WIN32)
+    file = file.replace("\\","//");
+#endif
     return directoryOf("").absoluteFilePath(file);
 }
-*/
 
 QString GetQDir(QString file){
-    return QString().fromStdString(GetDataDir(file.toStdString()));
+    return GetFileDir(file);
+    //return QString().fromStdString(GetDataDir(file.toStdString()));
 }
 
 string GetDataDir(string file){
+
+    return GetFileDir(QString::fromStdString(file)).toStdString();
+
     static string fileDir;
     if(fileDir.size() == 0){
         ifstream fin("dir.txt");
