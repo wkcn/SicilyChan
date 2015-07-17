@@ -9,6 +9,7 @@
 #include <QPainter>
 #include <QApplication>
 #include <QSharedMemory>
+//#include <QtNetwork>
 #include <QDesktopWidget>
 #include <QMouseEvent>
 #include <QProcess>
@@ -16,6 +17,7 @@
 #include <QThread>
 #include <QBitmap>
 
+#include "TCPServer.h"
 //#include <Python.h>
 
 #include <sys/timeb.h>
@@ -34,6 +36,8 @@
 #include <ctime>
 #include <cmath>
 #include <fstream>
+#include <vector>
+#include <list>
 #include <map>
 
 using namespace std;

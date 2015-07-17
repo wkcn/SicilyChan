@@ -11,6 +11,8 @@ class Sicily;
 
 }
 
+#define SICILY_PORT 3939
+
 class Sicily : public QMainWindow
 {
     Q_OBJECT
@@ -21,6 +23,7 @@ public:
 
 private slots:
     void timerUpDate();
+    void Receive(const char *cstr,int len);
 
 private:
     Ui::Sicily *ui;
@@ -45,6 +48,7 @@ private:
 
     //QSharedMemory sharedMem;
     //SicilyConnect *sicilyConnect;
+    TCPServer *server;
 
 
     QPoint dragPosition;
@@ -68,6 +72,7 @@ private:
     void mouseMoveEvent(QMouseEvent *);
     void mouseReleaseEvent(QMouseEvent *);
     bool mouseSeq(int seq);//鼠标序列
+
     void Restart();
     void SaveData();
     void LoadData();

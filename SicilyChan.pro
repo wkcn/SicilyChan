@@ -5,6 +5,7 @@
 #-------------------------------------------------
 
 QT       += core gui
+QT       += network
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 QMAKE_CXXFLAGS += -std=c++11
@@ -17,12 +18,16 @@ SOURCES +=\
     Defines.cpp \
     Sicily.cpp \
     main.cpp \
-    Trans.cpp
+    Trans.cpp \
+    TCPServer.cpp \
+    TCPSocket.cpp
 
 HEADERS  += \
     Sicily.h \
     Defines.h \
-    Trans.h
+    Trans.h \
+    TCPServer.h \
+    TCPSocket.h
 
 FORMS    += \
     Sicily.ui

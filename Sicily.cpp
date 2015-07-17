@@ -48,8 +48,18 @@ void Sicily::ReadResource(){
     ui->eye->setPixmap(sface[0]);
 }
 
+void Sicily::Receive(const char *cstr,int len){
+    len;
+    qDebug("rec!");
+    SicilySay(cstr,4);
+}
+
 void Sicily::ReadModules(){
+
     haveError = false;
+    server = new TCPServer(this,SICILY_PORT);
+    connect(this->server,SIGNAL(Read(const char*,int)),this,SLOT(Receive(const char*,int)));
+
     /*
     Py_Initialize();
 
@@ -90,6 +100,9 @@ void Sicily::ReadModules(){
     //    return;
     //}
 }
+
+
+
 
 void Sicily::FixPos(int h){
     static int ow = 300;
@@ -314,6 +327,12 @@ void Sicily::UpdateButton(){
             trans.Set(cstr);
         }
 
+        //TCP SAY
+        //QString tcpstr = clientConnection->readAll();
+        //if (tcpstr.size() > 0){
+        //    SicilySay(tcpstr.toStdString(),5);
+        //}
+
     }
 
 }
@@ -476,14 +495,14 @@ void Sicily::mousePressEvent(QMouseEvent *event){
 
         event->accept();
     }
-    else if(event->button()==Qt::MiddleButton){
+    else if(event->button() == Qt::MiddleButton){
         //comboMiddleButton ++;
         event->accept();
     }
 }
 
 void Sicily::mouseReleaseEvent(QMouseEvent *event){
-    if(event->button()==Qt::LeftButton){
+    if(event->button() == Qt::LeftButton){
         //int ax = (this->pos()).x() - ox;
         //int ay = (this->pos()).y() - oy;
         /*
