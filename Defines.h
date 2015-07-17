@@ -4,21 +4,20 @@
 #include <QMainWindow>
 #include <QLabel>
 #include <QFileDialog>
-#include <QMessageBox>
+//#include <QMessageBox>
 #include <QTimer>
 #include <QPainter>
 #include <QApplication>
-#include <QSharedMemory>
-//#include <QtNetwork>
+//#include <QSharedMemory>
+#include <QtNetwork>
 #include <QDesktopWidget>
 #include <QMouseEvent>
 #include <QProcess>
-#include <QClipboard>
-#include <QThread>
-#include <QBitmap>
+//#include <QClipboard>
+//#include <QThread>
+//#include <QBitmap>
 
-#include "TCPServer.h"
-//#include <Python.h>
+//#include "TCPServer.h"
 
 #include <sys/timeb.h>
 #if defined(WIN32)

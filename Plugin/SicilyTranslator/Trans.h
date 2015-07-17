@@ -1,6 +1,16 @@
 ﻿#ifndef TRANS_H
 #define TRANS_H
-#include "Defines.h"
+#define _CRT_SECURE_NO_WARNINGS
+
+#include <QApplication>
+#include <QFileDialog>
+#include <QString>
+#include <QThread>
+
+#include <fstream>
+#include <string>
+#include <cstring>
+using namespace std;
 
 struct TrieNode{
     char *value;
@@ -32,12 +42,6 @@ private:
     string ori;
     string cstr;
     TrieTree trieTree;
-
-    //PyObject *pTransModule;
-    //PyObject *Translate;
-    //之前用py出现乱码的原因，没有将字符串转str!还要encodeutf8!
-
-    void PyTrans(string text);
 protected:
     void run();
 
@@ -50,6 +54,5 @@ public:
     //finished代表翻译完成
     volatile bool ing;
     volatile bool finished;
-    //bool pycan;
 };
 #endif // TRANS_H

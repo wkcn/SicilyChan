@@ -17,17 +17,11 @@ CONFIG += static
 SOURCES +=\
     Defines.cpp \
     Sicily.cpp \
-    main.cpp \
-    Trans.cpp \
-    TCPServer.cpp \
-    TCPSocket.cpp
+    main.cpp
 
 HEADERS  += \
     Sicily.h \
-    Defines.h \
-    Trans.h \
-    TCPServer.h \
-    TCPSocket.h
+    Defines.h
 
 FORMS    += \
     Sicily.ui

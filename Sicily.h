@@ -2,9 +2,6 @@
 #define SICILY_H
 
 #include "Defines.h"
-#include "Trans.h"
-
-
 
 namespace Ui {
 class Sicily;
@@ -23,7 +20,8 @@ public:
 
 private slots:
     void timerUpDate();
-    void Receive(const char *cstr,int len);
+    //void Receive(const char *cstr,int len);
+    void readPendingDatagrams();
 
 private:
     Ui::Sicily *ui;
@@ -46,10 +44,8 @@ private:
 
     float wingID;
 
-    //QSharedMemory sharedMem;
-    //SicilyConnect *sicilyConnect;
-    TCPServer *server;
-
+    //TCPServer *server;
+    QUdpSocket *receiver;
 
     QPoint dragPosition;
     int ox,oy;
@@ -63,8 +59,6 @@ private:
     int sleepTime;
     bool tabDesktop;
     int tabDesktopTime;
-
-    Trans trans;
 
 
     void paintEvent(QPaintEvent *);
@@ -90,13 +84,9 @@ private:
     void UpdateAnimation();
     void UpdateButton();
 private:
-    //PyObject *pDragModule;
-    //PyObject *Drag;
-
     bool haveError;
     string errorMsg;
 private:
     void SicilySay(string text,int time = 0);//time = 0的为优先级最低的语句，可以覆盖
 };
 #endif // MAINWINDOW_H
-//#include "trans.moc"
