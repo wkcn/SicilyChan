@@ -1,0 +1,48 @@
+(\
+    #w=1
+    (while (and w (- 1 can)) (\
+        #can=0
+        
+        (print)
+        (print "请输入你想查询的指令编号：")
+        (print "1、四则运算使用说明")
+        (print "2、调用函数")
+        (print "3、使用if,while,以及混合语句")
+        (print "4、使用宏")
+        (print "5、测试工具")
+        (print "6、关于")
+        (print "-1、退出")
+        (input id)
+        (print)
+        
+        (if (== id 1) (\
+            (help1)
+            #can=1
+        ))
+        (if (== id 2) (\
+            (help2)
+            #can=1
+        ))
+        (if (== id 3) (\
+            (help3)
+            #can=1
+        ))
+        (if (== id 4) (\
+            (help4)
+            #can=1
+        ))
+        (if (== id 5) (\
+            (help5)
+            #can=1
+        ))
+        (if (== id 6) (\
+            (help6)
+            #can=1
+        ))
+        (if (== id -1) (\
+            #w=0
+            #can=1
+        ))
+        (if can (\) (print "输入错误，请重新输入："))
+    ))
+)

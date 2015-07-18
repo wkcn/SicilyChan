@@ -1,0 +1,8 @@
+(\
+    (print "if语句        (if 条件  true时运行语句 false时运行语句)")
+    (print "false时语句可以缺省，建议空语句使用(\)")
+    (print "while语句     (while 条件 循环体)")
+    (print "混合语句        (\  语句1 语句2 ...)")
+    (print "条件与 (and a b c ...)")
+    (print "条件或 (or a b c ...)")
+)

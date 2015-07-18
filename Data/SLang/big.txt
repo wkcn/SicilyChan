@@ -1,0 +1,21 @@
+(\
+    (print "进入运算模式，退出方式（a=b=0）")
+    #i=1
+    (while i
+        (print "请输入两个数字 a 和 b")
+        (input a b)
+        (print "a + b =" #a+b )
+        (print "a - b =" #a-b )
+        (print "a * b =" #a*b )
+        (print "a / b =" #a/b )
+        (print "a % b =" #a%b )
+        (print)
+        
+        (if (== 2 (+ (== a 0) (== b 0)))(\
+            #i=0
+            "原谅我不写不好S表达式~"
+            (print "退出运算模式")
+        ))
+        
+    )
+)

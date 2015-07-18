@@ -1,0 +1,7 @@
+(\
+    #m=_1
+    (for #i=2 #i<=_0 #i=i+1 (\
+        (if (< (array_get "_" i) m) (= m (array_get "_" i)))
+    ))
+    m
+)

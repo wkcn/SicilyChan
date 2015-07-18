@@ -10,6 +10,13 @@ class Sicily;
 
 #define SICILY_PORT 3939
 
+struct ChatMsg{
+    int life;
+    string msg;
+    ChatMsg();
+    ChatMsg(string message,int msgLife);
+};
+
 class Sicily : public QMainWindow
 {
     Q_OBJECT
@@ -36,6 +43,14 @@ private:
     int boxLife;
     string boxText;
     bool cancover;//可覆盖
+    queue<ChatMsg> msgQueue;//消息队列
+    const int widthPerLine = 172;
+    const int font_size = 28;
+    const int boxX = 30;
+    const int boxY = 0;
+    int boxH;
+    int lines;
+    vector<char*> cstrList;
 
     int sicilyPosY;
 
@@ -60,7 +75,8 @@ private:
     bool tabDesktop;
     int tabDesktopTime;
 
-
+    void UpdateChatBox();
+    void UpdateChatBoxDis();
     void paintEvent(QPaintEvent *);
     void mousePressEvent(QMouseEvent *);
     void mouseMoveEvent(QMouseEvent *);
@@ -71,7 +87,6 @@ private:
     void SaveData();
     void LoadData();
     void SwitchHint(bool top);
-    void ErrorSend(string msg);
 
     //封装一些功能
     void ReadResource();

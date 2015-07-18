@@ -1,0 +1,16 @@
+(\
+    (print "打印小于等于" _1 "的素数")
+    #len=0
+    (array_clear "primes")
+    (for #i=2 #i<=_1 #i=i+1 (\
+        #can=1
+        (for #j=0 (and can #j<len ) #j=j+1 (\
+            (if (== 0 (% i (array_get "primes" j))) #can=0 )
+        ))
+        (if can (\
+            (print i)
+            (array_set "primes" len i)
+            #len=len+1
+        ))
+    ))
+)

@@ -1,0 +1,8 @@
+(\
+    (= sq (sqrt _1))
+    (= can 1)
+    (for #i=2 (and #i<=sq can) #i=i+1 (\
+        (if (and #_1%i==0 #_1!=i ) (= can 0))
+    ))
+    can
+)

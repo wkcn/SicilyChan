@@ -37,18 +37,12 @@
 #include <fstream>
 #include <vector>
 #include <list>
+#include <queue>
 #include <map>
 
 using namespace std;
 
-struct SicilyConnect{
-    bool update;
-    int boxLife;
-    char text[512];
-};
-
 QDir directoryOf(const QString &subdir);
-QString GetQDir(QString file);
 string GetDataDir(string file);
 QString GetFileDir(QString file);
 

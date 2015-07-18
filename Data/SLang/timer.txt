@@ -1,0 +1,6 @@
+(\
+    (= st (clock))
+    `1
+    (= now (clock))
+    (print "Using Time: " (- now st) "ms")
+)

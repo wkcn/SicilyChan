@@ -1,0 +1,20 @@
+(\
+    (print "打印小于等于" _1 "的素数")
+    #len=0
+    (= sq (sqrt _1))
+    (array_clear "not_prime")
+    (array_set "not_prime" 2 0)
+    (for #i=2 #i<=sq #i=i+1 (\
+        (if (array_get "not_prime" i) (\) (\
+            (print i)
+            (for #j=i*2 #j<=_1 #j=j+i (\
+                (array_set "not_prime" j 1)
+            ))
+        ))
+    ))
+    (for #i=sq+1 #i<=_1 #i=i+1 (\
+        (if (== (array_get "not_prime" i) 0) (\
+            (print i)
+        ))
+    ))
+)

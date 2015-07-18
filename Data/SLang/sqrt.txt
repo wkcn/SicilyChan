@@ -1,0 +1,13 @@
+(\
+    "使用二分法"
+    #lo=1
+    #hi=_1+1
+    (while #lo<hi (\
+        #mi=(lo+hi)/2
+        (if #mi*mi<=_1 
+            #lo=mi+1
+            #hi=mi
+        )
+    ))
+    (- lo 1)
+)

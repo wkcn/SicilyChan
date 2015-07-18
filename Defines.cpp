@@ -28,27 +28,8 @@ QString GetFileDir(QString file){
     return directoryOf("").absoluteFilePath(file);
 }
 
-QString GetQDir(QString file){
-    return GetFileDir(file);
-    //return QString().fromStdString(GetDataDir(file.toStdString()));
-}
-
 string GetDataDir(string file){
-
     return GetFileDir(QString::fromStdString(file)).toStdString();
-
-    static string fileDir;
-    if(fileDir.size() == 0){
-        ifstream fin("dir.txt");
-        getline(fin,fileDir);
-#if !defined(WIN32)
-        getline(fin,fileDir);
-#endif
-        //qDebug("%s ---",fileDir.c_str());
-        fileDir += "\\\\";
-        fin.close();
-    }
-    return fileDir + file;
 }
 
 bool IsLeapYear(int year){
