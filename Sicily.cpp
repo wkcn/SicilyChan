@@ -98,8 +98,8 @@ void Sicily::InitData(){
     mouseCount = 0;
     mouseTime = GetClock();
     sleeped = false;
-    tabDesktop = false;
-    tabDesktopTime = 0;
+    //tabDesktop = false;
+    //tabDesktopTime = 0;
 
     cancover = true;
 
@@ -175,10 +175,13 @@ void Sicily::UpdateButton(){
     }
 
     //REPEAT SAY
+    /*
     if (mouseCount == 2 && mouseList[0] && mouseList[1]){
         SicilySay("",5);
         mouseCount = 0;
     }
+    */
+
 
     if(sleeped && mouseCount > 0){
         //醒来了
@@ -249,12 +252,14 @@ void Sicily::UpdateButton(){
         }
 
         //TabDesktop
+        /*
         if(tabDesktop){
             tabDesktopTime ++;
             if(tabDesktopTime >= 5){
                 Restart();
             }
         }
+        */
 
         //互动
 
@@ -323,13 +328,13 @@ void Sicily::UpdateChatBox(){
 }
 
 void Sicily::SaveData(){
-    ofstream fout(GetStdFileDir("data.tmp").c_str());
+    ofstream fout(GetStdFileDir("Data\\data.tmp").c_str());
     fout<<playTime<<" "<<lastTime;
     fout.close();
 }
 
 void Sicily::LoadData(){
-    ifstream fin(GetStdFileDir("data.tmp").c_str());
+    ifstream fin(GetStdFileDir("Data\\data.tmp").c_str());
     if(fin){
         fin>>playTime>>lastTime;
     }
@@ -417,11 +422,12 @@ void Sicily::mouseReleaseEvent(QMouseEvent *event){
 
 void Sicily::mouseMoveEvent(QMouseEvent *event){
 
-    QPoint p = event->globalPos()-dragPosition;
-    int x = p.x();
-    int y = p.y();
+    //QPoint p = event->globalPos()-dragPosition;
+    //int x = p.x();
+    //int y = p.y();
 
     //qDebug("%d %d",x,y);
+    /*
     if(y<50 - this->height()){
         if(x<300){
             Restart();
@@ -431,7 +437,7 @@ void Sicily::mouseMoveEvent(QMouseEvent *event){
             tabDesktop = true;
         }
     }
-
+  */
 
     move(event->globalPos()-dragPosition);
     event->accept();

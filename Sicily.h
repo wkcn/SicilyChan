@@ -73,8 +73,8 @@ private:
     int mouseTime;
     bool sleeped;
     int sleepTime;
-    bool tabDesktop;
-    int tabDesktopTime;
+    //bool tabDesktop;
+    //int tabDesktopTime;
 
     void UpdateChatBox();
     void UpdateChatBoxDis();
