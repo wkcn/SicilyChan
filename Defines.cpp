@@ -1,8 +1,11 @@
 ﻿#include "Defines.h"
 
-QDir directoryOf(const QString &subdir)
-{
-    QDir dir(QApplication::applicationDirPath());
+QDir directoryOf(const QString &subdir) {
+    static bool firstdir = true;
+    static QDir dir(QApplication::applicationDirPath());
+    if (!firstdir){
+        return dir;
+    }
 
 #if defined(Q_OS_WIN)
     if (dir.dirName().toLower() == "debug"
@@ -14,9 +17,11 @@ QDir directoryOf(const QString &subdir)
         dir.cdUp();
         dir.cdUp();
         dir.cdUp();
-    }
+     }
 #endif
     dir.cd(subdir);
+
+    firstdir = false;
     return dir;
 }
 
@@ -28,7 +33,7 @@ QString GetFileDir(QString file){
     return directoryOf("").absoluteFilePath(file);
 }
 
-string GetDataDir(string file){
+string GetStdFileDir(string file){
     return GetFileDir(QString::fromStdString(file)).toStdString();
 }
 

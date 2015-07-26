@@ -7,7 +7,7 @@
 #define WINDOW_FLAG_NORMAL Qt::FramelessWindowHint|Qt::WindowStaysOnBottomHint|Qt::SubWindow
 
 ChatMsg::ChatMsg(){}
-ChatMsg::ChatMsg(string message, int msgLife):msg(message),life(msgLife){
+ChatMsg::ChatMsg(string message, int msgLife):life(msgLife),msg(message){
 
 }
 
@@ -33,9 +33,11 @@ Sicily::Sicily(QWidget *parent):QMainWindow(parent,WINDOW_FLAG_TOPHINT),ui(new U
 }
 
 Sicily::~Sicily(){
+    /*
     for(size_t i = 0;i < cstrList.size();++i){
         delete [] cstrList[i];
     }
+    */
     delete ui;
 }
 
@@ -73,6 +75,7 @@ void Sicily::InitData(){
     QRect deskRect = desktopWidgt->availableGeometry();
     deskWidth = deskRect.width();
     deskHeight = deskRect.height();
+    //qDebug("%d %d",deskWidth,deskHeight);
 
     //这样分配窗口吧，先分配Sicily酱的位置 450*300
     //剩余的是chatBox大小
@@ -320,13 +323,13 @@ void Sicily::UpdateChatBox(){
 }
 
 void Sicily::SaveData(){
-    ofstream fout(GetDataDir("data.tmp").c_str());
+    ofstream fout(GetStdFileDir("data.tmp").c_str());
     fout<<playTime<<" "<<lastTime;
     fout.close();
 }
 
 void Sicily::LoadData(){
-    ifstream fin(GetDataDir("data.tmp").c_str());
+    ifstream fin(GetStdFileDir("data.tmp").c_str());
     if(fin){
         fin>>playTime>>lastTime;
     }
@@ -439,11 +442,15 @@ void Sicily::UpdateChatBoxDis(){
     lines = 0;
     bool nextline = true;
 
-    vector<string> strList;
+    //vector<string> strList;
 
+    strList.clear();
+
+    /*
     for(size_t i = 0;i < cstrList.size();++i){
         delete [] cstrList[i];
     }
+    */
 
     //static string punc = " !@#$%^&*()-_+={}[]|:;'<>?,./\"";
     size_t slen = boxText.size();
@@ -475,8 +482,8 @@ void Sicily::UpdateChatBoxDis(){
         }
     }
 
-    cstrList.clear();
-
+    //cstrList.clear();
+    /*
     for(size_t i = 0;i < strList.size();++i){
         const char *cs = strList[i].c_str();
         size_t cl = strList[i].size();//注意,strlen("ab") = 2,还要加上\0
@@ -485,13 +492,13 @@ void Sicily::UpdateChatBoxDis(){
         newstr[cl] = '\0';
         cstrList.push_back(newstr);
     }
+    */
 
     boxH = 13 + font_size * lines - (-4)+31;//(lines - 1) * font_size + 70;//(lines - 1) * font_size;
 }
 
 
 void Sicily::paintEvent(QPaintEvent *){
-
     QPainter painter;
 
     painter.begin(this);
@@ -505,7 +512,7 @@ void Sicily::paintEvent(QPaintEvent *){
         painter.drawPixmap(boxX, 17 + font_size * lines + boxY, 219, 31, chatBoxPic[2]);
         for(int i=0;i < lines;i++){
             painter.drawPixmap(boxX, 17 + font_size * i + boxY, 219, font_size, chatBoxPic[1]);
-            painter.drawText(16 + boxX, 12 + font_size * i + boxY, 200, font_size, Qt::AlignBottom, cstrList[i]);
+            painter.drawText(16 + boxX, 12 + font_size * i + boxY, 200, font_size, Qt::AlignBottom, strList[i].c_str());
         }
     }else{
         FixPos(450);

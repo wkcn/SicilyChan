@@ -43,8 +43,8 @@
 using namespace std;
 
 QDir directoryOf(const QString &subdir);
-string GetDataDir(string file);
 QString GetFileDir(QString file);
+string GetStdFileDir(string file);
 
 bool IsLeapYear(int year);
 int YearHaveDay(int year);

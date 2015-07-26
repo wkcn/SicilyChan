@@ -6,6 +6,7 @@ int main(int argc, char *argv[])
     QFont font  = a.font();
     font.setPointSize(12);
     a.setFont(font);
+    a.setWindowIcon(QIcon("ico.png"));  //貌似必须要在根目录
     Sicily w;
     w.show();
     int ret = a.exec();

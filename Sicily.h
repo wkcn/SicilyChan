@@ -50,7 +50,8 @@ private:
     const int boxY = 0;
     int boxH;
     int lines;
-    vector<char*> cstrList;
+    //vector<char*> cstrList;
+    vector<string> strList;
 
     int sicilyPosY;
 
