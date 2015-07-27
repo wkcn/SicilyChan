@@ -9,8 +9,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>300</width>
-    <height>450</height>
+    <width>217</width>
+    <height>435</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -21,14 +21,14 @@
   </property>
   <property name="minimumSize">
    <size>
-    <width>300</width>
-    <height>450</height>
+    <width>217</width>
+    <height>435</height>
    </size>
   </property>
   <property name="maximumSize">
    <size>
-    <width>300</width>
-    <height>450</height>
+    <width>217</width>
+    <height>435</height>
    </size>
   </property>
   <property name="windowTitle">
@@ -56,8 +56,8 @@
      <rect>
       <x>0</x>
       <y>0</y>
-      <width>300</width>
-      <height>450</height>
+      <width>217</width>
+      <height>435</height>
      </rect>
     </property>
     <property name="mouseTracking">
@@ -75,8 +75,8 @@
      <rect>
       <x>0</x>
       <y>0</y>
-      <width>300</width>
-      <height>450</height>
+      <width>217</width>
+      <height>435</height>
      </rect>
     </property>
    </widget>

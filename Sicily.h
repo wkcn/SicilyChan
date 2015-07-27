@@ -2,6 +2,7 @@
 #define SICILY_H
 
 #include "Defines.h"
+#include "ChatBox.h"
 
 namespace Ui {
 class Sicily;
@@ -9,13 +10,6 @@ class Sicily;
 }
 
 #define SICILY_PORT 3939
-
-struct ChatMsg{
-    int life;
-    string msg;
-    ChatMsg();
-    ChatMsg(string message,int msgLife);
-};
 
 class Sicily : public QMainWindow
 {
@@ -35,25 +29,12 @@ private:
     QPixmap sbody;
     QPixmap sface[3];
     QPixmap wings[2];
-    QPixmap chatBoxPic[3];
+
+    ChatBox *chatbox;
 
     int deskWidth,deskHeight;
-
-    //聊天窗口
-    int boxLife;
-    string boxText;
-    bool cancover;//可覆盖
-    queue<ChatMsg> msgQueue;//消息队列
-    const int widthPerLine = 172;
-    const int font_size = 28;
-    const int boxX = 30;
-    const int boxY = 0;
-    int boxH;
-    int lines;
-    //vector<char*> cstrList;
-    vector<string> strList;
-
-    int sicilyPosY;
+    const int sicilyPosX = -66;
+    const int sicilyPosY = -8;
 
     int lastTime;
     int playTime;
@@ -76,8 +57,6 @@ private:
     //bool tabDesktop;
     //int tabDesktopTime;
 
-    void UpdateChatBox();
-    void UpdateChatBoxDis();
     void paintEvent(QPaintEvent *);
     void mousePressEvent(QMouseEvent *);
     void mouseMoveEvent(QMouseEvent *);
@@ -94,7 +73,7 @@ private:
     void ReadModules();
     void InitData();
     void FixPos(int h);
-    int GetStrWidth(const string& str);
+
     //Update
     //更新动画
     void UpdateAnimation();

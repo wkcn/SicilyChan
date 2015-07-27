@@ -6,11 +6,6 @@
 #define WINDOW_FLAG_TOPHINT Qt::FramelessWindowHint|Qt::WindowStaysOnTopHint|Qt::SubWindow
 #define WINDOW_FLAG_NORMAL Qt::FramelessWindowHint|Qt::WindowStaysOnBottomHint|Qt::SubWindow
 
-ChatMsg::ChatMsg(){}
-ChatMsg::ChatMsg(string message, int msgLife):life(msgLife),msg(message){
-
-}
-
 Sicily::Sicily(QWidget *parent):QMainWindow(parent,WINDOW_FLAG_TOPHINT),ui(new Ui::Sicily){//,sharedMem("ThisisSicily"){
 
     this->setAttribute(Qt::WA_TranslucentBackground);
@@ -20,6 +15,9 @@ Sicily::Sicily(QWidget *parent):QMainWindow(parent,WINDOW_FLAG_TOPHINT),ui(new U
     ui->setupUi(this);
 
     ReadResource();
+
+    chatbox = new ChatBox(this);
+    chatbox->show();
 
     QTimer *timer = new QTimer(this);
     connect(timer, SIGNAL(timeout()), this, SLOT(timerUpDate()));
@@ -38,6 +36,7 @@ Sicily::~Sicily(){
         delete [] cstrList[i];
     }
     */
+    //chatbox和timer在关闭父窗体时会被析构
     delete ui;
 }
 
@@ -46,12 +45,7 @@ void Sicily::ReadResource(){
 
     QPixmap pix = QPixmap(GetFileDir("Pic\\sicily.png"));
 
-    chatBoxPic[0] = QPixmap(GetFileDir("Pic\\chat0.png")); //top
-    chatBoxPic[1] = QPixmap(GetFileDir("Pic\\chat1.png"));
-    chatBoxPic[2] = QPixmap(GetFileDir("Pic\\chat2.png"));
-
     sbody = pix.copy(0,0,300,450);
-    //this->setMask(sbody.mask());
 
     for (int i = 0; i < 3; i++)
         sface[i] = pix.copy(300 * (i + 1), 0, 300, 450);
@@ -60,7 +54,12 @@ void Sicily::ReadResource(){
     wings[1] = QPixmap(GetFileDir("Pic\\rightWing.png"));
 
     ui->sicily->setPixmap(sbody);
+    ui->sicily->move(sicilyPosX,sicilyPosY);
     ui->eye->setPixmap(sface[0]);
+    ui->eye->move(sicilyPosX,sicilyPosY);
+
+    this->setMinimumSize(217,435);
+    this->setMaximumSize(217,435);
 }
 
 void Sicily::ReadModules(){
@@ -75,15 +74,9 @@ void Sicily::InitData(){
     QRect deskRect = desktopWidgt->availableGeometry();
     deskWidth = deskRect.width();
     deskHeight = deskRect.height();
-    //qDebug("%d %d",deskWidth,deskHeight);
 
     //这样分配窗口吧，先分配Sicily酱的位置 450*300
-    //剩余的是chatBox大小
-    this->move(deskWidth - 300,deskHeight-450);
-    //FixPos(300,450);
-
-    //sicilyPosY = height - 450 + 6;
-    sicilyPosY = 0;
+    this->move(deskWidth - 300 - sicilyPosX,deskHeight - 450 - sicilyPosY);
 
     lastTime = time(0);
     playTime = 0;
@@ -100,12 +93,6 @@ void Sicily::InitData(){
     sleeped = false;
     //tabDesktop = false;
     //tabDesktopTime = 0;
-
-    cancover = true;
-
-    //ChatBox
-    boxH = 0;
-    lines = 0;
 }
 
 void Sicily::readPendingDatagrams(){
@@ -117,14 +104,10 @@ void Sicily::readPendingDatagrams(){
         receiver->readDatagram(datagram.data(),datagram.size());
 
         int life = int(datagram.data()[datagram.size() - 1]);
-        //qDebug("%d!!",life);
+
         datagram[datagram.size() - 1] = '\0';
         SicilySay(datagram.data(),life);
     }
-}
-
-int Sicily::GetStrWidth(const string& str){
-    return this->fontMetrics().width(QString().fromStdString(str));
 }
 
 void Sicily::UpdateAnimation(){
@@ -156,7 +139,7 @@ void Sicily::UpdateButton(){
         //左右右
         if (mouseList[0] && !mouseList[1] && !mouseList[2]){
             sleeped = true;
-            cancover = true;
+            //cancover = true;
             sleepTime = time(0);
             //发现未满15分钟的处理方法,两分钟之内才可挽救
             if(sleepTime - lastWakeTime <= 2 * 60){
@@ -221,20 +204,13 @@ void Sicily::UpdateButton(){
         if(!sleeped)
             playTime += 1;//escapeTime;
 
-        if(boxLife <= 0){
-            boxLife = 0;
-            update();
-        }else{
-            boxLife --;
-        }
-
         static int nextSaveTime = 10 * 60;
         if(escapeTime > 15*60){
             //超过15分钟没有刷新，说明关机了！
             playTime = 0;
             nextSaveTime = 10 * 60;
             SaveData();
-            boxLife = 0;
+            //boxLife = 0;
             update();
         }
 
@@ -273,7 +249,7 @@ void Sicily::UpdateButton(){
     }
 
 }
-
+/*
 void Sicily::FixPos(int h){
     static int ow = 300;
     static int oh = 450;
@@ -284,47 +260,27 @@ void Sicily::FixPos(int h){
     sicilyPosY = h - 450;
     //this->setMaximumSize(ow,h);
     this->setHidden(true);
+
     this->setMinimumSize(ow,h);
+    this->setMaximumSize(ow,h);
     //this->resize(ow,h);
     ui->sicily->move(0, sicilyPosY);
     ui->eye->move(0, sicilyPosY);
     this->move(ox,oy+oh-h);
+
     this->setHidden(false);
     oh = h;
-}
+}*/
 void Sicily::timerUpDate(){
-    UpdateChatBox();
+    //UpdateChatBox();
     UpdateAnimation();
     UpdateButton();
+    chatbox->Update();
 }
 
 
 void Sicily::SicilySay(string text, int time){
-    //简单显示
-    if (time == 0 && (boxLife <= 0 || cancover)){
-        boxText = text;
-        boxLife = 3;
-        cancover = true;
-        UpdateChatBoxDis();
-        this->update();
-    }else{
-        //复杂显示,加入消息队列
-        msgQueue.push(ChatMsg(text,time));
-    }
-}
-
-void Sicily::UpdateChatBox(){
-    if (cancover || boxLife <= 0){
-        if (!msgQueue.empty()){
-            const ChatMsg &cm = msgQueue.front();
-            boxText = cm.msg;
-            boxLife = cm.life;
-            cancover = false;
-            msgQueue.pop();
-            UpdateChatBoxDis();
-            this->update();
-        }
-    }
+    chatbox->Say(text,time);
 }
 
 void Sicily::SaveData(){
@@ -343,7 +299,7 @@ void Sicily::LoadData(){
 
 void Sicily::Restart(){
     SaveData();
-    //hide();
+    //();
     //show();
     QProcess::startDetached(qApp->applicationFilePath(), QStringList());
     exit('r'+'e'+'s'+'t'+'a'+'r'+'t');
@@ -355,11 +311,15 @@ void Sicily::SwitchHint(bool top){
     if(last == top)return;
     last = top;
     this->hide();
+    //chatbox->hide();
     if(top){
         this->setWindowFlags(WINDOW_FLAG_TOPHINT);
+        //chatbox->setWindowFlags(Qt::FramelessWindowHint|Qt::WindowStaysOnTopHint);
     }else{
         this->setWindowFlags(WINDOW_FLAG_NORMAL);
+        //chatbox->setWindowFlags(Qt::FramelessWindowHint|Qt::WindowStaysOnBottomHint);
     }
+    //chatbox->show();
     this->show();
 }
 
@@ -410,14 +370,16 @@ void Sicily::mousePressEvent(QMouseEvent *event){
     }
     else if(event->button() == Qt::MiddleButton){
 
-        event->accept();
+        //event->accept();
     }
 }
 
-void Sicily::mouseReleaseEvent(QMouseEvent *event){
+void Sicily::mouseReleaseEvent(QMouseEvent */*event*/){
+    /*
     if(event->button() == Qt::LeftButton){
         event->accept();
     }
+    */
 }
 
 void Sicily::mouseMoveEvent(QMouseEvent *event){
@@ -443,87 +405,10 @@ void Sicily::mouseMoveEvent(QMouseEvent *event){
     event->accept();
 }
 
-void Sicily::UpdateChatBoxDis(){
-
-    lines = 0;
-    bool nextline = true;
-
-    //vector<string> strList;
-
-    strList.clear();
-
-    /*
-    for(size_t i = 0;i < cstrList.size();++i){
-        delete [] cstrList[i];
-    }
-    */
-
-    //static string punc = " !@#$%^&*()-_+={}[]|:;'<>?,./\"";
-    size_t slen = boxText.size();
-
-    //a chinese equal two english
-    for(size_t i = 0;i < slen;){
-        if(boxText[i] == '\n'){
-            nextline = true;
-            i ++;
-            continue;
-        }
-        if(nextline){
-            nextline = false;
-            lines ++;
-            strList.push_back("");
-        }
-
-        bool zh = boxText[i] < 0;
-
-        strList[lines - 1] += boxText[i++];
-
-        if(zh){
-            //UTF - 8 可变长字符
-            while((boxText[i]&0xC0) == 0x80)
-                strList[lines - 1] += boxText[i++];
-        }
-        if(GetStrWidth(strList[lines - 1]) >= widthPerLine){
-            nextline = true;
-        }
-    }
-
-    //cstrList.clear();
-    /*
-    for(size_t i = 0;i < strList.size();++i){
-        const char *cs = strList[i].c_str();
-        size_t cl = strList[i].size();//注意,strlen("ab") = 2,还要加上\0
-        char *newstr = new char[cl + 1];
-        memcpy(newstr,cs,cl);
-        newstr[cl] = '\0';
-        cstrList.push_back(newstr);
-    }
-    */
-
-    boxH = 13 + font_size * lines - (-4)+31;//(lines - 1) * font_size + 70;//(lines - 1) * font_size;
-}
-
-
 void Sicily::paintEvent(QPaintEvent *){
     QPainter painter;
 
     painter.begin(this);
-
-    if (boxLife > 0 && boxText.size() > 0){
-        //这里要进行优化，只在设定信息时更新行距
-        FixPos(450+boxH);
-        //17,13,31
-        painter.setPen(Qt::black);
-        painter.drawPixmap(boxX, boxY, 219, 17, chatBoxPic[0]);
-        painter.drawPixmap(boxX, 17 + font_size * lines + boxY, 219, 31, chatBoxPic[2]);
-        for(int i=0;i < lines;i++){
-            painter.drawPixmap(boxX, 17 + font_size * i + boxY, 219, font_size, chatBoxPic[1]);
-            painter.drawText(16 + boxX, 12 + font_size * i + boxY, 200, font_size, Qt::AlignBottom, strList[i].c_str());
-        }
-    }else{
-        FixPos(450);
-    }
-
 
     //抗锯齿
     //painter.setRenderHint(QPainter::Antialiasing, true);
@@ -537,17 +422,18 @@ void Sicily::paintEvent(QPaintEvent *){
     rightAngle = -leftAngle;
 
     //left
-    painter.translate(167,186+sicilyPosY);
+    painter.translate(167+sicilyPosX,186+sicilyPosY);
     painter.rotate(leftAngle);
-    painter.translate(-167,-186-sicilyPosY);
+    painter.translate(-167-sicilyPosX,-186-sicilyPosY);
     //painter.shear(0,leftAngle*0.1);
-    painter.drawPixmap(-3,sicilyPosY,wings[0]);
+    painter.drawPixmap(-3+sicilyPosX,sicilyPosY,wings[0]);
 
     painter.resetMatrix();
 
-    painter.translate(113,183+sicilyPosY);
+    painter.translate(113+sicilyPosX,183+sicilyPosY);
     painter.rotate(rightAngle);
-    painter.translate(-113,-183-sicilyPosY);
-    painter.drawPixmap(3,sicilyPosY,wings[1]);
+    painter.translate(-113-sicilyPosX,-183-sicilyPosY);
+    painter.drawPixmap(3+sicilyPosX,sicilyPosY,wings[1]);
+
     painter.end();
 }

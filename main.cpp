@@ -8,6 +8,7 @@ int main(int argc, char *argv[])
     a.setFont(font);
     a.setWindowIcon(QIcon("ico.png"));  //貌似必须要在根目录
     Sicily w;
+
     w.show();
     int ret = a.exec();
     return ret;

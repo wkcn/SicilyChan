@@ -17,14 +17,17 @@ CONFIG += static
 SOURCES +=\
     Defines.cpp \
     Sicily.cpp \
-    main.cpp
+    main.cpp \
+    ChatBox.cpp
 
 HEADERS  += \
     Sicily.h \
-    Defines.h
+    Defines.h \
+    ChatBox.h
 
 FORMS    += \
-    Sicily.ui
+    Sicily.ui \
+    ChatBox.ui
 
 #win32: LIBS += -L$$PWD/../../App/Python27/libs/ -lpython27
 
