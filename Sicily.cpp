@@ -17,7 +17,6 @@ Sicily::Sicily(QWidget *parent):QMainWindow(parent,WINDOW_FLAG_TOPHINT),ui(new U
     ReadResource();
 
     chatbox = new ChatBox(this);
-    //chatbox->show();
 
     QTimer *timer = new QTimer(this);
     connect(timer, SIGNAL(timeout()), this, SLOT(timerUpDate()));
@@ -31,11 +30,6 @@ Sicily::Sicily(QWidget *parent):QMainWindow(parent,WINDOW_FLAG_TOPHINT),ui(new U
 }
 
 Sicily::~Sicily(){
-    /*
-    for(size_t i = 0;i < cstrList.size();++i){
-        delete [] cstrList[i];
-    }
-    */
     //chatbox和timer在关闭父窗体时会被析构
     delete ui;
 }
@@ -157,15 +151,6 @@ void Sicily::UpdateButton(){
         mouseCount = 0;
     }
 
-    //REPEAT SAY
-    /*
-    if (mouseCount == 2 && mouseList[0] && mouseList[1]){
-        SicilySay("",5);
-        mouseCount = 0;
-    }
-    */
-
-
     if(sleeped && mouseCount > 0){
         //醒来了
         //警示:startTime = lastWakeTime - playTime;//伪造时间[=]很好看嘛 (一个错误的做法)
@@ -189,7 +174,6 @@ void Sicily::UpdateButton(){
     //notice: clock() is different between Ubuntu and Windows!
     //clock()/ CLOCKS_PER_SEC
 
-    //qDebug("hha%d",GetClock() - mouseTime);
     if(GetClock() - mouseTime >= 400){
         mouseCount = 0;
     }
@@ -249,28 +233,7 @@ void Sicily::UpdateButton(){
     }
 
 }
-/*
-void Sicily::FixPos(int h){
-    static int ow = 300;
-    static int oh = 450;
-    if (h == oh)return;
-    int ox = (this->pos()).x();
-    int oy = (this->pos()).y();
-    //sicilyPosY指现在sicily在窗口的位置
-    sicilyPosY = h - 450;
-    //this->setMaximumSize(ow,h);
-    this->setHidden(true);
 
-    this->setMinimumSize(ow,h);
-    this->setMaximumSize(ow,h);
-    //this->resize(ow,h);
-    ui->sicily->move(0, sicilyPosY);
-    ui->eye->move(0, sicilyPosY);
-    this->move(ox,oy+oh-h);
-
-    this->setHidden(false);
-    oh = h;
-}*/
 void Sicily::timerUpDate(){
     //UpdateChatBox();
     UpdateAnimation();
@@ -299,8 +262,7 @@ void Sicily::LoadData(){
 
 void Sicily::Restart(){
     SaveData();
-    //();
-    //show();
+    this->hide();
     QProcess::startDetached(qApp->applicationFilePath(), QStringList());
     exit('r'+'e'+'s'+'t'+'a'+'r'+'t');
 }
@@ -365,7 +327,7 @@ void Sicily::mousePressEvent(QMouseEvent *event){
         char str[256];
         //int totalTime = (time(0)-startTime)/60;
         sprintf(str,"已经玩%d分钟了哦 >.<",playTime / 60);
-        SicilySay(str,3);
+        SicilySay(str,1);
         event->accept();
     }
     else if(event->button() == Qt::MiddleButton){

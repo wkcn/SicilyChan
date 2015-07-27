@@ -7,7 +7,7 @@ ChatMsg::ChatMsg(string message, int msgLife):life(msgLife),msg(message){
 
 ChatBox::ChatBox(QWidget *parent) :QDialog(parent,Qt::FramelessWindowHint),ui(new Ui::ChatBox){
     ui->setupUi(this);
-    this->hide();
+
     this->setAttribute(Qt::WA_TranslucentBackground);
     //Qt::FramelessWindowHint|Qt::WindowStaysOnTopHint|Qt::SubWindow
 
@@ -20,8 +20,11 @@ ChatBox::ChatBox(QWidget *parent) :QDialog(parent,Qt::FramelessWindowHint),ui(ne
     connect(timer, SIGNAL(timeout()), this, SLOT(timerUpDate()));
     timer->start(1000);//1s
 
+    boxLife = 0;
     lines = 0;
     cancover = true;
+
+    this->hide();
 
     this->setMinimumWidth(219);
     this->setMaximumWidth(219);
@@ -126,7 +129,7 @@ void ChatBox::UpdateChatBox(){
             cancover = false;
             msgQueue.pop();
             UpdateChatBoxDis();
-            this->update();
+            Update();
         }
     }
 }
