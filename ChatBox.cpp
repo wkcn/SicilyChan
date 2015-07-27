@@ -7,7 +7,7 @@ ChatMsg::ChatMsg(string message, int msgLife):life(msgLife),msg(message){
 
 ChatBox::ChatBox(QWidget *parent) :QDialog(parent,Qt::FramelessWindowHint),ui(new Ui::ChatBox){
     ui->setupUi(this);
-
+    this->hide();
     this->setAttribute(Qt::WA_TranslucentBackground);
     //Qt::FramelessWindowHint|Qt::WindowStaysOnTopHint|Qt::SubWindow
 
@@ -134,7 +134,7 @@ void ChatBox::UpdateChatBox(){
 void ChatBox::Update(){
     if(boxLife > 0){
         this->show();
-        this->update();
+        this->update();//show后才会执行paintEvent()
     }
 }
 

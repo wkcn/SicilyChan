@@ -17,7 +17,7 @@ Sicily::Sicily(QWidget *parent):QMainWindow(parent,WINDOW_FLAG_TOPHINT),ui(new U
     ReadResource();
 
     chatbox = new ChatBox(this);
-    chatbox->show();
+    //chatbox->show();
 
     QTimer *timer = new QTimer(this);
     connect(timer, SIGNAL(timeout()), this, SLOT(timerUpDate()));
