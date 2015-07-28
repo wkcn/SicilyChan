@@ -1,4 +1,4 @@
-#include "ChatBox.h"
+﻿#include "ChatBox.h"
 #include "ui_ChatBox.h"
 
 ChatMsg::ChatMsg(){}

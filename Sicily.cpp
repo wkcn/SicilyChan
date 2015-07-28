@@ -276,9 +276,11 @@ void Sicily::SwitchHint(bool top){
     //chatbox->hide();
     if(top){
         this->setWindowFlags(WINDOW_FLAG_TOPHINT);
+        //chatbox->setWindowFlags(WINDOW_FLAG_TOPHINT);
         //chatbox->setWindowFlags(Qt::FramelessWindowHint|Qt::WindowStaysOnTopHint);
     }else{
         this->setWindowFlags(WINDOW_FLAG_NORMAL);
+        //chatbox->setWindowFlags(WINDOW_FLAG_NORMAL);
         //chatbox->setWindowFlags(Qt::FramelessWindowHint|Qt::WindowStaysOnBottomHint);
     }
     //chatbox->show();
@@ -336,7 +338,7 @@ void Sicily::mousePressEvent(QMouseEvent *event){
     }
 }
 
-void Sicily::mouseReleaseEvent(QMouseEvent */*event*/){
+void Sicily::mouseReleaseEvent(QMouseEvent * /*event*/){
     /*
     if(event->button() == Qt::LeftButton){
         event->accept();

@@ -1,4 +1,4 @@
-#ifndef CHATBOX_H
+﻿#ifndef CHATBOX_H
 #define CHATBOX_H
 
 #include "Defines.h"
