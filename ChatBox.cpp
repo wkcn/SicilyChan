@@ -44,6 +44,10 @@ void ChatBox::Say(string &text, int time){
         this->update();
     }else{
         //复杂显示,加入消息队列
+        const int maxLen = 10;
+        while(msgQueue.size() >= maxLen){
+            msgQueue.pop();
+        }
         msgQueue.push(ChatMsg(text,time));
     }
 }
@@ -125,7 +129,7 @@ void ChatBox::UpdateChatBox(){
         if (!msgQueue.empty()){
             const ChatMsg &cm = msgQueue.front();
             boxText = cm.msg;
-            boxLife = cm.life;
+            boxLife = max(cm.life,10);
             cancover = false;
             msgQueue.pop();
             UpdateChatBoxDis();

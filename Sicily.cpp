@@ -24,7 +24,7 @@ Sicily::Sicily(QWidget *parent):QMainWindow(parent,WINDOW_FLAG_TOPHINT),ui(new U
 
     ReadModules();
 
-    //SwitchHint(true);
+    SwitchHint(true);
     this->update();
 
 }
