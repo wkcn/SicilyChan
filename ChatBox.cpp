@@ -36,7 +36,8 @@ int ChatBox::GetStrWidth(const string& str){
 
 void ChatBox::Say(string &text, int time){
     //简单显示
-    if (time == 0 && (boxLife <= 0 || cancover)){
+    if (time == 0){
+        if (boxLife > 0 && !cancover)return;
         boxText = text;
         boxLife = 3;
         cancover = true;
@@ -44,7 +45,10 @@ void ChatBox::Say(string &text, int time){
         this->update();
     }else{
         //复杂显示,加入消息队列
-        const int maxLen = 10;
+        const int maxLen = 5;
+        if (!msgQueue.empty() && msgQueue.back().msg == text){
+            return; // 去重
+        }
         while(msgQueue.size() >= maxLen){
             msgQueue.pop();
         }
