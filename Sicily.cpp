@@ -81,12 +81,12 @@ void Sicily::InitData(){
     dragTime = GetClock();
 
     wingID = 0;
+    //提前计算
+    for (int i = 0;i < 360 * 6;++i){
+        wingCos[i] = cos(i / 6.0) * 12 + 8;
+    }
 
-    mouseCount = 0;
-    mouseTime = GetClock();
     sleeped = false;
-    //tabDesktop = false;
-    //tabDesktopTime = 0;
 }
 
 void Sicily::readPendingDatagrams(){
@@ -107,51 +107,58 @@ void Sicily::readPendingDatagrams(){
 void Sicily::UpdateAnimation(){
     //FPS:40
     static int frame = 0;
+    static int osid = 0;
     frame++;
     int sid = 0;
     const int eyeBasicTime = 40 * (60.0 / 16);
     static int eyeTime = eyeBasicTime;
 
-    if(frame > eyeTime)sid=1;
-    if(frame > eyeTime + 3)sid=2;
-    if(frame > eyeTime + 6){
-        frame = 0;
-        eyeTime = eyeBasicTime + rand()%60;
-    }
     if(sleeped)sid = 2;
+    else{
+        if(frame > eyeTime + 6){
+            frame = 0;
+            eyeTime = eyeBasicTime + rand()%60;
+        }else{
+            if(frame > eyeTime + 3)sid=2;
+            else if(frame > eyeTime)sid=1;
+        }
+    }
 
-    ui->eye->setPixmap(sface[sid]);
+    if (osid != sid){
+        ui->eye->setPixmap(sface[sid]);
+        osid = sid;
+    }
 
-    wingID += 1.0f/6;
-    if(wingID >= 360)
+    wingID += 1;
+    if(wingID >= 360 * 6)
         wingID = 0;
+
+    this->update();
 }
 
 void Sicily::UpdateButton(){
     static int lastSleepTime = 0,lastWakeTime = 0;
-    if(!sleeped && mouseCount == 3){
-        //左右右
-        if (mouseList[0] && !mouseList[1] && !mouseList[2]){
-            sleeped = true;
-            //cancover = true;
-            sleepTime = time(0);
-            //发现未满15分钟的处理方法,两分钟之内才可挽救
-            if(sleepTime - lastWakeTime <= 2 * 60){
-                sleepTime = lastSleepTime;
-            }
-        }
-        mouseCount = 0;//清除状态,一定要用的
-    }
+    if(!sleeped && actionList.match("122")){
+		//左右右
+		sleeped = true;
+		//cancover = true;
+		sleepTime = time(0);
+		//发现未满15分钟的处理方法,两分钟之内才可挽救
+		if(sleepTime - lastWakeTime <= 2 * 60){
+			sleepTime = lastSleepTime;
+		}
+		actionList.clear();
+	}
 
     //top or bottom
-    if (mouseCount == 2 && !mouseList[0] && !mouseList[1]){
+    if (actionList.match("22")){
         static bool topHint = true;
         topHint = !topHint;
         SwitchHint(topHint);
-        mouseCount = 0;
+		actionList.clear();
     }
 
-    if(sleeped && mouseCount > 0){
+    if(sleeped && actionList.size() > 0){
         //醒来了
         //警示:startTime = lastWakeTime - playTime;//伪造时间[=]很好看嘛 (一个错误的做法)
         //违背真理只能适得其反
@@ -159,7 +166,7 @@ void Sicily::UpdateButton(){
         lastSleepTime = sleepTime;
         lastTime = sleepTime;
         int es = (15 * 60 - (lastWakeTime - lastTime))/60;
-        if (es<0){
+        if (es < 0){
             SicilySay("什么都没有嘛( ◕ω ◕ )",3);
         }else{
             char temp[128];
@@ -167,35 +174,34 @@ void Sicily::UpdateButton(){
             SicilySay(temp,3);
         }
         sleeped = false;
-        mouseCount = 0;
+		actionList.clear();
     }
 
     //触摸板三次切换延时在300以内，鼠标200
     //notice: clock() is different between Ubuntu and Windows!
     //clock()/ CLOCKS_PER_SEC
-
-    if(GetClock() - mouseTime >= 400){
-        mouseCount = 0;
-    }
+    actionList.update(GetClock());
 
     int escapeTime = time(0) - lastTime;
-    if(escapeTime >= 1){
+
+    const int step = 30;
+    if(escapeTime >= step){
         /* 注明各个变量的意思
          * LastTime指上次更新的时间
          * escapeTime指与上次更新的间隔时间
+         * 这意味着睡眠状态是LastTime会很大
          */
         lastTime = time(0);
         if(!sleeped)
-            playTime += 1;//escapeTime;
+            playTime += step;//1
 
         static int nextSaveTime = 10 * 60;
-        if(escapeTime > 15*60){
+        if(escapeTime > 15 * 60){
             //超过15分钟没有刷新，说明关机了！
             playTime = 0;
             nextSaveTime = 10 * 60;
             SaveData();
-            //boxLife = 0;
-            update();
+            this->update();
         }
 
         if(!sleeped){
@@ -210,16 +216,6 @@ void Sicily::UpdateButton(){
         }else{
             SicilySay("呼呼 ●ω●");
         }
-
-        //TabDesktop
-        /*
-        if(tabDesktop){
-            tabDesktopTime ++;
-            if(tabDesktopTime >= 5){
-                Restart();
-            }
-        }
-        */
 
         //互动
 
@@ -287,54 +283,28 @@ void Sicily::SwitchHint(bool top){
     this->show();
 }
 
-bool Sicily::mouseSeq(int seq){
-    int w = 1;
-    int js = 10;
-    while(seq > js){
-        w ++;
-        js *= 10;
-    }
-    //if seq = 112
-    // here,w=3,js=1000
-    //qDebug("%d %d %d",seq,w,mouseCount);
-    if(mouseCount == w){
-        //qDebug("()%d %d",w,seq);
-        for(int i=0;i<w;i++){
-            js /= 10;
-            int m = seq / js;
-            if(m == 1 && !mouseList[i])return false;
-            if(m == 2 && mouseList[i])return false;
-        }
-        mouseCount = 0;
-        return true;
-    }
-    return false;
-}
-
 void Sicily::mousePressEvent(QMouseEvent *event){
     dragPosition=event->globalPos() -frameGeometry().topLeft();
 
     ox = (this->pos()).x();
     oy = (this->pos()).y();
-    dragTime = GetClock();
+	int nowTime = GetClock();
+    dragTime = nowTime;
 
     if(event->button()==Qt::LeftButton){
-        mouseList[mouseCount++] = true;
-        mouseTime = GetClock();
+		actionList.push('1',nowTime);
         event->accept();
     }
     else if(event->button()==Qt::RightButton){
-        mouseList[mouseCount++] = false;
-        mouseTime = GetClock();
+		actionList.push('2',nowTime);
         char str[256];
-        //int totalTime = (time(0)-startTime)/60;
         sprintf(str,"已经玩%d分钟了哦 >.<",playTime / 60);
         SicilySay(str,1);
         event->accept();
     }
     else if(event->button() == Qt::MiddleButton){
-
-        //event->accept();
+		actionList.push('3',nowTime);
+        event->accept();
     }
 }
 
@@ -347,24 +317,6 @@ void Sicily::mouseReleaseEvent(QMouseEvent * /*event*/){
 }
 
 void Sicily::mouseMoveEvent(QMouseEvent *event){
-
-    //QPoint p = event->globalPos()-dragPosition;
-    //int x = p.x();
-    //int y = p.y();
-
-    //qDebug("%d %d",x,y);
-    /*
-    if(y<50 - this->height()){
-        if(x<300){
-            Restart();
-        }else{
-            this->hide();
-            tabDesktopTime = 0;
-            tabDesktop = true;
-        }
-    }
-  */
-
     move(event->globalPos()-dragPosition);
     event->accept();
 }
@@ -374,22 +326,17 @@ void Sicily::paintEvent(QPaintEvent *){
 
     painter.begin(this);
 
-    //抗锯齿
-    //painter.setRenderHint(QPainter::Antialiasing, true);
-
-    //QPainter wpainter;
-    //painter.begin(this);
     float leftAngle,rightAngle;
 
     //原来是ID/2
-    leftAngle = cos(wingID) * 12 + 8;
+    leftAngle = wingCos[wingID];//cos(wingID / 6.0) * 12 + 8;
     rightAngle = -leftAngle;
 
     //left
     painter.translate(167+sicilyPosX,186+sicilyPosY);
     painter.rotate(leftAngle);
     painter.translate(-167-sicilyPosX,-186-sicilyPosY);
-    //painter.shear(0,leftAngle*0.1);
+
     painter.drawPixmap(-3+sicilyPosX,sicilyPosY,wings[0]);
 
     painter.resetMatrix();

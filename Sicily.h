@@ -3,6 +3,7 @@
 
 #include "Defines.h"
 #include "ChatBox.h"
+#include "ActionList.h"
 
 namespace Ui {
 class Sicily;
@@ -29,6 +30,7 @@ private:
     QPixmap sbody;
     QPixmap sface[3];
     QPixmap wings[2];
+    float wingCos[360 * 6];
 
     ChatBox *chatbox;
 
@@ -39,7 +41,7 @@ private:
     int lastTime;
     int playTime;
 
-    float wingID;
+    int wingID;
 
     //TCPServer *server;
     QUdpSocket *receiver;
@@ -48,20 +50,15 @@ private:
     int ox,oy;
     int dragTime;
 
-    //true表示左键,false表示右键
-    bool mouseList[64];
-    int mouseCount;
-    int mouseTime;
+	ActionList actionList;
+
     bool sleeped;
     int sleepTime;
-    //bool tabDesktop;
-    //int tabDesktopTime;
 
     void paintEvent(QPaintEvent *);
     void mousePressEvent(QMouseEvent *);
     void mouseMoveEvent(QMouseEvent *);
     void mouseReleaseEvent(QMouseEvent *);
-    bool mouseSeq(int seq);//鼠标序列
 
     void Restart();
     void SaveData();
