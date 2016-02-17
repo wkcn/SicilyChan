@@ -18,12 +18,14 @@ SOURCES +=\
     Defines.cpp \
     Sicily.cpp \
     main.cpp \
-    ChatBox.cpp
+    ChatBox.cpp \
+    ActionList.cpp
 
 HEADERS  += \
     Sicily.h \
     Defines.h \
-    ChatBox.h
+    ChatBox.h \
+    ActionList.h
 
 FORMS    += \
     Sicily.ui \
