@@ -295,15 +295,11 @@ void Sicily::mousePressEvent(QMouseEvent *event){
 		actionList.push('1',nowTime);
         event->accept();
     }
-    else if(event->button()==Qt::RightButton){
+    else if(event->button()==Qt::RightButton || event->button()==Qt::MiddleButton){
 		actionList.push('2',nowTime);
         char str[256];
         sprintf(str,"已经玩%d分钟了哦 >.<",playTime / 60);
         SicilySay(str,1);
-        event->accept();
-    }
-    else if(event->button() == Qt::MiddleButton){
-		actionList.push('3',nowTime);
         event->accept();
     }
 }

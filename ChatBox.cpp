@@ -166,6 +166,7 @@ void ChatBox::paintEvent(QPaintEvent *){
             painter.drawPixmap(0, 17 + font_size * i , 219, font_size, chatBoxPic[1]);
             painter.drawText(16, 12 + font_size * i, 200, font_size, Qt::AlignBottom, strList[i].c_str());
         }
+        painter.end();
     }
 }
 
